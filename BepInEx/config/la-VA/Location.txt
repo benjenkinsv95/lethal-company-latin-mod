@@ -1,0 +1,35 @@
+﻿# 地點資訊
+
+Safe=安全
+Arid. Thick haze, worsened by industrial artifacts.=乾燥。濃霧，因為工業製品而惡化。
+A competitive ecosystem supports aggressive lifeforms.=競爭性生態系統支持攻擊性生命形式。
+Abandoned=遺棄
+Diverse=多樣的
+Eclipsed=日蝕
+Flooded=洪水
+Foggy=多霧
+No land masses. Continual storms.=沒有陸地。持續的風暴。
+Expansive. Constant rain.=廣闊。持續降雨。
+Ecosystem supports territorial behaviour.=生態系統支持領土行為。
+Dominated by a few species.=由少數物種主導。
+Rainy=下雨
+Where the Company resides.=公司所在地。
+Oxygen critically low!=氧氣量非常低！
+Unknown=未知
+Stormy=暴風雨
+21 Offense=21 Offense
+220 Assurance=220 Assurance
+31 March=31 March
+41 Experimentation=41 Experimentation
+56 Vow=56 Vow
+61 March=61 March
+71 Gordion=71 Gordion
+85 Rend=85 Rend
+Main entrance=主要入口
+Jagged and weathered terrain. =崎嶇且風化的地形。 
+Jagged and weathered terrain.=崎嶇且風化的地形。
+HAZARD LEVEL:=危險等級：
+Humid. Rough terrain. Teeming with plant-life.=潮濕。崎嶇地形。植物生長茂盛。
+Home base=基地
+Unlikely for complex life to exist=不太可能存在復雜的生活
+Frozen, rocky. Its planet orbits a white dwarf star.=冷凍，岩石。\n它的行星繞著白色矮人旋轉。

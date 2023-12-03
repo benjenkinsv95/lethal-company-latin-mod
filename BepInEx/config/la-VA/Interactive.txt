@@ -1,0 +1,66 @@
+﻿# 互動類
+
+Sprint: [Shift]=衝刺：[Shift]
+Open: [E]=開啟：[E]
+Turn on/off : [E]=監視器開關：[E]
+Switch camera : [E]=切換鏡頭：[E]
+Use key : [LMB]=使用鑰匙：[LMB]
+Use airhorn : [LMB]=使用 空氣喇叭：[LMB]
+Quit terminal : [TAB]=退出終端機：[TAB]
+Scan : [RMB]=掃描：[RMB]
+Send voice : [LMB]=發送語音：[LMB]
+Confirm: [B]   |   Rotate: [R]   |   Store: [X]=確認：[B]   |   旋轉：[R]   |   儲存：[X]
+Power button : [Q]=電源按鈕：[Q]
+Open : [E]=打開：[E]
+Open door : [E]=開門：[E]
+[Nothing to store]=[沒有東西儲存]
+[Wait for ship to land]=[等待飛船著陸]
+Start game : [E]=開始遊戲：[E]
+Start ship : [E]=啟動飛船：[E]
+Store item : [E]=儲存物品：[E]
+Swing sign : [LMB]=揮動標誌：[LMB]
+Switch lights : [E]=開關燈光：[E]
+Toggle light : [LMB]=切換手電筒 : [LMB]
+Walk : [W/A/S/D]=移動 : [W/A/S/D]
+Turn page : [Q/E]=翻頁 : [Q/E]
+Use key : [LMB]=使用鍵 : [LMB]
+Use ladder : [E]=使用梯子：[E]
+Land ship : [E]=飛船著陸：[E]
+Climb : [E]=攀爬：[E]
+Let go : [E]=放手：[E]
+Enter : [E]=進入：[E]
+Enter: [E]=進入：[E]
+Exit : [E]=離開：[E]
+Exit: [E]=離開：[E]
+[Hands full]=[雙手已滿]
+[ Not holding items ]=[未拿著任何物品]
+Ring bell: [E]=按鈴：[E]
+Disable speaker: [E]=關閉喇叭：[E]
+Grab : [E]=拿取：[E]
+Inspect: [Z]=檢查：[Z]
+Close door : [E]=關門：[E]
+Sell item : [E]=出售物品：[E]
+Use door : [E]=開門：[E]
+Charge item : [E]=物品充電：[E]
+Get log : [E]=拿起日記：[E]
+Lift glass : [E]=掀開防護蓋：[E]
+Use remote : [LMB]=使用遙控器：[LMB]
+[Cannot pull valve]=[無法轉動閥門]
+Flip switch: [E]=撥動開關：[E]
+Use horn : [LMB]=使用 小丑喇叭：[LMB]
+Grab: [E]=抓取：[E]
+Open hatch : [E]=打開通風口：[E]
+Use hairdryer : [LMB]=使用吹風機：[LMB]
+Take TZP : [LMB]=使用 TZP：[LMB]
+Swing shovel : [LMB]=揮動鏟子：[LMB]
+Access terminal : [E]=存取終端機：[E]
+
+# 暫時存檔區域
+
+
+
+
+
+sr:"^(.+) \((.+)\) : (.+)\n$"=$1 ($2)：$3
+
+# 自動翻譯分類
