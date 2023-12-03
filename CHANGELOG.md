@@ -5,3 +5,6 @@
 
 ## Alpha 1.0.2
 - Chinese is removed and latin replaces it throughout. The terminal remains untranslated.
+
+## Alpha 1.0.3
+- Most things are in latin now, though there will need to be work done to make sure that all of the menus can be used in the terminal. (Since commands are in english, but some items show in latin)
