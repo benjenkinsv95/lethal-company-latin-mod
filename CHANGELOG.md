@@ -11,3 +11,6 @@
 
 ## Alpha 1.0.5
 Rewording some phrases to fit on the screens in the ship
+
+## Alpha 1.0.6
+Starting work reviewing the interactive text in the game.

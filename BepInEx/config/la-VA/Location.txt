@@ -1,22 +1,7 @@
-﻿# 地點資訊
+﻿# Location
 
-Safe=Tutum
-Arid. Thick haze, worsened by industrial artifacts.=Siccum. Nebula crassa, a machināriīs industriālibus aggravāta.
-A competitive ecosystem supports aggressive lifeforms.=Ecosystēma competitīva formās vitālis bellicōsās sustentat.
-Abandoned=Derelictum
-Diverse=Variātum
-Eclipsed=Obscurātum
-Flooded=Inundātum
-Foggy=Nebulōsum
-No land masses. Continual storms.=Massae terrae dēsunt. Tempestātēs continuae.
-Expansive. Constant rain.=Lātum. Pluvia continua.
-Ecosystem supports territorial behaviour.=Ecosystēma condūctae terriālis sustentat.
-Dominated by a few species.=Paucārum speciērum dominātur.
-Rainy=Pluviosum
-Where the Company resides.=Ubi Societās habitat.
-Oxygen critically low!=Oxygenium valde dēficit!
-Unknown=Incognitum
-Stormy=Tempestivum
+# Planets/moons
+# Don't edit, since you need to be able to navigate to them
 21 Offense=XXI Offense
 220 Assurance=CCXX Assurance
 31 March=XXXI March
@@ -25,11 +10,32 @@ Stormy=Tempestivum
 61 March=LXI March
 71 Gordion=LXXI Gordion
 85 Rend=LXXXV Rend
-Main entrance=Ingressus prīmus
+
+# A-M
+A competitive ecosystem supports aggressive lifeforms.=Ecosystēma competitīva formās vitālis bellicōsās sustentat.
+Abandoned=Derelictum
+Arid. Thick haze, worsened by industrial artifacts.=Siccum. Nebula crassa, a machināriīs industriālibus aggravāta.
+Diverse=Variātum
+Dominated by a few species.=Paucārum speciērum dominātur.
+Eclipsed=Obscurātum
+Ecosystem supports territorial behaviour.=Ecosystēma condūctae terriālis sustentat.
+Expansive. Constant rain.=Lātum. Pluvia continua.
+Flooded=Inundātum
+Foggy=Nebulōsum
+Frozen, rocky. Its planet orbits a white dwarf star.=Glaciātum, saxōsum. Planeta stēllam nānam albam orbitat.
+HAZARD LEVEL:=NĪVEL PERĪCULĪ：
+Home base=Sēdēs domestica
+Humid. Rough terrain. Teeming with plant-life.=Humidum. Solum asperum. Plantis refertum.
 Jagged and weathered terrain. =Solum asperum et exsūmptum 
 Jagged and weathered terrain.=Solum asperum et exsūmptum
-HAZARD LEVEL:=NĪVEL PERĪCULĪ：
-Humid. Rough terrain. Teeming with plant-life.=Humidum. Solum asperum. Plantis refertum.
-Home base=Sēdēs domestica
+Main entrance=Ingressus prīmus
+
+# N-Z
+No land masses. Continual storms.=Massae terrae dēsunt. Tempestātēs continuae.
+Oxygen critically low!=Oxygenium valde dēficit!
+Rainy=Pluviosum
+Safe=Tutum
+Stormy=Tempestivum
+Unknown=Incognitum
 Unlikely for complex life to exist=Invitum est ut vīta complexa existat
-Frozen, rocky. Its planet orbits a white dwarf star.=Glaciātum, saxōsum. Planeta stēllam nānam albam orbitat.
+Where the Company resides.=Ubi Societās habitat.
