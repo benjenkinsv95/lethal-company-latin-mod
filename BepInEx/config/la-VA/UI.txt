@@ -17,6 +17,7 @@ Terminal=Terminālis
 TO MEET PROFIT QUOTA=AD TOLLENDAM QUANDŌTITIAM LUCRUM
 Training manual=Manuālis discipulī
 Useful info!=Informatiō ūtilis!
+Public=Pūblicus
 
 Waiting for crew...=Grege exspectans...
 CRITICAL INJURY=GRAVISSIMA VULNUS

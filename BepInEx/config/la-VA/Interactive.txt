@@ -55,12 +55,14 @@ Take TZP : [LMB]=TZP cape：[LMB]
 Swing shovel : [LMB]=Ligōnem vibrare：[LMB]
 Access terminal : [E]=Terminalium accede：[E]
 
-# 暫時存檔區域
+# Other
+# Beam up : [E]=Телепорт : [E]
+# Use cash register : [LMB]=Використати касовий апарат : [LMB]
+
+
 
 
 
 
 
 sr:"^(.+) \((.+)\) : (.+)\n$"=$1 ($2)：$3
-
-# 自動翻譯分類

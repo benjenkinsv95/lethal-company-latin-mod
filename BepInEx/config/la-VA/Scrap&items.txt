@@ -165,3 +165,6 @@ Inverse Teleporter=Transportātor inversus
 Flashlight =Lūmen
 Extension ladder =Scala prōtrahenda
 Echo Scanner =Explorātor echōnum
+
+# Other
+# r:"^Magic 7 ball(.*)"=Магічна куля$1
