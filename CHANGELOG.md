@@ -8,3 +8,6 @@
 
 ## Alpha 1.0.3
 - Most things are in latin now, though there will need to be work done to make sure that all of the menus can be used in the terminal. (Since commands are in english, but some items show in latin)
+
+## Alpha 1.0.5
+Rewording some phrases to fit on the screens in the ship
