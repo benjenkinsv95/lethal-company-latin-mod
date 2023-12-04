@@ -54,6 +54,7 @@ Scan : [RMB]=Vide：[RMB]
 Sell item : [E]=Vende rem：[E]
 Send voice : [LMB]=Mitte vocem：[LMB]
 Sprint: [Shift]=Curre：[Shift]
+
 # Incipe LLPSI ch 13
 Start game : [E]=Incipe ludum：[E]
 Start ship : [E]=Incipe navem：[E]
@@ -64,6 +65,7 @@ Switch camera : [E]=Muta camaram：[E]
 Switch lights : [E]=Muta lucem：[E]
 Take TZP : [LMB]=Cape TZP：[LMB]
 Toggle light : [LMB]=Muta lucem: [LMB]
+
 # Aiming for a "Change power" or "Toggle power"
 Turn on/off : [E]=Muta potentiam：[E]
 Turn page : [Q/E]=Verte paginam: [Q/E]

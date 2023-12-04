@@ -1,24 +1,24 @@
 ﻿# Creatures
 # Reviewed, using the scientific names that were included in the games description for monsters
 
-Manticoil=Quadrupes manta
-Roaming locusts=Anacridium vega
-Hoarding bug=Linepithema crassus
-Spore lizard=Lacerta glomerorum
-Hygrodere=Hygrodere
+Baboon hawk=Papio volturius
+Bracken=Rapax folium
 Bunker spider=Mutinum ficedula
 Circuit bees=Crabro coruscus
-Forest keeper=Satyrid proceritas
-Earth leviathan=Hemibdella gigantis
-Baboon hawk=Papio volturius
-Snare flea=Dolus scolopendra
-Bracken=Rapax folium
 Coil-head=Vir colligerus
+Earth leviathan=Hemibdella gigantis
 Eyeless dog=Leo caecus
-Jester=INSANEUS THINGUS
-Thumper=Pistris saevus
-Ghost girl=Puella phasma
-Jeb=Jeb
-Landmine=Mīna telluris
-Turret=Turris
 Forest Giant=Satyrid proceritas
+Forest keeper=Satyrid proceritas
+Ghost girl=Puella phasma
+Hoarding bug=Linepithema crassus
+Hygrodere=Hygrodere
+Jeb=Jeb
+Jester=INSANEUS THINGUS
+Landmine=Mīna telluris
+Manticoil=Quadrupes manta
+Roaming locusts=Anacridium vega
+Snare flea=Dolus scolopendra
+Spore lizard=Lacerta glomerorum
+Thumper=Pistris saevus
+Turret=Turris
