@@ -1,6 +1,6 @@
 ﻿  CONFIRM=   Cōnfirma
   CONFIRM=   Cōnfirma
-  DISABLED=INFIRMATUM
+  DISABLED=Infirmatum
   LAN=   LAN
   Online=   In lineā
 (Recommended)=   (Commendātum)
