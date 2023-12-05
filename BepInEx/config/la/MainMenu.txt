@@ -22,7 +22,7 @@
 > LAN=> LAN
 > Online=> In lineā
 > Quit=> Exe
-> Reset all to default=> Ōmnia Ad Prīstinam Redde
+> Reset all to default=> Redde ōmnia Ad Prīstinam 
 > Resume=> Resumē
 > Settings=> Configūrātiōnēs
 

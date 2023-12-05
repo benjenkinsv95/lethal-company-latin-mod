@@ -14,3 +14,6 @@ Rewording some phrases to fit on the screens in the ship
 
 ## Alpha 1.0.6
 Starting work reviewing the interactive text in the game.
+
+## 1.1.0
+Heavy cleanup, there is still plenty of text to improve and some english that can slip through, but overall, it is getting pretty usable
