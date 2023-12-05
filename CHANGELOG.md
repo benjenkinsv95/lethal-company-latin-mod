@@ -17,3 +17,6 @@ Starting work reviewing the interactive text in the game.
 
 ## 1.1.0
 Heavy cleanup, there is still plenty of text to improve and some english that can slip through, but overall, it is getting pretty usable
+
+# 1.1.1 Main Menu Cleanup
+Reviewed the main menu translations heavily
