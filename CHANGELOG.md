@@ -1,22 +1,25 @@
 # Changelog
 
-## Alpha 1.0.0
-- Initial Broken Mod
+## 1.1.2 Scrap & Items Cleanup
+Reviewed the scrap & items translations heavily
 
-## Alpha 1.0.2
-- Chinese is removed and latin replaces it throughout. The terminal remains untranslated.
-
-## Alpha 1.0.3
-- Most things are in latin now, though there will need to be work done to make sure that all of the menus can be used in the terminal. (Since commands are in english, but some items show in latin)
-
-## Alpha 1.0.5
-Rewording some phrases to fit on the screens in the ship
-
-## Alpha 1.0.6
-Starting work reviewing the interactive text in the game.
+## 1.1.1 Main Menu Cleanup
+Reviewed the main menu translations heavily
 
 ## 1.1.0
 Heavy cleanup, there is still plenty of text to improve and some english that can slip through, but overall, it is getting pretty usable
 
-# 1.1.1 Main Menu Cleanup
-Reviewed the main menu translations heavily
+## Alpha 1.0.6
+Starting work reviewing the interactive text in the game.
+
+## Alpha 1.0.5
+Rewording some phrases to fit on the screens in the ship
+
+## Alpha 1.0.3
+- Most things are in latin now, though there will need to be work done to make sure that all of the menus can be used in the terminal. (Since commands are in english, but some items show in latin)
+
+## Alpha 1.0.2
+- Chinese is removed and latin replaces it throughout. The terminal remains untranslated.
+
+## Alpha 1.0.0
+- Initial Broken Mod

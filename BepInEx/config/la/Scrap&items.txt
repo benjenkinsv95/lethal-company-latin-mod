@@ -1,6 +1,7 @@
 ﻿# Scrap & Items
+# Reviewed
 
-# r:"^Magic 7 ball(.*)"=Магічна куля$1
+# A-C
 Airhorn =Cornū aereum
 Airhorn=Cornū aereum
 Apparatice =Apparātus
@@ -15,74 +16,80 @@ Big bolt=Paxillus magnus
 Big Bolt=Paxillus magnus
 Body =Corpus
 Body=Corpus
-Boombox =Cistella tonitrūs
-Boombox=Cistella tonitrūs
-Bottles =Ampullae
-Bottles=Ampullae
+# Arcā sonōrum - box of sounds, Cistella tonitrūs thunder box
+Boombox =Arcā sonōrum
+Boombox=Arcā sonōrum
+Bottles =Amphorae
+Bottles=Amphorae
 Brake lever=Lēvis frenī
-Brass bell =Tintinnabulum ex aere
-Brass bell=Tintinnabulum ex aere
-Brush =Scopae
-Brush=Scopae
-Bubblegum =Gummiblās
-Bubblegum=Gummiblās
-Candy =Succus
-Candy=Succus
+Brass bell =Tintinnabulum āneum
+Brass bell=Tintinnabulum āneum
+Brush =Scopa
+Brush=Scopa
+Bubblegum =Gummi bullātum
+Bubblegum=Gummi bullātum
+Candy =Dulcia
+Candy=Dulcia
 Cash register =Cistam pecuniārum
 Cash register=Cistam pecuniārum
-Charges batteries=Accūmulatorēs exhaurit
-Chemical jug =Ampulla chemicōrum
-Chemical jug=Ampulla chemicōrum
+Charges batteries=Accūmulatorēs renovat
+Chemical jug =Amphora chemicōrum
+Chemical jug=Amphora chemicōrum
 clipboard =Tabella annotationum
 clipboard=Tabella annotationum
-Clown horn =Cornū harlequīnī
-Clown horn=Cornū harlequīnī
+Clown horn =Cornū scūrrae
+Clown horn=Cornū scūrrae
 Coffee mug=Poculum coffeae
 Cog =Rota dentāta
 Cog=Rota dentāta
-Coil=Bobīna
+Coil=Voluta
 Cookie mold pan =Fōrma crustulōrum
 Cookie Mold Pan =Fōrma crustulōrum
 Cookie mold pan=Fōrma crustulōrum
 Cookie Mold Pan=Fōrma crustulōrum
-Data chip =Fascis datum
-Data chip=Fascis datum
+
+# D-M
+# Sheet of data
+Data chip =Lamina Datorum
+Data chip=Lamina Datorum
 Dentures =Dentēs artificiālēs
 Dentures=Dentēs artificiālēs
+# Shovel/pan of dust
 Dust pan =Pala pulveris
 Dust Pan =Pala pulveris
 Dust pan=Pala pulveris
 Dust Pan=Pala pulveris
-Echo Scanner =Explorātor echōnum
-Egg beater =Commixtōrium ovōrum
-Egg Beater =Commixtōrium ovōrum
-Egg beater=Commixtōrium ovōrum
-Egg Beater=Commixtōrium ovōrum
+Echo Scanner =Echo Sōnātor
+Egg beater =Verberātrīx Ovōrum
+Egg Beater =Verberātrīx Ovōrum
+Egg beater=Verberātrīx Ovōrum
+Egg Beater=Verberātrīx Ovōrum
 Extension ladder =Scala prōtrahenda
-Fancy lamp =Lampas praeclāra
-Fancy lamp=Lampas praeclāra
-Fancy ring =Annulus ornātus
-Fancy ring=Annulus ornātus
-Flashlight =Lūmen
-Gold bar =Scyphus aureus
-Gold Bar =Scyphus aureus
-Gold Bar=Scyphus aureus
-Gold Bar=Scyphus aureus
+Fancy lamp =Lucerna magnifica
+Fancy lamp=Lucerna magnifica
+Fancy ring =Annulus magnificus
+Fancy ring=Annulus magnificus
+Flashlight =Lūmen portābile
+Gold bar =Tālea aurea
+Gold Bar =Tālea aurea
+Gold Bar=Tālea aurea
+Gold Bar=Tālea aurea
 Golden cup =Poculum aureum
 Golden cup=Poculum aureum
-Hair brush =Pecten crinium
-Hair brush=Pecten crinium
-Hairbrush =Pecten crinium
-Hairbrush=Pecten crinium
-Hairdryer =Siccātore pilī
-Hairdryer=Siccātore pilī
+Hair brush =Scopa capillī
+Hair brush=Scopa capillī
+Hairbrush =Scopa capillī
+Hairbrush=Scopa capillī
+Hairdryer =Siccator capillaris
+Hairdryer=Siccator capillaris
 Hive =Alvus
 Hive=Alvus
 Inverse Teleporter=Transportātor inversus
 Jack O' Lanter=Jack O' Lantern
-Jar of pickles =Dōs cucumerum salsōrum
-Jar of pickles=Dōs cucumerum salsōrum
-Jetpack=Pettorāle ārēnārium
+Jar of pickles =Amphora cucumerum
+Jar of pickles=Amphora cucumerum
+# Flying bag
+Jetpack=Saccus volāns
 Key =Clavis
 Key=Clavis
 Large axle =Axis magnus
@@ -90,8 +97,8 @@ Laser pointer =Index lūce
 Laser pointer=Index lūce
 Lockpicker =Clāvis reserātrīx
 Loud horn=Cornū clārus
-Magic ball =Sphaera magica
-Magic ball=Sphaera magica
+Magic ball =Pila magica
+Magic ball=Pila magica
 Magnifying glass =Vitrum amplificāns
 Magnifying glass=Vitrum amplificāns
 Metal sheet =Lamina metallī
@@ -100,55 +107,71 @@ Metal sheet=Lamina metallī
 Metal Sheet=Lamina metallī
 Mug =Poculum
 Mug=Poculum
-Old phone =Telephōnum vetus
-Old phone=Telephōnum vetus
+
+# N-R
+Old phone =Telephōnum antīquum
+Old phone=Telephōnum antīquum
 Painting =Pictūra
 Painting=Pictūra
-Perfume bottle =Ampulla fragrantiae
-Perfume bottle=Ampulla fragrantiae
-Pickle jar =Dōs cucumerum salsōrum
-Pickle jar=Dōs cucumerum salsōrum
-Pill Bottle =Ampulla medicamentōrum
-Pill Bottle=Ampulla medicamentōrum
+# (container of scent). Amphora unguenti is more accurate for ointments/perfume, but less common vocab.
+Perfume bottle =Amphora odoris
+Perfume bottle=Amphora odoris
+Pickle jar =Amphora cucumerum
+Pickle jar=Amphora cucumerum
+# Bottle of medicine
+Pill Bottle =Amphora medicinārum
+Pill Bottle=Amphora medicinārum
+# Tempted to use falsus, instead of plasticus
 Plastic fish =Piscis plasticus
 Plastic fish=Piscis plasticus
-Pro-flashlight =Lūmen praemium
-Pro-flashlight =Lūmen praemium
-Radar-booster=Auxilium radāris
-Record Player=Lūdibulum discum
-Red soda =Sodalis ruber
-Red soda=Sodalis ruber
+Pro-flashlight =Lūmen portabile praemium
+Pro-flashlight =Lūmen portabile praemium
+# augere is LLPSI ch 19 for increase
+Radar-booster=Radāris augens
+# Aiming for disk player
+Record Player=Ludi orbis
+# Red drink
+Red soda =Potus ruber
+Red soda=Potus ruber
 Remote =Remote
 Remote=Remote
 Ring =Annulus
 Robot Toy=Automaton ludicrum
-Romantic table=Mēnsa rōmāntica
-Rubber ducky =Anser caoutchoucī
-Rubber Ducky =Anser caoutchoucī
-Rubber ducky=Anser caoutchoucī
+# rōmāntica - would be more accurate, but later latin
+Romantic table=Mēnsa amoena
+Rubber ducky =Anser plasticus
+Rubber Ducky =Anser plasticus
+Rubber ducky=Anser plasticus
+r:"^Magic 7 ball(.*)"=Pila magica VII $1
+
+# S-Z
 Ship=Navis
-Shovel =Ligō
-Shovel=Ligō
-Shower=Uriginium
+Shovel =Pala
+Shovel=Pala
+Shower=Balneum
 Sneakers =Calceī cursōriī
 Sneakers=Calceī cursōriī
-Steering wheel =Volāns
-Steering Wheel =Volāns
-Steering wheel=Volāns
-Steering Wheel=Volāns
-Sticky note =Tabella adhaesiōnis
-Stop sign =Signum statiōnis
-Stop sign=Signum statiōnis
-Stun grenade =Bombardeō perculsōrum
+# Rota volubilis is tempting to match O fortuna
+Steering wheel =Rota volēns
+Steering Wheel =Rota volēns
+Steering wheel=Rota volēns
+Steering Wheel=Rota volēns
+# Lenta means slow, but also sticky
+Sticky note =Pagina lenta
+# consistere is llpsi ch 8 for stop
+Stop sign =Signum consistendi
+Stop sign=Signum consistendi
+# stupidus can mean stunned, bomba has meant bomb since 1730ish
+Stun grenade =Bomba stupidī
 Table=Mēnsa
-Tattered metal sheet =Lamina metallī scissa
-Tattered metal sheet=Lamina metallī scissa
-Tea kettle =Cauldronium thea
-Tea kettle=Cauldronium thea
-Tea Kettle=Cauldronium thea
+Tattered metal sheet =Lamina metallī fragosa
+Tattered metal sheet=Lamina metallī fragosa
+Tea kettle =Caccabus theae
+Tea kettle=Caccabus theae
+Tea Kettle=Caccabus theae
 Teleporter=Transportātor
 Television=Televisiō
-Toilet=Loculus latrīnālis
+Toilet=Cloāca
 Toothpaste =Dentifrīcium
 Toothpaste=Dentifrīcium
 Toy cube =Cubus ludicus
@@ -156,9 +179,9 @@ Toy cube=Cubus ludicus
 Toy robot =Automaton ludicrum
 Toy robot=Automaton ludicrum
 TZP-Inhalant =Inhalāns TZP
-V-type engine =Mōtor typī V
-V-type engine=Mōtor typī V
-Walkie-talkie =Sclopetum loquēns
+V-type engine =Mōtor V-genus 
+V-type engine=Mōtor V-genus 
+Walkie-talkie =Ambulans-loquēns
 Wedding ring =Annulus nūptiālis
 Wedding ring =Annulus nūptiālis
 Wedding ring=Annulus nūptiālis
