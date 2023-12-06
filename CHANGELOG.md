@@ -1,7 +1,7 @@
 # Changelog
 
-## 1.1.2 Scrap & Items Cleanup
-Reviewed the scrap & items translations heavily
+## 1.1.2 Scrap, Items, & Locations Cleanup
+Reviewed the scrap, items, & locations translations heavily
 
 ## 1.1.1 Main Menu Cleanup
 Reviewed the main menu translations heavily

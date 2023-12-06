@@ -1,34 +1,30 @@
 # Lethal Company Latin Translation
 
-Below is a breakdown of the files in this latin language mod
+This project is a Latin translation of Lethal Company.
 
-## Top Level Files (Required for mod)
-1. [CHANGELOG.md](CHANGELOG.md) - the changes to your mod over time
-2. [README.md](README.md) - a description of your mod
-3. [icon.png](icon.png) - a 256x256 image for your mod
-4. [manifest.json](manifest.json) - metadata about the mod
+It is currently a work in progress and updates will be continued. All of the translations can be found in the files linked below.
 
-## AutoTranslatorConfig.ini
+## Submit a Translation
 
-[AutoTranslatorConfig.ini](BepInEx/config/AutoTranslatorConfig.ini) is where you set the language code like `la-VA` or whatever you choose. (Ex. Language=la-VA)
+Have an idea to improve a translation?
 
-## The Translation Files (config folder)
+[Add your suggestion here](https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/new)
 
-The config folder contains the translations. There are 2 kinds of translations.
 
-### Terminal Translations
+## Game Menus & UI Translations
+The latin translations used for everything besides the terminal.
+
+1. [Creature](BepInEx/config/la-VA/Creature.txt) ✅
+2. [Interactive](BepInEx/config/la-VA/Interactive.txt) ✅
+3. [Location](BepInEx/config/la-VA/Location.txt) ✅
+4. [MainMenu](BepInEx/config/la-VA/MainMenu.txt) ✅
+5. [Scrap&items](BepInEx/config/la-VA/Scrap&items.txt) ✅
+6. [UI](BepInEx/config/la-VA/UI.txt)
+
+
+## Terminal Translations
 The NewTerminal translations, used to translate the terminal itself.
 
 1. [Verbs](BepInEx/config/NewTerminal-Verbs.cfg)
 2. [Special](BepInEx/config/NewTerminal-Special.cfg)
 3. [Other](BepInEx/config/NewTerminal-Other.cfg)
-
-### la-VA Translations
-The latin translations used for everything besides the terminal.
-
-1. [Creature](BepInEx/config/la-VA/Creature.txt) ✅
-1. [Interactive](BepInEx/config/la-VA/Interactive.txt) ✅
-1. [Location](BepInEx/config/la-VA/Location.txt) ✅
-1. [MainMenu](BepInEx/config/la-VA/MainMenu.txt) ✅
-1. [Scrap&items](BepInEx/config/la-VA/Scrap&items.txt) ✅
-1. [UI](BepInEx/config/la-VA/UI.txt)
