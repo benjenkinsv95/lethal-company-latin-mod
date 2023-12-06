@@ -1,4 +1,5 @@
 ﻿# Location
+# Reviewed
 
 # Planets/moons
 # Don't edit, since you need to be able to navigate to them
@@ -12,30 +13,32 @@
 85 Rend=LXXXV Rend
 
 # A-M
-A competitive ecosystem supports aggressive lifeforms.=Ecosystēma competitīva formās vitālis bellicōsās sustentat.
+A competitive ecosystem supports aggressive lifeforms.=Ecosystēma certāminis fovet vītās fortes. 
 Abandoned=Derelictum
-Arid. Thick haze, worsened by industrial artifacts.=Siccum. Nebula crassa, a machināriīs industriālibus aggravāta.
-Diverse=Variātum
-Dominated by a few species.=Paucārum speciērum dominātur.
+Arid. Thick haze, worsened by industrial artifacts.=Siccum. Nebula crassa, peiorāta a reliquiīs industriālibus.
+Diverse=Dīversum
+Dominated by a few species.=Paucīs speciēbus domināntur.
 Eclipsed=Obscurātum
-Ecosystem supports territorial behaviour.=Ecosystēma condūctae terriālis sustentat.
-Expansive. Constant rain.=Lātum. Pluvia continua.
+Ecosystem supports territorial behaviour.=Ecosystēma sustinet mōres territōriī.
+Expansive. Constant rain.=Lātum. Imber, constans.
 Flooded=Inundātum
 Foggy=Nebulōsum
-Frozen, rocky. Its planet orbits a white dwarf star.=Glaciātum, saxōsum. Planeta stēllam nānam albam orbitat.
-HAZARD LEVEL:=NĪVEL PERĪCULĪ：
-Home base=Sēdēs domestica
-Humid. Rough terrain. Teeming with plant-life.=Humidum. Solum asperum. Plantis refertum.
-Jagged and weathered terrain. =Solum asperum et exsūmptum 
-Jagged and weathered terrain.=Solum asperum et exsūmptum
-Main entrance=Ingressus prīmus
+Frozen, rocky. Its planet orbits a white dwarf star.=Glaciālis, saxeus. Planeta orbitat stēllam nānam albam.
+HAZARD LEVEL:=GRADUS PERĪCULĪ：
+# Home camp. Sedes Domestica and Fundamentum Domus are tempting.
+Home base=Castra Domestica
+Humid. Rough terrain. Teeming with plant-life.=Humidum. Terra incondita. Plena vitae plantarum.
+Jagged and weathered terrain. =Terra serrāta et veterāta 
+Jagged and weathered terrain.=Terra serrāta et veterāta
+# Primus or principale could make sense
+Main entrance=Ostium primarium
 
 # N-Z
-No land masses. Continual storms.=Massae terrae dēsunt. Tempestātēs continuae.
-Oxygen critically low!=Oxygenium valde dēficit!
-Rainy=Pluviosum
+No land masses. Continual storms.=Nihil terrae mōles. Tempestātēs, constans.
+Oxygen critically low!=Oxygenium parvus valde!
+Rainy=Pluvia
 Safe=Tutum
-Stormy=Tempestivum
-Unknown=Incognitum
-Unlikely for complex life to exist=Invitum est ut vīta complexa existat
+Stormy=Turbidus
+Unknown=Ignōtus
+Unlikely for complex life to exist=Improbabile est ut vitae sapiens existant
 Where the Company resides.=Ubi Societās habitat.

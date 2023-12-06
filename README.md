@@ -28,7 +28,7 @@ The latin translations used for everything besides the terminal.
 
 1. [Creature](BepInEx/config/la-VA/Creature.txt) ✅
 1. [Interactive](BepInEx/config/la-VA/Interactive.txt) ✅
-1. [Location](BepInEx/config/la-VA/Location.txt)
+1. [Location](BepInEx/config/la-VA/Location.txt) ✅
 1. [MainMenu](BepInEx/config/la-VA/MainMenu.txt) ✅
 1. [Scrap&items](BepInEx/config/la-VA/Scrap&items.txt) ✅
 1. [UI](BepInEx/config/la-VA/UI.txt)
