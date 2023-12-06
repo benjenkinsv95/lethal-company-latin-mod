@@ -14,12 +14,12 @@ Have an idea to improve a translation?
 ## Game Menus & UI Translations
 The latin translations used for everything besides the terminal.
 
-1. [Creature](BepInEx/config/la-VA/Creature.txt) ✅
-2. [Interactive](BepInEx/config/la-VA/Interactive.txt) ✅
-3. [Location](BepInEx/config/la-VA/Location.txt) ✅
-4. [MainMenu](BepInEx/config/la-VA/MainMenu.txt) ✅
-5. [Scrap&items](BepInEx/config/la-VA/Scrap&items.txt) ✅
-6. [UI](BepInEx/config/la-VA/UI.txt)
+1. [Creature](BepInEx/config/la/Creature.txt) ✅
+2. [Interactive](BepInEx/config/la/Interactive.txt) ✅
+3. [Location](BepInEx/config/la/Location.txt) ✅
+4. [MainMenu](BepInEx/config/la/MainMenu.txt) ✅
+5. [Scrap&items](BepInEx/config/la/Scrap&items.txt) ✅
+6. [UI](BepInEx/config/la/UI.txt)
 
 
 ## Terminal Translations
