@@ -24,7 +24,7 @@ Expansive. Constant rain.=Lātum. Imber, constans.
 Flooded=Inundātum
 Foggy=Nebulōsum
 Frozen, rocky. Its planet orbits a white dwarf star.=Glaciālis, saxeus. Planeta orbitat stēllam nānam albam.
-HAZARD LEVEL:=GRADUS PERĪCULĪ：
+HAZARD LEVEL:=PERĪCULĪ GRAD:
 # Home camp. Sedes Domestica and Fundamentum Domus are tempting.
 Home base=Castra Domestica
 Humid. Rough terrain. Teeming with plant-life.=Humidum. Terra incondita. Plena vitae plantarum.
