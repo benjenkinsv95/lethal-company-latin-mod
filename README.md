@@ -1,5 +1,7 @@
 # Lethal Company Latin Translation
 
+[![Lethal Company in Latin](https://img.youtube.com/vi/fYiwEOz51OU/0.jpg)](https://www.youtube.com/watch?v=fYiwEOz51OU)
+
 This project is a Latin translation of Lethal Company.
 
 Note: I will be working on:
