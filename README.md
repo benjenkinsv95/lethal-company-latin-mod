@@ -19,7 +19,7 @@ The latin translations used for everything besides the terminal.
 3. [Location](BepInEx/config/la/Location.txt) ✅
 4. [MainMenu](BepInEx/config/la/MainMenu.txt) ✅
 5. [Scrap&items](BepInEx/config/la/Scrap&items.txt) ✅
-6. [UI](BepInEx/config/la/UI.txt)
+6. [UI](BepInEx/config/la/UI.txt) ✅
 
 
 ## Terminal Translations

@@ -10,7 +10,7 @@
 [Wait for ship to land]=[Exspecta dum navis appropinquat terram]
 
 # A-M
-Access terminal : [E]=Uti terminalium ：[E]
+Access terminal : [E]=Uti tabulam ：[E]
 Beam up : [E]=Ascende : [E]
 # "Electrifica rem" might also work, but seems less beginner friendly
 Charge item : [E]=Renova rem：[E]
@@ -46,7 +46,7 @@ Open: [E]=Aperi：[E]
 # TODO: Need to review usage, I'm unsure what the word for button is.
 Power button : [Q]=Potentia rem：[Q]
 
-Quit terminal : [TAB]=Exi terminālem：[TAB]
+Quit terminal : [TAB]=Exi tabulam：[TAB]
 Ring bell: [E]=Pulsā tintinnabulum：[E]
 
 # Scande could work, Vide seems more beginner friendly
@@ -72,11 +72,12 @@ Turn page : [Q/E]=Verte paginam: [Q/E]
 Use airhorn : [LMB]=：Uti cornū aereo[LMB]
 Use cash register : [LMB]=Uti cistam pecuniārum : [LMB]
 Use door : [E]=Uti ianuam：[E]
-Use hairdryer : [LMB]=Uti siccatore pilī：[LMB]
+Use hairdryer : [LMB]=Uti siccatorem capillaris：[LMB]
 Use horn : [LMB]=Uti cornū：[LMB]
 Use key : [LMB]=Uti clavem: [LMB]
 Use key : [LMB]=Uti clavem：[LMB]
 Use ladder : [E]=Uti scalam：[E]
+Use Large axle : [G]=Uti axem magnum：[E]
 Use remote : [LMB]=Uti remotum：[LMB]
 Walk : [W/A/S/D]=Ambula: [W/A/S/D]
 

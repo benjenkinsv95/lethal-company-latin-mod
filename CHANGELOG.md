@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.4 UI Cleanup
+Reviewed the UI translations heavily
+
 ## 1.1.2 Scrap, Items, & Locations Cleanup
 Reviewed the scrap, items, & locations translations heavily
 

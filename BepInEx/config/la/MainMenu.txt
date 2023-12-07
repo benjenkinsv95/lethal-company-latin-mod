@@ -43,6 +43,7 @@ Crew Size:=Magnitūdō Gregis：
 Delete=Dēlē
 Discard changes=Abice Mutationēs
 Discard=Abice
+Discard Large axle=Abice axem magnum
 DISCARD=ABICE
 Display mode:=Modus Ostendendī：
 DISPLAY=MŌNSTRĀRE
