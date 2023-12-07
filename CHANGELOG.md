@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.5 UI Cleanup
+Grammar cleanup and an increase in roman numeral usage
+
 ## 1.1.4 UI Cleanup
 Reviewed the UI translations heavily
 

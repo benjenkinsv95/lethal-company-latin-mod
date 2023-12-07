@@ -30,7 +30,7 @@ Get log : [E]=Sume commentarium：[E]
 Grab : [E]=Sume：[E]
 Grab: [E]=Sume：[E]
 # Aspice is from LLPSI ch.8 to look at
-Inspect: [Z]=Aspice：[Z]
+Inspect: [Z]=\nAspice：[Z]
 Land ship : [E]=Applica navem：[E]
 Let go : [E]=Relinque：[E]
 
@@ -68,7 +68,7 @@ Toggle light : [LMB]=Muta lucem: [LMB]
 
 # Aiming for a "Change power" or "Toggle power"
 Turn on/off : [E]=Muta potentiam：[E]
-Turn page : [Q/E]=Verte paginam: [Q/E]
+Turn page : [Q/E]=\nVerte paginam: [Q/E]
 Use airhorn : [LMB]=：Uti cornū aereo[LMB]
 Use cash register : [LMB]=Uti cistam pecuniārum : [LMB]
 Use door : [E]=Uti ianuam：[E]

@@ -68,37 +68,70 @@ Public=Pūblicus
 Push to talk:=Pelle ut loqueris：
 QUOTA REACHED!=QUOTAM PERVĒNISTĪ!
 Quota=Quota
+# TODO potential roman numerals (Automate)
 r:"^(.*) \n AM"=AM $1
 r:"^(.*) \n PM"=PM $1
 r:"^(.*) EXP$"=$1 EXP
 r:"^(.*) FPS$"=FPS $1
 r:"^(.*)\nAM"=AM $1
 r:"^(.*)\nPM"=PM $1
+
 r:"^(.+?)joined the ship(.+?)$"=$1 navem adiit $2
+
+# TODO potential roman numerals
 r:"^(.+) (Days|Day) Left$"=$1 Diēs Rēliquī
 # Using servata
+# TODO potential roman numerals
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī：$2\n（$3 corpora salvāta）
 r:"^(.+) started the ship."=$1 nāvem incēpit.
 r:"^(.+) was left behind."=$1 relictus est
+# TODO potential roman numerals
 r:"^([0-9]+) lb$"=$1 lb
+# TODO potential roman numerals
 r:"^(\$[0-9]+)\nDays: ([0-9]+)$"=$1\nDiēs: $2
 r:"^(Current input device: \n)(.*)$"=Instrumenta imposita praesēns：$2
+# TODO potential roman numerals
 r:"^\(([0-9]+)/([0-9]+) Votes\)$"=($1/$2 Suffrāgia)
+r:"^\(Spectating: Player\)$"=(Vidēns： Lūsor)
 r:"^\(Spectating: (.+)\)$"=(Vidēns： $1)
 r:"^\[Cooldown : (.+)s\]$"=[Mora $1s]
 r:"^\[MODDED\](.+?)$"=[Mōdificātum]$1
-r:"^Body of (.+)$"=Corpus de $1
+r:"^Body of (.+)$"=Corpus quod est [noun]
 r:"^Casualties \((.+)\): (.+)$"=Interfectī ($1)：$2
 r:"^CELESTIAL BODY: (.+?)$"=CORPUS COELESTIS：$1
+# TODO potential roman numerals (tough)
 r:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps taken: (.+?)$"=Diēs in opere: $1\nPretium reliquiae collēctae: $2\nMortēs: $3\nGradūs factī: $4
-r:"^DEADLINE:\n([0-9]+) Days$"=FINIS：\n$1 DĪES
+r:"^DEADLINE:\n1 Days$"=FINIS：\nI DĪES
+r:"^DEADLINE:\n2 Days$"=FINIS：\nII DĪES
+r:"^DEADLINE:\n3 Days$"=FINIS：\nIII DĪES
+r:"^DEADLINE:\n4 Days$"=FINIS：\nIV DĪES
+r:"^DEADLINE:\n5 Days$"=FINIS：\nV DĪES
+r:"^DEADLINE:\n6 Days$"=FINIS：\nVI DĪES
+r:"^DEADLINE:\n7 Days$"=FINIS：\nVII DĪES
+r:"^DEADLINE:\n8 Days$"=FINIS：\nVIII DĪES
+r:"^DEADLINE:\n9 Days$"=FINIS：\nIX DĪES
+r:"^DEADLINE:\n(1[0-9]+) Days$"=FINIS：\n$1 DĪES
 r:"^DUE: (\$[0-9]+)$"=DĒBITUM：$1
-r:"^File ([0-9]+)$"=Tabella $1
+# TODO potential roman numerals
+r:"^File 1$"=Tabella I
+r:"^File 2$"=Tabella II
+r:"^File 3$"=Tabella III
+# Probably not needed
+r:"^File 4$"=Tabella IV
+r:"^File 5$"=Tabella V
+r:"^File 6$"=Tabella VI
+r:"^File 7$"=Tabella VII
+r:"^File 8$"=Tabella VIII
+r:"^File 9$"=Tabella IX
+r:"^File (1[0-9]+)$"=Tabella $1
+r:"^\(MONITORING: Player\)$"=(Vigilans： Lūsor)
 r:"^MONITORING: (.+)$"=Vigilans： $1
 r:"^Overtime bonus: (.+)$"=Extra tempus merces： $1
-r:"^PROFIT QUOTA:\n(\$[0-9]+) / (\$[0-9]+)$"=QUOTA LŪCRĪ：\n$1 / $2
+r:"^PROFIT QUOTA:\n\$([0-9]+) / \$([0-9]+)$"=QUOTA LŪCRĪ：\n$1 / $2\nAUREI 
 r:"^Random seed: ([0-9]+)$"=Forte semen: $1
+r:"^Random seed:"=Forte semen:
 r:"^SHIP: (.+)$"=NAVIS: $1
+# TODO potential roman numerals
 r:"^TOTAL: (.+)$"=Tōtus： $1
 r:"^Value: (.+)"=Pretium：$1
 r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=CAVE!\n Quaesō, redi tempore [tempus]. $1 Suffragium factum est, et nāvis gubernator relinquet.
@@ -110,7 +143,7 @@ Sell scrap for cash.=Vende reliquam pecuniam.
 Ship leaving in one hour=Navis in ūnā hōrā relinquet
 sr:"^(.+?)collected!$"=$1 collectum est！
 sr:"^Cause of death: (.+)$"=Causa mortis： $1
-sr:"^Drop (.+?): \[G\]$"=Abice $1：[G]
+sr:"^Drop (.+?): \[G\]$"=ut $1 cadat: [G]
 sr:"^Found journal entry: (.+)$"=Invēnī līber inscriptionis： $1 
 sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae： \n* $1\n* $2\n* $3 \n* $4\n
 sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Circumdare：$1\nPōpulatio：$2\nCondiciōnēs：$3\nFauna：$4\n$5

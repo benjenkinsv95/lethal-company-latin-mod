@@ -4,7 +4,7 @@
 
 This project is a Latin translation of Lethal Company.
 
-[Download the mod at thunderstore.io](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
+[Download the mod at thunderstore.io](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/)
 
 Note: I will be working on:
 1. removing the remaining English in the game
