@@ -4,6 +4,8 @@
 
 This project is a Latin translation of Lethal Company.
 
+[Download the mod at thunderstore.io](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
+
 Note: I will be working on:
 1. removing the remaining English in the game
 2. ensuring items are in the correct cases where they are being used (nom vs acc.)
