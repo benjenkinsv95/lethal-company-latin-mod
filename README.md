@@ -2,7 +2,12 @@
 
 This project is a Latin translation of Lethal Company.
 
-It is currently a work in progress and updates will be continued. All of the translations can be found in the files linked below.
+Note: I will be working on:
+1. removing the remaining English in the game
+2. ensuring items are in the correct cases where they are being used (nom vs acc.)
+3. reviewing the translations in the terminal
+
+All of the translations can be found in the files linked below.
 
 ## Submit a Translation
 
