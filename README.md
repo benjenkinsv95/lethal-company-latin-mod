@@ -13,7 +13,7 @@ All of the translations can be found in the files linked below.
 
 Have an idea to improve a translation?
 
-[Add your suggestion here](https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/new)
+[Add your suggestion here](https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/new) | [or Share it on the Discord](https://discord.gg/x9ccNeFTWV)
 
 
 ## Game Menus & UI Translations
