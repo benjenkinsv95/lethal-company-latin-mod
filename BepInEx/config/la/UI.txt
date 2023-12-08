@@ -59,7 +59,7 @@ Option A=Optio A
 Paycheck!=Merces!
 PERFORMANCE REPORT=RELATIO OPERIS
 # Something using Gubernator could be fun
-PILOT COMPUTER=COMPUTĀTOR NAVIGĀTŌRIUS
+PILOT COMPUTER=Computātor Navigātōrius
 Press "/" to talk.=Preme '/' ad colloquendum.
 Price=Pretium
 PRIVATE means you must send invites through Steam for players to join.=PRĪVĀTUS significat tē per Steam debēre mittere invītātiōnēs ut lūsōrēs sē iungant
