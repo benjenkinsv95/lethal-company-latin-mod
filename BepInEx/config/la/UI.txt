@@ -86,7 +86,6 @@ r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī：$2\n（$
 r:"^(.+) started the ship."=$1 nāvem incēpit.
 r:"^(.+) was left behind."=$1 relictus est
 # TODO potential roman numerals
-r:"^([0-9]+) lb$"=$1 lb
 # TODO potential roman numerals
 r:"^(\$[0-9]+)\nDays: ([0-9]+)$"=$1\nDiēs: $2
 r:"^(Current input device: \n)(.*)$"=Instrumenta imposita praesēns：$2
@@ -101,6 +100,7 @@ r:"^Casualties \((.+)\): (.+)$"=Interfectī ($1)：$2
 r:"^CELESTIAL BODY: (.+?)$"=CORPUS COELESTIS：$1
 # TODO potential roman numerals (tough)
 r:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps taken: (.+?)$"=Diēs in opere: $1\nPretium reliquiae collēctae: $2\nMortēs: $3\nGradūs factī: $4
+r:"^DEADLINE:\n0 Days$"=FINIS：\nNIHIL DĪES!
 r:"^DEADLINE:\n1 Days$"=FINIS：\nI DĪES
 r:"^DEADLINE:\n2 Days$"=FINIS：\nII DĪES
 r:"^DEADLINE:\n3 Days$"=FINIS：\nIII DĪES

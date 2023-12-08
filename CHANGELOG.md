@@ -1,6 +1,8 @@
 # Changelog
+## 1.1.6 Heavy roman numeral increase
+Many numbers, the clock, percentages, and weight have been switched to roman numerals
 
-## 1.1.5 UI Cleanup
+## 1.1.5 Grammar Cleanup
 Grammar cleanup and an increase in roman numeral usage
 
 ## 1.1.4 UI Cleanup
