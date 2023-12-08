@@ -1,4 +1,7 @@
 # Changelog
+## 1.1.7 Hunting down more english and numbers
+It's feeling even more latiny now.
+
 ## 1.1.6 Heavy roman numeral increase
 Many numbers, the clock, percentages, and weight have been switched to roman numerals
 

@@ -44,6 +44,7 @@ Inventory full!=Inventārium plēnum!
 Item collected!=Res collēcta est!
 Lands the ship.=Navis descendit ad terram.
 Leader=Dux
+LOADING WORLD...=Aperiens Orbis...
 Locked=Clūsus
 # Implies cutting, llpsi ch 29
 Mauling=Sectiō
@@ -55,6 +56,7 @@ Most profitable=Lucrātissimus
 New creature data sent to terminal!=Animalibus novīs data ad tabulam missa!
 NEW PROFIT QUOTA:=NOVA QUOTA LŪCRĪS：
 None=Nihil
+Notes:=Notae:
 Option A=Optio A
 Paycheck!=Merces!
 PERFORMANCE REPORT=RELATIO OPERIS
@@ -68,26 +70,26 @@ Public=Pūblicus
 Push to talk:=Pelle ut loqueris：
 QUOTA REACHED!=QUOTAM PERVĒNISTĪ!
 Quota=Quota
-# TODO potential roman numerals (Automate)
-r:"^(.*) \n AM"=AM $1
-r:"^(.*) \n PM"=PM $1
+
+r:"^(.*) \n ?AM"=AM $1
+r:"^(.*) \n ?PM"=PM $1
 r:"^(.*) EXP$"=$1 EXP
 r:"^(.*) FPS$"=FPS $1
-r:"^(.*)\nAM"=AM $1
-r:"^(.*)\nPM"=PM $1
 
 r:"^(.+?)joined the ship(.+?)$"=$1 navem adiit $2
 
-# TODO potential roman numerals
-r:"^(.+) (Days|Day) Left$"=$1 Diēs Rēliquī
+r:"^5 (Days|Day) Left$"=V Diēs Rēliquī
+r:"^4 (Days|Day) Left$"=IV Diēs Rēliquī
+r:"^3 (Days|Day) Left$"=III Diēs Rēliquī
+r:"^2 (Days|Day) Left$"=II Diēs Rēliquī
+r:"^1 (Days|Day) Left$"=I Diēs Rēliquī
+r:"^0 (Days|Day) Left$"=Nihil Diēs Rēliquī
+
 # Using servata
 # TODO potential roman numerals
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī：$2\n（$3 corpora salvāta）
 r:"^(.+) started the ship."=$1 nāvem incēpit.
 r:"^(.+) was left behind."=$1 relictus est
-# TODO potential roman numerals
-# TODO potential roman numerals
-r:"^(\$[0-9]+)\nDays: ([0-9]+)$"=$1\nDiēs: $2
 r:"^(Current input device: \n)(.*)$"=Instrumenta imposita praesēns：$2
 # TODO potential roman numerals
 r:"^\(([0-9]+)/([0-9]+) Votes\)$"=($1/$2 Suffrāgia)
@@ -97,7 +99,17 @@ r:"^\[Cooldown : (.+)s\]$"=[Mora $1s]
 r:"^\[MODDED\](.+?)$"=[Mōdificātum]$1
 r:"^Body of (.+)$"=Corpus quod est [noun]
 r:"^Casualties \((.+)\): (.+)$"=Interfectī ($1)：$2
-r:"^CELESTIAL BODY: (.+?)$"=CORPUS COELESTIS：$1
+
+# r:"^CELESTIAL BODY: (.+?)$"=CORPUS COELESTIS：$1
+r:"^CELESTIAL BODY: 21 Offense$"=CORPUS COELESTIS：XXI Offense
+r:"^CELESTIAL BODY: 220 Assurance$"=CORPUS COELESTIS：CCXX Assurance
+r:"^CELESTIAL BODY: 31 March$"=CORPUS COELESTIS：XXXI March
+r:"^CELESTIAL BODY: 41 Experimentation$"=CORPUS COELESTIS：XLI Experimentation
+r:"^CELESTIAL BODY: 56 Vow$"=CORPUS COELESTIS：LVI Vow
+r:"^CELESTIAL BODY: 61 March$"=CORPUS COELESTIS：LXI March
+r:"^CELESTIAL BODY: 71 Gordion$"=CORPUS COELESTIS：LXXI Gordion
+r:"^CELESTIAL BODY: 85 Rend$"=CORPUS COELESTIS：LXXXV Rend
+
 # TODO potential roman numerals (tough)
 r:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps taken: (.+?)$"=Diēs in opere: $1\nPretium reliquiae collēctae: $2\nMortēs: $3\nGradūs factī: $4
 r:"^DEADLINE:\n0 Days$"=FINIS：\nNIHIL DĪES!
@@ -112,31 +124,20 @@ r:"^DEADLINE:\n8 Days$"=FINIS：\nVIII DĪES
 r:"^DEADLINE:\n9 Days$"=FINIS：\nIX DĪES
 r:"^DEADLINE:\n(1[0-9]+) Days$"=FINIS：\n$1 DĪES
 r:"^DUE: (\$[0-9]+)$"=DĒBITUM：$1
-# TODO potential roman numerals
 r:"^File 1$"=Tabella I
 r:"^File 2$"=Tabella II
 r:"^File 3$"=Tabella III
-# Probably not needed
-r:"^File 4$"=Tabella IV
-r:"^File 5$"=Tabella V
-r:"^File 6$"=Tabella VI
-r:"^File 7$"=Tabella VII
-r:"^File 8$"=Tabella VIII
-r:"^File 9$"=Tabella IX
-r:"^File (1[0-9]+)$"=Tabella $1
 r:"^\(MONITORING: Player\)$"=(Vigilans： Lūsor)
 r:"^MONITORING: (.+)$"=Vigilans： $1
 r:"^Overtime bonus: (.+)$"=Extra tempus merces： $1
 r:"^PROFIT QUOTA:\n\$([0-9]+) / \$([0-9]+)$"=QUOTA LŪCRĪ：\n$1 / $2\nAUREI 
-r:"^Random seed: ([0-9]+)$"=Forte semen: $1
-r:"^Random seed:"=Forte semen:
+# r:"^Random seed: ([0-9]+)$"=Forte semen: $1
+# sr:"^Random(.+)"=Forte semen
 r:"^SHIP: (.+)$"=NAVIS: $1
 # TODO potential roman numerals
 r:"^TOTAL: (.+)$"=Tōtus： $1
 r:"^Value: (.+)"=Pretium：$1
 r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=CAVE!\n Quaesō, redi tempore [tempus]. $1 Suffragium factum est, et nāvis gubernator relinquet.
-Random seed: {{A}}=Forte semen：{{A}}
-Random seed: =Forte semen：
 
 # S-Z
 Sell scrap for cash.=Vende reliquam pecuniam.

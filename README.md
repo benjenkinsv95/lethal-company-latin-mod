@@ -8,8 +8,9 @@ This project is a Latin translation of Lethal Company.
 
 Note: I will be working on:
 1. removing the remaining English in the game
-2. ensuring items are in the correct cases where they are being used (nom vs acc.)
+2. ensuring items are in the correct cases where they are being used (nom vs acc.) (trickier than expected, but prompts can be rewritten so nouns stay nominative)
 3. reviewing the translations in the terminal
+4. where possible/it makes sense, using roman numerals (though on numbers in the millions... eh...)
 
 All of the translations can be found in the files linked below.
 
