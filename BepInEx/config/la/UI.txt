@@ -70,14 +70,15 @@ Public=Pūblicus
 Push to talk:=Pelle ut loqueris：
 QUOTA REACHED!=QUOTAM PERVĒNISTĪ!
 Quota=Quota
-
 r:"^(.*) \n ?AM"=AM $1
 r:"^(.*) \n ?PM"=PM $1
+# TODO potential roman numerals (Automate)
 r:"^(.*) EXP$"=$1 EXP
 r:"^(.*) FPS$"=FPS $1
 
 r:"^(.+?)joined the ship(.+?)$"=$1 navem adiit $2
 
+# TODO potential roman numerals
 r:"^5 (Days|Day) Left$"=V Diēs Rēliquī
 r:"^4 (Days|Day) Left$"=IV Diēs Rēliquī
 r:"^3 (Days|Day) Left$"=III Diēs Rēliquī
@@ -129,9 +130,14 @@ r:"^File 2$"=Tabella II
 r:"^File 3$"=Tabella III
 r:"^\(MONITORING: Player\)$"=(Vigilans： Lūsor)
 r:"^MONITORING: (.+)$"=Vigilans： $1
+Notes: \n=Notae \n
 r:"^Overtime bonus: (.+)$"=Extra tempus merces： $1
 r:"^PROFIT QUOTA:\n\$([0-9]+) / \$([0-9]+)$"=QUOTA LŪCRĪ：\n$1 / $2\nAUREI 
-# r:"^Random seed: ([0-9]+)$"=Forte semen: $1
+r:"^random seed: ([0-9]+)$"=Forte semen: $1
+random seed:=Forte semen: 
+
+#˸, ܄, ﹕, ᠄, ：, ︓, and ꞉
+# r:"^(.+)Random seed(.+)([0-9]+)(.+)"=隨機種子：$1
 # sr:"^Random(.+)"=Forte semen
 r:"^SHIP: (.+)$"=NAVIS: $1
 # TODO potential roman numerals
@@ -181,3 +187,9 @@ Warning! No response from crew, which has not returned. Emergency code activated
 WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=CAVE!!! Nāvis gubernātor ad mediam noctem relinquet. Celeriter redi, quaesō.
 YOU ARE FIRED.=DĪSMISSUS ES.
 You did not meet the profit quota before the deadline.=Quotam lūcrī ante finem dierum nōn effecistī.
+
+
+ALL SCRAP LOST=aaaa
+NO SURVIVORS=bbbbb
+
+

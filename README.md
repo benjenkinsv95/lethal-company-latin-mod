@@ -7,7 +7,7 @@ This project is a Latin translation of Lethal Company.
 [Download the mod at thunderstore.io](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/)
 
 Note: I will be working on:
-1. removing the remaining English in the game
+1. removing the remaining English in the game (I know about and am having trouble replacing 'Random seed', 'COLLECTED', & 'GRADE')
 2. ensuring items are in the correct cases where they are being used (nom vs acc.) (trickier than expected, but prompts can be rewritten so nouns stay nominative)
 3. reviewing the translations in the terminal
 4. where possible/it makes sense, using roman numerals (though on numbers in the millions... eh...)
@@ -35,6 +35,6 @@ The latin translations used for everything besides the terminal.
 ## Terminal Translations
 The NewTerminal translations, used to translate the terminal itself.
 
-1. [Verbs](BepInEx/config/NewTerminal-Verbs.cfg)
+1. [Other](BepInEx/config/NewTerminal-Other.cfg)
 2. [Special](BepInEx/config/NewTerminal-Special.cfg)
-3. [Other](BepInEx/config/NewTerminal-Other.cfg)
+3. [Verbs](BepInEx/config/NewTerminal-Verbs.cfg)

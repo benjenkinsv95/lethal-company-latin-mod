@@ -1,4 +1,10 @@
 # Changelog
+## 1.1.9 Terminal updates continued
+Most terminal commands are now in Latin (cont)
+
+## 1.1.8 Terminal updates
+Most terminal commands are now in Latin, with further work to continue. Though more work might allow updating planets or items to latin. :thinking:
+
 ## 1.1.7 Hunting down more english and numbers
 It's feeling even more latiny now.
 
