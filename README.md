@@ -28,9 +28,10 @@ Once all 3 mods are installed, you can play it in latin by clicking the "Modded 
 
 Note: I will be working on:
 1. removing the remaining English in the game (I know about and am having trouble replacing 'Random seed', 'COLLECTED', & 'GRADE')
-2. ensuring items are in the correct cases where they are being used (nom vs acc.) (trickier than expected, but prompts can be rewritten so nouns stay nominative)
+2. ensuring items are in the correct cases where they are being used (nom vs acc. etc.)
 3. reviewing the translations in the terminal
 4. where possible/it makes sense, using roman numerals (though on numbers in the millions... eh...)
+5. (Potential) eventually replacing english text assets (like the posters or potentially the text in the folder)
 
 All of the translations can be found in the files linked below.
 
