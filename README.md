@@ -8,7 +8,7 @@ This project is a Latin translation of Lethal Company.
 ## Install Instructions
 
 Install the thunderstore mod manager:
-1. [Download Thurstore Mod Manager Here](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) (Download and follow installer)
+1. [Download Thunderstore Mod Manager Here](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) (Download and follow installer)
 
 Install the latin mod (and 2 mods it depends on):
 1. [BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
