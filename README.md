@@ -4,7 +4,22 @@
 
 This project is a Latin translation of Lethal Company.
 
-[Download the mod at thunderstore.io](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/)
+
+## Install Instructions
+
+Install the thunderstore mod manager:
+1. https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager (Download and follow installer)
+
+Install the latin mod (and 2 mods it depends on):
+1. [BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
+2. [New Terminal](https://thunderstore.io/c/lethal-company/p/Aavild/NewTerminal/)
+3. [Lethal Company Latin Localization](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/)
+
+After you have the mod manager downloaded, downloading the mods is as simple as clicking "Install with Mod Manager" on all 3 of the mod links.
+
+Once all 3 mods are installed, you can play it in latin by clicking the "Modded play" button at the top
+
+## Future Improvements
 
 Note: I will be working on:
 1. removing the remaining English in the game (I know about and am having trouble replacing 'Random seed', 'COLLECTED', & 'GRADE')
