@@ -17,7 +17,12 @@ Install the latin mod (and 2 mods it depends on):
 
 After you have the mod manager downloaded, downloading the mods is as simple as clicking "Install with Mod Manager" on all 3 of the mod links.
 
+![image](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/95a5a736-387e-42e5-bea8-a904a8287b7d)
+
 Once all 3 mods are installed, you can play it in latin by clicking the "Modded play" button at the top
+
+![image](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/22ef1cc2-c2c2-4b4d-aa8d-0039b5117757)
+
 
 ## Future Improvements
 
