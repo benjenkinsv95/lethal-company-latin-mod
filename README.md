@@ -68,8 +68,7 @@ Made with the help of the following contributors:
 2. Hadriánus Mathis
 
 ## Make a build of the mod
-Run
 
-```sh
-python build.py
-```
+1. Open the terminal (or git bash for windows)
+2. `cd` into the folder of the mod
+3. run `python build.py`
