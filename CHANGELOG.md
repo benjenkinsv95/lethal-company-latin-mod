@@ -1,4 +1,7 @@
 # Changelog
+## 1.1.10 More v45 updates
+It's feeling pretty extensive again, but I need to investigate if there are any other translations that have slipped through since the v45 update.
+
 ## 1.1.9 Terminal updates continued & some v45 updates
 Most terminal commands are now in Latin (cont)
 

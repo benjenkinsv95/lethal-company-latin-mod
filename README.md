@@ -27,11 +27,11 @@ Once all 3 mods are installed, you can play it in latin by clicking the "Modded 
 ## Future Improvements
 
 Note: I will be working on:
-1. removing the remaining English in the game (I know about and am having trouble replacing 'Random seed', 'COLLECTED', 'DECEASED', 'No survivors', 'GRADE', and some text if you fail quota)
+1. removing the remaining English in the game (I know about and am having trouble replacing 'Random seed')
 2. ensuring items are in the correct cases where they are being used (nom vs acc. etc.)
-3. reviewing the translations in the terminal (some english remains, but trying to remove it)
-4. where possible/it makes sense, using roman numerals (though on numbers in the millions... eh...)
-5. (Potential) eventually replacing english text assets (like the posters or potentially the text in the folder)
+3. reviewing the translations in the terminal (some english remains, but trying to remove it, might have to wait on NewTerminal to be updated)
+4. (Potential) eventually replacing english text assets (like the posters or potentially the text in the folder, 'COLLECTED', 'DECEASED', 'No survivors', 'GRADE', LOST ALL SCRAP)
+5. remaining version 45 translation updates
 
 All of the translations can be found in the files linked below.
 

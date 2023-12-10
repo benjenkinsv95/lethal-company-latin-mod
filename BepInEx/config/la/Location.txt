@@ -16,7 +16,7 @@
 A competitive ecosystem supports aggressive lifeforms.=Ecosystēma certāminis fovet vītās fortes. 
 Abandoned=Derelictum
 Arid. Thick haze, worsened by industrial artifacts.=Siccum. Nebula crassa, peiorāta a reliquiīs industriālibus.
-Can be accessed from terminal=Potes aperire in tabulam.
+Can be accessed from terminal=Potes aperire in computātrum.
 Diverse=Dīversum
 Dominated by a few species.=Paucīs speciēbus domināntur.
 Eclipsed=Obscurātum
@@ -43,4 +43,4 @@ Secure door=Ostium securitas
 Stormy=Turbidus
 Unknown=Ignōtus
 Unlikely for complex life to exist=Improbabile est ut vitae sapiens existant
-Where the Company resides.=Ubi Societās habitat.
+Where the Company resides.=Ubi Collēgium habitat.
