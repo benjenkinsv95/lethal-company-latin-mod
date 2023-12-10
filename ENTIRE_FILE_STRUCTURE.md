@@ -8,7 +8,7 @@ Below is a breakdown of the files in this latin language mod
 
 ## AutoTranslatorConfig.ini
 
-[AutoTranslatorConfig.ini](BepInEx/config/AutoTranslatorConfig.ini) is where you set the language code like `la-VA` or whatever you choose. (Ex. Language=la-VA)
+[AutoTranslatorConfig.ini](BepInEx/config/AutoTranslatorConfig.ini) is where you set the language code like `la` or whatever you choose. (Ex. Language=la)
 
 ## The Translation Files (config folder)
 
@@ -21,12 +21,12 @@ The NewTerminal translations, used to translate the terminal itself.
 2. [Special](BepInEx/config/NewTerminal-Special.cfg)
 3. [Other](BepInEx/config/NewTerminal-Other.cfg)
 
-### la-VA Translations
+### la Translations
 The latin translations used for everything besides the terminal.
 
-1. [Creature](BepInEx/config/la-VA/Creature.txt) ✅
-1. [Interactive](BepInEx/config/la-VA/Interactive.txt) ✅
-1. [Location](BepInEx/config/la-VA/Location.txt) ✅
-1. [MainMenu](BepInEx/config/la-VA/MainMenu.txt) ✅
-1. [Scrap&items](BepInEx/config/la-VA/Scrap&items.txt) ✅
-1. [UI](BepInEx/config/la-VA/UI.txt)
+1. [Creature](BepInEx/config/la/Creature.txt) ✅
+1. [Interactive](BepInEx/config/la/Interactive.txt) ✅
+1. [Location](BepInEx/config/la/Location.txt) ✅
+1. [MainMenu](BepInEx/config/la/MainMenu.txt) ✅
+1. [Scrap&items](BepInEx/config/la/Scrap&items.txt) ✅
+1. [UI](BepInEx/config/la/UI.txt)
