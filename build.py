@@ -47,7 +47,7 @@ def process_specific_files_and_folders_with_two_zips():
     current_dir = os.getcwd()
     zip_name_normal = 'Lethal Company Latin.zip'
     zip_name_macron = 'Lethal Company Latin Macron.zip'
-    files_and_folders_to_include = ['BepInEx', 'CHANGELOG.md', 'icon.png', 'manifest.json', 'README.md']
+    files_and_folders_to_include = ['BepInEx', 'Lethal Company_Data', 'CHANGELOG.md', 'icon.png', 'manifest.json', 'README.md']
 
     with tempfile.TemporaryDirectory() as temp_dir_normal, tempfile.TemporaryDirectory() as temp_dir_macron:
         # Copy specified files and folders to both temporary directories

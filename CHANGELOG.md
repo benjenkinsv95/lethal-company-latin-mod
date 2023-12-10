@@ -1,4 +1,7 @@
 # Changelog
+# 1.1.13 Replace the logo with this one
+Replacing the logo. It isn't perfect or in the same style, but it is latin.
+
 ## 1.1.12 More english removed, v45 updates, and improved translations
 More english removed, v45 updates, and improved translations
 
