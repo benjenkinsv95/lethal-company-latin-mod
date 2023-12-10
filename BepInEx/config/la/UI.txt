@@ -2,7 +2,7 @@
 # Manually reviewed by Ben
 
 (Cannot hold until ship has landed)=(Nōn potest tenēre, dum nāvis attingit terram)
-(Dead)=（Mortuus）
+(Dead)= (Mortuus) 
 (Requires battery-powered item)=(Debet rem ēlectrĭcam vim)
 (Spectating: )=(Vidēns: )
 [LIFE SUPPORT: OFFLINE]=[SUSTINERE VĪTAE: INACTĪVUS]
@@ -90,7 +90,7 @@ r:"^0 (Days|Day) Left$"=Nulla Diēs Rēliquī
 
 # Using servata
 # TODO potential roman numerals
-r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī: $2\n（$3 corpora salvāta）
+r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī: $2\n ($3 corpora salvāta) 
 r:"^(.+) started the ship."=$1 nāvem incēpit.
 r:"^(.+) was left behind."=$1 relictus est
 r:"^(Current input device: \n)(.*)$"=Instrumenta imposita praesēns: $2
