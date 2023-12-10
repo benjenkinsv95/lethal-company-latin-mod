@@ -1,7 +1,0 @@
-v40=v:XL
-v41=v:XLI
-v42=v:XLII
-v43=v:XLIII
-v44=v:XLIV
-v45=v:XLV
-

@@ -1,0 +1,204 @@
+﻿# UI
+# Manually reviewed by Ben
+
+(Cannot hold until ship has landed)=(Nōn potest tenēre, dum nāvis attingit terram)
+(Dead)=（Mortuus）
+(Requires battery-powered item)=(Debet rem ēlectrĭcam vim)
+(Spectating: )=(Vidēns：)
+[LIFE SUPPORT: OFFLINE]=[SUSTINERE VĪTAE: INACTĪVUS]
+
+# A-M
+Alert! The autopilot is leaving due to dangerous conditions.=CAVE! Gubernator prōpter pericula condiciones relinquit
+ALERT!=CAVE!
+# This seems tough, displosio seems like a more modern word for explosion
+# https://www.latin-is-simple.com/en/vocabulary/noun/8622/
+Blast=Displosio
+bludgeoning=percussiō
+# Tough: proprius is llpsi ch 35 for special,
+# DIVULGATUS - emphasizes the action of actively broadcasting or disseminating the code.
+BROADCASTED SPECIAL CODE=CŌDEX PROPRIUS DIVULGATUS
+Buy flashlights and travel to new planets!=Eme lūmen portabile et iter fac ad planetās novās!
+Can't stay closed forever=Nōn potest manēre clausum sēmper
+Change suit=Mūta vestimenta
+Confirm changes?=Cōnfirmā Mūtātiōnēs?
+CREW:=GREX：
+
+# vulnus llpsi ch 33, cicero uses criticus in Ad Familiares IX
+CRITICAL INJURY=VULNUS CRITICUS
+DEADLINE:\n NOW=FINIS: \nNUNC
+# TODO Controlores feels bad
+Door controls=Instrumenta Ianuarum
+DOOR HYDRAULICS:=Ianua Hydraulica：
+Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Nunc, abiice tuas res metallicas! Electricitas animadversa est.  Secunda tibi superfuerunt ut vīvās.
+EMPLOYEE RANK=GRADUS OPERARIORUM
+Employee=Operarius
+Fines=Poenae
+Got scrap!=Reliquiam sumpsī!
+# https://morcus.net/dicts?q=gunshot,SnH
+Gunshots=Ictus sclopeti
+HANDS FULL=MANUS PLENAE
+HALT!=Exspectā!
+# Lesser worker
+Intern=Operarius minor
+# Inventarium shows up in ~AD 200
+Inventory full!=Inventārium plēnum!
+Item collected!=Res collēcta est!
+Lands the ship.=Navis descendit ad terram.
+Leader=Dux
+LOADING WORLD...=Ad mundum dēscendēns... 
+Locked=Clūsus
+# Implies cutting, llpsi ch 29
+Mauling=Sectiō
+# "Lucrātissimus" specifically means "most lucrative" or "most profitable in terms of financial gain."
+# "Fructuosissimus" means "most fruitful" or "most profitable" in a broader sense, including not just financial gain but also overall productivity or benefits.
+Most profitable=Lucrātissimus
+
+# N-R
+New creature data sent to terminal!=Animalibus novīs data ad tabulam missa!
+NEW PROFIT QUOTA:=NOVA QUOTA LŪCRĪS：
+None=Nihil
+Notes:=Notae:
+Option A=Optio A
+Paycheck!=Merces!
+PERFORMANCE REPORT=RELATIO OPERIS
+# Something using Gubernator could be fun
+PILOT COMPUTER=Computātor Navigātōrius
+Press "/" to talk.=Preme '/' ad colloquendum.
+Price=Pretium
+PRIVATE means you must send invites through Steam for players to join.=PRĪVĀTUS significat tē per Steam debēre mittere invītātiōnēs ut lūsōrēs sē iungant
+PUBLIC means your game will be visible on the server list for all to see.=PŪBLICUS significat lūdum tuum in indīce servātōrum ut omnibus esse visūrum.
+Public=Pūblicus
+Push to talk:=Pelle ut loqueris：
+QUOTA REACHED!=QUOTAM PERVĒNISTĪ!
+Quota=Quota
+r:"^(.*) \n ?AM"=AM $1
+r:"^(.*) \n ?PM"=PM $1
+# TODO potential roman numerals (Automate)
+r:"^(.*) EXP$"=$1 EXP
+r:"^(.*) FPS$"=FPS $1
+
+r:"^(.+?)joined the ship(.+?)$"=$1 navem adiit $2
+
+# TODO potential roman numerals
+r:"^5 (Days|Day) Left$"=V Diēs Rēliquī
+r:"^4 (Days|Day) Left$"=IV Diēs Rēliquī
+r:"^3 (Days|Day) Left$"=III Diēs Rēliquī
+r:"^2 (Days|Day) Left$"=II Diēs Rēliquī
+r:"^1 (Days|Day) Left$"=I Diēs Rēliquī
+r:"^0 (Days|Day) Left$"=Nulla Diēs Rēliquī
+
+# Using servata
+# TODO potential roman numerals
+r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī：$2\n（$3 corpora salvāta）
+r:"^(.+) started the ship."=$1 nāvem incēpit.
+r:"^(.+) was left behind."=$1 relictus est
+r:"^(Current input device: \n)(.*)$"=Instrumenta imposita praesēns：$2
+# TODO potential roman numerals
+r:"^\(([0-9]+)/([0-9]+) Votes\)$"=($1/$2 Suffrāgia)
+r:"^\(Spectating: Player\)$"=(Vidēns： Lūsor)
+r:"^\(Spectating: (.+)\)$"=(Vidēns： $1)
+r:"^\[Cooldown : (.+)s\]$"=[Mora $1s]
+r:"^\[MODDED\](.+?)$"=[Mōdificātum]$1
+r:"^Body of (.+)$"=Corpus quod est [noun]
+r:"^Casualties \((.+)\): (.+)$"=Interfectī ($1)：$2
+
+# r:"^CELESTIAL BODY: (.+?)$"=CORPUS COELESTIS：$1
+r:"^CELESTIAL BODY: 21 Offense$"=CORPUS COELESTIS：XXI Offense
+r:"^CELESTIAL BODY: 220 Assurance$"=CORPUS COELESTIS：CCXX Assurance
+r:"^CELESTIAL BODY: 31 March$"=CORPUS COELESTIS：XXXI March
+r:"^CELESTIAL BODY: 41 Experimentation$"=CORPUS COELESTIS：XLI Experimentation
+r:"^CELESTIAL BODY: 56 Vow$"=CORPUS COELESTIS：LVI Vow
+r:"^CELESTIAL BODY: 61 March$"=CORPUS COELESTIS：LXI March
+r:"^CELESTIAL BODY: 71 Gordion$"=CORPUS COELESTIS：LXXI Gordion
+r:"^CELESTIAL BODY: 85 Rend$"=CORPUS COELESTIS：LXXXV Rend
+
+# TODO potential roman numerals (tough)
+r:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps taken: (.+?)$"=Diēs in opere: $1\nPretium reliquiae collēctae: $2\nMortēs: $3\nGradūs factī: $4
+r:"^DEADLINE:\n0 Days$"=FINIS：\nNULLA DĪES!
+r:"^DEADLINE:\n1 Days$"=FINIS：\nI DĪES
+r:"^DEADLINE:\n2 Days$"=FINIS：\nII DĪES
+r:"^DEADLINE:\n3 Days$"=FINIS：\nIII DĪES
+r:"^DEADLINE:\n4 Days$"=FINIS：\nIV DĪES
+r:"^DEADLINE:\n5 Days$"=FINIS：\nV DĪES
+r:"^DEADLINE:\n6 Days$"=FINIS：\nVI DĪES
+r:"^DEADLINE:\n7 Days$"=FINIS：\nVII DĪES
+r:"^DEADLINE:\n8 Days$"=FINIS：\nVIII DĪES
+r:"^DEADLINE:\n9 Days$"=FINIS：\nIX DĪES
+r:"^DEADLINE:\n(1[0-9]+) Days$"=FINIS：\n$1 DĪES
+r:"^DUE: (\$[0-9]+)$"=Dēbitum：$1
+r:"^File 1$"=Tabella I
+r:"^File 2$"=Tabella II
+r:"^File 3$"=Tabella III
+r:"^\(MONITORING: Player\)$"=(Vigilans： Lūsor)
+r:"^MONITORING: (.+)$"=Vigilans： $1
+Notes: \n=Notae \n
+r:"^Overtime bonus: (.+)$"=Extra tempus merces： $1
+r:"^PROFIT QUOTA:\n\$([0-9]+) / \$([0-9]+)$"=QUOTA LŪCRĪ：\n$1 / $2\nAUREI 
+r:"^random seed: ([0-9]+)$"=Forte semen: $1
+random seed:=Forte semen: 
+
+#˸, ܄, ﹕, ᠄, ：, ︓, and ꞉
+# r:"^(.+)Random seed(.+)([0-9]+)(.+)"=隨機種子：$1
+# sr:"^Random(.+)"=Forte semen
+r:"^SHIP: (.+)$"=NAVIS: $1
+# TODO potential roman numerals
+r:"^TOTAL: (.+)$"=Tōtus： $1
+r:"^Value: (.+)"=Pretium：$1
+r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=CAVE!\n Quaesō, redi tempore [tempus]. $1 Suffragium factum est, et nāvis gubernator relinquet.
+
+# S-Z
+Sell scrap for cash.=Vende reliquam pecuniam.
+Ship leaving in one hour=Navis in ūnā hōrā relinquet
+sr:"^(.+?)collected!$"=$1 collectum est！
+sr:"^Cause of death: (.+)$"=Causa mortis： $1
+sr:"^Drop (.+?): \[G\]$"=ut $1 cadat: [G]
+sr:"^Spray : \[LMB\]$"=Sparge: [LMB]
+sr:"^Shake can : \[Q\]$"=Sparge amphoram: [Q]
+sr:"^Found journal entry: (.+)$"=Invēnī līber inscriptionis： $1 
+sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae： \n* $1\n* $2\n* $3 \n* $4\n
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Circumdare：$1\nPōpulatio：$2\nCondiciōnēs：$3\nFauna：$4\n$5
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\nWeather: (.+?)$"=Circumdare：$1\nPōpulatio：$2\nCondiciōnēs：$3\nFauna：$4\nTempestās：$5
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Circumdare：$1\nPōpulatio：$2\nCondiciōnēs：$3\nFauna：$4
+sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Pōpulatio：$2\nCondiciōnēs：$3\nFauna：$4\n$5
+sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Pōpulatio：$1\nCondiciōnēs：$2\nFauna：$3
+# Simplified, but accurate-ish?
+Stats=Numeri
+Strangulation=Strangulātiō
+Sustained the most injuries.=Sustinet plūrimā vulnera.
+SYSTEMS ONLINE=SYSTEMATA IN LINEA
+Tell autopilot ship to leave early : [RMB] (Hold)=Dīc nāvem gubernatōrem reliquere prius：[RMB] (Tene)
+Terminal=Tabula
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Gubernator nunc conabitur ad proximum portum spatii tūtum volāre. Res tuae abiectae sunt.
+The Company must minimize risk of damage to proprietary hardware. Goodbye!=Societās dēbet minuere vulnus ad ferrāmentōrum suōrum. Valē!
+The laziest employee.=Operarius pigrissimus
+The most paranoid employee.=Operarius suspiciosissimus
+TIP:=DONUM：
+TO MEET PROFIT QUOTA=Ut Quota Lucrī Efficiātur
+To sell, use the terminal to route the ship to the company building.=Vendere, utere tabulā ut ducere navem ad aedificium societatis.
+TOTAL:=Tōtus：
+Training manual=Liber disciplīnae
+Typing...=Scribens...
+Uncapped=Sine limitibus
+Use the ship computer terminal to access secure doors.=Utere tabulam computrī nāvis ut intrare ianuas tutas.
+Useful info!=Informatiō ūtilis!
+Value: ???=Pretium： ???
+VISIBILITY LOW!\n\nSteam leak detected in area=VISIBILITAS PARVA!\n\nVaporis perfluita invenitur in loco.
+Voice volume=Magnitūdō Vōcis
+Voted for ship to leave early=Censuit ut nāvis relinquat, prius.
+Waiting for crew...=Grege exspectans...
+Warning! No response from crew, which has not returned. Emergency code activated.=CAVE! Nūlla responsiō ā grege, quae nōn rediit. Cōdex periculi actum est.
+WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=CAVE!!! Nāvis gubernātor ad mediam noctem relinquet. Celeriter redi, quaesō.
+YOU ARE FIRED.=DĪSMISSUS ES.
+You did not meet the profit quota before the deadline.=Quotam lūcrī ante finem dierum nōn effecistī.
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=Nihil diés tibi reliquí sunt ad quota complenda. Utere computátrum ut dúcere ad societátem et véndere.
+
+
+# Tests, not working yet
+ALL SCRAP LOST=aaaa
+NO SURVIVORS=bbbbb
+r:"^NO SURVIVORS"=AAAAAAA
+r:"^ALL SCRAP LOST"=BBBB
+r:"^GRADE"=CCCCC
+r:"^COLLECTED"=DDDDDD
+
+

@@ -1,0 +1,85 @@
+﻿# Interactive
+# Reviewed, overall, using mostly beginner friendly words from LLPSI
+
+[ Not holding items ]=[Non habens res]
+[Cannot pull valve]=[Non possum trahere valvam]
+[Hands full]=[Manibus plenis]
+[Nothing to store]=[Nihil condere]
+
+# Close: Wait while the ship [comes] to land
+[Wait for ship to land]=[Exspecta dum navis appropinquat terram]
+
+# A-M
+Access terminal : [E]=Uti tabulam ：[E]
+Beam up : [E]=Ascende : [E]
+# "Electrifica rem" might also work, but seems less beginner friendly
+Charge item : [E]=Renova rem：[E]
+Climb : [E]=Ascende：[E]
+Close door : [E]=Claude ianuam：[E]
+Confirm: [B]   |   Rotate: [R]   |   Store: [X]=Cōnfirma：[B]   |   Rotā：[R]   |   Condē：[X]
+# rumpo, perdo, and frango are tempting but imply they would break the speaker
+Disable speaker: [E]=Deactiva Loquentium：[E]
+Enter : [E]=Intrā：[E]
+Enter: [E]=Intrā：[E]
+Exit : [E]=Exi：[E]
+Exit: [E]=Exi：[E]
+
+# TODO: Might be a better word for switch
+Flip switch: [E]=Verte claviculam：[E]
+Get log : [E]=Sume commentarium：[E]
+Grab : [E]=Sume：[E]
+Grab: [E]=Sume：[E]
+# Aspice is from LLPSI ch.8 to look at
+Inspect: [Z]=\nAspice：[Z]
+Land ship : [E]=Applica navem：[E]
+Let go : [E]=Relinque：[E]
+
+# TODO: is this actual glass like vitrum?
+Lift glass : [E]=Tolle poculum：[E]
+
+# N-Z
+Open : [E]=Aperi：[E]
+Open door : [E]=Aperi ianuam：[E]
+Open hatch : [E]=Aperi lucem：[E]
+Open: [E]=Aperi：[E]
+
+# TODO: Need to review usage, I'm unsure what the word for button is.
+Power button : [Q]=Potentia rem：[Q]
+
+Quit terminal : [TAB]=Exi tabulam：[TAB]
+Ring bell: [E]=Pulsā tintinnabulum：[E]
+
+# Scande could work, Vide seems more beginner friendly
+Scan : [RMB]=Vide：[RMB]
+Sell item : [E]=Vende rem：[E]
+Send voice : [LMB]=Mitte vocem：[LMB]
+Sprint: [Shift]=Curre：[Shift]
+
+# Incipe LLPSI ch 13
+Start game : [E]=Incipe ludum：[E]
+Start ship : [E]=Incipe navem：[E]
+Store item : [E]=Conde rem：[E]
+Swing shovel : [LMB]=Move pilam：[LMB]
+Swing sign : [LMB]=Move signum：[LMB]
+Switch camera : [E]=Muta camaram：[E]
+Switch lights : [E]=Muta lucem：[E]
+Take TZP : [LMB]=Cape TZP：[LMB]
+Toggle light : [LMB]=Muta lucem: [LMB]
+
+# Aiming for a "Change power" or "Toggle power"
+Turn on/off : [E]=Muta potentiam：[E]
+Turn page : [Q/E]=\nVerte paginam: [Q/E]
+Use airhorn : [LMB]=：Uti cornū aereo[LMB]
+Use cash register : [LMB]=Uti cistam pecuniārum : [LMB]
+Use door : [E]=Uti ianuam：[E]
+Use hairdryer : [LMB]=Uti siccatorem capillaris：[LMB]
+Use horn : [LMB]=Uti cornū：[LMB]
+Use key : [LMB]=Uti clavem: [LMB]
+Use key : [LMB]=Uti clavem：[LMB]
+Use ladder : [E]=Uti scalam：[E]
+Use Large axle : [G]=Uti axem magnum：[E]
+Use remote : [LMB]=Uti remotum：[LMB]
+Walk : [W/A/S/D]=Ambula: [W/A/S/D]
+
+# Unknown, but scared to modify
+sr:"^(.+) \((.+)\) : (.+)\n$"=$1 ($2)：$3

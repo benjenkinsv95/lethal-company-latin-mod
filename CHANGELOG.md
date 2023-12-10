@@ -1,5 +1,5 @@
 # Changelog
-## 1.1.9 Terminal updates continued
+## 1.1.9 Terminal updates continued & some v45 updates
 Most terminal commands are now in Latin (cont)
 
 ## 1.1.8 Terminal updates
