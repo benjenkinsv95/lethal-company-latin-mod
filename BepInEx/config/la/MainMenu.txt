@@ -7,7 +7,7 @@
   Online=   In lineā
 (Recommended)=   (Commendātum)
 [ Back ]=[  Rētro  ]
-[ Confirm ]=[ Confīrma ]
+[ Confirm ]=[Confīrma]
 [ Continue ]=[    Perge    ]
 [ Refresh ]=[ Renova ]
 
@@ -21,6 +21,7 @@
 > Host=> Hospitā ludum
 > Invite friends=> Invitā Amīcōs 
 > Join a crew=> Iunge gregem
+> Join LAN session=> Iunge LAN gregem
 > LAN=> LAN
 > Online=> In lineā
 > Quit=> Exī
@@ -30,6 +31,7 @@
 
 # A-M
 Adjust screen brightness until the symbol on the right is barely visible.=Luminis schermi auge donec signum ad dextram vix videas.
+Allow remote connections=Permitte conexionēs remōtās
 An error occured when syncing the scene! The host might not have loaded in.=Error in scaena synchronizanda ortus est! Fortasse hospes nondum accessit.
 Autosaving...=Automatice Servans...
 Back=Rētro
@@ -54,12 +56,13 @@ Friends-only=Amīcīs Sōlum
 Fullscreen=Totus Ecranus
 Gamma/Brightness:=Gamma/Lucitās: 
 Go back=Revertē
+Host LAN Server:=Hospita LAN Servatorem:
 INSTABILITY:=INSTABILITAS: 
 Invert Y-Axis=Inversio Axis Y
 Join=Iunge
-Join LAN session=Iunge LAN gregem
 LAN= LAN
 LAUNCH MODE=MODUS INITIUM
+Local-only=Sōlum Locālīs 
 Loading...=Aperiens...
 Look sensitivity:=Aspicere Sensitivitās: 
 Master volume:=Magister Magnitūdō: 
@@ -87,3 +90,5 @@ Welcome!=Salvē!
 Window=Fenestra
 Windowed fullscreen=Fenestra plena
 Would you like to leave the game?=Visne relinquere lūsus?
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=In Lān modum es. CAVE cōnexionēs remōtās (remote connections) per LAN. Sī cōnexionēs remōtae licent, quaesō utī ignīs mūrum (firewall) et/vēl 'VPN' habeās.
+(Launched in LAN mode)=(Apertus in LAN modo)

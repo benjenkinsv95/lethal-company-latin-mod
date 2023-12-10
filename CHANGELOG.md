@@ -1,4 +1,7 @@
 # Changelog
+## 1.1.12 More english removed, v45 updates, and improved translations
+More english removed, v45 updates, and improved translations
+
 ## 1.1.10 More v45 updates
 It's feeling pretty extensive again, but I need to investigate if there are any other translations that have slipped through since the v45 update.
 
