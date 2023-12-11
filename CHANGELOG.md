@@ -1,4 +1,7 @@
 # Changelog
+# 1.1.14 More v45 updates, terminal updates, and hadrianus feedback
+Lots of improvements again. Still more work to refine the terminal
+
 # 1.1.13 Replace the logo with this one
 Replacing the logo. It isn't perfect or in the same style, but it is latin.
 
