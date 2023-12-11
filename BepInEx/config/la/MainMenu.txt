@@ -30,15 +30,18 @@
 > Settings=> Configūrātiōnēs
 
 # A-M
+ACCESSIBILITY=Accessibil-\nitās
 Adjust screen brightness until the symbol on the right is barely visible.=Luminis schermi auge donec signum ad dextram vix videas.
 Allow remote connections=Permitte conexionēs remōtās
 An error occured when syncing the scene! The host might not have loaded in.=Error in scaena synchronizanda ortus est! Fortasse hospes nondum accessit.
+Arachnophobia Mode=Modus Timōris Arāneārum
 Autosaving...=Automatice Servans...
 Back=Rētro
 BACK=Rētro
+> Change keybinds=> Mūtā nexūs clāvium
 CONFIRM= Cōnfirma
 Confirm=Cōnfirma
-CONTROLS=RĒGĒS
+CONTROLS=Rēgēs
 Cosmetics Enabled:=Indumenta Acta: 
 Credits=Crēdita
 Crew Size:=Magnitūdō Gregis: 
@@ -48,7 +51,7 @@ Discard=Abice
 Discard Large axle=Abice axem magnum
 DISCARD=ABICE
 Display mode:=Modus Ostendendī: 
-DISPLAY=MŌNSTRĀRE
+DISPLAY=Mōnstrāre
 ENABLED=ACTIVATUM
 Enter a lobby name!=Intrā Nōmen Conclāvis！
 Frame rate cap:=Frāmī Limitātiō: 
@@ -68,7 +71,7 @@ Look sensitivity:=Aspicere Sensitivitās:
 Master volume:=Magister Magnitūdō: 
 Max players...=Lūdōrēs Maximī...
 Maximized window=Fenestra Maxima
-MODE: Push to talk=MODUS: Pelle ad loquendum
+MODE: Push to talk=MODUS: Preme loquī
 MODE: Voice activation=MODUS: Vōcis Activatio 
 
 # N-Z

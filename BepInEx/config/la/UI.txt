@@ -3,7 +3,7 @@
 
 (Cannot hold until ship has landed)=(Nōn potest tenēre, dum nāvis attingit terram)
 (Dead)= (Mortuus) 
-(Requires battery-powered item)=(Debet rem ēlectrĭcam vim)
+(Requires battery-powered item)=(Debet rem ēlectrīcam vim)
 (Spectating: )=(Vidēns: )
 [LIFE SUPPORT: OFFLINE]=[SUSTINERE VĪTAE: INACTĪVUS]
 
@@ -67,14 +67,15 @@ PERFORMANCE REPORT=RELATIO OPERIS
 # Something using Gubernator could be fun
 PILOT COMPUTER=Computātor Navigātōrius
 Player=Lūdēns
-Press "/" to talk.=Preme '/' loquere.
+Press "/" to talk.=Preme '/' loquī.
 Price=Pretium
 PRIVATE means you must send invites through Steam for players to join.=PRĪVĀTUS significat tē per Steam debēre mittere invītātiōnēs ut lūsōrēs sē iungant
 PUBLIC means your game will be visible on the server list for all to see.=PŪBLICUS significat lūdum tuum in indīce servātōrum ut omnibus esse visūrum.
 Public=Pūblicus
-Push to talk:=Pelle ut loqueris: 
+Push to talk:=Preme loquī: 
 QUOTA REACHED!=QUOTAM PERVĒNISTĪ!
 Quota=Quota
+RECEIVING SIGNAL=Signum Accipiēns
 r:"^(.*) \n ?AM"=AM $1
 r:"^(.*) \n ?PM"=PM $1
 # TODO potential roman numerals (Automate)
@@ -163,6 +164,7 @@ sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Circu
 sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Pōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\n$5
 sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Pōpulatio: $1\nCondiciōnēs: $2\nFauna: $3
 # Simplified, but accurate-ish?
+SPIDER=Aranea
 Stats=Numeri
 Strangulation=Strangulātiō
 Sustained the most injuries.=Sustinet plūrimā vulnera.
@@ -171,6 +173,7 @@ Tell autopilot ship to leave early : [RMB] (Hold)=Dīc nāvem gubernatōrem reli
 Terminal=Computātrum
 The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Gubernator nunc conabitur ad proximum portum spatii tūtum volāre. Res tuae abiectae sunt.
 The Company must minimize risk of damage to proprietary hardware. Goodbye!=Collēgium dēbet minuere vulnus ad ferrāmentōrum suōrum. Valē!
+The file will NOT save! Your ship must be in orbit.=Tabella NON servābitur! Navis tua in orbitā esse debet.
 The laziest employee.=Operarius pigrissimus
 The most paranoid employee.=Operarius suspiciosissimus
 TIP:=DONUM: 

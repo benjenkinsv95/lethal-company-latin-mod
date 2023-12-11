@@ -17,6 +17,7 @@ Jeb=Jeb
 Jester=INSANEUS THINGUS
 Landmine=Mīna telluris
 Manticoil=Quadrupes manta
+Nutcracker=Nucis frangitor
 Roaming locusts=Anacridium vega
 Snare flea=Dolus scolopendra
 Spore lizard=Lacerta glomerorum

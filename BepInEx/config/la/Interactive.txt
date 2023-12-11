@@ -85,6 +85,7 @@ Exit : [E]=Exi: [E]
 Exit: [E]=Exi: [E]
 
 # TODO: Might be a better word for switch
+Fire : [LMB]=Ictūs : [LMB]
 Flip switch: [E]=Verte claviculam: [E]
 Flush: [E]=Emitte:[E]
 Get log : [E]=Sume commentarium: [E]
@@ -109,11 +110,12 @@ Open: [E]=Aperi: [E]
 # TODO: Need to review usage, I'm unsure what the word for button is.
 Place on door : [LMB]=\nPone in ianuam: [LMB]
 Play record: [E]=Lude ludi orbem: [E]
-Pop up ladder : [LMB]=Ascendē scālam : [LMB]
+Pop up ladder : [LMB]=\nAscendē scālam : [LMB]
 Power button : [Q]=Mūta potentiam : [Q]
 Pull switch : [E]=Trahe claviculam: [E]
 
 Quit terminal : [TAB]=Exi computātrum: [TAB]
+Reload : [C]=Replē : [C]
 Ring bell: [E]=Pulsā tintinnabulum: [E]
 
 # Scande could work, Vide seems more beginner friendly
@@ -140,6 +142,8 @@ Toggle music : [LMB]=Muta musicam : [LMB]
 Turn on booster : [LMB]=Activa propulsōrem : [LMB]
 Turn on/off : [E]=Muta potentiam: [E]
 Turn page : [Q/E]=\nVerte paginam: [Q/E]
+Turn safety on: [Q]=Modum tūtum āctīva : [Q]
+Turn safety off: [Q]=Modum tūtum dēsīne : [Q]
 Use airhorn : [LMB]=Uti cornū aereo: [LMB]
 Use cash register : [LMB]=Uti cistam pecuniārum : [LMB]
 Use door : [E]=Uti ianuam: [E]
