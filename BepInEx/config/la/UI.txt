@@ -10,6 +10,10 @@
 # A-M
 Alert! The autopilot is leaving due to dangerous conditions.=CAVE! Gubernator prōpter pericula condiciones relinquit
 ALERT!=CAVE!
+An error occurred!=Error factus est!
+# typo
+An error occured!=Error factus est!
+
 # This seems tough, displosio seems like a more modern word for explosion
 # https://www.latin-is-simple.com/en/vocabulary/noun/8622/
 Blast=Displosio
@@ -35,6 +39,8 @@ DOOR HYDRAULICS:=Ianua Hydraulica:
 Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Nunc, abiice tuas res metallicas! Electricitas animadversa est.  Secunda tibi superfuerunt ut vīvās.
 EMPLOYEE RANK=GRADUS OPERARIORUM
 Employee=Operarius
+Error! Could not get the lobby data. Are you offline?=Error! Non potui data servātōris accipere. Num in lineā non es?
+
 Fines=Poenae
 Got scrap!=Reliquiam sumpsī!
 # https://morcus.net/dicts?q=gunshot,SnH
@@ -49,6 +55,8 @@ Item collected!=Res collēcta est!
 Lands the ship.=Navis descendit ad terram.
 Leader=Dux
 LOADING WORLD...=Ad mundum dēscendēns... 
+Loading server list...=Servātōrum Indicem Rēnovāns...
+
 Locked=Clūsus
 # Implies cutting, llpsi ch 29
 Mauling=Sectiō
@@ -142,6 +150,8 @@ r:"^PROFIT QUOTA:\n\$([0-9]+) / \$([0-9]+)$"=QUOTA LŪCRĪ: \n$1 / $2\nAUREI
 # r:"^(.*)Random seed: ([0-9]+)(.*)$"=Forte semen: $2
 r:"^(.*)Random seed(.*)$"=Forte semen $2
 
+
+
 r:"^SHIP: (.+)$"=NAVIS: $1
 # TODO potential roman numerals
 r:"^TOTAL: (.+)$"=Tōtus:  $1
@@ -175,6 +185,7 @@ The autopilot will now attempt to fly to the closest safe spaceport. Your items 
 The Company must minimize risk of damage to proprietary hardware. Goodbye!=Collēgium dēbet minuere vulnus ad ferrāmentōrum suōrum. Valē!
 The file will NOT save! Your ship must be in orbit.=Tabella NON servābitur! Navis tua in orbitā esse debet.
 The laziest employee.=Operarius pigrissimus
+The host has not loaded or has already landed their ship.=Hospēs nōndum accessit aut iam nāvem suam ad terram attigit."
 The most paranoid employee.=Operarius suspiciosissimus
 TIP:=DONUM: 
 TO MEET PROFIT QUOTA=Ut Quota Lucrī Efficiātur

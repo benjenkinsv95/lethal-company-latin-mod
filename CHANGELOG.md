@@ -1,6 +1,6 @@
 # Changelog
-# 1.1.15 Terminal becoming much more beginner friendly
-Lots of rewrites
+# 1.1.15 Terminal becoming more friendly and rewrite intro tech screen into latin
+That orange tech screen
 
 # 1.1.14 More v45 updates, terminal updates, and hadrianus feedback
 Lots of improvements again. Still more work to refine the terminal
