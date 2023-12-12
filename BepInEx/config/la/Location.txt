@@ -20,6 +20,7 @@ Can be accessed from terminal=Potes aperire in computātrum.
 Diverse=Dīversum
 Dominated by a few species.=Paucīs speciēbus domināntur.
 Eclipsed=Obscurātum
+(Eclipsed)=Obscurātum
 Ecosystem supports territorial behaviour.=Ecosystēma sustinet mōres territōriī.
 Expansive. Constant rain.=Lātum. Imber, constans.
 Flooded=Inundātum
