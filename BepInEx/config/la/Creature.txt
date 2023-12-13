@@ -17,8 +17,10 @@ Jeb=Jeb
 Jester=INSANEUS THINGUS
 Landmine=Mīna telluris
 Manticoil=Quadrupes manta
+# Terminal Needs review, but source is latin
 Nutcracker=Nucis frangitor
 Roaming locusts=Anacridium vega
+# Terminal Needs review, but source is latin
 Snare flea=Dolus scolopendra
 Spore lizard=Lacerta glomerorum
 Thumper=Pistris saevus

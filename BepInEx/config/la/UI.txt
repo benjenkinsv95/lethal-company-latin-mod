@@ -1,4 +1,4 @@
-﻿# UI
+# UI
 # Manually reviewed by Ben
 
 (Cannot hold until ship has landed)=(Nōn potest tenēre, dum nāvis attingit terram)
@@ -28,6 +28,10 @@ Change: Green suit=Mūta: Vestīmentum viride
 Change: Hazard suit=Mūta: Vestīmentum perīculī
 Change: Pajama suit=Mūta: Vestīmentum nocturnum
 Confirm changes?=Cōnfirmā Mūtātiōnēs?
+Continue=Perge
+Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Cōnnectiō ad servātōrēs STEAM dēfēcit!
+(Sī in retī locālī sōlum lūdere cupis,
+ēlige 'Locale Rete' cum lūdum incipis.)
 CREW:=GREX: 
 
 # vulnus llpsi ch 33, cicero uses criticus in Ad Familiares IX
@@ -178,7 +182,7 @@ SPIDER=Aranea
 Stats=Numeri
 Strangulation=Strangulātiō
 Sustained the most injuries.=Sustinet plūrimā vulnera.
-SYSTEMS ONLINE=SYSTEMATA IN LINEA
+SYSTEMS ONLINE=SYSTEMAE INTERRETE
 Tell autopilot ship to leave early : [RMB] (Hold)=Dīc nāvem gubernatōrem reliquere prius: [RMB] (Tene)
 Terminal=Computātrum
 The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Gubernator nunc conabitur ad proximum portum spatii tūtum volāre. Res tuae abiectae sunt.
@@ -188,6 +192,7 @@ The laziest employee.=Operarius pigrissimus
 The host has not loaded or has already landed their ship.=Hospēs nōndum accessit aut iam nāvem suam ad terram attigit."
 The most paranoid employee.=Operarius suspiciosissimus
 TIP:=DONUM: 
+TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=MONITUM!: Tene [RMB] ut suffrāgium mittās pro nāvī gubernātōre prius discedente.
 TO MEET PROFIT QUOTA=Ut Quota Lucrī Efficiātur
 To sell, use the terminal to route the ship to the company building.=Vendere, utere computātrum ut ducere navem ad aedificium collēgiī.
 TOTAL:=Tōtus: 
