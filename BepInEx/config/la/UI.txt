@@ -124,12 +124,12 @@ r:"^0 (Days|Day) Left$"=Nulla Diēs Rēliquī
 # TODO potential roman numerals
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī: $2\n ($3 corpora salvāta) 
 r:"^(.+) started the ship."=$1 nāvem incēpit.
-r:"^Player #0(.+?)started the ship.$"=Lūdēns nullus navem adiit $2
-r:"^Player #1(.+?)started the ship.$"=Lūdēns I navem adiit $2
-r:"^Player #2(.+?)started the ship.$"=Lūdēns II navem adiit $2
-r:"^Player #3(.+?)started the ship.$"=Lūdēns III navem adiit $2
-r:"^Player #4(.+?)started the ship.$"=Lūdēns IV navem adiit $2
-r:"^Player #5(.+?)started the ship.$"=Lūdēns V navem adiit $2
+r:"^Player #0(.+?)started the ship(.+?)$"=Lūdēns nullus navem incēpit $2
+r:"^Player #1(.+?)started the ship(.+?)$"=Lūdēns I navem incēpit $2
+r:"^Player #2(.+?)started the ship(.+?)$"=Lūdēns II navem incēpit $2
+r:"^Player #3(.+?)started the ship(.+?)$"=Lūdēns III navem incēpit $2
+r:"^Player #4(.+?)started the ship(.+?)$"=Lūdēns IV navem incēpit $2
+r:"^Player #5(.+?)started the ship(.+?)$"=Lūdēns V navem incēpit $2
 
 r:"^(.+) was left behind."=$1 relictus est
 r:"^(Current input device: \n)(.*)$"=Instrumenta imposita praesēns: $2
@@ -183,7 +183,7 @@ r:"^(.*)Random seed(.*)$"=Forte semen $2
 r:"^SHIP: (.+)$"=NAVIS: $1
 # TODO potential roman numerals
 r:"^TOTAL: (.+)$"=Tōtus:  $1
-r:"^Value: (.+)"=Pretium: $1
+r:"^Value: \$(.+)"=Pretium: $1 AU
 r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=CAVE!\n Quaesō, redi tempore [tempus]. $1 Suffragium factum est, et nāvis gubernator relinquet.
 
 # S-Z

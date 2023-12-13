@@ -204,5 +204,7 @@ Walkie-talkie =Ambulans-loquēns
 Wedding ring =Annulus nūptiālis
 Wedding ring =Annulus nūptiālis
 Wedding ring=Annulus nūptiālis
+Whoopie Cushion=Saccus iocōsus
+Whoopie Cushion =Saccus iocōsus 
 Yield sign =Signum cessandī
 Zap gun =Sclopetum electricum
