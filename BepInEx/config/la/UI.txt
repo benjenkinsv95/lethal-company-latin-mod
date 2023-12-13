@@ -94,7 +94,23 @@ r:"^(.*) \n ?PM"=PM $1
 r:"^(.*) EXP$"=$1 EXP
 r:"^(.*) FPS$"=FPS $1
 
+
 r:"^(.+?)joined the ship(.+?)$"=$1 navem adiit $2
+r:"^Player #0(.+?)joined the ship(.+?)$"=Lūdēns nullus navem adiit $2
+r:"^Player #1(.+?)joined the ship(.+?)$"=Lūdēns I navem adiit $2
+r:"^Player #2(.+?)joined the ship(.+?)$"=Lūdēns II navem adiit $2
+r:"^Player #3(.+?)joined the ship(.+?)$"=Lūdēns III navem adiit $2
+r:"^Player #4(.+?)joined the ship(.+?)$"=Lūdēns IV navem adiit $2
+r:"^Player #5(.+?)joined the ship(.+?)$"=Lūdēns V navem adiit $2
+r:"^Player #0$"=Lūdēns nullus
+r:"^Player #1$"=Lūdēns I 
+r:"^Player #2$"=Lūdēns II 
+r:"^Player #3$"=Lūdēns III 
+r:"^Player #4$"=Lūdēns IV 
+r:"^Player #5$"=Lūdēns V 
+
+
+r:"^\Player #0$"=(Vidēns:  )
 
 # TODO potential roman numerals
 r:"^5 (Days|Day) Left$"=V Diēs Rēliquī
@@ -108,11 +124,19 @@ r:"^0 (Days|Day) Left$"=Nulla Diēs Rēliquī
 # TODO potential roman numerals
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī: $2\n ($3 corpora salvāta) 
 r:"^(.+) started the ship."=$1 nāvem incēpit.
+r:"^Player #0(.+?)started the ship.$"=Lūdēns nullus navem adiit $2
+r:"^Player #1(.+?)started the ship.$"=Lūdēns I navem adiit $2
+r:"^Player #2(.+?)started the ship.$"=Lūdēns II navem adiit $2
+r:"^Player #3(.+?)started the ship.$"=Lūdēns III navem adiit $2
+r:"^Player #4(.+?)started the ship.$"=Lūdēns IV navem adiit $2
+r:"^Player #5(.+?)started the ship.$"=Lūdēns V navem adiit $2
+
 r:"^(.+) was left behind."=$1 relictus est
 r:"^(Current input device: \n)(.*)$"=Instrumenta imposita praesēns: $2
 # TODO potential roman numerals
 r:"^\(([0-9]+)/([0-9]+) Votes\)$"=($1/$2 Suffrāgia)
 r:"^\(Spectating: Player\)$"=(Vidēns:  Lūdēns)
+
 r:"^\(Spectating: (.+)\)$"=(Vidēns:  $1)
 r:"^\[Cooldown : (.+)s\]$"=[Mora $1s]
 r:"^\[MODDED\](.+?)$"=[Mōdificātum]$1
