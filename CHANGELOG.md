@@ -1,4 +1,7 @@
 # Changelog
+# 1.1.16 Creatures have more beginner friendly entries
+The entries for creatures have been made more beginner friendly.
+
 # 1.1.15 Terminal becoming more friendly and rewrite intro tech screen into latin
 That orange tech screen
 
