@@ -56,6 +56,9 @@ Intern=Operarius minor
 # Inventarium shows up in ~AD 200
 Inventory full!=Inventārium plēnum!
 Item collected!=Res collēcta est!
+# Items missed!\nThe vehicle returned with your purchased items. Our delivery fee cannot be refunded.=Rēs neglēctae!\nCurrus, cum rēbus quās ēmistī, reversus est. Nōn licet mercedem trānsportātiōnis restituere.
+Items missed!=Rēs neglēctae!
+The vehicle returned with your purchased items. Our delivery fee cannot be refunded.=Currus, cum rēbus quās ēmistī, reversus est. Nōn licet mercedem trānsportātiōnis restituere.
 Lands the ship.=Navis descendit ad terram.
 Leader=Dux
 LOADING WORLD...=Ad mundum dēscendēns... 
@@ -78,7 +81,7 @@ Paycheck!=Merces!
 PERFORMANCE REPORT=RELATIO OPERIS
 # Something using Gubernator could be fun
 PILOT COMPUTER=Computātor Navigātōrius
-Player=Lūdēns
+Player=Lūsor
 Press "/" to talk.=Preme '/' loquī.
 Price=Pretium
 PRIVATE means you must send invites through Steam for players to join.=PRĪVĀTUS significat tē per Steam debēre mittere invītātiōnēs ut lūsōrēs sē iungant
@@ -96,18 +99,18 @@ r:"^(.*) FPS$"=FPS $1
 
 
 r:"^(.+?)joined the ship(.+?)$"=$1 navem adiit $2
-r:"^Player #0(.+?)joined the ship(.+?)$"=Lūdēns nullus navem adiit $2
-r:"^Player #1(.+?)joined the ship(.+?)$"=Lūdēns I navem adiit $2
-r:"^Player #2(.+?)joined the ship(.+?)$"=Lūdēns II navem adiit $2
-r:"^Player #3(.+?)joined the ship(.+?)$"=Lūdēns III navem adiit $2
-r:"^Player #4(.+?)joined the ship(.+?)$"=Lūdēns IV navem adiit $2
-r:"^Player #5(.+?)joined the ship(.+?)$"=Lūdēns V navem adiit $2
-r:"^Player #0$"=Lūdēns nullus
-r:"^Player #1$"=Lūdēns I 
-r:"^Player #2$"=Lūdēns II 
-r:"^Player #3$"=Lūdēns III 
-r:"^Player #4$"=Lūdēns IV 
-r:"^Player #5$"=Lūdēns V 
+r:"^Player #0(.+?)joined the ship(.+?)$"=Lūsor nullus navem adiit $2
+r:"^Player #1(.+?)joined the ship(.+?)$"=Lūsor I navem adiit $2
+r:"^Player #2(.+?)joined the ship(.+?)$"=Lūsor II navem adiit $2
+r:"^Player #3(.+?)joined the ship(.+?)$"=Lūsor III navem adiit $2
+r:"^Player #4(.+?)joined the ship(.+?)$"=Lūsor IV navem adiit $2
+r:"^Player #5(.+?)joined the ship(.+?)$"=Lūsor V navem adiit $2
+r:"^Player #0$"=Lūsor nullus
+r:"^Player #1$"=Lūsor I 
+r:"^Player #2$"=Lūsor II 
+r:"^Player #3$"=Lūsor III 
+r:"^Player #4$"=Lūsor IV 
+r:"^Player #5$"=Lūsor V 
 
 
 r:"^\Player #0$"=(Vidēns:  )
@@ -124,18 +127,18 @@ r:"^0 (Days|Day) Left$"=Nulla Diēs Rēliquī
 # TODO potential roman numerals
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī: $2\n ($3 corpora salvāta) 
 r:"^(.+) started the ship."=$1 nāvem incēpit.
-r:"^Player #0(.+?)started the ship(.+?)$"=Lūdēns nullus navem incēpit $2
-r:"^Player #1(.+?)started the ship(.+?)$"=Lūdēns I navem incēpit $2
-r:"^Player #2(.+?)started the ship(.+?)$"=Lūdēns II navem incēpit $2
-r:"^Player #3(.+?)started the ship(.+?)$"=Lūdēns III navem incēpit $2
-r:"^Player #4(.+?)started the ship(.+?)$"=Lūdēns IV navem incēpit $2
-r:"^Player #5(.+?)started the ship(.+?)$"=Lūdēns V navem incēpit $2
+r:"^Player #0(.+?)started the ship(.+?)$"=Lūsor nullus navem incēpit $2
+r:"^Player #1(.+?)started the ship(.+?)$"=Lūsor I navem incēpit $2
+r:"^Player #2(.+?)started the ship(.+?)$"=Lūsor II navem incēpit $2
+r:"^Player #3(.+?)started the ship(.+?)$"=Lūsor III navem incēpit $2
+r:"^Player #4(.+?)started the ship(.+?)$"=Lūsor IV navem incēpit $2
+r:"^Player #5(.+?)started the ship(.+?)$"=Lūsor V navem incēpit $2
 
 r:"^(.+) was left behind."=$1 relictus est
 r:"^(Current input device: \n)(.*)$"=Instrumenta imposita praesēns: $2
 # TODO potential roman numerals
 r:"^\(([0-9]+)/([0-9]+) Votes\)$"=($1/$2 Suffrāgia)
-r:"^\(Spectating: Player\)$"=(Vidēns:  Lūdēns)
+r:"^\(Spectating: Player\)$"=(Vidēns:  Lūsor)
 
 r:"^\(Spectating: (.+)\)$"=(Vidēns:  $1)
 r:"^\[Cooldown : (.+)s\]$"=[Mora $1s]
@@ -171,7 +174,14 @@ r:"^File 1$"=Tabella I
 r:"^File 2$"=Tabella II
 r:"^File 3$"=Tabella III
 r:"^MONITORING: (.+)$"=Vigilans:  $1
-r:"^MONITORING:(.+)Player$"=(Vigilans:  Lūdēns)
+r:"^MONITORING:(.+)Player$"=(Vigilans:  Lūsor)
+r:"^MONITORING:(.+)Player #0$"=(Vigilans:  Lūsor Nullus)
+r:"^MONITORING:(.+)Player #1$"=(Vigilans:  Lūsor I)
+r:"^MONITORING:(.+)Player #2$"=(Vigilans:  Lūsor II)
+r:"^MONITORING:(.+)Player #3$"=(Vigilans:  Lūsor III)
+r:"^MONITORING:(.+)Player #4$"=(Vigilans:  Lūsor IV)
+r:"^MONITORING:(.+)Player #5$"=(Vigilans:  Lūsor V)
+r:"^MONITORING:(.+)Player #6$"=(Vigilans:  Lūsor VI)
 Notes: \n=Notae \n
 r:"^Overtime bonus: (.+)$"=Extra tempus merces:  $1
 r:"^PROFIT QUOTA:\n\$([0-9]+) / \$([0-9]+)$"=QUOTA LŪCRĪ: \n$1 / $2\nAUREI 
@@ -191,7 +201,6 @@ Sell scrap for cash.=Vende reliquam pecuniam.
 Ship leaving in one hour=Navis in ūnā hōrā relinquet
 sr:"^(.+?)collected!$"=$1 collectum est！
 sr:"^Cause of death: (.+)$"=Causa mortis:  $1
-sr:"^Drop (.+?): \[G\]$"=ut $1 cadat: [G]
 sr:"^Spray : \[LMB\]$"=\nSparge: [LMB]
 sr:"^Shake can : \[Q\]$"=\nQuate amphoram: [Q]
 sr:"^Found journal entry: (.+)$"=Invēnī līber inscriptionis:  $1 
@@ -216,11 +225,13 @@ The laziest employee.=Operarius pigrissimus
 The host has not loaded or has already landed their ship.=Hospēs nōndum accessit aut iam nāvem suam ad terram attigit."
 The most paranoid employee.=Operarius suspiciosissimus
 TIP:=DONUM: 
+Tip=Monitum
+Press B to move and place objects in the ship, E to cancel.=Preme B ad rēs in nāvī movendās et ponendās, E ad relinquendum.
 TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=MONITUM!: Tene [RMB] ut suffrāgium mittās pro nāvī gubernātōre prius discedente.
 TO MEET PROFIT QUOTA=Ut Quota Lucrī Efficiātur
 To sell, use the terminal to route the ship to the company building.=Vendere, utere computātrum ut ducere navem ad aedificium collēgiī.
 TOTAL:=Tōtus: 
-Training manual=Liber disciplīnae
+Training manual=Liber operarii
 Typing...=Scribens...
 Uncapped=Sine limitibus
 Use the ship computer terminal to access secure doors.=Utere computātrum computrī nāvis ut intrare ianuas tutas.
@@ -240,4 +251,8 @@ You have 0 days left to meet the quota. Use the terminal to route to the company
 
 
 
-
+r:"^Climb(.+)"=Ascende$1
+sr:"^Drop (.+?): \[G\]$"=ut $1 cadat: [G]
+sr:"^Drop (.+?): \[B\]$"=ut $1 cadat: [B]
+# Unknown, but scared to modify
+sr:"^(.+) \((.+)\)(.+)"=TEST $1 ($2): $3

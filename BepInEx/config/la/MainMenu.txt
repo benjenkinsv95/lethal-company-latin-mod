@@ -94,5 +94,5 @@ Welcome!=Salvē!
 Window=Fenestra
 Windowed fullscreen=Fenestra plena
 Would you like to leave the game?=Visne relinquere lūsus?
-You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=In locale rete modo es. CAVE cōnexionēs remōtās (remote connections) per localem retem. Sī cōnexionēs remōtae licent, quaesō utī ignīs mūrum (firewall) et/vēl 'VPN' habeās.
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=In localis retis modo es. CAVE cōnexionēs remōtās (remote connections) per localem retem. Sī cōnexionēs remōtae licent, quaesō utī ignīs mūrum (firewall) et/vēl 'VPN' habeās.
 (Launched in LAN mode)=(Locali reti modo)

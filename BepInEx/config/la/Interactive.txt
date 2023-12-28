@@ -5,22 +5,26 @@
 [Cannot pull valve]=[Non possum trahere valvam]
 [Hands full]=[Manibus plenis]
 [Nothing to store]=[Nihil condere]
-[Pulling cord]=[Trahens funem]
+[Pulling cord]=[Trahens lineam]
 
 # Close: Wait while the ship [comes] to land
 [Wait for ship to land]=[Exspecta dum navis appropinquat terram]
 
 # A-M
-Access terminal : [E]=Uti computātrum : [E]
-Beam up : [E]=Ascende : [E]
+r:"^Access terminal(.+)"=Uti computātrum $1
+r:"^Beam up(.+)"=Ascende $1
 # "Electrifica rem" might also work, but seems less beginner friendly
-Charge item : [E]=Renova rem: [E]
+r:"^Charge item(.+)"=Renova rem$1
 
-Climb : [E]=Ascende: [E]
-Close door : [E]=Claude ianuam: [E]
+r:"^Climb(.+)"=Ascende$1
+r:"^Close door(.+)"=Claude ianuam$1
 Confirm: [B]   |   Rotate: [R]   |   Store: [X]=Cōnfirma: [B]   |   Rotā: [R]   |   Condē: [X]
+Confirm: [Y]   |   Rotate: [L-shoulder]   |   Store: [B]=Cōnfirma: [Y]   |   Rotā: [L-shoulder]   |   Condē: [B]
+
+
 # rumpo, perdo, and frango are tempting but imply they would break the speaker
-Disable speaker: [E]=Deactiva Loquentium: [E]
+r:"^Disable speaker(.+)"=Deactiva Loquentium$1
+# sr:"^Drop(.+?):(.+?)$"=ut $1 cadat: $2
 
 # Drop Airhorn : [G]
 # Drop Apparatus : [G]
@@ -79,86 +83,88 @@ Disable speaker: [E]=Deactiva Loquentium: [E]
 # Drop Yield sign : [G]
 # Drop Zap gun : [G]
 
-Enter : [E]=Intrā: [E]
-Enter: [E]=Intrā: [E]
-Exit : [E]=Exi: [E]
-Exit: [E]=Exi: [E]
+r:"^Enter(.+)"=Intrā$1
+r:"^Enter(.+)"=Intrā$1
+r:"^Exit(.+)"=Exi$1
+r:"^Exit(.+)"=Exi$1
 
 # TODO: Might be a better word for switch
-Fire : [LMB]=Ictūs : [LMB]
-Flip switch: [E]=Verte claviculam: [E]
-Flush: [E]=Emitte:[E]
-Get log : [E]=Sume commentarium: [E]
-Grab : [E]=Sume: [E]
-Grab: [E]=Sume: [E]
-Hit pumpkin : [E]=Pulsa Cucurbitam Pepo: [E]
+r:"^Fire(.+)"=Ictūs $1
+r:"^Flip switch(.+)"=Verte claviculam$1
+r:"^Flush(.+)"=Emitte:$1
+r:"^Get log(.+)"=Sume commentarium$1
+r:"^Grab(.+)"=Sume$1
+r:"^Grab(.+)"=Sume$1
+r:"^Hit pumpkin(.+)"=Pulsa Cucurbitam Pepo$1
 # Aspice is from LLPSI ch.8 to look at
-Inspect: [Z]=\nAspice: [Z]
-Land ship : [E]=Applica navem: [E]
-Let go : [E]=Relinque: [E]
+r:"^Inspect(.+)"=\nAspice$1
+r:"^Land ship(.+)"=Applica navem$1
+r:"^Let go(.+)"=Relinque$1
 
 # TODO: is this actual glass like vitrum?
-Lift glass : [E]=Tolle poculum: [E]
+r:"^Lift glass(.+)"=Tolle poculum$1
 
 # N-Z
-Open : [E]=Aperi: [E]
-Open door : [E]=Aperi ianuam: [E]
-Open gift : [LMB]=Aperi donum: [LMB]
-Open hatch : [E]=Aperi lucem: [E]
-Open hatch: [E]=Aperi lucem: [E]
-Open: [E]=Aperi: [E]
+r:"^Open(.+)"=Aperi$1
+r:"^Open door(.+)"=Aperi ianuam$1
+r:"^Open gift(.+)"=Aperi donum$1
+r:"^Open hatch(.+)"=Aperi lucem$1
+r:"^Open hatch(.+)"=Aperi lucem$1
+r:"^Open(.+)"=Aperi$1
 
 # TODO: Need to review usage, I'm unsure what the word for button is.
-Place on door : [LMB]=\nPone in ianuam: [LMB]
-Play record: [E]=Lude ludi orbem: [E]
-Pop up ladder : [LMB]=\nAscendē scālam : [LMB]
-Power button : [Q]=Mūta potentiam : [Q]
-Pull switch : [E]=Trahe claviculam: [E]
+r:"^Place on door(.+)"=\nPone in ianuam$1
+r:"^Play record(.+)"=Lude ludi orbem$1
+r:"^Pop up ladder(.+)"=\nAscendē scālam $1
+r:"^Power button(.+)"=Mūta potentiam $1
+r:"^Pull cord(.+) \((.+)\)"=Trāhe līneam$1 (Tene)
+r:"^Pull switch(.+)"=Trahe claviculam$1
 
-Quit terminal : [TAB]=Exi computātrum: [TAB]
-Reload : [C]=Replē : [C]
-Ring bell: [E]=Pulsā tintinnabulum: [E]
+r:"^Quit terminal(.+)"=Exi computātrum$1
+r:"^Quit terminal : \[Start\]"=Exi computātrum : [Incipe]
+r:"^Reload(.+)"=Replē $1
+r:"^Ring bell(.+)"=Pulsā tintinnabulum$1
 
 # Scande could work, Vide seems more beginner friendly
-Scan : [RMB]=Vide: [RMB]
-Sell item : [E]=Vende rem: [E]
-Send voice : [LMB]=Mitte vocem: [LMB]
-Set candles: [E]=Pone candēlābra: [E]
-Sprint: [Shift]=Curre: [Shift]
+r:"^Scan(.+)"=Vide$1
+r:"^Scan for threat:(.+)"=\nVide periculum$1
+r:"^Sell item(.+)"=Vende rem$1
+r:"^Send voice(.+)"=Mitte vocem$1
+r:"^Set candles(.+)"=Pone candēlābra$1
+r:"^Sprint(.+)"=Curre$1
 
 # Incipe LLPSI ch 13
-Start game : [E]=Incipe ludum: [E]
-Start ship : [E]=Incipe navem: [E]
-Store item : [E]=Conde rem: [E]
-Swing shovel : [LMB]=Move pilam: [LMB]
-Swing sign : [LMB]=\nMove signum: [LMB]
-Switch camera : [E]=Muta camaram: [E]
-Switch lights : [E]=Muta lucem: [E]
-Take TZP : [LMB]=Cape TZP: [LMB]
-Toggle light : [LMB]=\nMuta lucem: [LMB]
-Toggle laser : [LMB]=Muta indicem lucem: [LMB]
-Toggle music : [LMB]=Muta musicam : [LMB]
+r:"^Start game(.+)"=Incipe ludum$1
+r:"^Start ship(.+)"=Incipe navem$1
+r:"^Store item(.+)"=Conde rem$1
+r:"^Swing shovel(.+)"=Move pilam$1
+r:"^Swing sign(.+)"=\nMove signum$1
+r:"^Switch camera(.+)"=Muta camaram$1
+r:"^Switch lights(.+)"=Muta lucem$1
+r:"^Switch water(.+)"=Muta aquam$1
+r:"^Take TZP(.+)"=Cape TZP$1
+r:"^Toggle light(.+)"=\nMuta lucem$1
+r:"^Toggle laser(.+)"=Muta indicem lucem$1
+r:"^Toggle music(.+)"=Muta musicam $1
 
 # Aiming for a "Change power" or "Toggle power"
-Turn on booster : [LMB]=Activa propulsōrem : [LMB]
-Turn on/off : [E]=Muta potentiam: [E]
-Turn page : [Q/E]=\nVerte paginam: [Q/E]
-Turn safety on: [Q]=Modum tūtum āctīva : [Q]
-Turn safety off: [Q]=Modum tūtum dēsīne : [Q]
-Use airhorn : [LMB]=Uti cornū aereo: [LMB]
-Use cash register : [LMB]=Uti cistam pecuniārum : [LMB]
-Use door : [E]=Uti ianuam: [E]
-r:"^Use DYI-Flashbang : [(.*)]$"=TODO Uti DYI-Flashbang: [$1]
+r:"^Turn on booster(.+)"=Activa propulsōrem $1
+r:"^Turn on/off(.+)"=Muta potentiam$1
+r:"^Turn page(.+)"=\nVerte paginam$1
+r:"^Turn safety on(.+)"=Modum tūtum āctīva $1
+r:"^Turn safety off(.+)"=Modum tūtum dēsīne $1
+r:"^Use airhorn(.+)"=Uti cornū aereo$1
+r:"^Use cash register(.+)"=\nUti cistam pecuniārum $1
+r:"^Use door(.+)"=Uti ianuam$1
+r:"^Use DIY-Flashbang(.+)"=Uti DIY-Bombam stupidī$1
 r:"^\nDays: 0$"=$XXIV\nDiēs: 0
-Use grenade : [LMB]=Uti bombām: [LMB]
-Use hairdryer : [LMB]=Uti siccatorem capillforaris: [LMB]
-Use horn : [LMB]=Uti cornū: [LMB]
-Use jetpack : [LMB]=Utere saccō volante : [LMB]
-Use key : [LMB]=Uti clavem: [LMB]
-Use ladder : [E]=Uti scalam: [E]
-Use Large axle : [G]=Uti axem magnum: [E]
-Use remote : [LMB]=Uti remotum: [LMB]
-Walk : [W/A/S/D]=Ambula: [W/A/S/D]
+r:"^Use grenade(.+)"=Uti bombām$1
+r:"^Use hairdryer(.+)"=Uti siccatorem capillforaris$1
+r:"^Use horn(.+)"=Uti cornū$1
+r:"^Use jetpack(.+)"=Utere saccō volante $1
+r:"^Use key(.+)"=Uti clavem$1
+r:"^Use ladder(.+)"=Uti scalam$1
+r:"^Use Large axle(.+)=Uti axem magnum$1
+r:"^Use remote(.+)"=Uti remotum$1
+r:"^Walk(.+)"=Ambula$1
 
-# Unknown, but scared to modify
-sr:"^(.+) \((.+)\) : (.+)\n$"=$1 ($2): $3
