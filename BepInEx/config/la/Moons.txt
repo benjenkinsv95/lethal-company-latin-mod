@@ -5,3 +5,6 @@ Dangerous entities have been rumored to take residence in the vast network of tu
 None=Nihil
 Frozen, rocky. Its planet orbits a white dwarf star.=Glaciālis, saxeus. Planeta orbitat stēllam nānam albam.
 Unlikely for complex life to exist.=Improbabile est ut vitae sapiens existant.
+
+
+Unknown\nWhere the Company resides.\n=Ignotus\nUbi Collēgium habitat.\n
