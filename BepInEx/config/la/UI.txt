@@ -14,6 +14,7 @@ An error occurred!=Error factus est!
 # typo
 An error occured!=Error factus est!
 
+
 # This seems tough, displosio seems like a more modern word for explosion
 # https://www.latin-is-simple.com/en/vocabulary/noun/8622/
 Blast=Displosio
@@ -78,6 +79,8 @@ New creature data sent to terminal!=Animalibus novīs data ad computātrum missa
 NEW PROFIT QUOTA:=NOVA QUOTA LŪCRĪS: 
 None=Nihil
 Notes:=Notae:
+Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=Notae:\n* Operarius pigrissimus\n* Operarius suspiciosissimus\n* Plurima vulnera passus est
+
 Option A=Optio A
 Paycheck!=Merces!
 PERFORMANCE REPORT=RELATIO OPERIS
@@ -152,10 +155,11 @@ r:"^Body of (.+)$"=Corpus quod est [noun]
 r:"^Casualties \((.+)\): (.+)$"=Interfectī ($1): $2
 
 # r:"^CELESTIAL BODY: (.+?)$"=CORPUS COELESTIS: $1
+r:"^CELESTIAL BODY: 8 Titan$"=CORPUS COELESTIS: VIII Titan
 r:"^CELESTIAL BODY: 21 Offense$"=CORPUS COELESTIS: XXI Offense
 r:"^CELESTIAL BODY: 220 Assurance$"=CORPUS COELESTIS: CCXX Assurance
 r:"^CELESTIAL BODY: 31 March$"=CORPUS COELESTIS: XXXI March
-r:"^CELESTIAL BODY: 41 Experimentation$"=CORPUS COELESTIS: XLI Experimentation
+r:"^CELESTIAL BODY: 41 Experimentation$"=CORPUS COELESTIS: XLI Experimentum
 r:"^CELESTIAL BODY: 56 Vow$"=CORPUS COELESTIS: LVI Vow
 r:"^CELESTIAL BODY: 61 March$"=CORPUS COELESTIS: LXI March
 r:"^CELESTIAL BODY: 71 Gordion$"=CORPUS COELESTIS: LXXI Gordion
@@ -227,9 +231,11 @@ The autopilot will now attempt to fly to the closest safe spaceport. Your items 
 The Company must minimize risk of damage to proprietary hardware. Goodbye!=Collēgium dēbet minuere vulnus ad ferrāmentōrum suōrum. Valē!
 The file will NOT save! Your ship must be in orbit.=Tabella NON servābitur! Navis tua in orbitā esse debet.
 The laziest employee.=Operarius pigrissimus
+* The laziest employee.=* Operarius pigrissimus
 The host has not loaded or has already landed their ship.=Hospēs nōndum accessit aut iam nāvem suam ad terram attigit."
 The most paranoid employee.=Operarius suspiciosissimus
 * The most paranoid employee.=* Operarius suspiciosissimus
+* The most paranoid employee.\n* Sustained the most injuries.=* Operarius suspiciosissimus\n* Plurima vulnera passus est
 TIP:=DONUM: 
 Tip=Monitum
 Press B to move and place objects in the ship, E to cancel.=Preme B ad rēs in nāvī movendās et ponendās, E ad relinquendum.
