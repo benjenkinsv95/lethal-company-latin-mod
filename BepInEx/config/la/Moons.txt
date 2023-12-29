@@ -1,0 +1,7 @@
+8 Titan=VIII Titan
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Glaciālis, saxōsa. In hāc lūnā rēs quaesītae sunt. Facile est hīc errāre.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.\n=Perīculōsae rēs in cuniculīs habitant.\n
+
+None=Nihil
+Frozen, rocky. Its planet orbits a white dwarf star.=Glaciālis, saxeus. Planeta orbitat stēllam nānam albam.
+Unlikely for complex life to exist.=Improbabile est ut vitae sapiens existant.

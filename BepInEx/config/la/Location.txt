@@ -3,6 +3,7 @@
 
 # Planets/moons
 # Don't edit besides the roman numeral, since you need to be able to navigate to them
+7 Dine=VII Dine
 8 Titan=VIII Titan
 21 Offense=XXI Offensa
 220 Assurance=CCXX Fīdūcia
@@ -26,7 +27,6 @@ Ecosystem supports territorial behaviour.=Ecosystēma sustinet mōres territōri
 Expansive. Constant rain.=Lātum. Imber, constans.
 Flooded=Inundātum
 Foggy=Nebulōsum
-Frozen, rocky. Its planet orbits a white dwarf star.=Glaciālis, saxeus. Planeta orbitat stēllam nānam albam.
 HAZARD LEVEL:=GRADUS\nPERĪCULĪ:
 # Home camp. Sedes Domestica and Fundamentum Domus are tempting.
 Home base=Castra Domestica

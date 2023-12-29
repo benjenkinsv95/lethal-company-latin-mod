@@ -218,6 +218,9 @@ sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae:  \n* $1\n* $2\n* $3 \n* 
 sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\n$5
 sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\nWeather: (.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\nTempestās: $5
 sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=Circumdare：$1\nPōpulatio：$2\nCondiciōnēs：$3\nFauna：$4$5$6
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=Circumdare：$1\nPōpulatio：$2\nCondiciōnēs：$3\nFauna：$4\nTempestās：$5
+
 sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Pōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\n$5
 sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Pōpulatio: $1\nCondiciōnēs: $2\nFauna: $3
 # Simplified, but accurate-ish?
