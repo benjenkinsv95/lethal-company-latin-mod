@@ -93,6 +93,7 @@ Hairdryer=Siccator capillaris
 Hive =Alvus
 Hive=Alvus
 Homemade Flashbang=Bomba stupidī domēstica
+Homemade flashbang=Bomba stupidī domēstica
 Inverse Teleporter=Transportātor inversus
 Jack O' Lanter=Jack O' Lantern
 Jar of pickles =Amphora cucumerum

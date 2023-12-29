@@ -108,8 +108,8 @@ r:"^Lift glass(.+)"=Tolle poculum$1
 r:"^Open(.+)"=Aperi$1
 r:"^Open door(.+)"=Aperi ianuam$1
 r:"^Open gift(.+)"=Aperi donum$1
-r:"^Open hatch(.+)"=Aperi lucem$1
-r:"^Open hatch(.+)"=Aperi lucem$1
+r:"^Open hatch(.+)"=Aperi foramen$1
+r:"^Open hatch(.+)"=Aperi foramen$1
 r:"^Open(.+)"=Aperi$1
 
 # TODO: Need to review usage, I'm unsure what the word for button is.
@@ -118,6 +118,7 @@ r:"^Play record(.+)"=Lude ludi orbem$1
 r:"^Pop up ladder(.+)"=\nAscendē scālam $1
 r:"^Power button(.+)"=Mūta potentiam $1
 r:"^Pull cord(.+) \((.+)\)"=Trāhe līneam$1 (Tene)
+r:"^Pull pin(.+)"=Trahe clāvem$1
 r:"^Pull switch(.+)"=Trahe claviculam$1
 
 r:"^Quit terminal(.+)"=Exi computātrum$1
@@ -144,7 +145,7 @@ r:"^Switch camera(.+)"=Muta camaram$1
 r:"^Switch lights(.+)"=Muta lucem$1
 r:"^Switch water(.+)"=Muta aquam$1
 r:"^Take TZP(.+)"=Cape TZP$1
-r:"^Tell autopilot ship to leave early(.+)(Hold)"=Dīc nāvem gubernatōrem reliquere prius$1(Tene)
+r:"^Tell autopilot ship to leave early(.+)(Hold)"=Dīc nāvem gubernatōrem reliquere prius$1Tene)
 
 r:"^Toggle light(.+)"=\nMuta lucem$1
 r:"^Toggle laser(.+)"=Muta indicem lucem$1

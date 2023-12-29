@@ -5,7 +5,7 @@
   DISABLED=DEACTIVATUM
   LAN=   Locale\n   rete
   Online=   Interrete
-(Recommended)=   (Commendātum)
+(Recommended)=     Commendātum
 [ Back ]=[  Rētro  ]
 [ Confirm ]=[Confīrma]
 [ Continue ]=[    Perge    ]
@@ -78,7 +78,7 @@ MODE: Voice activation=MODUS: Vōcis Activatio
 # N-Z
 Name your server...=Nōmina Servātōrem Tuum...
 Online= Interrete
-r:"BG IG, A System"=     BG IG, Socius Agendi Systematis\n     Ius (C) MMXXXIV-MMCVIII, Halden Elctronicae\n\nGenus CPU                        : BORSON CCC CPU ad MMV MHz\nTentamen Memoria                 : CDLXXMMMDLXXXV K Recte\n\nApplicatio Distributeris Initium\nIus Litterarum (C) MMCVII Distributor\n     Invenio Aculeus X ROM\n     Invenio Tela LNV Extensor\n     Invenio Pulsus Recte\n\n\nUTGF Instrumentum Audiens...\n\nCORPUS      ID    Neuralis   Genus Instrumenti \n-----------------------------------------------\n\n    II     LII      JoCLII                HDXV   \n    II     LII      SaDXLV                HDXV    \n    II     LII      BolXXV                HDXV      \n    II     LII       EriDX                HDXV    \n     I   XXXVI   EllDLXVII                HDXV  \n     I   XXXVI    JosCMXII                HDXV\n Nulla 
+r:"BG IG, A System"=     BG IG, Socius Agendi Systematis\n     Ius (C) MMXXXIV-MMCVIII, Halden Elctronicae\n\nGenus CPU                : BORSON CCC CPU ad MMV MHz\nTentamen Memoria          : CDLXXMMMDLXXXV K Recte\n\nApplicatio Distributeris Initium\nIus Litterarum (C) MMCVII Distributor\n     Invenio Aculeus X ROM\n     Invenio Tela LNV Extensor\n     Invenio Pulsus Recte\n\n\nUTGF Instrumentum Audiens...\n\nCORPUS      ID    Neuralis   Genus Instrumenti \n-----------------------------------------------\n\n    II     LII      JoCLII                HDXV   \n    II     LII      SaDXLV                HDXV    \n    II     LII      BolXXV                HDXV      \n    II     LII       EriDX                HDXV    \n     I   XXXVI   EllDLXVII                HDXV  \n     I   XXXVI    JosCMXII                HDXV\n Nulla 
 r:"^Do you want to delete File (.+)\?$"=Visne Tabellam $1 Dēlēre?
 Save File=Servāta Tabella
 Server name:=Nōmen Servātōris: 
