@@ -1,5 +1,5 @@
 # Changelog
-# 1.1.19 Controller Support
+# 1.1.19 Controller Support & Some Asset Support
 Adds initial controller support translations to the game.
 
 # 1.1.17 LAN and Terminal Tweaks
