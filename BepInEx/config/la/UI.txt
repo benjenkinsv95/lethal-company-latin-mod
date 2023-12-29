@@ -103,7 +103,7 @@ r:"^(.*) EXP$"=$1 EXP
 r:"^(.*) FPS$"=FPS $1
 
 
-r:"^(.+)joined the ship.$"=$1 navem adiit
+r:"^(.+)joined the ship(.+)$"=$1 navem adiit
 r:"^Player #0(.+?)joined the ship(.+?)$"=Lūsor nullus navem adiit $2
 r:"^Player #1(.+?)joined the ship(.+?)$"=Lūsor I navem adiit $2
 r:"^Player #2(.+?)joined the ship(.+?)$"=Lūsor II navem adiit $2
