@@ -34,6 +34,7 @@ ACCESSIBILITY=Accessibil-\nitās
 Adjust screen brightness until the symbol on the right is barely visible.=Luminis schermi auge donec signum ad dextram vix videas.
 Allow remote connections=Permitte conexionēs remōtās
 An error occured when syncing the scene! The host might not have loaded in.=Error in scaena synchronizanda ortus est! Fortasse hospes nondum accessit.
+An error occured while spawning into the game. Please report the glitch!=Error in lūdō accidit. Quaeso, errātum nūntiā!
 Arachnophobia Mode=Modus Timōris Arāneārum
 Autosaving...=Automatice Servans...
 Back=Rētro

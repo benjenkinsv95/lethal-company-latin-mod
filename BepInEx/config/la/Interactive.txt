@@ -132,6 +132,7 @@ r:"^Sell item(.+)"=Vende rem$1
 r:"^Send voice(.+)"=Mitte vocem$1
 r:"^Set candles(.+)"=Pone candēlābra$1
 r:"^Sprint(.+)"=Curre$1
+r:"^Squeeze(.+)"=Premē$1
 
 # Incipe LLPSI ch 13
 r:"^Start game(.+)"=Incipe ludum$1
@@ -143,6 +144,8 @@ r:"^Switch camera(.+)"=Muta camaram$1
 r:"^Switch lights(.+)"=Muta lucem$1
 r:"^Switch water(.+)"=Muta aquam$1
 r:"^Take TZP(.+)"=Cape TZP$1
+r:"^Tell autopilot ship to leave early(.+)(Hold)"=Dīc nāvem gubernatōrem reliquere prius$1(Tene)
+
 r:"^Toggle light(.+)"=\nMuta lucem$1
 r:"^Toggle laser(.+)"=Muta indicem lucem$1
 r:"^Toggle music(.+)"=Muta musicam $1

@@ -206,5 +206,7 @@ Wedding ring =Annulus nūptiālis
 Wedding ring=Annulus nūptiālis
 Whoopie Cushion=Saccus iocōsus
 Whoopie Cushion =Saccus iocōsus 
+Whoopie cushion=Saccus iocōsus
+Whoopie cushion =Saccus iocōsus 
 Yield sign =Signum cessandī
 Zap gun =Sclopetum electricum

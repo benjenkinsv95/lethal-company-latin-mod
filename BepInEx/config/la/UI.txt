@@ -46,11 +46,13 @@ Employee=Operarius
 Error! Could not get the lobby data. Are you offline?=Error! Non potui data servātōris accipere. Num in lineā non es?
 
 Fines=Poenae
+FIRE EXIT=EXITUS IGNIS
 Got scrap!=Reliquiam sumpsī!
 # https://morcus.net/dicts?q=gunshot,SnH
 Gunshots=Ictus sclopeti
 HANDS FULL=MANUS PLENAE
 HALT!=Exspectā!
+HOW WAS YOUR DAY?=QUID HODIĒ FĒCISTĪ?
 # Lesser worker
 Intern=Operarius minor
 # Inventarium shows up in ~AD 200
@@ -98,7 +100,7 @@ r:"^(.*) EXP$"=$1 EXP
 r:"^(.*) FPS$"=FPS $1
 
 
-r:"^(.+?)joined the ship(.+?)$"=$1 navem adiit $2
+r:"^(.+)joined the ship.$"=$1 navem adiit
 r:"^Player #0(.+?)joined the ship(.+?)$"=Lūsor nullus navem adiit $2
 r:"^Player #1(.+?)joined the ship(.+?)$"=Lūsor I navem adiit $2
 r:"^Player #2(.+?)joined the ship(.+?)$"=Lūsor II navem adiit $2
@@ -127,6 +129,9 @@ r:"^0 (Days|Day) Left$"=Nulla Diēs Rēliquī
 # TODO potential roman numerals
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī: $2\n ($3 corpora salvāta) 
 r:"^(.+) started the ship."=$1 nāvem incēpit.
+# departed (simpler)
+r:"^(.+) disconnected."=$1 abīvit.
+r:"^(.+) was kicked."=$1 calcātus est.
 r:"^Player #0(.+?)started the ship(.+?)$"=Lūsor nullus navem incēpit $2
 r:"^Player #1(.+?)started the ship(.+?)$"=Lūsor I navem incēpit $2
 r:"^Player #2(.+?)started the ship(.+?)$"=Lūsor II navem incēpit $2
@@ -198,12 +203,13 @@ r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship
 
 # S-Z
 Sell scrap for cash.=Vende reliquam pecuniam.
+> Set to defaults=> Redde Ad Prīstinum Statum
 Ship leaving in one hour=Navis in ūnā hōrā relinquet
 sr:"^(.+?)collected!$"=$1 collectum est！
 sr:"^Cause of death: (.+)$"=Causa mortis:  $1
 sr:"^Spray : \[LMB\]$"=\nSparge: [LMB]
 sr:"^Shake can : \[Q\]$"=\nQuate amphoram: [Q]
-sr:"^Found journal entry: (.+)$"=Invēnī līber inscriptionis:  $1 
+r:"^Found journal entry(.+)"=Invēnī līber inscriptionis$1 
 sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae:  \n* $1\n* $2\n* $3 \n* $4\n
 sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\n$5
 sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\nWeather: (.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\nTempestās: $5
@@ -216,7 +222,6 @@ Stats=Numeri
 Strangulation=Strangulātiō
 Sustained the most injuries.=Sustinet plūrimā vulnera.
 SYSTEMS ONLINE=SYSTEMAE INTERRETE
-Tell autopilot ship to leave early : [RMB] (Hold)=Dīc nāvem gubernatōrem reliquere prius: [RMB] (Tene)
 Terminal=Computātrum
 The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Gubernator nunc conabitur ad proximum portum spatii tūtum volāre. Res tuae abiectae sunt.
 The Company must minimize risk of damage to proprietary hardware. Goodbye!=Collēgium dēbet minuere vulnus ad ferrāmentōrum suōrum. Valē!
@@ -224,6 +229,7 @@ The file will NOT save! Your ship must be in orbit.=Tabella NON servābitur! Nav
 The laziest employee.=Operarius pigrissimus
 The host has not loaded or has already landed their ship.=Hospēs nōndum accessit aut iam nāvem suam ad terram attigit."
 The most paranoid employee.=Operarius suspiciosissimus
+* The most paranoid employee.=* Operarius suspiciosissimus
 TIP:=DONUM: 
 Tip=Monitum
 Press B to move and place objects in the ship, E to cancel.=Preme B ad rēs in nāvī movendās et ponendās, E ad relinquendum.

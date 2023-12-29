@@ -1,4 +1,7 @@
 # Changelog
+# 1.1.19 Controller Support
+Adds initial controller support translations to the game.
+
 # 1.1.17 LAN and Terminal Tweaks
 The entries for creatures have been made more beginner friendly.
 
