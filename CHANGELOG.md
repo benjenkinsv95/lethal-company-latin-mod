@@ -1,4 +1,7 @@
 # Changelog
+# 1.1.20 Posters are somewhat supported
+Posters don't include latin or english. Will need to add Latin in the future.
+
 # 1.1.19 Controller Support & Some Asset Support
 Adds initial controller support translations to the game.
 

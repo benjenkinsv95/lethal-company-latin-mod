@@ -10,10 +10,11 @@ This project is a Latin translation of Lethal Company.
 Install the thunderstore mod manager:
 1. [Download Thunderstore Mod Manager Here](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) (Download and follow installer)
 
-Install the latin mod (and 2 mods it depends on):
+Install the latin mod (and 3 mods it depends on):
 1. [BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
-2. [New Terminal](https://thunderstore.io/c/lethal-company/p/Aavild/NewTerminal/)
-3. [Lethal Company Latin Localization](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/)
+2. [New Terminal - For Translating the terminal](https://thunderstore.io/c/lethal-company/p/Aavild/NewTerminal/)
+3. [Lethal Posters - For translating posters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/)
+4. [Lethal Company Latin Localization](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/)
 
 After you have the mod manager downloaded, downloading the mods is as simple as clicking "Install with Mod Manager" on all 3 of the mod links.
 
