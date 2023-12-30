@@ -16,11 +16,11 @@ Install the latin mod (and 3 mods it depends on):
 3. [Lethal Posters - For translating posters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/)
 4. [Lethal Company Latin Localization](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/)
 
-After you have the mod manager downloaded, downloading the mods is as simple as clicking "Install with Mod Manager" on all 3 of the mod links.
+After you have the mod manager downloaded, downloading the mods is as simple as clicking "Install with Mod Manager" on all 4 of the mod links.
 
 ![image](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/95a5a736-387e-42e5-bea8-a904a8287b7d)
 
-Once all 3 mods are installed, you can play it in latin by clicking the "Modded play" button at the top
+Once all 4 mods are installed, you can play it in latin by clicking the "Modded play" button at the top
 
 ![image](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/22ef1cc2-c2c2-4b4d-aa8d-0039b5117757)
 
@@ -28,11 +28,10 @@ Once all 3 mods are installed, you can play it in latin by clicking the "Modded 
 ## Future Improvements
 
 Note: I will be working on:
-1. removing the remaining English in the game (I know about and am having trouble replacing 'Random seed', I think the loading screen with tech info is an image)
-2. ensuring items are in the correct cases where they are being used (nom vs acc. etc.)
-3. reviewing the translations in the terminal (some english remains until NewTerminal is updated. Also still need to re-review verbs after 41-Experimentation, besides creatures which have been re-generated and reviewed)
-4. (Potential) eventually replacing english text assets (like the posters or potentially the text in the folder, 'COLLECTED', 'DECEASED', 'No survivors', 'GRADE', LOST ALL SCRAP)
-5. remaining version 45 translation updates (change keybinds page)
+1. removing the remaining English in the game (I know about and am having trouble replacing 'Random seed')
+2. reviewing the translations in the terminal (some english remains until NewTerminal is updated. Also still need to re-review verbs after 41-Experimentation, besides creatures which have been re-generated and reviewed)
+3. (Potential) Replace more english text assets (like the posters or potentially the text in the folder, 'COLLECTED', 'DECEASED', 'No survivors', 'GRADE', LOST ALL SCRAP)
+4. remaining version 45 translation updates (change keybinds page)
 
 All of the translations can be found in the files linked below.
 
