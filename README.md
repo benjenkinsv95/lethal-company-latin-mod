@@ -28,7 +28,7 @@ Once all 4 mods are installed, you can play it in latin by clicking the "Modded 
 ## Future Improvements
 
 Note: I will be working on:
-1. removing the remaining English in the game (I know about and am having trouble replacing 'Random seed')
+1. removing the remaining English in the game (I know about and am having trouble replacing 'Random seed'. Also having trouble with the bill showing what we sold at the company)
 2. reviewing the translations in the terminal (some english remains until NewTerminal is updated. Also still need to re-review verbs after 41-Experimentation, besides creatures which have been re-generated and reviewed)
 3. (Potential) Replace more english text assets (I have assets for the stop sign, sigurd sticky note, and more. But I don't know the specific name to replace for the assets.)
 4. remaining version 45 translation updates (change keybinds page)

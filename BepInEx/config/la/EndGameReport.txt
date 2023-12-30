@@ -1,0 +1,16 @@
+# "Lucrātissimus" specifically means "most lucrative" or "most profitable in terms of financial gain."
+# "Fructuosissimus" means "most fruitful" or "most profitable" in a broader sense, including not just financial gain but also overall productivity or benefits.
+r:"(.*)Most profitable(.*)"=$1Lucrātissimus\n
+r:"(.*)The laziest employee(.*)"=$1Operarius pigrissimus\n
+r:"(.*)The most paranoid employee(.*)"=$1Operarius suspiciosissimus\n
+
+# The most paranoid employee.=Operarius suspiciosissimus
+
+# * The most paranoid employee.=* Operarius suspiciosissimus
+# * The most paranoid employee.\n* Sustained the most injuries.=* Operarius suspiciosissimus\n* Plurima vulnera passus est
+# Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=Notae:\n* Operarius pigrissimus\n* Operarius suspiciosissimus\n* Plurima vulnera passus est
+# Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=Примечания:\n* Самый ленивый сотрудник\n* Самый параноидальный сотрудник\n* Получил большинство урона
+
+r:"(.*)Sustained the most injuries(.*)"=$1Sustinet plūrimā vulnera\n
+# * Sustained the most injuries.=* Sustinet plūrimā vulnera.
+

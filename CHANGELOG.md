@@ -1,4 +1,7 @@
 # Changelog
+# 1.1.23 Posters are all translated
+Endgame report is translated (most lazy, most profitable, most injuries)
+
 # 1.1.21 Posters are all translated
 The photoshop skills could be better, but they are translated for now.
 
