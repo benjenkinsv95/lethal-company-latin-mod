@@ -131,6 +131,8 @@ Pickle jar=Amphora cucumerum
 # Bottle of medicine
 Pill Bottle =Amphora medicinārum
 Pill Bottle=Amphora medicinārum
+Pill bottle =Amphora medicinārum
+Pill bottle=Amphora medicinārum
 # Tempted to use falsus, instead of plasticus
 Plastic fish =Piscis plasticus
 Plastic fish=Piscis plasticus

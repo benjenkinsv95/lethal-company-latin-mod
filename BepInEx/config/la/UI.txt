@@ -103,8 +103,8 @@ r:"^(.*) EXP$"=$1 EXP
 r:"^(.*) FPS$"=FPS $1
 
 
-# r:"^(.+)joined the ship.$"=$1 navem adiit
-r:"([\s\S]+) joined the ship.="=$1 navem adiit.
+r:"(.+)joined the ship"=$1navem adiit
+# r:"([\s\S]+) joined the ship."=$1 navem adiit.
 r:"^Player #0(.+?)joined the ship(.+?)$"=Lūsor nullus navem adiit $2
 r:"^Player #1(.+?)joined the ship(.+?)$"=Lūsor I navem adiit $2
 r:"^Player #2(.+?)joined the ship(.+?)$"=Lūsor II navem adiit $2
@@ -118,8 +118,7 @@ r:"^Player #3$"=Lūsor III
 r:"^Player #4$"=Lūsor IV 
 r:"^Player #5$"=Lūsor V 
 
-
-r:"^\Player #0$"=(Vidēns:  )
+# r:"^Player #0$"=(Vidēns:  )
 
 # TODO potential roman numerals
 r:"^5 (Days|Day) Left$"=V Diēs Rēliquī
@@ -132,12 +131,12 @@ r:"^0 (Days|Day) Left$"=Nulla Diēs Rēliquī
 # Using servata
 # TODO potential roman numerals
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī: $2\n ($3 corpora salvāta) 
-r:"^(.+)started the ship"=$1nāvem incēpit.
+r:"(.+)started the ship"=$1nāvem incēpit.
 # departed (simpler)
+r:"(.+)disconnected"=$1abīvit.
+r:"(.+)was kicked"=$1calcātus est.
+r:"(.+)was left behind"=$1relictus est.
 r:"^The server host disconnected."=Hospes Servātōris abīvit.
-r:"^(.+)disconnected"=$1abīvit.
-r:"^(.+)was kicked"=$1calcātus est.
-s=r:"^(.+?)was left behind"=$1 relictus est.
 r:"^Player #0(.+?)started the ship(.+?)$"=Lūsor nullus navem incēpit $2
 r:"^Player #1(.+?)started the ship(.+?)$"=Lūsor I navem incēpit $2
 r:"^Player #2(.+?)started the ship(.+?)$"=Lūsor II navem incēpit $2
@@ -204,8 +203,8 @@ r:"^(.*)Random seed(.*)$"=Forte semen $2
 
 r:"^SHIP: (.+)$"=NAVIS: $1
 # TODO potential roman numerals
-r:"^TOTAL: (.+)$"=Tōtus:  $1
-r:"^Value: \$(.+)"=Pretium: $1 AU
+r:"^TOTAL: (.+)$"=Tōtus: $1
+# r:"^Value: \$(.+)"=Pretium: $1 AU
 r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=CAVE!\n Quaesō, redi tempore [tempus]. $1 Suffragium factum est, et nāvis gubernator relinquet.
 
 # S-Z
@@ -253,7 +252,7 @@ Press B to move and place objects in the ship, E to cancel.=Preme B ad rēs in n
 TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=MONITUM!: Tene [RMB] ut suffrāgium mittās pro nāvī gubernātōre prius discedente.
 TO MEET PROFIT QUOTA=\nUt Quota Lucrī Efficiātur
 To sell, use the terminal to route the ship to the company building.=Vendere, utere computātrum ut ducere navem ad aedificium collēgiī.
-TOTAL:=Tōtus: 
+TOTAL:=Tōtus:
 Training manual=Liber operarii
 Typing...=Scribens...
 Uncapped=Sine limitibus

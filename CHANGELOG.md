@@ -1,4 +1,7 @@
 # Changelog
+# 1.1.21 Posters are all translated
+The photoshop skills could be better, but they are translated for now.
+
 # 1.1.20 Posters are somewhat supported
 Posters don't include latin or english. Will need to add Latin in the future.
 
