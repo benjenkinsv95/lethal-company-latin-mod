@@ -10,28 +10,28 @@ This project is a Latin translation of Lethal Company.
 Install the thunderstore mod manager:
 1. [Download Thunderstore Mod Manager Here](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) (Download and follow installer)
 
-Install the latin mod (and 3 mods it depends on):
+Install the latin mod (and 4 mods it depends on):
 1. [BepInExPack](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
 2. [New Terminal - For Translating the terminal](https://thunderstore.io/c/lethal-company/p/Aavild/NewTerminal/)
 3. [Lethal Posters - For translating posters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/)
-4. [Lethal Company Latin Localization](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/)
+4. [(Optional) Lethal Paintings - For replacing paintings with Latin/roman paintings](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPaintings/)
+5. [Lethal Company Latin Localization](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/)
 
-After you have the mod manager downloaded, downloading the mods is as simple as clicking "Install with Mod Manager" on all 4 of the mod links.
+After you have the mod manager downloaded, downloading the mods is as simple as clicking "Install with Mod Manager" on all 5 of the mod links.
 
 ![image](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/95a5a736-387e-42e5-bea8-a904a8287b7d)
 
-Once all 4 mods are installed, you can play it in latin by clicking the "Modded play" button at the top
+Once all 5 mods are installed, you can play it in latin by clicking the "Modded play" button at the top
 
 ![image](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/22ef1cc2-c2c2-4b4d-aa8d-0039b5117757)
 
 
 ## Future Improvements
 
-Note: I will be working on:
-1. removing the remaining English in the game (I know about and am having trouble replacing 'Random seed'. Also having trouble with the bill showing what we sold at the company)
-2. reviewing the translations in the terminal (some english remains until NewTerminal is updated. Also still need to re-review verbs after 41-Experimentation, besides creatures which have been re-generated and reviewed)
+1. Removing the remaining English in the game (I know about and am having trouble replacing 'Random seed'. Also having trouble with the bill showing what we sold at the company)
+2. Reviewing the translations in the terminal (some english remains until NewTerminal is updated. Also still need to re-review verbs after 41-Experimentation, besides creatures which have been re-generated and reviewed)
 3. (Potential) Replace more english text assets (I have assets for the stop sign, sigurd sticky note, and more. But I don't know the specific name to replace for the assets.)
-4. remaining version 45 translation updates (change keybinds page)
+4. Remaining version 45 translation updates (change keybinds page)
 
 All of the translations can be found in the files linked below.
 

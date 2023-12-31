@@ -1,4 +1,7 @@
 # Changelog
+# 1.1.24 Paintings are latin/rome related
+Paintings are now latin or rome related.
+
 # 1.1.23 Posters are all translated
 Endgame report is translated (most lazy, most profitable, most injuries)
 
