@@ -1,12 +1,13 @@
 {
     "name": "Lethal_Company_Latin_Localization",
-    "version_number": "1.1.24",
+    "version_number": "1.1.25",
     "website_url": "https://github.com/benjenkinsv95/lethal-company-latin-mod",
     "description": "Lethal Company Latin Translation",
     "dependencies":
 	[
 	"BepInEx-BepInExPack-5.4.2100",
 	"Aavild-NewTerminal-1.4.0",
-    "femboytv-LethalPosters-1.2.0"
+    "femboytv-LethalPosters-1.2.0",
+    "femboytv-LethalPaintings-1.2.0"
 	]
 }
