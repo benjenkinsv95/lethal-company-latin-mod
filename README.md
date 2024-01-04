@@ -32,6 +32,8 @@ Once all 5 mods are installed, you can play it in latin by clicking the "Modded 
 2. (Potential) Replace more english text assets (I have assets for the stop sign, sigurd sticky note, and more. But I don't know the specific name to replace for the assets.)
 3. Remaining version 45 translation updates (change keybinds page)
 4. Use a font that supports macrons
+5. Various tweaks suggested on discord
+6. Rename crew from grex to operarius throughout
 
 All of the translations can be found in the files linked below.
 

@@ -33,7 +33,7 @@ Continue=Perge
 Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Cōnnectiō ad servātōrēs STEAM dēfēcit!
 (Sī in retī locālī sōlum lūdere cupis,
 ēlige 'Locale Rete' cum lūdum incipis.)
-CREW:=GREX: 
+CREW:=OPERĀRIĪ:
 
 # vulnus llpsi ch 33, cicero uses criticus in Ad Familiares IX
 CRITICAL INJURY=VULNUS CRITICUS
@@ -44,7 +44,7 @@ DOOR HYDRAULICS:=Ianua Hydraulica:
 Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Nunc, abiice tuas res metallicas! Electricitas animadversa est.  Secunda tibi superfuerunt ut vīvās.
 EMPLOYEE RANK=GRADUS OPERARIORUM
 Employee=Operarius
-Error! Could not get the lobby data. Are you offline?=Error! Non potui data servātōris accipere. Num in lineā non es?
+Error! Could not get the lobby data. Are you offline?=Error! Non potui data servātōris accipere. Nonne in interrēte es?
 
 Fines=Poenae
 FIRE EXIT=EXITUS IGNIS
@@ -251,8 +251,8 @@ Value: ???=Pretium:  ???
 VISIBILITY LOW!\n\nSteam leak detected in area=VISIBILITAS PARVA!\n\nVaporis perfluita invenitur in loco.
 Voice volume=Magnitūdō Vōcis
 Voted for ship to leave early=Censuit ut nāvis relinquat, prius.
-Waiting for crew...=Grege exspectans...
-Warning! No response from crew, which has not returned. Emergency code activated.=CAVE! Nūlla responsiō ā grege, quae nōn rediit. Cōdex periculi actum est.
+Waiting for crew...=Operāriīs exspectantibus...
+Warning! No response from crew, which has not returned. Emergency code activated.=CAVE! Nūlla respōnse ā operāriīs, quī nōn rediērunt. Cōdex emergentiae activātus est.
 WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=CAVE!!! Nāvis gubernātor ad mediam noctem relinquet. Celeriter redi, quaesō.
 Weather alert!=Tempestās, cavē!
 YOU ARE FIRED.=DĪSMISSUS ES.
