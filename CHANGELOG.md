@@ -1,4 +1,7 @@
 # Changelog
+# 1.1.31 Various grammar updates and more roman numerals
+More grammar updates, addressing more feedback from Hadrian, and added many keybindings.
+
 # 1.1.29 Various grammar updates and more roman numerals
 Dropping, collecting, and using items now all match the gender and number. Depone used for dropping.
 
