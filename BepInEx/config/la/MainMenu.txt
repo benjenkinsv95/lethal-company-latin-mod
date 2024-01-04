@@ -42,7 +42,6 @@ BACK=Rētro
 > Change keybinds=> Mūtā nexūs clāvium
 CONFIRM= Cōnfirma
 Confirm=Cōnfirma
-CONTROLS=Optiōnēs
 Cosmetics Enabled:=Indumenta Acta: 
 Credits=Crēdita
 Crew Size:=Magnitūdō Operāriōrum:

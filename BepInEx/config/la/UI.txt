@@ -193,7 +193,7 @@ Notes: \n=Notae \n
 r:"^Overtime bonus: (.+)$"=Extra tempus merces:  $1
 r:"^PROFIT QUOTA:\n\$([0-9]+) / \$([0-9]+)$"=QUOTA LŪCRĪ: \n$1 / $2\nAUREI 
 # r:"^(.*)Random seed: ([0-9]+)(.*)$"=Forte semen: $2
-r:"^(.*)Random seed(.*)$"=Forte semen $2
+r:"^(.*)Random seed(.*)"=Forte semen $2
 
 
 
