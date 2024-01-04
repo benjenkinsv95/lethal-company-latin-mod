@@ -6,17 +6,19 @@
 [Hands full]=[Manibus plenis]
 [Nothing to store]=[Nihil condere]
 [Pulling cord]=[Trahens lineam]
+[Pulling valve]=[Trahens valvam]
 
 # Close: Wait while the ship [comes] to land
 [Wait for ship to land]=[Exspecta dum navis appropinquat terram]
 
 # A-M
-r:"^Access terminal(.+)"=Uti computātrum $1
+r:"^Access terminal(.+)"=Utēre computātrum $1
 r:"^Beam up(.+)"=Ascende $1
 # "Electrifica rem" might also work, but seems less beginner friendly
 r:"^Charge item(.+)"=Renova rem$1
 
 r:"^Climb(.+)"=Ascende$1
+r:"^Close(.+)"=Claude$1
 r:"^Close door(.+)"=Claude ianuam$1
 Confirm: [B]   |   Rotate: [R]   |   Store: [X]=Cōnfirma: [B]   |   Rotā: [R]   |   Condē: [X]
 Confirm: [Y]   |   Rotate: [L-shoulder]   |   Store: [B]=Cōnfirma: [Y]   |   Rotā: [L-shoulder]   |   Condē: [B]
@@ -26,62 +28,121 @@ Confirm: [Y]   |   Rotate: [L-shoulder]   |   Store: [B]=Cōnfirma: [Y]   |   Ro
 r:"^Disable speaker(.+)"=Deactiva Loquentium$1
 # sr:"^Drop(.+?):(.+?)$"=ut $1 cadat: $2
 
-# Drop Airhorn : [G]
-# Drop Apparatus : [G]
-# Drop Bee hive : [G]
-# Drop Big bolt : [G]
-# Drop Boombox : [G]
-# Drop Bottles : [G]
-# Drop Brass bell : [G]
-# Drop Candy : [G]
-# Drop Cash register : [G]
-# Drop Chemical jug : [G]
-# Drop clipboard : [G]
-# Drop Clown horn : [G]
-# Drop Coffee mug : [G]
-# Drop Cookie mold pan : [G]
-# Drop Dust pan : [G]
-# Drop Egg beater : [G]
-# Drop Extension ladder : [G]
-# Drop Fancy lamp : [G]
-# Drop Flashlight : [G]
-# Drop Gold bar : [G]
-# Drop Golden cup : [G]
-# Drop Hair brush : [G]
-# Drop Jar of pickles : [G]
-# Drop Jetpack : [G]
-# Drop Key : [G]
-# Drop Large axle : [G]
-# Drop Laser pointer : [G]
-# Drop Lockpicker : [G]
-# Drop Magnifying glass : [G]
-# Drop Metal sheet : [G]
-# Drop Mug : [G]
-# Drop Old phone : [G]
-# Drop Painting : [G]
-# Drop Perfume bottle : [G]
-# Drop Pill bottle : [G]
-# Drop Plastic fish : [G]
-# Drop Pro-flashlight : [G]
-# Drop Radar-booster : [G]
-# Drop Red soda : [G]
-# Drop Robot Toy : [G]
-# Drop Rubber Ducky : [G]
-# Drop Steering wheel : [G]
-# Drop Sticky note : [G]
-# Drop Stop sign : [G]
-# Drop Stun grenade : [G]
-# Drop Tattered metal sheet : [G]
-# Drop Tea kettle : [G]
-# Drop Teeth : [G]
-# Drop Toothpaste : [G]
-# Drop Toy cube : [G]
-# Drop TZP-Inhalant : [G]
-# Drop V-type engine : [G]
-# Drop Walkie-talkie : [G]
-# Drop Wedding ring : [G]
-# Drop Yield sign : [G]
-# Drop Zap gun : [G]
+r:"^Drop Airhorn(.+)"=Depone cornū aureum$1
+r:"^Drop Apparatice(.+)"=Depone apparātum$1
+r:"^Drop Apparatus(.+)"=Depone apparātum$1
+r:"^Drop Bee hive(.+)"=Depone alvum apum$1
+r:"^Drop Bell(.+)"=Depone tintinnābulum$1
+r:"^Drop Big bolt(.+)"=Depone paxillum magnum$1
+r:"^Drop Body(.+)"=Depone corpus$1
+r:"^Drop Boombox(.+)"=Depone arcās sonōrum$1
+r:"^Drop Bottles(.+)"=Depone amphorās bibendī$1
+r:"^Drop Brass bell(.+)"=Depone tintinnābulum āneum$1
+r:"^Drop Brush(.+)"=Depone scōpam$1
+r:"^Drop Bubblegum(.+)"=Depone gummi bullātum$1
+r:"^Drop Cash register(.+)"=Depone cistam pecūniārum$1
+r:"^Drop Chemical Jug(.+)"=Depone amphoram chemicōrum$1
+r:"^Drop Clown horn(.+)"=Depone cornū scūrrae$1
+r:"^Drop Candy(.+)"=Depone dulcia$1
+r:"^Drop clipboard(.+)"=Depone tabellam annotationum$1
+r:"^Drop Coffee mug(.+)"=Depone poculum coffeae$1
+r:"^Drop Cog(.+)"=Depone rotam dentātam$1
+r:"^Drop Comedy(.+)"=Depone coemediam$1
+r:"^Drop Cookie mold pan(.+)"=Depone formam crustulōrum$1
+r:"^Drop Dentures(.+)"=Depone dentēs artificiālēs$1
+r:"^Drop Dog toy(.+)"=Depone automatonem canīnum$1
+r:"^Drop Dust pan(.+)"=Depone palam pulveris$1
+r:"^Drop Echo Scanner(.+)"=Depone echō sonātōrem$1
+r:"^Drop Egg beater(.+)"=Depone verberātrīcem ovōrum$1
+r:"^Drop Extension ladder(.+)"=Depone scālam prōtrahendam$1
+r:"^Drop Extension Ladder(.+)"=Depone scālam prōtrahendam$1
+r:"^Drop Fancy lamp(.+)"=Depone lucernam magnificam$1
+r:"^Drop Fancy ring(.+)"=Depone annulum magnificum$1
+r:"^Drop Fish toy(.+)"=Depone automatonem piscium$1
+r:"^Drop Flashlight(.+)"=Depone lūmen portābile$1
+r:"^Drop Flask(.+)"=Depone amphoram$1
+r:"^Drop Gearbox(.+)"=Depone gearbox$1
+r:"^Drop Gift(.+)"=Depone donum$1
+r:"^Drop Gold Bar(.+)"=Depone tāleam auream$1
+r:"^Drop Gold bar(.+)"=Depone tāleam auream$1
+r:"^Drop Golden Cup(.+)"=Depone poculum aureum$1
+r:"^Drop Golden cup(.+)"=Depone poculum aureum$1
+r:"^Drop Hair brush(.+)"=Depone scōpam capillī$1
+r:"^Drop Hair dryer(.+)"=Depone siccātōrem capillāris$1
+r:"^Drop Hairdryer(.+)"=Depone siccātōrem capillāris$1
+r:"^Drop Hive(.+)"=Depone alvum$1
+r:"^Drop Inverse Teleporter(.+)"=Depone transportātorem inversum$1
+r:"^Drop Inverse teleporter(.+)"=Depone transportātorem inversum$1
+r:"^Drop Jar of pickles(.+)"=Depone amphoram cucumerum$1
+r:"^Drop Jetpack(.+)"=Depone saccum volāntem$1
+r:"^Drop Key(.+)"=Depone clāvem$1
+r:"^Drop Large axle(.+)"=Depone axem magnum$1
+r:"^Drop Laser pointer(.+)"=Depone index lūce$1
+r:"^Drop Lockpicker(.+)"=Depone clāvem reserātrīcem$1
+r:"^Drop Loud Horn(.+)"=Depone cornū clārum$1
+r:"^Drop Loud horn(.+)"=Depone cornū clārum$1
+r:"^Drop Magic8Ball(.+)"=Depone pilam magica VII$1
+r:"^Drop Magic 7 ball(.+)"=Depone pilam magica VII$1
+r:"^Drop Magic Ball(.+)"=Depone pilam magicam$1
+r:"^Drop Magnifying glass(.+)"=Depone vītrum amplificāns$1
+r:"^Drop Metal Sheet(.+)"=Depone laminam metallī$1
+r:"^Drop Metal sheet(.+)"=Depone laminam metallī$1
+r:"^Drop Mug(.+)"=Depone poculum$1
+r:"^Drop Old Phone(.+)"=Depone telephōnum antīquum$1
+r:"^Drop Old phone(.+)"=Depone telephōnum antīquum$1
+r:"^Drop Painting(.+)"=Depone pictūram$1
+r:"^Drop Perfume(.+)"=Depone amphoram odōris$1
+r:"^Drop Perfume bottle(.+)"=Depone amphoram odōris$1
+r:"^Drop Pickle Jar(.+)"=Depone amphoram cucumerum$1
+r:"^Drop Pill bottle(.+)"=Depone amphoram medicīnārum$1
+r:"^Drop Plastic fish(.+)"=Depone piscem plasticum$1
+r:"^Drop Player Body(.+)"=Depone corpus$1
+r:"^Drop Player body(.+)"=Depone corpus$1
+r:"^Drop Pro-flashlight(.+)"=Depone lūmen portābile praemium$1
+r:"^Drop Radar Booster(.+)"=Depone radārem augentem$1
+r:"^Drop Radar booster(.+)"=Depone radārem augentem$1
+r:"^Drop Radar-booster(.+)"=Depone radārem augentem$1
+r:"^Drop Record Player(.+)"=Depone lūdum orbis$1
+r:"^Drop Red Soda(.+)"=Depone potum rubrum$1
+r:"^Drop Red soda(.+)"=Depone potum rubrum$1
+r:"^Drop Remote(.+)"=Depone remotum$1
+r:"^Drop Ring(.+)"=Depone annulum$1
+r:"^Drop Robot Toy(.+)"=Depone automatonem ludīcrum$1
+r:"^Drop Rubber Ducky(.+)"=Depone anserem plasticum$1
+r:"^Drop Rubber ducky(.+)"=Depone anserem plasticum$1
+r:"^Drop Shotgun(.+)"=Depone sclopētum$1
+r:"^Drop Shotgun shell(.+)"=Depone testam sclopētī$1
+r:"^Drop Shovel(.+)"=Depone pālam$1
+r:"^Drop Signal Translator(.+)"=Depone translātōrem signī$1
+r:"^Drop Signal Transmitter(.+)"=Depone emissorem signī$1
+r:"^Drop Spray paint(.+)"=Depone sparsum pigmentum$1
+r:"^Drop Steering wheel(.+)"=Depone rotam volubilem$1
+r:"^Drop Sticky note(.+)"=Depone pāginam lentam$1
+r:"^Drop Stop sign(.+)"=Depone signum consistendi$1
+r:"^Drop Stun Grenade(.+)"=Depone bombam stupīdī$1
+r:"^Drop Stun grenade(.+)"=Depone bombam stupīdī$1
+r:"^Drop Tattered metal sheet(.+)"=Depone laminam metallī fragōsam$1
+r:"^Drop Tea Kettle(.+)"=Depone caccabum theae$1
+r:"^Drop Tea kettle(.+)"=Depone caccabum theae$1
+r:"^Drop Teeth(.+)"=Depone dentēs$1
+r:"^Drop Teleporter(.+)"=Depone transportātōrem$1
+r:"^Drop Toothpaste(.+)"=Depone dentifrīcium$1
+r:"^Drop Toy cube(.+)"=Depone cubum lūdīcum$1
+r:"^Drop Toy robot(.+)"=Depone automatonem lūdīcum$1
+r:"^Drop Tragedy(.+)"=Depone tragoediam$1
+r:"^Drop Toy Rubix cube(.+)"=Depone rubik cubum lūdīcum$1
+r:"^Drop TZP inhalant(.+)"=Depone inhalantem TZP$1
+r:"^Drop TZP-Inhalant(.+)"=Depone inhalantem TZP$1
+r:"^Drop TZP-inhalant(.+)"=Depone inhalantem TZP$1
+r:"^Drop V-Type Engine(.+)"=Depone mōtorem V-genus$1
+r:"^Drop V-Type engine(.+)"=Depone mōtorem V-genus$1
+r:"^Drop V-type engine(.+)"=Depone mōtorem V-genus$1
+r:"^Drop Walkie-talkie(.+)"=Depone ambulans-loquēns$1
+r:"^Drop Wedding ring(.+)"=Depone annulum nūptiālem$1
+r:"^Drop Whoopie cushion(.+)"=Depone saccum iocōsum$1
+r:"^Drop Yield sign(.+)"=Depone signum cessandī$1
+r:"^Drop Zap Gun(.+)"=Depone sclopetum electricum$1
+r:"^Drop Zap gun(.+)"=Depone sclopetum electricum$1
 
 r:"^Enter(.+)"=Intrā$1
 r:"^Enter(.+)"=Intrā$1
@@ -94,7 +155,8 @@ r:"^Flip switch(.+)"=Verte claviculam$1
 r:"^Flush(.+)"=Emitte:$1
 r:"^Get log(.+)"=Sume commentarium$1
 r:"^Grab(.+)"=Sume$1
-r:"^Grab(.+)"=Sume$1
+r:"^Hold(.+)"=Tene$1
+r:"^Hit Jack-o-Lantern(.+)"=Pulsa Jack O' Lantern$1
 r:"^Hit pumpkin(.+)"=Pulsa Cucurbitam Pepo$1
 # Aspice is from LLPSI ch.8 to look at
 r:"^Inspect(.+)"=\nAspice$1
@@ -119,6 +181,7 @@ r:"^Pop up ladder(.+)"=\nAscendē scālam $1
 r:"^Power button(.+)"=Mūta potentiam $1
 r:"^Pull cord(.+) \((.+)\)"=Trāhe līneam$1 (Tene)
 r:"^Pull pin(.+)"=Trahe clāvem$1
+r:"^Pull valve(.+)"=Trahe valvam$1
 r:"^Pull switch(.+)"=Trahe claviculam$1
 
 r:"^Quit terminal(.+)"=Exi computātrum$1
@@ -136,6 +199,8 @@ r:"^Sprint(.+)"=Curre$1
 r:"^Squeeze(.+)"=Premē$1
 
 # Incipe LLPSI ch 13
+r:"^Spray(.+)"=\nSparge$1
+r:"^Shake can(.+)"=\nQuate amphoram$1
 r:"^Start game(.+)"=Incipe ludum$1
 r:"^Start ship(.+)"=Incipe navem$1
 r:"^Store item(.+)"=Conde rem$1
@@ -143,6 +208,7 @@ r:"^Swing shovel(.+)"=Move pilam$1
 r:"^Swing sign(.+)"=\nMove signum$1
 r:"^Switch camera(.+)"=Muta camaram$1
 r:"^Switch lights(.+)"=Muta lucem$1
+r:"^Switch TV(.+)"=Muta tēlevīsiōnem$1
 r:"^Switch water(.+)"=Muta aquam$1
 r:"^Take TZP(.+)"=Cape TZP$1
 r:"^Tell autopilot ship to leave early(.+)(Hold)"=Dīc nāvem gubernatōrem reliquere prius$1Tene)
@@ -157,18 +223,24 @@ r:"^Turn on/off(.+)"=Muta potentiam$1
 r:"^Turn page(.+)"=\nVerte paginam$1
 r:"^Turn safety on(.+)"=Modum tūtum āctīva $1
 r:"^Turn safety off(.+)"=Modum tūtum dēsīne $1
-r:"^Use airhorn(.+)"=Uti cornū aereo$1
-r:"^Use cash register(.+)"=\nUti cistam pecuniārum $1
-r:"^Use door(.+)"=Uti ianuam$1
-r:"^Use DIY-Flashbang(.+)"=Uti DIY-Bombam stupidī$1
+r:"^Use Airhorn(.+)"=Utēre cornū aureum$1
+r:"^Use airhorn(.+)"=Utēre cornū aereum$1
+r:"^Use cash register(.+)"=Utēre cistam pecuniārum$1
+r:"^Use Clown horn(.+)"=Utēre cornū scūrrae$1
+r:"^Use Clown Horn(.+)"=Utēre cornū scūrrae$1
+r:"^Use door(.+)"=Utēre ianuam$1
+r:"^Use DIY-Flashbang(.+)"=Utēre DIY-Bombam stupidī$1
 r:"^\nDays: 0$"=$XXIV\nDiēs: 0
-r:"^Use grenade(.+)"=Uti bombām$1
-r:"^Use hairdryer(.+)"=Uti siccatorem capillforaris$1
-r:"^Use horn(.+)"=Uti cornū$1
-r:"^Use jetpack(.+)"=Utere saccō volante $1
-r:"^Use key(.+)"=Uti clavem$1
-r:"^Use ladder(.+)"=Uti scalam$1
-r:"^Use Large axle(.+)"=Uti axem magnum$1
-r:"^Use remote(.+)"=Uti remotum$1
+r:"^Use grenade(.+)"=Utēre bombam$1
+r:"^Use hairdryer(.+)"=Utēre siccatorem capillforaris$1
+r:"^Use horn(.+)"=Utēre cornū$1
+r:"^Use jetpack(.+)"=Utēre saccum volante$1
+r:"^Use key(.+)"=Utēre clavem$1
+r:"^Use ladder(.+)"=Utēre scalam$1
+r:"^Use Large axle(.+)"=Utēre axem magnum$1
+r:"^Use remote(.+)"=Utēre remotum$1
+r:"^Use Television(.+)"=Utēre televisiōnem$1
+r:"^Use Toilet(.+)"=Utēre cloācam$1
+
 r:"^Walk(.+)"=Ambula$1
 

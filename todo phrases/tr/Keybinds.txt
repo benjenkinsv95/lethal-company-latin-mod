@@ -1,0 +1,95 @@
+# Location
+# Reviewed
+
+> Change keybinds=> Kontrolleri değiştir
+
+# A-M
+CONTROLS=KONTROLLER
+Crouch=Eğil
+Dance=Dans
+Enable chat=Sohbeti aç
+Interact=Kullan
+Invert Y-Y Eksenini ters çevir 
+Item drop=Eşyayı bırak 
+Item inspect=Eşyayı incele
+Item primary use=<size\=13>Eşya birincil kullanım</size>
+Item Secondary use=<size\=12>Eşya ikincil kullanım</size>
+Item secondary use=<size\=12>Eşya İkincil kullanım</size>
+Item switch left=<size\=13>Soldaki eşyayı seç</size>
+Item switch right=<size\=13>Sağdaki eşyayı seç</size>
+Item Tertiary use=<size\=12>Eşya üçüncül kullanım</size>
+Item tertiary use=<size\=12>Eşya Üçüncül kullanım</size>
+Jump=Zıpla
+Move back=Geri git
+Move forward=İleri git
+Move left=Sola git
+Move right=Sağa git
+
+# N-Z
+Ping scan=Tarama yap
+Point=İşaret et
+REBIND CONTROLLERS=KONTROLLERİ DEĞİŞTİR
+REMAP CONTROLS=KONTROLLERİ YENİDEN DÜZENLE
+Replace furniture=Mobilyayı değiştir
+Scroll/Down=Fare aşağı tekerlek
+Scroll/Up=Fare yukarı tekerlek
+Sprint=Koş
+Submit chat=Mesaj gönder
+Store furniture=Mobilyayı depola
+Turn furniture=Mobilyayı döndür
+Walk back=Geri yürü
+Walk forward=İleri yürü
+Walk left=Sola yürü
+Walk right=Sağa yürü
+
+A=   A
+B=   B
+C=   C
+D=   D
+E=E
+F=F
+G=G
+H=H
+I=I
+J=J
+K=K
+L=L
+M=M
+N=N
+O=O
+P=P
+Q=Q
+R=R
+S=   S
+S+=   S+
+T=T
+U=U
+V=V
+W=W
+X=X
+Y=Y
+Z=Z
+
+Control=CTRL
+Enter=Enter
+Left Button=Sol Tuş
+Right Button=Sağ Tuş
+Shift=Shift
+Space=Space
+
+Button East=Doğu Butonu
+Button South=Kuzey Butonu
+Button West=Batı butonu
+D-Pad/Down=D-Pad/Aşağı
+D-Pad/Left=D-Pad/Sol
+D-Pad/Right=D-Pad/Sağ
+D-Pad/Up=D-Pad/Yukarı
+Left Stick/Down=Sol Stick/Aşağı
+Left Stick/Left=Sol Stick/Sol
+Left Stick/Right=Sol Stick/Sağ
+Left Stick/Up=Sol Stick/Yukarı
+Left Shoulder=L1
+Left Trigger=L2
+Right Shoulder=R1
+Right Stick Press=Sağ Stick Bas
+Right Trigger=R2

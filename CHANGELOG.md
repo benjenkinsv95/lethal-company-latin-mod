@@ -1,4 +1,8 @@
 # Changelog
+# 1.1.29 Various grammar updates and more roman numerals
+Dropping, collecting, and using items now all match the gender and number. Depone used for dropping.
+
+
 # 1.1.27 Terminal Heavy Edits Finished
 Completing work from the previous version. Unfortunately there is still some remaining english that NewTerminal v 1.4 doesn't allow me to change yet.
 

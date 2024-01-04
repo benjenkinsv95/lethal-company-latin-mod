@@ -1,0 +1,8 @@
+﻿Show weather of moons=Ayların Hava Durumu Göster
+Show Weather=Hava Durumu Göster
+Go To Moon=Aya git
+Scan scraps in current moon=Ayda bulunan hurdaları tara
+Failed to start server
+Version 45 is out!=Sürüm 45 çıktı!
+Loading mods = Modlar yükleniyor
+Swap pages\n[Q / E]=Sayfaları çevir\n[Q / E]

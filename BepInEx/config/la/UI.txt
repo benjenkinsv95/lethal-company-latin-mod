@@ -197,9 +197,9 @@ r:"^(.*)Random seed(.*)$"=Forte semen $2
 
 
 
-r:"^SHIP: (.+)$"=NAVIS: $1
+r:"^SHIP: \$(.+)$"=NAVIS: $1 AU
 # TODO potential roman numerals
-r:"^TOTAL: (.+)$"=Tōtus: $1
+# r:"^TOTAL: (.+)$"=Tōtus: $1
 # r:"^Value: \$(.+)"=Pretium: $1 AU
 r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=CAVE!\n Quaesō, redi tempore $1. Suffragium factum est, et nāvis gubernator relinquet.
 
@@ -209,8 +209,7 @@ Sell scrap for cash.=Vende reliquam pecuniam.
 Ship leaving in one hour=Navis in ūnā hōrā relinquet
 sr:"^(.+?)collected!$"=$1 collectum est！
 sr:"^Cause of death: (.+)$"=Causa mortis:  $1
-sr:"^Spray : \[LMB\]$"=\nSparge: [LMB]
-sr:"^Shake can : \[Q\]$"=\nQuate amphoram: [Q]
+
 r:"^Found journal entry(.+)"=Invēnī līber inscriptionis$1 
 sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae:  \n* $1\n* $2\n* $3 \n* $4\n
 sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\n
@@ -264,7 +263,7 @@ You have 0 days left to meet the quota. Use the terminal to route to the company
 
 
 r:"^Climb(.+)"=Ascende$1
-sr:"^Drop (.+?): \[G\]$"=ut $1 cadat: [G]
+# sr:"^Drop (.+?): \[G\]$"=ut $1 cadat: [G]
 sr:"^Drop (.+?): \[B\]$"=ut $1 cadat: [B]
 # Unknown, but scared to modify
 sr:"^(.+) \((.+)\)(.+)"=TEST $1 ($2): $3

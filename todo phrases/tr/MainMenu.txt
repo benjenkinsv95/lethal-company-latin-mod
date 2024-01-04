@@ -1,0 +1,16 @@
+﻿# Main menu
+# Reviewed
+  Would you like to leave the game?=  Oyundan çıkmak istiyor musun ?
+> Set to defaults=> Varsayılana dön 
+
+# A-M
+DISABLED=Devre Dışı
+
+# N-Z
+Push to talk=Bas konuş
+The file will NOT save! Your ship must be in orbit.=İlerleme KAYIT EDİLMEYECEK! Kayıt alınması için geminin yörüngede olması gerekli.
+TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=Bilgi: Geminin erken ayrılması için [RMB] ile oy verebilirsin.
+Uncapped=Sınırsız
+Waiting for input=Bir tuşa basın
+r:"^vVersion ([0-9]+) is out!$"=Versiyon $1 çıktı!
+r:"^Welcome! Version ([0-9]+) is out now.\nOthers must update their game to play with you on this version.\n\n\nGood luck!$"=Merhaba! Versiyon $1 çıktı!\nDiğerleri sizinle oynamak için oyunlarını güncellemelidir.\n\n\nBol şans!

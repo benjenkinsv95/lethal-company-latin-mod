@@ -1,0 +1,21 @@
+﻿# Scrap & Items
+# Reviewed
+
+Dog toy=Köpek oyuncağı
+Double-barrel=Pompalı
+Fish toy=Oyuncak balık
+Gearbox=Gearbox
+Hair dryer=Saç kurutma makinesi
+
+# N-R
+Perfume=Parfüm
+Player Body=Ceset
+Player body=Ceset
+
+# S-Z
+TZP inhalant=TZP Inhalator
+TZP-inhalant=TZP inhalator
+V-Type Engine=V-Tipi Motor
+V-Type engine=V-Tipi Motor
+V-type engine=V-Tipi Motor
+

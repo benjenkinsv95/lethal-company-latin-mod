@@ -1,0 +1,21 @@
+﻿# Location
+# Reviewed
+
+\nWeather: Eclipsed=\nHava durumu: Tutulma
+\nWeather: Flooded=\nHava durumu: Sular altında
+\nWeather: Foggy=\nHava durumu: Sisli
+\nWeather: Rainy=\nHava durumu: Yağmurlu
+\nWeather: Stormy=\nHava durumu: Fırtınalı
+Weather: Eclipsed=Hava durumu: Tutulma
+Weather: Flooded=Hava durumu: Su basmış
+Weather: Foggy=Hava durumu: Sisli
+Weather: Rainy=Hava durumu: Yağmurlu 
+Weather: Stormy=Hava durumu: Fırtınalı
+
+# A-M
+Dangerous entities have been rumored to take residence in the vast network of tunnels.=Tehlikeli varlıkların geniş tünel ağında dolaştığı söyleniyor.
+Frozen, rocky. Its planet orbits a white dwarf star.=Donmuş, kayalık. Gezegeni beyaz bir cüce yıldızın yörüngesinde..
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Donmuş, kayalık. Bu ay kaynakları için sömürüldü. Burada kaybolmak çok kolay.
+
+# N-Z
+None=Hiç
