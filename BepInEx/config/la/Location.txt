@@ -19,6 +19,7 @@ A competitive ecosystem supports aggressive lifeforms.=Ecosystēma certāminis f
 Abandoned=Derelictum
 Arid. Thick haze, worsened by industrial artifacts.=Siccum. Nebula crassa, peiorāta a reliquiīs industriālibus.
 Can be accessed from terminal=Potes aperire in computātrum.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.=Perīculōsae entitātēs dīcuntur habitāre in vastō tūnelōrum retīculō.
 Diverse=Dīversum
 Dominated by a few species.=Paucīs speciēbus domināntur.
 Eclipsed=Obscurātum
@@ -27,6 +28,8 @@ Ecosystem supports territorial behaviour.=Ecosystēma sustinet mōres territōri
 Expansive. Constant rain.=Lātum. Imber, constans.
 Flooded=Inundātum
 Foggy=Nebulōsum
+Frozen, rocky. Its planet orbits a white dwarf star.=Glaciālis, saxōsa. Planeta orbitat stēllam nānam albam.
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Glaciālis, saxōsa. Hīc lūna explōrāta est prō rēbus. Facile est hīc errāre.
 HAZARD LEVEL:=GRADUS\nPERĪCULĪ:
 # Home camp. Sedes Domestica and Fundamentum Domus are tempting.
 Home base=Castra Domestica
@@ -38,6 +41,7 @@ Main entrance=Ostium primarium
 
 # N-Z
 No land masses. Continual storms.=Nihil terrae mōles. Tempestātēs, constans.
+None=Nūlla
 Oxygen critically low!=Oxygenium parvus valde!
 Rainy=Pluvia
 Safe=Tutum
@@ -46,3 +50,10 @@ Stormy=Turbidus
 Unknown=Ignōtus
 Unlikely for complex life to exist=Improbabile est ut vitae sapiens existant
 Where the Company resides.=Ubi Collēgium habitat.
+
+Weather: Eclipsed=Tempestās: Obscurāta
+Weather: Flooded=Tempestās: Inundāta
+Weather: Foggy=Tempestās: Nebulōsa
+Weather: Rainy=Tempestās: Pluvia
+Weather: Stormy=Tempestās: Turbida
+

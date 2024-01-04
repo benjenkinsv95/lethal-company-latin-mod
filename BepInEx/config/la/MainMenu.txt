@@ -25,9 +25,10 @@
 > LAN=> Locale\n  rete
 > Online=> Interrete
 > Quit=> Exī
-> Reset all to default=> Redde Ad Prīstinum Statum 
+> Reset all to default=> Redde ad prīstinum statum 
 > Resume=> Resumē
 > Settings=> Optiōnēs
+> Set to defaults=> Redde ad prīstinum statum
 
 # A-M
 ACCESSIBILITY=Accessibil-\nitās
@@ -46,6 +47,7 @@ Cosmetics Enabled:=Indumenta Acta:
 Credits=Crēdita
 Crew Size:=Magnitūdō Operāriōrum:
 Delete=Dēlē
+DISABLED=Inactivum
 Discard changes=Abice Mutationēs
 Discard=Abice
 Discard Large axle=Abice axem magnum
@@ -77,6 +79,7 @@ MODE: Voice activation=MODUS: Vōcis Activatio
 # N-Z
 Name your server...=Nōmina Servātōrem Tuum...
 Online= Interrete
+Push to talk=Loquere pressa
 r:"BG IG, A System"=     BG IG, Socius Agendi Systematis\n     Ius (C) MMXXXIV-MMCVIII, Halden Elctronicae\n\nGenus CPU                : BORSON CCC CPU ad MMV MHz\nTentamen Memoria          : CDLXXMMMDLXXXV K Recte\n\nApplicatio Distributeris Initium\nIus Litterarum (C) MMCVII Distributor\n     Invenio Aculeus X ROM\n     Invenio Tela LNV Extensor\n     Invenio Pulsus Recte\n\n\nUTGF Instrumentum Audiens...\n\nCORPUS      ID    Neuralis   Genus Instrumenti \n-----------------------------------------------\n\n    II     LII      JoCLII                HDXV   \n    II     LII      SaDXLV                HDXV    \n    II     LII      BolXXV                HDXV      \n    II     LII       EriDX                HDXV    \n     I   XXXVI   EllDLXVII                HDXV  \n     I   XXXVI    JosCMXII                HDXV\n Nulla 
 r:"^Do you want to delete File (.+)\?$"=Visne Tabellam $1 Dēlēre?
 Save File=Servātae Tabellae
@@ -86,9 +89,15 @@ Sort: far=Ordinā: longē
 Sort: near=Ordinā: propinquē
 Sort: worldwide=Ordinā: tōtum orbem
 Started server, joining...=Servātōrem Coēpī, Iungēns...
+TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=Mōnitiō: Tene [RMB] ad suffrāgium ferendum ut navis gubernātor prius relinquat.
+The file will NOT save! Your ship must be in orbit.=Tabella NON servābitur! Navis tua debet in orbitā esse.
+Uncapped=Sine limitibus
 Unconfirmed changes!=Mūtātiōnēs Inconfirmātae!
 Use monitor (V-Sync)=Utere mon. (V-Sync)
+r:"^Version ([0-9]+) is out!$"=Versio $1 ēdita est!
+r:"^Welcome! Version ([0-9]+) is out now.\nOthers must update their game to play with you on this version.\n\n\nGood luck!$"=Salvē! Versio $1 nunc ēdita est!\nAliī debent suum lūdum renovāre ut tēcum in hāc versiōne ludant.\n\n\nFēlīcem fortūnam!
 Voice Volume=Vōcis Magnitūdō
+Waiting for input=Exspectāns impositiōnem
 Welcome! Version 40 is out now.\nOthers must update their game to play with you on this version.\n\nGood luck!=Salvē! Versio quadrāgēsima nunc dispōnibilis est.\nAliī suum lūdum novum faciant ut tēcum in hac versiōne ludant.\n\nBona fortūna!
 Welcome!=Salvē!
 Window=Fenestra

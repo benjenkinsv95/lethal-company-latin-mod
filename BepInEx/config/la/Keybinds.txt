@@ -4,6 +4,7 @@
 A=A
 B=B
 Button East=Buttōn Orientālis
+Button North=Buttōn Septentriōnales
 Button South=Buttōn Merīdiōnālis
 Button West=Buttōn Occidentālis
 C=C
