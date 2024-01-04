@@ -52,7 +52,7 @@ r:"^Drop Cookie mold pan(.+)"=Depone formam crustulōrum$1
 r:"^Drop Dentures(.+)"=Depone dentēs artificiālēs$1
 r:"^Drop Dog toy(.+)"=Depone automatonem canīnum$1
 r:"^Drop Dust pan(.+)"=Depone palam pulveris$1
-r:"^Drop Echo Scanner(.+)"=Depone echō sonātōrem$1
+r:"^Drop Echo Scanner(.+)"=Dēpōne inspectātōrem echo$1
 r:"^Drop Egg beater(.+)"=Depone verberātrīcem ovōrum$1
 r:"^Drop Extension ladder(.+)"=Depone scālam prōtrahendam$1
 r:"^Drop Extension Ladder(.+)"=Depone scālam prōtrahendam$1
@@ -189,9 +189,9 @@ r:"^Quit terminal : \[Start\]"=Exi computātrum : [Incipe]
 r:"^Reload(.+)"=Replē $1
 r:"^Ring bell(.+)"=Pulsā tintinnabulum$1
 
-# Scande could work, Vide seems more beginner friendly
-r:"^Scan(.+)"=Vide$1
-r:"^Scan for threat:(.+)"=\nVide periculum$1
+# Scande could work, Inspectā seems more beginner friendly
+r:"^Scan(.+)"=Inspectā$1
+r:"^Scan for threat:(.+)"=\nInspectā periculum$1
 r:"^Sell item(.+)"=Vende rem$1
 r:"^Send voice(.+)"=Mitte vocem$1
 r:"^Set candles(.+)"=Pone candēlābra$1

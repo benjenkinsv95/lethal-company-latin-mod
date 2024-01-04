@@ -45,21 +45,21 @@ Have an idea to improve a translation?
 ## Game Menus & UI Translations
 The latin translations used for everything besides the terminal.
 
-1. [Creature](BepInEx/config/la/Creature.txt) ✅
-2. [Interactive](BepInEx/config/la/Interactive.txt) ✅
-3. [Location](BepInEx/config/la/Location.txt) ✅
-4. [MainMenu](BepInEx/config/la/MainMenu.txt) ✅
-5. [Scrap&items](BepInEx/config/la/Scrap&items.txt) ✅
-6. [UI](BepInEx/config/la/UI.txt) ✅
+1. [Creature](BepInEx/config/la/Creature.txt)
+2. [Interactive](BepInEx/config/la/Interactive.txt)
+3. [Location](BepInEx/config/la/Location.txt)
+4. [MainMenu](BepInEx/config/la/MainMenu.txt)
+5. [Scrap&items](BepInEx/config/la/Scrap&items.txt)
+6. [UI](BepInEx/config/la/UI.txt)
 
 
 ## Terminal Translations
 The NewTerminal translations, used to translate the terminal itself.
 
-1. [Other](BepInEx/config/NewTerminal-Other.cfg) ✅
-2. [Special](BepInEx/config/NewTerminal-Special.cfg) ✅
-3. [Unused](BepInEx/config/NewTerminal-Unused.cfg) ✅
-4. [Verbs](BepInEx/config/NewTerminal-Verbs.cfg) (working through reviewing and polishing these for beginner friendliness)
+1. [Other](BepInEx/config/NewTerminal-Other.cfg)
+2. [Special](BepInEx/config/NewTerminal-Special.cfg)
+3. [Unused](BepInEx/config/NewTerminal-Unused.cfg)
+4. [Verbs](BepInEx/config/NewTerminal-Verbs.cfg)
 
 ## Contributors
 
