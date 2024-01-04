@@ -1,4 +1,9 @@
 # Changelog
+# 1.1.27 Terminal Heavy Edits Finished
+Completing work from the previous version. Unfortunately there is still some remaining english that NewTerminal v 1.4 doesn't allow me to change yet.
+
+But I will translate it whenever that is possible.
+
 # 1.1.26 Various terminal improvements
 Heavy edits for beginner friendly vocab and liberal use of commas and newlines to help with explanations.
 
