@@ -1,4 +1,7 @@
 # Changelog
+# 1.1.26 Various terminal improvements
+Heavy edits for beginner friendly vocab and liberal use of commas and newlines to help with explanations.
+
 # 1.1.24 Paintings are latin/rome related
 Paintings are now latin or rome related.
 

@@ -168,7 +168,7 @@ r:"^Use horn(.+)"=Uti cornū$1
 r:"^Use jetpack(.+)"=Utere saccō volante $1
 r:"^Use key(.+)"=Uti clavem$1
 r:"^Use ladder(.+)"=Uti scalam$1
-r:"^Use Large axle(.+)=Uti axem magnum$1
+r:"^Use Large axle(.+)"=Uti axem magnum$1
 r:"^Use remote(.+)"=Uti remotum$1
 r:"^Walk(.+)"=Ambula$1
 
