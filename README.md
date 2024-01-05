@@ -1,6 +1,6 @@
 # Lethal Company Latin Translation
 
-[![Lethal Company in Latin](https://img.youtube.com/vi/fYiwEOz51OU/0.jpg)](https://www.youtube.com/watch?v=fYiwEOz51OU)
+[![Lethal Company in Latin](https://img.youtube.com/vi/Czz-cJUbtaM/0.jpg)](https://www.youtube.com/watch?v=Czz-cJUbtaM)
 
 This project is a Latin translation of Lethal Company.
 
@@ -44,21 +44,21 @@ All of the translations can be found in the files linked below.
 
 The latin translations used for everything besides the terminal.
 
-1. [Creature](BepInEx/config/la/Creature.txt)
-2. [Interactive](BepInEx/config/la/Interactive.txt)
-3. [Location](BepInEx/config/la/Location.txt)
-4. [MainMenu](BepInEx/config/la/MainMenu.txt)
-5. [Scrap&items](BepInEx/config/la/Scrap&items.txt)
-6. [UI](BepInEx/config/la/UI.txt)
+1. [Creature](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/Creature.txt)
+2. [Interactive](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/Interactive.txt)
+3. [Location](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/Location.txt)
+4. [MainMenu](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/MainMenu.txt)
+5. [Scrap&items](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/Scrap&items.txt)
+6. [UI](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/UI.txt)
 
 
 ## Terminal Translations
 The NewTerminal translations, used to translate the terminal itself.
 
-1. [Other](BepInEx/config/NewTerminal-Other.cfg)
-2. [Special](BepInEx/config/NewTerminal-Special.cfg)
-3. [Unused](BepInEx/config/NewTerminal-Unused.cfg)
-4. [Verbs](BepInEx/config/NewTerminal-Verbs.cfg)
+1. [Other](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/NewTerminal-Other.cfg)
+2. [Special](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/NewTerminal-Special.cfg)
+3. [Unused](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/NewTerminal-Unused.cfg)
+4. [Verbs](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/NewTerminal-Verbs.cfg)
 
 ## Contributors
 
