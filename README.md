@@ -41,11 +41,10 @@ Once all 5 mods are installed, you can play it in latin by clicking the "Modded 
 ![image](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/22ef1cc2-c2c2-4b4d-aa8d-0039b5117757)
 
 
-## Future Improvements & Bugs
+## Future Enhancements & Bugs
 
-Are tracked here:
-https://github.com/benjenkinsv95/lethal-company-latin-mod/issues
-
+1. [Bugs](https://github.com/benjenkinsv95/lethal-company-latin-mod/labels/bug)
+2. [Future Enhancements](https://github.com/benjenkinsv95/lethal-company-latin-mod/labels/enhancement)
 
 ## Submit a Translation
 
