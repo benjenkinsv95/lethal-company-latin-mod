@@ -6,7 +6,7 @@
   LAN=   Rete\n   locale
   Online=   Interrete
 (Recommended)=     Commendātum
-[ Back ]=[  Redī ]
+[ Back ]=[ Redī ]
 [ Confirm ]=[Confīrmā]
 [ Continue ]=[    Perge    ]
 [ Refresh ]=[ Renova ]

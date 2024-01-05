@@ -1,4 +1,8 @@
 # Changelog
+# 1.1.32 Various grammar updates and more roman numerals
+More grammar updates from DT and quite a few bits of English have been removed again.
+
+
 # 1.1.31 Various grammar updates and more roman numerals
 More grammar updates, addressing more feedback from Hadrian, and added many keybindings.
 

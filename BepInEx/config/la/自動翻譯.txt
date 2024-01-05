@@ -11,3 +11,5 @@ Show Weather=Ostende Tempestātem
 Swap pages\n[Q / E]=Verte Pāginās\n[Q / E]
 Teeth =Dentēs 
 Unlikely for complex life to exist\n=Improbabile est ut vitae sapiens existant\n
+DarthRevan =Quīntus 
+DarthRevan =Quīntus 

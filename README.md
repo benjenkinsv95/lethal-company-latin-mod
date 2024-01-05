@@ -28,12 +28,11 @@ Once all 5 mods are installed, you can play it in latin by clicking the "Modded 
 
 ## Future Improvements
 
-1. Removing the remaining English in the game (I know about and am having trouble replacing 'Random seed'. Also having trouble with the bill showing what we sold at the company). Also missed the phrases in the "todo phrases" folder that I am currently translating. There is also english in the terminal I can't remove until NewTerminal is updated.
+1. Removing the remaining English in the game (I know about and am having trouble replacing 'Random seed'. Also having trouble with the bill showing what we sold at the company). There is also english in the terminal I can't remove until NewTerminal is updated.
 2. (Potential) Replace more english text assets (I have assets for the stop sign, sigurd sticky note, and more. But I don't know the specific name to replace for the assets.)
-3. Remaining version 45 translation updates (change keybinds page)
-4. Use a font that supports macrons
-5. Various tweaks suggested on discord
-6. Rename crew from grex to operarius throughout
+3. Use a font that supports macrons
+4. Various tweaks suggested on discord
+5. Rename crew from grex to operarius throughout
 
 All of the translations can be found in the files linked below.
 

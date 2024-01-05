@@ -10,23 +10,23 @@
 (Spectating: )=(Vidēns: )
 [LIFE SUPPORT: OFFLINE]=[SUSTINERE VĪTAE: INACTĪVUS]
 [Near activity detected!]=[Proximē Actiō Dētēcta!]
-1 casualties: -0%\n(1 bodies recovered)=1 interfectī: -Nulla%\n(1 corpus salvātum)
-1 casualties: -20%\n(0 bodies recovered)=1 interfectī: -XX%\n(Nulla corpora salvāta)
+1 casualties: -0%\n(1 bodies recovered)=I interfectī: -Nulla%\n(I corpus salvātum)
+1 casualties: -20%\n(0 bodies recovered)=I interfectī: -XX%\n(Nulla corpora salvāta)
 120 FPS=CXX FPS
 144 FPS=CXLIV FPS
-2 casualties: -0%\n(2 bodies recovered)=2 interfectī: -Nulla%\n(II corpora salvāta)
-2 casualties: -20%\n(1 bodies recovered)=2 interfectī: -XX%\n(I corpus salvātum)
-2 casualties: -40%\n(0 bodies recovered)=2 interfectī: -XL%\n(Nulla corpora salvāta)
-3 casualties: -0%\n(3 bodies recovered)=3 interfectī: -Nulla%\n(III corpora salvāta)
-3 casualties: -20%\n(2 bodies recovered)=3 interfectī: -XX%\n(II corpora salvāta)
-3 casualties: -40%\n(1 bodies recovered)=3 interfectī: -XL%\n(I corpus salvātum)
-3 casualties: -60%\n(0 bodies recovered)=3 interfectī: -LX%\n(Nulla corpora salvāta)
+2 casualties: -0%\n(2 bodies recovered)=II interfectī: -Nulla%\n(II corpora salvāta)
+2 casualties: -20%\n(1 bodies recovered)=II interfectī: -XX%\n(I corpus salvātum)
+2 casualties: -40%\n(0 bodies recovered)=II interfectī: -XL%\n(Nulla corpora salvāta)
+3 casualties: -0%\n(3 bodies recovered)=III intrfectī: -Nulla%\n(III corpora salvāta)
+3 casualties: -20%\n(2 bodies recovered)=III interfectī: -XX%\n(II corpora salvāta)
+3 casualties: -40%\n(1 bodies recovered)=III interfectī: -XL%\n(I corpus salvātum)
+3 casualties: -60%\n(0 bodies recovered)=III interfectī: -LX%\n(Nulla corpora salvāta)
 30 FPS=XXX FPS
-4 casualties: -0%\n(4 bodies recovered)=4 interfectī: -Nulla%\n(IV corpora salvāta)
-4 casualties: -20%\n(3 bodies recovered)=4 interfectī: -XX%\n(III corpora salvāta)
-4 casualties: -40%\n(2 bodies recovered)=4 interfectī: -XL%\n(II corpora salvāta)
-4 casualties: -60%\n(1 bodies recovered)=4 interfectī: -LX%\n(I corpus salvātum)
-4 casualties: -80%\n(0 bodies recovered)=4 interfectī: -LXXX%\n(Nulla corpora salvāta)
+4 casualties: -0%\n(4 bodies recovered)=IV interfectī: -Nulla%\n(IV corpora salvāta)
+4 casualties: -20%\n(3 bodies recovered)=IV interfectī: -XX%\n(III corpora salvāta)
+4 casualties: -40%\n(2 bodies recovered)=IV interfectī: -XL%\n(II corpora salvāta)
+4 casualties: -60%\n(1 bodies recovered)=IV interfectī: -LX%\n(I corpus salvātum)
+4 casualties: -80%\n(0 bodies recovered)=IV interfectī: -LXXX%\n(Nulla corpora salvāta)
 60 FPS=LX FPS
 
 # A-M
@@ -61,6 +61,8 @@ CREW:=OPERĀRIĪ:
 
 # vulnus llpsi ch 33, cicero uses criticus in Ad Familiares IX
 CRITICAL INJURY=VULNUS CRITICUS
+DarthRevan=Quīntus
+Darth Revan=Quīntus
 DEADLINE:\n NOW=FINIS: \nNUNC
 # TODO Controlores feels bad
 Door controls=Instrumenta Ianuarum
@@ -98,7 +100,7 @@ Mauling=Sectiō
 New creature data sent to terminal!=Animalibus novīs data ad computātrum missa!
 NEW PROFIT QUOTA:=NOVA QUOTA LŪCRĪS: 
 None=Nihil
-Notes:=Notae:
+
 
 Option A=Optio A
 Paycheck!=Merces!
@@ -167,6 +169,19 @@ r:"^(.+) was left behind"=$1 relictus est
 r:"^(Current input device: \n)(.*)$"=Instrumenta imposita praesēns: $2
 # TODO potential roman numerals
 r:"^\(([0-9]+)/([0-9]+) Votes\)$"=($1/$2 Suffrāgia)
+r:"^\(0/2 Votes\)$"=(Nulla/II Suffrāgia)
+r:"^\(1/2 Votes\)$"=(I/II Suffrāgia)
+r:"^\(2/2 Votes\)$"=(II/II Suffrāgia)
+r:"^\(0/3 Votes\)$"=(Nulla/III Suffrāgia)
+r:"^\(1/3 Votes\)$"=(I/III Suffrāgia)
+r:"^\(2/3 Votes\)$"=(II/III Suffrāgia)
+r:"^\(3/3 Votes\)$"=(II/III Suffrāgia)
+r:"^\(0/4 Votes\)$"=(Nulla/IV Suffrāgia)
+r:"^\(1/4 Votes\)$"=(I/IV Suffrāgia)
+r:"^\(2/4 Votes\)$"=(II/IV Suffrāgia)
+r:"^\(3/4 Votes\)$"=(III/IV Suffrāgia)
+r:"^\(4/4 Votes\)$"=(IV/IV Suffrāgia)
+
 r:"^\(Spectating: Player\)$"=(Vidēns:  Lūsor)
 
 r:"^\(Spectating: (.+)\)$"=(Vidēns: $1)
@@ -212,7 +227,7 @@ r:"^MONITORING:(.+)Player #3$"=(Vigilans:  Lūsor III)
 r:"^MONITORING:(.+)Player #4$"=(Vigilans:  Lūsor IV)
 r:"^MONITORING:(.+)Player #5$"=(Vigilans:  Lūsor V)
 r:"^MONITORING:(.+)Player #6$"=(Vigilans:  Lūsor VI)
-Notes: \n=Notae \n
+
 r:"^Overtime bonus: (.+)$"=Extra tempus merces:  $1
 r:"^PROFIT QUOTA:\n\$([0-9]+) / \$([0-9]+)$"=QUOTA LŪCRĪ: \n$1 / $2\nAUREI 
 # r:"^(.*)Random seed: ([0-9]+)(.*)$"=Forte semen: $2
@@ -234,7 +249,7 @@ sr:"^(.+?)collected!$"=$1 collectum est！
 sr:"^Cause of death: (.+)$"=Causa mortis:  $1
 
 sr:"^Found journal entry: (.+)$"=Invēnī līber inscriptionis: $1 
-sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae:  \n* $1\n* $2\n* $3 \n* $4\n
+# sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae:  \n* $1\n* $2\n* $3 \n* $4\n
 sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\n
 sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\nWeather: (.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\nTempestās: $5
 sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4
@@ -255,7 +270,7 @@ The Company must minimize risk of damage to proprietary hardware. Goodbye!=Coll�
 The file will NOT save! Your ship must be in orbit.=Tabella NON servābitur! Navis tua in orbitā esse debet.
 r:"(.+)The laziest employee"=$1Operarius pigrissimus
 
-The host has not loaded or has already landed their ship.=Hospēs nōndum accessit aut iam nāvem suam ad terram attigit."
+The host has not loaded or has already landed their ship.=Hospēs nōndum accessit aut iam nāvem suam ad terram attigit.
 
 The server is full!=Servātor iam plēnus est!
 TIP:=MONITUM: 
@@ -293,7 +308,7 @@ sr:"^(.+) \((.+)\)(.+)"=TEST $1 ($2): $3
 
 #####
 Asking all other players for installed mods..=Omnibus aliīs lūdēns interrogantur dē modīs installātīs..
-Boss=Patron
+Boss=Prīnceps
 Cause of death: Gunshots=Causa mortis: Ictūs sclopetī
 Cause of death: Mauling=Causa mortis: Sectiō
 Down Arrow=Sagitta Dēorsum
@@ -305,12 +320,12 @@ Left Arrow=Sagitta Sinistra
 Left Control=Ctrl Sinister
 Left Shift=Shift Sinister
 Mod List:=Index Modōrum:
-Most paranoid employee.=Operarius suspiciosissimus.
-Most paranoid employee=Operarius suspiciosissimus
-Most profitable.=Operarius lucratissimus.
-Most profitable=Operarius lucratissimus
+# Most paranoid employee.=Operarius suspiciosissimus.
+# Most paranoid employee=Operarius suspiciosissimus
+# Most profitable.=Operarius lucratissimus.
+# Most profitable=Operarius lucratissimus
 Nameless=Nōmine Carent
-Part-timer=Operarius partim temporis
+Part-timer=Operarius partalis temporis
 Press Z to inspect closely. Press Q and E to flip the pages.=Premē Z ad īnspectandam propinquē. Premē Q et E ad vertendās paginās.
 Quota reached=Quota adsecūta
 r:"^(.+) responded with these mods:\n(.+)"=$1 His modīs respondit:\n$2
@@ -320,14 +335,14 @@ Right Arrow=Sagitta Dextra
 Right Control=Ctrl Dexter
 Right Shift=Shift Dexter
 sr:"^Found journal entry: (.+)$"=Inventum est diurnum: $1
-sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae: \n* $1\n* $2\n* $3 \n* $4\n
-Sustained the most injuries.=Plūrimā vulnera sustinuit.
-Sustained the most injuries=Plūrimā vulnera sustinuit.
+# sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae: \n* $1\n* $2\n* $3 \n* $4\n
+# Sustained the most injuries.=Plūrimā vulnera sustinuit.
+# Sustained the most injuries=Plūrimā vulnera sustinuit.
 Tab=Tab
-The laziest employee.=Operarius pigrissimus.
-The laziest employee=Operarius pigrissimus
-The most paranoid employee.=Operarius suspiciosissimus.
-The most paranoid employee=Operarius suspiciosissimus
+# The laziest employee.=Operarius pigrissimus.
+# The laziest employee=Operarius pigrissimus
+# The most paranoid employee.=Operarius suspiciosissimus.
+# The most paranoid employee=Operarius suspiciosissimus
 To read the manual:=Ad manuālem legendum:
 Unnamed=Nōmine Carent
 Up Arrow=Sagitta Sūrsum
