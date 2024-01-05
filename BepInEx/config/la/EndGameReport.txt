@@ -14,7 +14,6 @@ The most paranoid employee.=Operarius suspiciosissimus
 r:"(.*)Sustained the most injuries(.*)"=Notae \nSustinet plūrimā vulnera\n
 # * Sustained the most injuries.=* Sustinet plūrimā vulnera.
 
-
 Notes:=Notae:
 Notes: \n=Notae \n
 

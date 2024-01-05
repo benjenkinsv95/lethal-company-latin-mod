@@ -9,7 +9,7 @@
 [ Back ]=[ Redī ]
 [ Confirm ]=[Confīrmā]
 [ Continue ]=[    Perge    ]
-[ Refresh ]=[ Renova ]
+[ Refresh ]=[ Renovā ]
 
 > Back to menu=> Redī Ad Menū
 > Back=> Redī

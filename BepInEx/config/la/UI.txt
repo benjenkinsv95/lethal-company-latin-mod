@@ -6,7 +6,7 @@
 (Cannot hold until ship has landed)=(Nōn potest tenēre, dum nāvis attingit terram)
 (Dead)= (Mortuus) 
 (Radar booster)=(Radarīs augēns)
-(Requires battery-powered item)=(Debet rem ēlectrīcam vim)
+(Requires battery-powered item)=(Renovat rēs ēlectrīcās\nExempla: ambulans-loquēns aut lūmen portābile)
 (Spectating: )=(Vidēns: )
 [LIFE SUPPORT: OFFLINE]=[SUSTINERE VĪTAE: INACTĪVUS]
 [Near activity detected!]=[Proximē Actiō Dētēcta!]
