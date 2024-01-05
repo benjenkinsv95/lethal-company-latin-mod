@@ -4,6 +4,21 @@
 
 This project is a Latin translation of Lethal Company.
 
+## Screenshots
+
+![Screenshot (279)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/d2a7fd94-b074-4f67-8308-324c48f7ff33)
+
+![Screenshot (282)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/7faab851-6fc0-49c8-93dd-9cf5aa88330e)
+
+![Screenshot (288)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/cea58d03-2c9a-4b55-ae1e-da585b1fd788)
+
+
+![Screenshot (287)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/0c80061f-0eb6-4ab8-b4eb-1724c173dfd1)
+
+![Screenshot (289)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/e2641e3d-a193-448d-86f8-ec0b773e960e)
+
+![Screenshot (290)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/3d908d96-d2e2-419f-b9a4-611b7ca746c6)
+
 
 ## Install Instructions
 
