@@ -65,10 +65,11 @@ The NewTerminal translations, used to translate the terminal itself.
 
 ## Contributors
 
-Made with the help of the following contributors:
+Made with the help of the following contributors, listed alphabetically:
 
-1. Benjaminus Johannes Quintus
-2. Hadriánus Mathis
+* Benjaminus Johannes Quīntus
+* DT
+* Hadriánus Mathis
 
 ## Make a build of the mod
 

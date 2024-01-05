@@ -1,11 +1,33 @@
 # UI
 # Manually reviewed by Ben
 
+# TODO: Review if this can be done.
+# 'Screams - Sep 13='Clāmōrēs - XIII Sept
 (Cannot hold until ship has landed)=(Nōn potest tenēre, dum nāvis attingit terram)
 (Dead)= (Mortuus) 
+(Radar booster)=(Radarīs augēns)
 (Requires battery-powered item)=(Debet rem ēlectrīcam vim)
 (Spectating: )=(Vidēns: )
 [LIFE SUPPORT: OFFLINE]=[SUSTINERE VĪTAE: INACTĪVUS]
+[Near activity detected!]=[Proximē Actiō Dētēcta!]
+1 casualties: -0%\n(1 bodies recovered)=1 interfectī: -Nulla%\n(1 corpus salvātum)
+1 casualties: -20%\n(0 bodies recovered)=1 interfectī: -XX%\n(Nulla corpora salvāta)
+120 FPS=CXX FPS
+144 FPS=CXLIV FPS
+2 casualties: -0%\n(2 bodies recovered)=2 interfectī: -Nulla%\n(II corpora salvāta)
+2 casualties: -20%\n(1 bodies recovered)=2 interfectī: -XX%\n(I corpus salvātum)
+2 casualties: -40%\n(0 bodies recovered)=2 interfectī: -XL%\n(Nulla corpora salvāta)
+3 casualties: -0%\n(3 bodies recovered)=3 interfectī: -Nulla%\n(III corpora salvāta)
+3 casualties: -20%\n(2 bodies recovered)=3 interfectī: -XX%\n(II corpora salvāta)
+3 casualties: -40%\n(1 bodies recovered)=3 interfectī: -XL%\n(I corpus salvātum)
+3 casualties: -60%\n(0 bodies recovered)=3 interfectī: -LX%\n(Nulla corpora salvāta)
+30 FPS=XXX FPS
+4 casualties: -0%\n(4 bodies recovered)=4 interfectī: -Nulla%\n(IV corpora salvāta)
+4 casualties: -20%\n(3 bodies recovered)=4 interfectī: -XX%\n(III corpora salvāta)
+4 casualties: -40%\n(2 bodies recovered)=4 interfectī: -XL%\n(II corpora salvāta)
+4 casualties: -60%\n(1 bodies recovered)=4 interfectī: -LX%\n(I corpus salvātum)
+4 casualties: -80%\n(0 bodies recovered)=4 interfectī: -LXXX%\n(Nulla corpora salvāta)
+60 FPS=LX FPS
 
 # A-M
 Alert! The autopilot is leaving due to dangerous conditions.=CAVE! Gubernator prōpter pericula condiciones relinquit
@@ -13,6 +35,7 @@ ALERT!=CAVE!
 An error occurred!=Error factus est!
 # typo
 An error occured!=Error factus est!
+
 
 
 # This seems tough, displosio seems like a more modern word for explosion
@@ -28,6 +51,7 @@ Change suit=Mūta vestimenta
 Change: Green suit=Mūta: Vestīmentum viride
 Change: Hazard suit=Mūta: Vestīmentum perīculī
 Change: Pajama suit=Mūta: Vestīmentum nocturnum
+r:"^Change: (.+)$"=Mūta: $1
 Confirm changes?=Cōnfirmā Mūtātiōnēs?
 Continue=Perge
 Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Cōnnectiō ad servātōrēs STEAM dēfēcit!
@@ -59,13 +83,12 @@ Intern=Operarius minor
 # Inventarium shows up in ~AD 200
 Inventory full!=Inventārium plēnum!
 Item collected!=Res collēcta est!
-# Items missed!\nThe vehicle returned with your purchased items. Our delivery fee cannot be refunded.=Rēs neglēctae!\nCurrus, cum rēbus quās ēmistī, reversus est. Nōn licet mercedem trānsportātiōnis restituere.
 Items missed!=Rēs neglēctae!
 The vehicle returned with your purchased items. Our delivery fee cannot be refunded.=Currus, cum rēbus quās ēmistī, reversus est. Nōn licet mercedem trānsportātiōnis restituere.
 Lands the ship.=Navis descendit ad terram.
 Leader=Dux
-LOADING WORLD...=Ad mundum dēscendēns... 
-Loading server list...=Servātōrum Indicem Rēnovāns...
+LOADING WORLD...=Ad mundum dēscenditur... 
+Loading server list...=Servātōrum Index Rēnovātur...
 
 Locked=Clūsus
 # Implies cutting, llpsi ch 29
@@ -91,7 +114,7 @@ Public=Pūblicus
 Push to talk:=Preme loquī: 
 QUOTA REACHED!=QUOTA COMPLETA!
 Quota=Quota
-RECEIVING SIGNAL=Signum Accipiēns
+RECEIVING SIGNAL=Signal Acceptum
 r:"^(.*) \n ?AM"=AM $1
 r:"^(.*) \n ?PM"=PM $1
 # TODO potential roman numerals (Automate)
@@ -101,18 +124,18 @@ r:"^(.*) FPS$"=FPS $1
 
 r:"(.+)joined the ship"=$1navem adiit
 # r:"([\s\S]+) joined the ship."=$1 navem adiit.
-r:"^Player #0(.+?)joined the ship(.+?)$"=Lūsor nullus navem adiit $2
-r:"^Player #1(.+?)joined the ship(.+?)$"=Lūsor I navem adiit $2
-r:"^Player #2(.+?)joined the ship(.+?)$"=Lūsor II navem adiit $2
-r:"^Player #3(.+?)joined the ship(.+?)$"=Lūsor III navem adiit $2
-r:"^Player #4(.+?)joined the ship(.+?)$"=Lūsor IV navem adiit $2
-r:"^Player #5(.+?)joined the ship(.+?)$"=Lūsor V navem adiit $2
-r:"^Player #0$"=Lūsor nullus
-r:"^Player #1$"=Lūsor I 
-r:"^Player #2$"=Lūsor II 
-r:"^Player #3$"=Lūsor III 
-r:"^Player #4$"=Lūsor IV 
-r:"^Player #5$"=Lūsor V 
+r:"Player #0(.+?)joined the ship(.+?)"=Lūsor nullus navem adiit $2
+r:"Player #1(.+?)joined the ship(.+?)"=Lūsor I navem adiit $2
+r:"Player #2(.+?)joined the ship(.+?)"=Lūsor II navem adiit $2
+r:"Player #3(.+?)joined the ship(.+?)"=Lūsor III navem adiit $2
+r:"Player #4(.+?)joined the ship(.+?)"=Lūsor IV navem adiit $2
+r:"Player #5(.+?)joined the ship(.+?)"=Lūsor V navem adiit $2
+r:"Player #0$"=Lūsor nullus
+r:"Player #1$"=Lūsor I 
+r:"Player #2$"=Lūsor II 
+r:"Player #3$"=Lūsor III 
+r:"Player #4$"=Lūsor IV 
+r:"Player #5$"=Lūsor V 
 
 # r:"^Player #0$"=(Vidēns:  )
 
@@ -210,7 +233,7 @@ Ship leaving in one hour=Navis in ūnā hōrā relinquet
 sr:"^(.+?)collected!$"=$1 collectum est！
 sr:"^Cause of death: (.+)$"=Causa mortis:  $1
 
-r:"^Found journal entry(.+)"=Invēnī līber inscriptionis$1 
+sr:"^Found journal entry: (.+)$"=Invēnī līber inscriptionis: $1 
 sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae:  \n* $1\n* $2\n* $3 \n* $4\n
 sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\n
 sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\nWeather: (.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\nTempestās: $5
@@ -235,7 +258,7 @@ r:"(.+)The laziest employee"=$1Operarius pigrissimus
 The host has not loaded or has already landed their ship.=Hospēs nōndum accessit aut iam nāvem suam ad terram attigit."
 
 The server is full!=Servātor iam plēnus est!
-TIP:=DONUM: 
+TIP:=MONITUM: 
 Tip=Monitum
 Press B to move and place objects in the ship, E to cancel.=Preme B ad rēs in nāvī movendās et ponendās, E ad relinquendum.
 TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=MONITUM!: Tene [RMB] ut suffrāgium mittās pro nāvī gubernātōre prius discedente.
@@ -264,6 +287,48 @@ You have 0 days left to meet the quota. Use the terminal to route to the company
 
 r:"^Climb(.+)"=Ascende$1
 # sr:"^Drop (.+?): \[G\]$"=ut $1 cadat: [G]
-sr:"^Drop (.+?): \[B\]$"=ut $1 cadat: [B]
+# sr:"^Drop (.+?): \[B\]$"=ut $1 cadat: [B]
 # Unknown, but scared to modify
 sr:"^(.+) \((.+)\)(.+)"=TEST $1 ($2): $3
+
+#####
+Asking all other players for installed mods..=Omnibus aliīs lūdēns interrogantur dē modīs installātīs..
+Boss=Patron
+Cause of death: Gunshots=Causa mortis: Ictūs sclopetī
+Cause of death: Mauling=Causa mortis: Sectiō
+Down Arrow=Sagitta Dēorsum
+Found journal entry: 'Screams - Sep 13'=Inventum est diurnum: 'Clāmōrēs - XIII Sept'
+Found journal entry: 'Smells here! - Aug 24'=Inventum est diurnum: 'Odorēs Hīc! - XXIV Aug'
+Found journal entry: 'Swing of things - Aug 27'=Inventum est diurnum: 'Rērum Cursūs - XXVII Aug'
+Left Alt=Alt Sinister
+Left Arrow=Sagitta Sinistra
+Left Control=Ctrl Sinister
+Left Shift=Shift Sinister
+Mod List:=Index Modōrum:
+Most paranoid employee.=Operarius suspiciosissimus.
+Most paranoid employee=Operarius suspiciosissimus
+Most profitable.=Operarius lucratissimus.
+Most profitable=Operarius lucratissimus
+Nameless=Nōmine Carent
+Part-timer=Operarius partim temporis
+Press Z to inspect closely. Press Q and E to flip the pages.=Premē Z ad īnspectandam propinquē. Premē Q et E ad vertendās paginās.
+Quota reached=Quota adsecūta
+r:"^(.+) responded with these mods:\n(.+)"=$1 His modīs respondit:\n$2
+r:"^Page (.+)/(.+)$"=Pagina $1/$2
+Right Alt=Alt Dexter
+Right Arrow=Sagitta Dextra
+Right Control=Ctrl Dexter
+Right Shift=Shift Dexter
+sr:"^Found journal entry: (.+)$"=Inventum est diurnum: $1
+sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae: \n* $1\n* $2\n* $3 \n* $4\n
+Sustained the most injuries.=Plūrimā vulnera sustinuit.
+Sustained the most injuries=Plūrimā vulnera sustinuit.
+Tab=Tab
+The laziest employee.=Operarius pigrissimus.
+The laziest employee=Operarius pigrissimus
+The most paranoid employee.=Operarius suspiciosissimus.
+The most paranoid employee=Operarius suspiciosissimus
+To read the manual:=Ad manuālem legendum:
+Unnamed=Nōmine Carent
+Up Arrow=Sagitta Sūrsum
+WAIT!=EXSPECTĀ!
