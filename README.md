@@ -26,15 +26,11 @@ Once all 5 mods are installed, you can play it in latin by clicking the "Modded 
 ![image](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/22ef1cc2-c2c2-4b4d-aa8d-0039b5117757)
 
 
-## Future Improvements
+## Future Improvements & Bugs
 
-1. Removing the remaining English in the game (I know about and am having trouble replacing 'Random seed'. Also having trouble with the bill showing what we sold at the company). There is also english in the terminal I can't remove until NewTerminal is updated.
-2. (Potential) Replace more english text assets (I have assets for the stop sign, sigurd sticky note, and more. But I don't know the specific name to replace for the assets.)
-3. Use a font that supports macrons
-4. Various tweaks suggested on discord
-5. Rename crew from grex to operarius throughout
+Are tracked here:
+https://github.com/benjenkinsv95/lethal-company-latin-mod/issues
 
-All of the translations can be found in the files linked below.
 
 ## Submit a Translation
 
@@ -44,6 +40,8 @@ Have an idea to improve a translation?
 
 
 ## Game Menus & UI Translations
+All of the translations can be found in the files linked below.
+
 The latin translations used for everything besides the terminal.
 
 1. [Creature](BepInEx/config/la/Creature.txt)

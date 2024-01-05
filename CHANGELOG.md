@@ -1,4 +1,7 @@
 # Changelog
+# 1.1.33 Documentation tweaks
+Turning future improvements and bugs into issues, so they can be tracked in the future.
+
 # 1.1.32 Various grammar updates and more roman numerals
 More grammar updates from DT and quite a few bits of English have been removed again.
 
