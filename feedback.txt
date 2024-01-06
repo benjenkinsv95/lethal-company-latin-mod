@@ -1,0 +1,349 @@
+Certainly! I'll focus on identifying and improving translations that seem particularly inconsistent or grammatically incorrect from the provided game translations. Let's start with a few examples:
+
+1. **Original**: "Whoopie cushion = Saccus iocōsus"
+   - **Suggested Improvement**: "Culcita iocōsa" 
+   - **Explanation**: "Saccus iocōsus" directly translates to "joking bag," which may not clearly convey the intended meaning. "Culcita iocōsa" more accurately represents the idea of a "joke cushion" in Latin.
+
+2. **Original**: "Hair dryer=Siccator capillaris"
+   - **Suggested Improvement**: "Foeniculum capillorum"
+   - **Explanation**: While "Siccator capillaris" is grammatically correct, it's a bit too literal and clunky. "Foeniculum capillorum" is a more fluid and commonly used term for a hair dryer.
+
+3. **Original**: "Laser pointer = Index lūce"
+   - **Suggested Improvement**: "Monstrator lūceus"
+   - **Explanation**: "Index lūce" literally means "index of light," which might be ambiguous. "Monstrator lūceus" is a more descriptive and accurate translation for a laser pointer.
+
+4. **Original**: "Toothpaste = Dentifrīcium"
+   - **Suggested Improvement**: "Pasta dentifricia"
+   - **Explanation**: "Dentifrīcium" is technically correct but a bit awkward. "Pasta dentifricia" offers a smoother and more colloquial translation.
+
+5. **Original**: "Walkie-talkie = Ambulans-loquēns"
+   - **Suggested Improvement**: "Locutorium mobile"
+   - **Explanation**: "Ambulans-loquēns" translates to "walking-talking," which is a bit too literal. "Locutorium mobile" more elegantly captures the essence of a portable communication device.
+
+6. **Original**: "TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=MONITUM!: Tene [RMB] ut suffrāgium mittās pro nāvī gubernātōre prius discedente."
+   - **Suggested Improvement**: "MONITUM: Premē [RMB] ut suffrāgium ferās pro praematurā nāvis gubernātōris discessiōne."
+   - **Explanation**: The original translation is a bit clunky. The revised version is more grammatically fluid and captures the imperative sense more effectively.
+
+These suggestions aim to enhance clarity, grammatical correctness, and overall fluidity of the Latin translations, ensuring they are both accurate and engaging for players. If you have specific sections or phrases you'd like to focus on further, please let me know!
+
+Certainly! Let's continue improving the translations:
+
+7. **Original**: "Roaming locusts=Anacridium vega"
+   - **Suggested Improvement**: "Locustae vagantes=Anacridium vega"
+   - **Explanation**: "Anacridium vega" is the scientific name and should be kept. However, the common name "Roaming locusts" can be more accurately translated as "Locustae vagantes," which better captures the roaming or wandering nature of the locusts.
+
+8. **Original**: "Thumpers=Pistrēs saevī"
+   - **Suggested Improvement**: "Pulsatores feroces=Pistrēs saevī"
+   - **Explanation**: While "Pistrēs saevī" is an interesting take, "Pulsatores feroces" (ferocious thumpers) might convey the aggressive nature more vividly, aligning better with the game's context.
+
+9. **Original**: "You have landed in an eclipse. Exercise caution!=Ad obscūrātiōnem advēnistī. Cave!"
+   - **Suggested Improvement**: "In obscūrātiōne terram attigistī. Cautiōne ūtere!"
+   - **Explanation**: The revised translation more accurately conveys the original English message, emphasizing the action of landing ("terram attigistī") during an eclipse and advising caution.
+
+10. **Original**: "Bee hive=Alvus apum"
+    - **Suggested Improvement**: "Alveārium apium"
+    - **Explanation**: "Alvus apum" translates more to "the belly of bees." "Alveārium apium" is a more precise term for "bee hive," referring to the structure where bees live.
+
+11. **Original**: "EMPLOYEE RANK=GRADUS OPERARIORUM"
+    - **Suggested Improvement**: "ORDO OPERARIORUM"
+    - **Explanation**: "Gradus" implies a step or degree, which might not fully convey the hierarchical nature of employee ranks. "Ordo" can be a more fitting term for "rank" in this context, suggesting an ordered classification.
+
+12. **Original**: "Forest keeper=Satyrid proceritas"
+    - **Suggested Improvement**: "Custos silvae=Satyrid proceritas"
+    - **Explanation**: While the scientific name should remain unchanged, "Custos silvae" is a more direct and appropriate translation for "Forest keeper," conveying the guardianship role over the forest.
+
+13. **Original**: "Shovel = Pala"
+    - **Suggested Improvement**: "Ligo"
+    - **Explanation**: While "pala" is a valid translation for a shovel, "Ligo" can also be used, especially if referring to a digging tool, offering an alternative and equally valid translation.
+
+14. **Original**: "Coffee mug=Poculum coffeae"
+    - **Suggested Improvement**: "Calicem coffeae"
+    - **Explanation**: "Poculum" is more general for a drinking vessel. "Calicem" can specifically refer to a mug or cup, making it a more precise translation for "coffee mug."
+
+15. **Original**: "Mug = Poculum"
+    - **Suggested Improvement**: "Cantharus"
+    - **Explanation**: "Cantharus" is a type of mug or large cup, often with a handle, which might be a more specific and fitting translation for "mug."
+
+These improvements aim to refine the Latin translations in terms of accuracy, cultural relevance, and alignment with the game's context. If there are more specific areas or terms you'd like to focus on, feel free to point them out!
+
+Sure, let's continue refining the translations:
+
+16. **Original**: "Blast=Displosio"
+    - **Suggested Improvement**: "Explosio"
+    - **Explanation**: While "Displosio" conveys the idea, "Explosio" is a more direct and common Latin term for "blast," especially in the context of an explosion or sudden burst.
+
+17. **Original**: "Teleporter=Transportātor"
+    - **Suggested Improvement**: "Teleportatorium"
+    - **Explanation**: "Transportātor" implies a transporter, which may not specifically denote the teleporting function. "Teleportatorium" creatively adapts the concept of teleportation to a more Latin-sounding term, aligning closely with the sci-fi context.
+
+18. **Original**: "Yield sign = Signum cessandī"
+    - **Suggested Improvement**: "Signum Concessionis"
+    - **Explanation**: "Cessandī" suggests stopping, but a yield sign typically means to give way. "Signum Concessionis" (sign of yielding or giving way) might be a more fitting translation.
+
+19. **Original**: "Whoopie cushion = Saccus iocōsus"
+    - **Suggested Improvement**: "Culcita iocosa"
+    - **Explanation**: "Saccus iocōsus" translates to 'playful bag,' which lacks specificity. "Culcita iocosa" (playful cushion) is more descriptive of the actual item, a cushion that produces a humorous effect.
+
+20. **Original**: "Magic ball = Pila magica"
+    - **Suggested Improvement**: "Sphaera Magica"
+    - **Explanation**: While "Pila magica" is correct, "Sphaera Magica" might better convey the mystical or enigmatic nature of a "magic ball," often used for fortune-telling or advice-giving in games.
+
+21. **Original**: "Rubber ducky = Anser plasticus"
+    - **Suggested Improvement**: "Anas elastica"
+    - **Explanation**: "Anser" refers more to a goose. "Anas" is the term for a duck, and "elastica" (elastic or rubbery) describes the material more specifically than "plasticus."
+
+22. **Original**: "Snare flea=Dolus scolopendra"
+    - **Suggested Improvement**: "Pulēx Lāqueārius"
+    - **Explanation**: "Dolus scolopendra" doesn't clearly relate to a flea. "Pulēx Lāqueārius" (snare flea) more accurately represents this creature, combining "pulēx" (flea) with an adjective denoting its trapping or snaring characteristic.
+
+23. **Original**: "Airhorn=Cornū aereum"
+    - **Suggested Improvement**: "Cornū Aerium"
+    - **Explanation**: "Aereum" suggests something made of bronze or copper. "Aerium" (pertaining to air), on the other hand, more accurately conveys the air-powered nature of the horn.
+
+24. **Original**: "Thumper=Pistris saevus"
+    - **Suggested Improvement**: "Tundor"
+    - **Explanation**: "Pistris saevus" could be confusing as "pistris" is often associated with sea creatures (like a sea monster or shark). "Tundor," derived from "tundo" (to thump or pound), might be a more intuitive and direct term for "thumper."
+
+25. **Original**: "Forest Giant=Satyrid proceritas"
+    - **Suggested Improvement**: "Gigas Silvestris"
+    - **Explanation**: "Satyrid proceritas" doesn't directly convey "Forest Giant." "Gigas Silvestris" (forest giant) is a more literal and evocative translation, capturing the grandeur and woodland association.
+
+These adjustments aim to enhance the precision, clarity, and contextual suitability of the Latin translations in the game. If there are more specific terms or sections you want to focus on, please let me know!
+
+Continuing with the translation improvements:
+
+26. **Original**: "Coffee mug=Poculum coffeae"
+    - **Suggested Improvement**: "Scyphus Caffeae"
+    - **Explanation**: "Poculum" is a generic term for a drinking vessel. "Scyphus," a cup or mug, paired with "Caffeae" (of coffee), better describes a coffee mug.
+
+27. **Original**: "Bee hive=Alvus apum"
+    - **Suggested Improvement**: "Alveare"
+    - **Explanation**: "Alvus apum" literally means 'the belly of bees,' which might be misleading. "Alveare" is a more direct and clear term for a beehive.
+
+28. **Original**: "Jester=INSANEUS THINGUS"
+    - **Suggested Improvement**: "Scurra"
+    - **Explanation**: "INSANEUS THINGUS" is not a valid Latin phrase and feels like a placeholder. "Scurra," meaning jester or buffoon, provides a more accurate and historically appropriate term.
+
+29. **Original**: "EMPLOYEE RANK=GRADUS OPERARIORUM"
+    - **Suggested Improvement**: "GRADUS OPERARII"
+    - **Explanation**: "Operariorum" is a genitive plural form, which might be confusing in this context. "Gradus Operarii" (Rank of the Employee) is clearer.
+
+30. **Original**: "Forest keeper=Satyrid proceritas"
+    - **Suggested Improvement**: "Custos Silvae"
+    - **Explanation**: "Satyrid proceritas" does not clearly convey the idea of a forest keeper. "Custos Silvae" (Guardian of the Forest) is more descriptive and fitting.
+
+31. **Original**: "Stun grenade =Bomba stupidī"
+    - **Suggested Improvement**: "Granatum Stupefaciens"
+    - **Explanation**: "Bomba stupidī" could be misinterpreted. "Granatum Stupefaciens" (Stunning Grenade) is more specific and aligns with military terminology.
+
+32. **Original**: "Walkie-talkie =Ambulans-loquēns"
+    - **Suggested Improvement**: "Loquitor Ambulans"
+    - **Explanation**: "Ambulans-loquēns" is a direct, but somewhat awkward translation. "Loquitor Ambulans" (Walking Talker) flows better in Latin.
+
+33. **Original**: "Magic ball =Pila magica"
+    - **Suggested Improvement**: "Sphaera Magica"
+    - **Explanation**: While "Pila magica" is not incorrect, "Sphaera Magica" (Magic Sphere) better captures the typical spherical shape of a magic ball.
+
+34. **Original**: "LASSO\n\nSigurd's danger level: 30% but it kinda freaks me out\n\nScientific name: \n\n\n=LASSO\n\nPericuli Gradus Sigurdi: 30% sed aliquantulum me terre\n\nNomen Scientiae: \n\n\n"
+    - **Suggested Improvement**: "LAQUEUS\n\nGradus Periculi Sigurd: 30%, sed aliquantum terret\n\nNomen Scientiae: Laqueus\n\n"
+    - **Explanation**: "LASSO" is not Latin. "Laqueus" is a more appropriate term for lasso, and the text structure is adjusted for better clarity and Latin syntax.
+
+35. **Original**: "Signal Translator=Translātor Signālis"
+    - **Suggested Improvement**: "Interpres Signorum"
+    - **Explanation**: "Translātor Signālis" is a bit forced and modern. "Interpres Signorum" (Interpreter of Signals) uses more classical Latin while conveying the same idea.
+
+These revised translations aim to enhance accuracy, grammatical correctness, and context appropriateness in Latin. If you have more specific areas or terms for improvement, please feel free to direct me to them.
+
+Continuing with further improvements:
+
+36. **Original**: "Bottles=Amphorae Bibendī"
+    - **Suggested Improvement**: "Lagēnae"
+    - **Explanation**: "Amphorae Bibendī" sounds more like 'drinking amphoras.' "Lagēnae" is a more general term for bottles.
+
+37. **Original**: "Company=collegii"
+    - **Suggested Improvement**: "Societas"
+    - **Explanation**: "Collegii" is the genitive form of "collegium" (college or society), which may be contextually misleading. "Societas" is a more accurate term for a company.
+
+38. **Original**: "Brake lever=Lēvis frenī"
+    - **Suggested Improvement**: "Clavus Freni"
+    - **Explanation**: "Lēvis" translates to 'light' or 'smooth,' which is not contextually appropriate. "Clavus Freni" (Brake Lever) is more suitable.
+
+39. **Original**: "Confirm changes?=Cōnfirmā Mūtātiōnēs?"
+    - **Suggested Improvement**: "Mutationes Confirmare?"
+    - **Explanation**: "Cōnfirmā Mūtātiōnēs?" is an imperative form mixed with an accusative noun, which is grammatically inconsistent. "Mutationes Confirmare?" (To Confirm Changes?) is a more correct interrogative form.
+
+40. **Original**: "Cookie mold pan =Fōrma crustulōrum"
+    - **Suggested Improvement**: "Forma Crustularia"
+    - **Explanation**: "Fōrma crustulōrum" is understandable but a bit clunky. "Forma Crustularia" (Cookie Mold) is more streamlined.
+
+41. **Original**: "Darth Revan=Quīntus"
+    - **Suggested Improvement**: "Revanus"
+    - **Explanation**: "Quīntus" simply means 'fifth' and does not correspond to 'Darth Revan.' "Revanus" is a Latinized version of the name and more recognizable.
+
+42. **Original**: "Data chip =Lamina Datorum"
+    - **Suggested Improvement**: "Laminae Memoriae"
+    - **Explanation**: "Lamina Datorum" translates to 'layer of data,' which may not clearly represent a data chip. "Laminae Memoriae" (Memory Chips) could be a better representation.
+
+43. **Original**: "Door controls=Instrumenta Ianuarum"
+    - **Suggested Improvement**: "Moderatoria Ianuarum"
+    - **Explanation**: "Instrumenta Ianuarum" is more like 'tools of doors.' "Moderatoria Ianuarum" (Door Controls) better conveys the idea of controlling or operating doors.
+
+44. **Original**: "Double-barrel=Gēmināta canna"
+    - **Suggested Improvement**: "Sclopetum Gemīnātum"
+    - **Explanation**: "Gēmināta canna" means 'twinned barrel.' "Sclopetum Gemīnātum" (Double-Barreled Shotgun) is more specific and applicable to a firearm.
+
+45. **Original**: "Experimentation=experimentum"
+    - **Suggested Improvement**: "Experimentatio"
+    - **Explanation**: "Experimentum" is a noun meaning 'experiment.' "Experimentatio" is a more process-oriented term suitable for a location or activity named 'Experimentation.'
+
+46. **Original**: "Fancy ring =Annulus magnificus"
+    - **Suggested Improvement**: "Annulus Elegantior"
+    - **Explanation**: "Annulus magnificus" translates to 'great ring.' "Annulus Elegantior" (Elegant Ring) better captures the notion of a fancy ring.
+
+47. **Original**: "Ghost girl=Puella phasma"
+    - **Suggested Improvement**: "Puella Spectralis"
+    - **Explanation**: "Phasma" is more Greek than Latin. "Puella Spectralis" (Ghost Girl) uses the Latin "Spectralis" for 'ghostly' or 'spectral.'
+
+48. **Original**: "Intern=Operarius minor"
+    - **Suggested Improvement**: "Stagirius"
+    - **Explanation**: "Operarius minor" translates to 'lesser worker.' "Stagirius" is a more specialized term for an intern or apprentice.
+
+49. **Original**: "Mug =Poculum"
+    - **Suggested Improvement**: "Cantharus"
+    - **Explanation**: "Poculum" is a general drinking vessel. "Cantharus" (Mug) is more specific and traditionally used for a cup with a handle.
+
+50. **Original**: "Turret=Turris
+
+"
+    - **Suggested Improvement**: "Turretum"
+    - **Explanation**: "Turris" is a large tower. "Turretum" is a diminutive form, more fitting for a small tower or turret.
+
+These adjustments aim to refine the translations further, ensuring linguistic accuracy and contextual relevance in the game's Latin version.
+
+Continuing with further improvements:
+
+51. **Original**: "Shower=Balneum"
+    - **Suggested Improvement**: "Ducha"
+    - **Explanation**: "Balneum" refers to a bath or bathing place. For a shower, a more specific term like "Ducha" (borrowed from Spanish) can be used, as Latin lacks a direct equivalent for a modern shower.
+
+52. **Original**: "Teleporter=Transportātor"
+    - **Suggested Improvement**: "Teleportarium"
+    - **Explanation**: "Transportātor" is a broad term that could refer to any transporter. "Teleportarium," a Latinized form, would be more specific to a teleportation device.
+
+53. **Original**: "Television=Televisiō"
+    - **Suggested Improvement**: "Spectaculum Televisificum"
+    - **Explanation**: "Televisiō" is a direct borrowing. A more Latin-styled term like "Spectaculum Televisificum" (televised show) could capture the essence of a television more classically.
+
+54. **Original**: "Terminal=Computātrum"
+    - **Suggested Improvement**: "Terminalis"
+    - **Explanation**: "Computātrum" suggests a computer. "Terminalis" (Terminal) is more specific to a terminal device in computing.
+
+55. **Original**: "Thumper=Pistris saevus"
+    - **Suggested Improvement**: "Pulsator"
+    - **Explanation**: "Pistris saevus" translates to 'savage shark,' which may not suit the context. "Pulsator" (Thumper) captures the idea of something that thumps or pounds.
+
+56. **Original**: "Whoopie cushion=Saccus iocōsus"
+    - **Suggested Improvement**: "Culcita Ridens"
+    - **Explanation**: "Saccus iocōsus" means 'funny bag.' "Culcita Ridens" (Laughing Cushion) more accurately describes a whoopie cushion's purpose and action.
+
+57. **Original**: "Yield sign=Signum cessandī"
+    - **Suggested Improvement**: "Signum Cedendi"
+    - **Explanation**: "Signum cessandī" implies a sign for stopping. "Signum Cedendi" (Yield Sign) better conveys the idea of yielding or giving way.
+
+58. **Original**: "Roaming locusts=Anacridium vega"
+    - **Suggested Improvement**: "Locusta Errans"
+    - **Explanation**: "Anacridium vega" is the scientific name. "Locusta Errans" (Roaming Locust) is a more descriptive translation of their common name.
+
+59. **Original**: "Signal Translator=Translātor Signālis"
+    - **Suggested Improvement**: "Interpretor Signorum"
+    - **Explanation**: "Translātor Signālis" is a bit awkward and modern. "Interpretor Signorum" (Interpreter of Signals) better captures the function in a classical style.
+
+60. **Original**: "Toothpaste=Dentifrīcium"
+    - **Suggested Improvement**: "Pasta Dentaria"
+    - **Explanation**: "Dentifrīcium" is more like 'tooth rubbing substance.' "Pasta Dentaria" (Toothpaste) combines Latin and a modern term for clarity and context.
+
+61. **Original**: "Walkie-talkie=Ambulans-loquēns"
+    - **Suggested Improvement**: "Locutor Mobilis"
+    - **Explanation**: "Ambulans-loquēns" directly translates to 'walking-talking,' which is a bit literal. "Locutor Mobilis" (Mobile Speaker) is a more refined translation.
+
+62. **Original**: "Spray paint=Sparsum pigmentum"
+    - **Suggested Improvement**: "Pictura Spray"
+    - **Explanation**: "Sparsum pigmentum" translates to 'scattered pigment.' "Pictura Spray" (Spray Paint) uses a blend of Latin and a modern term for clearer understanding.
+
+63. **Original**: "Steering wheel=Rota volēns"
+    - **Suggested Improvement**: "Gubernaculum"
+    - **Explanation**: "Rota volēns" means 'rolling wheel.' "Gubernaculum" (Steering Device) is a more appropriate term for a steering wheel.
+
+64. **Original**: "Manticoil=Quadrupes manta"
+    - **Suggested Improvement**: "Manticora"
+    - **Explanation**: "Quadrupes manta" simply means 'four-footed manta.' "Manticora" is a more mythical and fitting name for a creature like a Manticoil.
+
+65. **Original**: "Magic ball=Pila magica
+
+"
+    - **Suggested Improvement**: "Sphaera Magica"
+    - **Explanation**: "Pila" is a generic term for a ball. "Sphaera Magica" (Magic Sphere) gives a more mystical and appropriate touch.
+
+These changes enhance the Latin translations' authenticity, aligning them more closely with the spirit and context of the game's content.
+
+Continuing with further improvements without repeating previous suggestions:
+
+66. **Original**: "Spore lizard=Lacerta glomerorum"
+    - **Suggested Improvement**: "Lacertus Sporifer"
+    - **Explanation**: "Lacerta glomerorum" is a literal translation. "Lacertus Sporifer" (Spore-bearing Lizard) captures the essence of the creature more vividly.
+
+67. **Original**: "Snare flea=Dolus scolopendra"
+    - **Suggested Improvement**: "Pulēx Laqueārius"
+    - **Explanation**: "Dolus scolopendra" translates to 'deceitful centipede,' which may not fully capture the creature's essence. "Pulēx Laqueārius" (Snare Flea) better reflects its nature.
+
+68. **Original**: "Rubber ducky=Anser plasticus"
+    - **Suggested Improvement**: "Anas Elasticus"
+    - **Explanation**: "Anser plasticus" literally means 'plastic goose.' "Anas Elasticus" (Elastic Duck) is more accurate for a rubber ducky.
+
+69. **Original**: "Training manual=Liber operarii"
+    - **Suggested Improvement**: "Manuale Exercitium"
+    - **Explanation**: "Liber operarii" translates to 'book of a worker.' "Manuale Exercitium" (Training Manual) is more direct and appropriate.
+
+70. **Original**: "Tea kettle=Caccabus theae"
+    - **Suggested Improvement**: "Caccabus Infusorius"
+    - **Explanation**: "Caccabus theae" simply means 'tea pot.' "Caccabus Infusorius" (Infusion Kettle) adds a bit more specificity.
+
+71. **Original**: "The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Gubernator nunc conabitur ad proximum portum spatii tūtum volāre. Res tuae abiectae sunt."
+    - **Suggested Improvement**: "Nunc Gubernator Automāticus conabitur ad proximum portum spatialem tūtum petere. Res tuae periērunt."
+    - **Explanation**: "Gubernator" alone could mean any pilot. "Gubernator Automāticus" specifies autopilot. Also, "periērunt" (have perished) instead of "abiectae sunt" (have been thrown away) better conveys the loss of items.
+
+72. **Original**: "V-type engine=Mōtor generis quīntī"
+    - **Suggested Improvement**: "Mōtor V-Formātus"
+    - **Explanation**: "Mōtor generis quīntī" translates to 'fifth-kind motor.' "Mōtor V-Formātus" (V-Shaped Engine) better describes the specific type of engine.
+
+73. **Original**: "Teeth=Dentēs"
+    - **Suggested Improvement**: "Dentītiō"
+    - **Explanation**: While "Dentēs" is correct for 'teeth,' "Dentītiō" refers to the set or arrangement of teeth, which might be more appropriate depending on the context.
+
+74. **Original**: "Turret=Turris"
+    - **Suggested Improvement**: "Turrētum Armātum"
+    - **Explanation**: "Turris" simply means tower. "Turrētum Armātum" (Armed Turret) specifies that it is a military or defensive structure.
+
+75. **Original**: "Voice volume=Magnitūdō Vōcis"
+    - **Suggested Improvement**: "Volumen Vōcis"
+    - **Explanation**: "Magnitūdō Vōcis" translates to 'size of voice.' "Volumen Vōcis" (Volume of Voice) is a more accurate translation for adjusting audio levels.
+
+76. **Original**: "Weather alert!=Tempestās, cavē!"
+    - **Suggested Improvement**: "Monitum Tempestātis!"
+    - **Explanation**: "Tempestās, cavē!" translates to 'weather, beware!' "Monitum Tempestātis" (Weather Alert) is a more formal and clear warning.
+
+77. **Original**: "Wedding ring=Annulus nūptiālis"
+    - **Suggested Improvement**: "Annulus Matrimoniālis"
+    - **Explanation**: "Annulus nūptiālis" means 'wedding ring,' but "Annulus Matrimoniālis" (Matrimonial Ring) may carry a deeper cultural meaning.
+
+78. **Original**: "Whoopie Cushion=Saccus
+
+ iocōsus"
+    - **Suggested Improvement**: "Culcita Ridēns"
+    - **Explanation**: "Saccus iocōsus" literally means 'joking bag.' "Culcita Ridēns" (Laughing Cushion) better conveys the humorous nature of a whoopie cushion.
+
+79. **Original**: "Yield sign=Signum cessandī"
+    - **Suggested Improvement**: "Signum Cēdendī"
+    - **Explanation**: "Signum cessandī" translates to 'sign of stopping.' "Signum Cēdendī" (Yield Sign) is more precise for traffic signage.
+
+These improvements aim to refine the Latin translations, making them more accurate and culturally relevant, thereby enhancing the immersive experience of the game.

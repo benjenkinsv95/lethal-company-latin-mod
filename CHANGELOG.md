@@ -1,4 +1,7 @@
 # Changelog
+# 1.1.34 Bug Fixes, Font Size Changes, and Showing Cardinal Numbers and Roman Numerals in Some Locations
+The title really
+
 # 1.1.33 Documentation tweaks
 Turning future improvements and bugs into issues, so they can be tracked in the future.
 

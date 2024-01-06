@@ -98,7 +98,7 @@ Mauling=Sectiō
 
 # N-R
 New creature data sent to terminal!=Animalibus novīs data ad computātrum missa!
-NEW PROFIT QUOTA:=NOVA QUOTA LŪCRĪS: 
+NEW PROFIT QUOTA:=<size\=40>NOVA QUOTA LŪCRĪS: </size>
 None=Nihil
 
 
@@ -114,7 +114,7 @@ PRIVATE means you must send invites through Steam for players to join.=PRĪVĀTU
 PUBLIC means your game will be visible on the server list for all to see.=PŪBLICUS significat lūdum tuum in indīce servātōrum ut omnibus esse visūrum.
 Public=Pūblicus
 Push to talk:=Preme loquī: 
-QUOTA REACHED!=QUOTA COMPLETA!
+QUOTA REACHED!=<size\=40>QUOTA COMPLETA!</size>
 Quota=Quota
 RECEIVING SIGNAL=Signal Acceptum
 r:"^(.*) \n ?AM"=AM $1
@@ -215,9 +215,9 @@ r:"^DEADLINE:\n8 Days$"=FINIS: \nVIII DĪES
 r:"^DEADLINE:\n9 Days$"=FINIS: \nIX DĪES
 r:"^DEADLINE:\n(1[0-9]+) Days$"=FINIS: \n$1 DĪES
 r:"^DUE: \$([0-9]+)$"=Dēbitum: $1 AU
-r:"^File 1$"=Tabella I
-r:"^File 2$"=Tabella II
-r:"^File 3$"=Tabella III
+r:"^File 1$"=<size\=13>Tabella I</size>
+r:"^File 2$"=<size\=13>Tabella II</size>
+r:"^File 3$"=<size\=13>Tabella III</size>
 r:"^MONITORING: (.+)$"=Vigilans:  $1
 r:"^MONITORING:(.+)Player$"=(Vigilans:  Lūsor)
 r:"^MONITORING:(.+)Player #0$"=(Vigilans:  Lūsor Nullus)
@@ -229,7 +229,7 @@ r:"^MONITORING:(.+)Player #5$"=(Vigilans:  Lūsor V)
 r:"^MONITORING:(.+)Player #6$"=(Vigilans:  Lūsor VI)
 
 r:"^Overtime bonus: (.+)$"=Extra tempus merces:  $1
-r:"^PROFIT QUOTA:\n\$([0-9]+) / \$([0-9]+)$"=QUOTA LŪCRĪ: \n$1 / $2\nAUREI 
+sr:"^PROFIT QUOTA:\n\$([0-9]+) / \$([0-9]+)$"=QUOTA LŪCRĪ: \n$1 / $2\nAUREI 
 # r:"^(.*)Random seed: ([0-9]+)(.*)$"=Forte semen: $2
 r:"^(.*)Random seed(.*)"=Forte semen $2
 
@@ -243,7 +243,7 @@ r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship
 
 # S-Z
 Sell scrap for cash.=Vende reliquam pecuniam.
-> Set to defaults=> Redde Ad Prīstinum Statum
+> Set to defaults=<size\=14>> Redde ad prīstinum statum </size>
 Ship leaving in one hour=Navis in ūnā hōrā relinquet
 sr:"^(.+?)collected!$"=$1 collectum est！
 sr:"^Cause of death: (.+)$"=Causa mortis:  $1
@@ -263,7 +263,7 @@ SPIDER=Aranea
 Stats=Numeri
 Strangulation=Strangulātiō
 
-SYSTEMS ONLINE=SYSTEMAE INTERRETE
+SYSTEMS ONLINE=<size\=32>SYSTEMAE INTERRETE</size>
 Terminal=Computātrum
 The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Gubernator nunc conabitur ad proximum portum spatii tūtum volāre. Res tuae abiectae sunt.
 The Company must minimize risk of damage to proprietary hardware. Goodbye!=Collēgium dēbet minuere vulnus ad ferrāmentōrum suōrum. Valē!

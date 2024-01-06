@@ -25,10 +25,10 @@
 > LAN=> Rete\n  locale
 > Online=> Interrete
 > Quit=> Exī
-> Reset all to default=> Redde ad prīstinum statum 
+> Reset all to default=<size\=14>> Redde ad prīstinum statum</size>
 > Resume=> Resumē
 > Settings=> Optiōnēs
-> Set to defaults=> Redde ad prīstinum statum
+> Set to defaults=<size\=14>> Redde ad prīstinum statum</size>
 
 # A-M
 ACCESSIBILITY=Accessibil-\nitās
