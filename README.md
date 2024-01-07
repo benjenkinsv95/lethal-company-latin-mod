@@ -37,7 +37,7 @@ If you see the "Download dependency" button below, click it until all of this mo
 
 Once the mods are installed, you can play it in latin by clicking the "Modded play" button at the top
 
-![image](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/31e45039-4ada-4f9b-a547-fb7fd2dbed04)
+![docs](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/a23be6cf-0951-47ad-a86b-26dc56366067)
 
 ## Author's Request for Corrections
 
