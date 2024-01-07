@@ -1,5 +1,5 @@
 import romanNumerals from 'roman-numerals';
-import yada from './lookup.json' assert { type: "json" };
+import yada from '../lookup.json' assert { type: "json" };
 import fs from 'fs';
 
 console.log('yada')

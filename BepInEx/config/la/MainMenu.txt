@@ -3,8 +3,9 @@
   CONFIRM=   Cōnfirma
   CONFIRM=   Cōnfirma
   DISABLED=DEACTIVATUM
-  LAN=   Rete\n   locale
-  Online=   Interrete
+   corrige mē, sī vīs:
+  LAN=\n\n\n<size\=20>   Rete locale</size>\n\n<size\=14>Cōnspexistīne mendum?\n\nCorrige mē, sī vīs:</size>\n<size\=14>discord.gg/ludus</size>
+  Online=<size\=20>   Interrete</size>
 (Recommended)=     Commendātum
 [ Back ]=[ Redī ]
 [ Confirm ]=[Confīrmā]
@@ -22,8 +23,8 @@
 > Invite friends=> Invitā Amīcōs 
 > Join a crew=> Iunge tē operāriīs
 > Join LAN session=> Iunge tē lūsiōnī
-> LAN=> Rete\n  locale
-> Online=> Interrete
+> LAN=\n\n\n<size\=20>>  Rete locale</size>\n\n<size\=14>Cōnspexistīne mendum?\n\nCorrige mē, sī vīs:</size>\n<size\=14>discord.gg/ludus</size>
+> Online=<size\=20>> Interrete</size>
 > Quit=> Exī
 > Reset all to default=<size\=14>> Redde ad prīstinum statum</size>
 > Resume=> Resumē
@@ -65,7 +66,7 @@ Host LAN Server:=Hospita Localem Retem Servatorem:
 INSTABILITY:=INSTABILITAS: 
 Invert Y-Axis=Inversio Axis Y
 Join=Iunge
-LAN= Locale rete
+LAN= Rete locale
 LAUNCH MODE=MODUS INITII
 Local-only=Sōlum Locālīs 
 Loading...=Incipitur...

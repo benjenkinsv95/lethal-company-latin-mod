@@ -1,4 +1,7 @@
 # Changelog
+# 2.0.0 New font, updated logo, and added discord link
+New font that supports macrons and discord link
+
 # 1.1.34 Bug Fixes, Font Size Changes, and Showing Cardinal Numbers and Roman Numerals in Some Locations
 The title really
 
