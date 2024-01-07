@@ -7,7 +7,7 @@
 (Dead)= (Mortuus) 
 (Radar booster)=(Radarīs augēns)
 (Requires battery-powered item)=(Renovat rēs ēlectrīcās\nExempla: ambulans-loquēns aut lūmen portābile)
-(Spectating: )=(Vidēns: )
+(Spectating: )=(Spectāns: )
 [LIFE SUPPORT: OFFLINE]=[SUSTINERE VĪTAE: INACTĪVUS]
 [Near activity detected!]=[Proximē Actiō Dētēcta!]
 1 casualties: -0%\n(1 bodies recovered)=I interfectī: -Nulla%\n(I corpus salvātum)
@@ -53,7 +53,7 @@ Change: Hazard suit=Mūta: Vestīmentum perīculī
 Change: Pajama suit=Mūta: Vestīmentum nocturnum
 r:"^Change: (.+)$"=Mūta: $1
 Confirm changes?=Cōnfirmā Mūtātiōnēs?
-Continue=Perge
+Continue=Confīrmā
 Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Cōnnectiō ad servātōrēs STEAM dēfēcit!
 (Sī in retī locālī sōlum lūdere cupis,
 ēlige 'Locale Rete' cum lūdum incipis.)
@@ -87,6 +87,7 @@ Inventory full!=Inventārium plēnum!
 Item collected!=Res collēcta est!
 Items missed!=Rēs neglēctae!
 The vehicle returned with your purchased items. Our delivery fee cannot be refunded.=Currus, cum rēbus quās ēmistī, reversus est. Nōn licet mercedem trānsportātiōnis restituere.
+Kick=Expelle
 Lands the ship.=Navis descendit ad terram.
 Leader=Dux
 LOADING WORLD...=Ad mundum dēscenditur... 
@@ -139,7 +140,7 @@ r:"Player #3$"=Lūsor III
 r:"Player #4$"=Lūsor IV 
 r:"Player #5$"=Lūsor V 
 
-# r:"^Player #0$"=(Vidēns:  )
+# r:"^Player #0$"=(Spectāns:  )
 
 # TODO potential roman numerals
 r:"^5 (Days|Day) Left$"=V Diēs Rēliquī
@@ -155,7 +156,7 @@ r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī: $2\n ($3 
 r:"(.+)started the ship"=$1nāvem incēpit.
 # departed (simpler)
 r:"(.+)disconnected"=$1abīvit.
-r:"(.+)was kicked"=$1calcātus est.
+r:"(.+)was kicked"=$1expulsus est.
 r:"(.+)was left behind"=$1relictus est.
 r:"^The server host disconnected."=Hospes Servātōris abīvit.
 r:"^Player #0(.+?)started the ship(.+?)$"=Lūsor nullus navem incēpit $2
@@ -175,16 +176,16 @@ r:"^\(2/2 Votes\)$"=(II/II Suffrāgia)
 r:"^\(0/3 Votes\)$"=(Nulla/III Suffrāgia)
 r:"^\(1/3 Votes\)$"=(I/III Suffrāgia)
 r:"^\(2/3 Votes\)$"=(II/III Suffrāgia)
-r:"^\(3/3 Votes\)$"=(II/III Suffrāgia)
+r:"^\(3/3 Votes\)$"=(III/III Suffrāgia)
 r:"^\(0/4 Votes\)$"=(Nulla/IV Suffrāgia)
 r:"^\(1/4 Votes\)$"=(I/IV Suffrāgia)
 r:"^\(2/4 Votes\)$"=(II/IV Suffrāgia)
 r:"^\(3/4 Votes\)$"=(III/IV Suffrāgia)
 r:"^\(4/4 Votes\)$"=(IV/IV Suffrāgia)
 
-r:"^\(Spectating: Player\)$"=(Vidēns:  Lūsor)
+r:"^\(Spectating: Player\)$"=(Spectāns:  Lūsor)
 
-r:"^\(Spectating: (.+)\)$"=(Vidēns: $1)
+r:"^\(Spectating: (.+)\)$"=(Spectāns: $1)
 r:"^\[Cooldown : (.+)s\]$"=[Mora $1s]
 r:"^\[MODDED\](.+?)$"=[Mōdificātum]$1
 r:"^Body of (.+)$"=Corpus quod est [noun]
@@ -218,15 +219,15 @@ r:"^DUE: \$([0-9]+)$"=Dēbitum: $1 AU
 r:"^File 1$"=<size\=13>Tabella I</size>
 r:"^File 2$"=<size\=13>Tabella II</size>
 r:"^File 3$"=<size\=13>Tabella III</size>
-r:"^MONITORING: (.+)$"=Vigilans:  $1
-r:"^MONITORING:(.+)Player$"=(Vigilans:  Lūsor)
-r:"^MONITORING:(.+)Player #0$"=(Vigilans:  Lūsor Nullus)
-r:"^MONITORING:(.+)Player #1$"=(Vigilans:  Lūsor I)
-r:"^MONITORING:(.+)Player #2$"=(Vigilans:  Lūsor II)
-r:"^MONITORING:(.+)Player #3$"=(Vigilans:  Lūsor III)
-r:"^MONITORING:(.+)Player #4$"=(Vigilans:  Lūsor IV)
-r:"^MONITORING:(.+)Player #5$"=(Vigilans:  Lūsor V)
-r:"^MONITORING:(.+)Player #6$"=(Vigilans:  Lūsor VI)
+r:"^MONITORING: (.+)$"=Spectāns:  $1
+r:"^MONITORING:(.+)Player$"=(Spectāns:  Lūsor)
+r:"^MONITORING:(.+)Player #0$"=(Spectāns:  Lūsor Nullus)
+r:"^MONITORING:(.+)Player #1$"=(Spectāns:  Lūsor I)
+r:"^MONITORING:(.+)Player #2$"=(Spectāns:  Lūsor II)
+r:"^MONITORING:(.+)Player #3$"=(Spectāns:  Lūsor III)
+r:"^MONITORING:(.+)Player #4$"=(Spectāns:  Lūsor IV)
+r:"^MONITORING:(.+)Player #5$"=(Spectāns:  Lūsor V)
+r:"^MONITORING:(.+)Player #6$"=(Spectāns:  Lūsor VI)
 
 r:"^Overtime bonus: (.+)$"=Extra tempus merces:  $1
 sr:"^PROFIT QUOTA:\n\$([0-9]+) / \$([0-9]+)$"=QUOTA LŪCRĪ: \n$1 / $2\nAUREI 

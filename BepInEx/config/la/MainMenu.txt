@@ -9,12 +9,12 @@
 (Recommended)=     Commendātum
 [ Back ]=[ Redī ]
 [ Confirm ]=[Confīrmā]
-[ Continue ]=[    Perge    ]
+[ Continue ]=[ Confīrmā ]
 [ Refresh ]=[ Renovā ]
 
 > Back to menu=> Redī Ad Menū
 > Back=> Redī
-> Cancel=> Desine
+> Cancel=> Negā
 > Confirm changes=> Cōnfirma Mūtātiōnēs
 > Confirm=> Cōnfirma
 > CONFIRM=>Cōnfirma
@@ -41,6 +41,7 @@ Arachnophobia Mode=Modus Timōris Arāneārum
 Autosaving...=Automatice Servans...
 Back=Redī
 BACK=Redī
+Cancel=Negā
 > Change keybinds=> Mūtā nexūs clāvium
 CONFIRM= Cōnfirma
 Confirm=Cōnfirma
