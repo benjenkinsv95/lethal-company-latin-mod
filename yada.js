@@ -51,6 +51,7 @@ const convertToFeminine = (words, num) => {
 
     const wordsArr = words.split(' ');
     const masculineWords = wordsArr.map(word => {
+        if (word.toLowerCase() === 'centum') return word;
         if (word === 'duo') return 'duae'
         if (word === 'tria') return 'trēs'
         if (word === 'Duo') return 'Duae'

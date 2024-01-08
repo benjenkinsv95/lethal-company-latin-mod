@@ -37,6 +37,33 @@ Once the mods are installed, you can play it in latin by clicking the "Modded pl
 
 ![docs](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/a23be6cf-0951-47ad-a86b-26dc56366067)
 
+### Recommended Mods
+
+#### Boombox Controller & LuckReservedBoombox
+
+I enjoy playing with [a reserved boombox](https://thunderstore.io/c/lethal-company/p/Luck/LuckReservedBoombox/) on me at all times, [that plays latin playlists from youtube](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/). It provides so much extra latin content while gaming. 🙂
+
+##### Suggested Podcasts
+1. LAC Podcast: Series Prima: https://www.youtube.com/playlist?list=PLqUVhv2MKbZGApEGg1vZGGuN-kSvs9x4z
+2. Rem Tene! - LAC: https://www.youtube.com/playlist?list=PLqUVhv2MKbZGlurc0JueLnQ7ovOzlUdFj
+1. Saturna Lanx: https://www.youtube.com/playlist?list=PLE0lI47SFPGvKLPc0oDaLSJPFWc5jpKBj - Upper beginner/intermediate podcast
+2. Rara Avis - Saturna Lanx: https://www.youtube.com/playlist?list=PLE0lI47SFPGvj_xjtMoVEFAXI1AVsQXoM - Advanced Latin Podcast interviewing interesting latin speakers
+
+##### Suggested Audio Books
+1. Lingua Latina Per Se Illustrata (LLPSI): https://www.youtube.com/playlist?list=PLU1WuLg45SiyrXahjvFahDuA060P487pV
+2. Conversational Latin for Oral Procificency: https://www.youtube.com/playlist?list=PLU1WuLg45SiwIqVslmhJrSc9mUGQ9OVn4
+
+
+##### Suggested Latin Language Music
+1. Latin Language Music Bops (my custom playlist): https://www.youtube.com/playlist?list=PLzoGMga8QNsMpkvOjfo8FN8s6yww4hIJA
+2. HI PAWS Latin Grammar Rules Music: https://www.youtube.com/playlist?list=PLzoGMga8QNsPcCmFOpFPwCrc4pxkrXbGm
+
+##### Suggested Latin Lessons
+1. How to speak latin - Saturna Lanx: https://www.youtube.com/playlist?list=PLE0lI47SFPGtkUDe1EnYCgIMgI6Y6cqwk
+2. Latin lessons for beginners - Saturna Lanx: https://www.youtube.com/playlist?list=PLE0lI47SFPGssKuv8Zc11wxk-h1xTD2VX
+3. Latin idioms and proverbs: https://www.youtube.com/playlist?list=PLE0lI47SFPGvGTeBAHUOaQZaeEVPiNYvf
+
+
 ## Screenshots
 
 **Default**

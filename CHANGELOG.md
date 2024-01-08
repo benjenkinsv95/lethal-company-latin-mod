@@ -1,4 +1,6 @@
 # Changelog
+# 2.0.7 Small tweaks to numbers
+
 # 2.0.3 More cardinal numbers for weights, better font sizes, & new educational version
 A new educational version now exists with some added notes for learning.
 

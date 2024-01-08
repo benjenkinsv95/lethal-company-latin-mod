@@ -98,106 +98,106 @@ r:"^96 lb$"=<size\=18>XCVI lb</size>\n<size\=12>Nōnāgintā sex lb</size>
 r:"^97 lb$"=<size\=18>XCVII lb</size>\n<size\=12>Nōnāgintā septem lb</size>
 r:"^98 lb$"=<size\=18>XCVIII lb</size>\n<size\=12>Nōnāgintā octō lb</size>
 r:"^99 lb$"=<size\=18>XCIX lb</size>\n<size\=12>Nōnāgintā novem lb</size>
-r:"^100 lb$"=<size\=18>C lb</size>\n<size\=12>Centae lb</size>
-r:"^101 lb$"=<size\=18>CI lb</size>\n<size\=12>Centae ūnae lb</size>
-r:"^102 lb$"=<size\=18>CII lb</size>\n<size\=12>Centae duae lb</size>
-r:"^103 lb$"=<size\=18>CIII lb</size>\n<size\=12>Centae trēs lb</size>
-r:"^104 lb$"=<size\=18>CIV lb</size>\n<size\=12>Centae quattuor lb</size>
-r:"^105 lb$"=<size\=18>CV lb</size>\n<size\=12>Centae quīnque lb</size>
-r:"^106 lb$"=<size\=18>CVI lb</size>\n<size\=12>Centae sex lb</size>
-r:"^107 lb$"=<size\=18>CVII lb</size>\n<size\=12>Centae septem lb</size>
-r:"^108 lb$"=<size\=18>CVIII lb</size>\n<size\=12>Centae octō lb</size>
-r:"^109 lb$"=<size\=18>CIX lb</size>\n<size\=12>Centae novem lb</size>
-r:"^110 lb$"=<size\=18>CX lb</size>\n<size\=12>Centae decem lb</size>
-r:"^111 lb$"=<size\=18>CXI lb</size>\n<size\=12>Centae ūndecim lb</size>
-r:"^112 lb$"=<size\=18>CXII lb</size>\n<size\=12>Centae duodecim lb</size>
-r:"^113 lb$"=<size\=18>CXIII lb</size>\n<size\=12>Centae tredecim lb</size>
-r:"^114 lb$"=<size\=18>CXIV lb</size>\n<size\=12>Centae quattuordecim lb</size>
-r:"^115 lb$"=<size\=18>CXV lb</size>\n<size\=12>Centae quīndecim lb</size>
-r:"^116 lb$"=<size\=18>CXVI lb</size>\n<size\=12>Centae sēdecim lb</size>
-r:"^117 lb$"=<size\=18>CXVII lb</size>\n<size\=12>Centae septendecim lb</size>
-r:"^118 lb$"=<size\=18>CXVIII lb</size>\n<size\=12>Centae duodēvīgintī lb</size>
-r:"^119 lb$"=<size\=18>CXIX lb</size>\n<size\=12>Centae ūndēvīgintī lb</size>
-r:"^120 lb$"=<size\=18>CXX lb</size>\n<size\=12>Centae vīgintī lb</size>
-r:"^121 lb$"=<size\=18>CXXI lb</size>\n<size\=12>Centae vīgintī ūnae lb</size>
-r:"^122 lb$"=<size\=18>CXXII lb</size>\n<size\=12>Centae vīgintī duae lb</size>
-r:"^123 lb$"=<size\=18>CXXIII lb</size>\n<size\=12>Centae vīgintī trēs lb</size>
-r:"^124 lb$"=<size\=18>CXXIV lb</size>\n<size\=12>Centae vīgintī quattuor lb</size>
-r:"^125 lb$"=<size\=18>CXXV lb</size>\n<size\=12>Centae vīgintī quīnque lb</size>
-r:"^126 lb$"=<size\=18>CXXVI lb</size>\n<size\=12>Centae vīgintī sex lb</size>
-r:"^127 lb$"=<size\=18>CXXVII lb</size>\n<size\=12>Centae vīgintī septem lb</size>
-r:"^128 lb$"=<size\=18>CXXVIII lb</size>\n<size\=12>Centae duodētrīgintā lb</size>
-r:"^129 lb$"=<size\=18>CXXIX lb</size>\n<size\=12>Centae ūndētrīgintā lb</size>
-r:"^130 lb$"=<size\=18>CXXX lb</size>\n<size\=12>Centae trīgintā lb</size>
-r:"^131 lb$"=<size\=18>CXXXI lb</size>\n<size\=12>Centae trīgintā ūnae lb</size>
-r:"^132 lb$"=<size\=18>CXXXII lb</size>\n<size\=12>Centae trīgintā duae lb</size>
-r:"^133 lb$"=<size\=18>CXXXIII lb</size>\n<size\=12>Centae trīgintā trēs lb</size>
-r:"^134 lb$"=<size\=18>CXXXIV lb</size>\n<size\=12>Centae trīgintā quattuor lb</size>
-r:"^135 lb$"=<size\=18>CXXXV lb</size>\n<size\=12>Centae trīgintā quīnque lb</size>
-r:"^136 lb$"=<size\=18>CXXXVI lb</size>\n<size\=12>Centae trīgintā sex lb</size>
-r:"^137 lb$"=<size\=18>CXXXVII lb</size>\n<size\=12>Centae trīgintā septem lb</size>
-r:"^138 lb$"=<size\=18>CXXXVIII lb</size>\n<size\=12>Centae duodēquadrāgintā lb</size>
-r:"^139 lb$"=<size\=18>CXXXIX lb</size>\n<size\=12>Centae ūndēquadrāgintā lb</size>
-r:"^140 lb$"=<size\=18>CXL lb</size>\n<size\=12>Centae quadrāgintā lb</size>
-r:"^141 lb$"=<size\=18>CXLI lb</size>\n<size\=12>Centae quadrāgintā ūnae lb</size>
-r:"^142 lb$"=<size\=18>CXLII lb</size>\n<size\=12>Centae quadrāgintā duae lb</size>
-r:"^143 lb$"=<size\=18>CXLIII lb</size>\n<size\=12>Centae quadrāgintā trēs lb</size>
-r:"^144 lb$"=<size\=18>CXLIV lb</size>\n<size\=12>Centae quadrāgintā quattuor lb</size>
-r:"^145 lb$"=<size\=18>CXLV lb</size>\n<size\=12>Centae quadrāgintā quīnque lb</size>
-r:"^146 lb$"=<size\=18>CXLVI lb</size>\n<size\=12>Centae quadrāgintā sex lb</size>
-r:"^147 lb$"=<size\=18>CXLVII lb</size>\n<size\=12>Centae quadrāgintā septem lb</size>
-r:"^148 lb$"=<size\=18>CXLVIII lb</size>\n<size\=12>Centae duodēquīnquāgintā lb</size>
-r:"^149 lb$"=<size\=18>CXLIX lb</size>\n<size\=12>Centae ūndēquīnquāgintā lb</size>
-r:"^150 lb$"=<size\=18>CL lb</size>\n<size\=12>Centae quīnquāgintā lb</size>
-r:"^151 lb$"=<size\=18>CLI lb</size>\n<size\=12>Centae quīnquāgintā ūnae lb</size>
-r:"^152 lb$"=<size\=18>CLII lb</size>\n<size\=12>Centae quīnquāgintā duae lb</size>
-r:"^153 lb$"=<size\=18>CLIII lb</size>\n<size\=12>Centae quīnquāgintā trēs lb</size>
-r:"^154 lb$"=<size\=18>CLIV lb</size>\n<size\=12>Centae quīnquāgintā quattuor lb</size>
-r:"^155 lb$"=<size\=18>CLV lb</size>\n<size\=12>Centae quīnquāgintā quīnque lb</size>
-r:"^156 lb$"=<size\=18>CLVI lb</size>\n<size\=12>Centae quīnquāgintā sex lb</size>
-r:"^157 lb$"=<size\=18>CLVII lb</size>\n<size\=12>Centae quīnquāgintā septem lb</size>
-r:"^158 lb$"=<size\=18>CLVIII lb</size>\n<size\=12>Centae duodēsexāgintā lb</size>
-r:"^159 lb$"=<size\=18>CLIX lb</size>\n<size\=12>Centae ūndēsexāgintā lb</size>
-r:"^160 lb$"=<size\=18>CLX lb</size>\n<size\=12>Centae sexāgintā lb</size>
-r:"^161 lb$"=<size\=18>CLXI lb</size>\n<size\=12>Centae sexāgintā ūnae lb</size>
-r:"^162 lb$"=<size\=18>CLXII lb</size>\n<size\=12>Centae sexāgintā duae lb</size>
-r:"^163 lb$"=<size\=18>CLXIII lb</size>\n<size\=12>Centae sexāgintā trēs lb</size>
-r:"^164 lb$"=<size\=18>CLXIV lb</size>\n<size\=12>Centae sexāgintā quattuor lb</size>
-r:"^165 lb$"=<size\=18>CLXV lb</size>\n<size\=12>Centae sexāgintā quīnque lb</size>
-r:"^166 lb$"=<size\=18>CLXVI lb</size>\n<size\=12>Centae sexāgintā sex lb</size>
-r:"^167 lb$"=<size\=18>CLXVII lb</size>\n<size\=12>Centae sexāgintā septem lb</size>
-r:"^168 lb$"=<size\=18>CLXVIII lb</size>\n<size\=12>Centae duodēseptuāgintā lb</size>
-r:"^169 lb$"=<size\=18>CLXIX lb</size>\n<size\=12>Centae ūndēseptuāgintā lb</size>
-r:"^170 lb$"=<size\=18>CLXX lb</size>\n<size\=12>Centae septuāgintā lb</size>
-r:"^171 lb$"=<size\=18>CLXXI lb</size>\n<size\=12>Centae septuāgintā ūnae lb</size>
-r:"^172 lb$"=<size\=18>CLXXII lb</size>\n<size\=12>Centae septuāgintā duae lb</size>
-r:"^173 lb$"=<size\=18>CLXXIII lb</size>\n<size\=12>Centae septuāgintā trēs lb</size>
-r:"^174 lb$"=<size\=18>CLXXIV lb</size>\n<size\=12>Centae septuāgintā quattuor lb</size>
-r:"^175 lb$"=<size\=18>CLXXV lb</size>\n<size\=12>Centae septuāgintā quīnque lb</size>
-r:"^176 lb$"=<size\=18>CLXXVI lb</size>\n<size\=12>Centae septuāgintā sex lb</size>
-r:"^177 lb$"=<size\=18>CLXXVII lb</size>\n<size\=12>Centae septuāgintā septem lb</size>
-r:"^178 lb$"=<size\=18>CLXXVIII lb</size>\n<size\=12>Centae duodēoctōgintā lb</size>
-r:"^179 lb$"=<size\=18>CLXXIX lb</size>\n<size\=12>Centae ūndēoctōgintā lb</size>
-r:"^180 lb$"=<size\=18>CLXXX lb</size>\n<size\=12>Centae octōgintā lb</size>
-r:"^181 lb$"=<size\=18>CLXXXI lb</size>\n<size\=12>Centae octōgintā ūnae lb</size>
-r:"^182 lb$"=<size\=18>CLXXXII lb</size>\n<size\=12>Centae octōgintā duae lb</size>
-r:"^183 lb$"=<size\=18>CLXXXIII lb</size>\n<size\=12>Centae octōgintā trēs lb</size>
-r:"^184 lb$"=<size\=18>CLXXXIV lb</size>\n<size\=12>Centae octōgintā quattuor lb</size>
-r:"^185 lb$"=<size\=18>CLXXXV lb</size>\n<size\=12>Centae octōgintā quīnque lb</size>
-r:"^186 lb$"=<size\=18>CLXXXVI lb</size>\n<size\=12>Centae octōgintā sex lb</size>
-r:"^187 lb$"=<size\=18>CLXXXVII lb</size>\n<size\=12>Centae octōgintā septem lb</size>
-r:"^188 lb$"=<size\=18>CLXXXVIII lb</size>\n<size\=12>Centae duodēnōnāgintā lb</size>
-r:"^189 lb$"=<size\=18>CLXXXIX lb</size>\n<size\=12>Centae ūndēnōnāgintā lb</size>
-r:"^190 lb$"=<size\=18>CXC lb</size>\n<size\=12>Centae nōnāgintā lb</size>
-r:"^191 lb$"=<size\=18>CXCI lb</size>\n<size\=12>Centae nōnāgintā ūnae lb</size>
-r:"^192 lb$"=<size\=18>CXCII lb</size>\n<size\=12>Centae nōnāgintā duae lb</size>
-r:"^193 lb$"=<size\=18>CXCIII lb</size>\n<size\=12>Centae nōnāgintā trēs lb</size>
-r:"^194 lb$"=<size\=18>CXCIV lb</size>\n<size\=12>Centae nōnāgintā quattuor lb</size>
-r:"^195 lb$"=<size\=18>CXCV lb</size>\n<size\=12>Centae nōnāgintā quīnque lb</size>
-r:"^196 lb$"=<size\=18>CXCVI lb</size>\n<size\=12>Centae nōnāgintā sex lb</size>
-r:"^197 lb$"=<size\=18>CXCVII lb</size>\n<size\=12>Centae nōnāgintā septem lb</size>
-r:"^198 lb$"=<size\=18>CXCVIII lb</size>\n<size\=12>Centae nōnāgintā octō lb</size>
-r:"^199 lb$"=<size\=18>CXCIX lb</size>\n<size\=12>Centae nōnāgintā novem lb</size>
+r:"^100 lb$"=<size\=18>C lb</size>\n<size\=12>Centum lb</size>
+r:"^101 lb$"=<size\=18>CI lb</size>\n<size\=12>Centum ūnae lb</size>
+r:"^102 lb$"=<size\=18>CII lb</size>\n<size\=12>Centum duae lb</size>
+r:"^103 lb$"=<size\=18>CIII lb</size>\n<size\=12>Centum trēs lb</size>
+r:"^104 lb$"=<size\=18>CIV lb</size>\n<size\=12>Centum quattuor lb</size>
+r:"^105 lb$"=<size\=18>CV lb</size>\n<size\=12>Centum quīnque lb</size>
+r:"^106 lb$"=<size\=18>CVI lb</size>\n<size\=12>Centum sex lb</size>
+r:"^107 lb$"=<size\=18>CVII lb</size>\n<size\=12>Centum septem lb</size>
+r:"^108 lb$"=<size\=18>CVIII lb</size>\n<size\=12>Centum octō lb</size>
+r:"^109 lb$"=<size\=18>CIX lb</size>\n<size\=12>Centum novem lb</size>
+r:"^110 lb$"=<size\=18>CX lb</size>\n<size\=12>Centum decem lb</size>
+r:"^111 lb$"=<size\=18>CXI lb</size>\n<size\=12>Centum ūndecim lb</size>
+r:"^112 lb$"=<size\=18>CXII lb</size>\n<size\=12>Centum duodecim lb</size>
+r:"^113 lb$"=<size\=18>CXIII lb</size>\n<size\=12>Centum tredecim lb</size>
+r:"^114 lb$"=<size\=18>CXIV lb</size>\n<size\=12>Centum quattuordecim lb</size>
+r:"^115 lb$"=<size\=18>CXV lb</size>\n<size\=12>Centum quīndecim lb</size>
+r:"^116 lb$"=<size\=18>CXVI lb</size>\n<size\=12>Centum sēdecim lb</size>
+r:"^117 lb$"=<size\=18>CXVII lb</size>\n<size\=12>Centum septendecim lb</size>
+r:"^118 lb$"=<size\=18>CXVIII lb</size>\n<size\=12>Centum duodēvīgintī lb</size>
+r:"^119 lb$"=<size\=18>CXIX lb</size>\n<size\=12>Centum ūndēvīgintī lb</size>
+r:"^120 lb$"=<size\=18>CXX lb</size>\n<size\=12>Centum vīgintī lb</size>
+r:"^121 lb$"=<size\=18>CXXI lb</size>\n<size\=12>Centum vīgintī ūnae lb</size>
+r:"^122 lb$"=<size\=18>CXXII lb</size>\n<size\=12>Centum vīgintī duae lb</size>
+r:"^123 lb$"=<size\=18>CXXIII lb</size>\n<size\=12>Centum vīgintī trēs lb</size>
+r:"^124 lb$"=<size\=18>CXXIV lb</size>\n<size\=12>Centum vīgintī quattuor lb</size>
+r:"^125 lb$"=<size\=18>CXXV lb</size>\n<size\=12>Centum vīgintī quīnque lb</size>
+r:"^126 lb$"=<size\=18>CXXVI lb</size>\n<size\=12>Centum vīgintī sex lb</size>
+r:"^127 lb$"=<size\=18>CXXVII lb</size>\n<size\=12>Centum vīgintī septem lb</size>
+r:"^128 lb$"=<size\=18>CXXVIII lb</size>\n<size\=12>Centum duodētrīgintā lb</size>
+r:"^129 lb$"=<size\=18>CXXIX lb</size>\n<size\=12>Centum ūndētrīgintā lb</size>
+r:"^130 lb$"=<size\=18>CXXX lb</size>\n<size\=12>Centum trīgintā lb</size>
+r:"^131 lb$"=<size\=18>CXXXI lb</size>\n<size\=12>Centum trīgintā ūnae lb</size>
+r:"^132 lb$"=<size\=18>CXXXII lb</size>\n<size\=12>Centum trīgintā duae lb</size>
+r:"^133 lb$"=<size\=18>CXXXIII lb</size>\n<size\=12>Centum trīgintā trēs lb</size>
+r:"^134 lb$"=<size\=18>CXXXIV lb</size>\n<size\=12>Centum trīgintā quattuor lb</size>
+r:"^135 lb$"=<size\=18>CXXXV lb</size>\n<size\=12>Centum trīgintā quīnque lb</size>
+r:"^136 lb$"=<size\=18>CXXXVI lb</size>\n<size\=12>Centum trīgintā sex lb</size>
+r:"^137 lb$"=<size\=18>CXXXVII lb</size>\n<size\=12>Centum trīgintā septem lb</size>
+r:"^138 lb$"=<size\=18>CXXXVIII lb</size>\n<size\=12>Centum duodēquadrāgintā lb</size>
+r:"^139 lb$"=<size\=18>CXXXIX lb</size>\n<size\=12>Centum ūndēquadrāgintā lb</size>
+r:"^140 lb$"=<size\=18>CXL lb</size>\n<size\=12>Centum quadrāgintā lb</size>
+r:"^141 lb$"=<size\=18>CXLI lb</size>\n<size\=12>Centum quadrāgintā ūnae lb</size>
+r:"^142 lb$"=<size\=18>CXLII lb</size>\n<size\=12>Centum quadrāgintā duae lb</size>
+r:"^143 lb$"=<size\=18>CXLIII lb</size>\n<size\=12>Centum quadrāgintā trēs lb</size>
+r:"^144 lb$"=<size\=18>CXLIV lb</size>\n<size\=12>Centum quadrāgintā quattuor lb</size>
+r:"^145 lb$"=<size\=18>CXLV lb</size>\n<size\=12>Centum quadrāgintā quīnque lb</size>
+r:"^146 lb$"=<size\=18>CXLVI lb</size>\n<size\=12>Centum quadrāgintā sex lb</size>
+r:"^147 lb$"=<size\=18>CXLVII lb</size>\n<size\=12>Centum quadrāgintā septem lb</size>
+r:"^148 lb$"=<size\=18>CXLVIII lb</size>\n<size\=12>Centum duodēquīnquāgintā lb</size>
+r:"^149 lb$"=<size\=18>CXLIX lb</size>\n<size\=12>Centum ūndēquīnquāgintā lb</size>
+r:"^150 lb$"=<size\=18>CL lb</size>\n<size\=12>Centum quīnquāgintā lb</size>
+r:"^151 lb$"=<size\=18>CLI lb</size>\n<size\=12>Centum quīnquāgintā ūnae lb</size>
+r:"^152 lb$"=<size\=18>CLII lb</size>\n<size\=12>Centum quīnquāgintā duae lb</size>
+r:"^153 lb$"=<size\=18>CLIII lb</size>\n<size\=12>Centum quīnquāgintā trēs lb</size>
+r:"^154 lb$"=<size\=18>CLIV lb</size>\n<size\=12>Centum quīnquāgintā quattuor lb</size>
+r:"^155 lb$"=<size\=18>CLV lb</size>\n<size\=12>Centum quīnquāgintā quīnque lb</size>
+r:"^156 lb$"=<size\=18>CLVI lb</size>\n<size\=12>Centum quīnquāgintā sex lb</size>
+r:"^157 lb$"=<size\=18>CLVII lb</size>\n<size\=12>Centum quīnquāgintā septem lb</size>
+r:"^158 lb$"=<size\=18>CLVIII lb</size>\n<size\=12>Centum duodēsexāgintā lb</size>
+r:"^159 lb$"=<size\=18>CLIX lb</size>\n<size\=12>Centum ūndēsexāgintā lb</size>
+r:"^160 lb$"=<size\=18>CLX lb</size>\n<size\=12>Centum sexāgintā lb</size>
+r:"^161 lb$"=<size\=18>CLXI lb</size>\n<size\=12>Centum sexāgintā ūnae lb</size>
+r:"^162 lb$"=<size\=18>CLXII lb</size>\n<size\=12>Centum sexāgintā duae lb</size>
+r:"^163 lb$"=<size\=18>CLXIII lb</size>\n<size\=12>Centum sexāgintā trēs lb</size>
+r:"^164 lb$"=<size\=18>CLXIV lb</size>\n<size\=12>Centum sexāgintā quattuor lb</size>
+r:"^165 lb$"=<size\=18>CLXV lb</size>\n<size\=12>Centum sexāgintā quīnque lb</size>
+r:"^166 lb$"=<size\=18>CLXVI lb</size>\n<size\=12>Centum sexāgintā sex lb</size>
+r:"^167 lb$"=<size\=18>CLXVII lb</size>\n<size\=12>Centum sexāgintā septem lb</size>
+r:"^168 lb$"=<size\=18>CLXVIII lb</size>\n<size\=12>Centum duodēseptuāgintā lb</size>
+r:"^169 lb$"=<size\=18>CLXIX lb</size>\n<size\=12>Centum ūndēseptuāgintā lb</size>
+r:"^170 lb$"=<size\=18>CLXX lb</size>\n<size\=12>Centum septuāgintā lb</size>
+r:"^171 lb$"=<size\=18>CLXXI lb</size>\n<size\=12>Centum septuāgintā ūnae lb</size>
+r:"^172 lb$"=<size\=18>CLXXII lb</size>\n<size\=12>Centum septuāgintā duae lb</size>
+r:"^173 lb$"=<size\=18>CLXXIII lb</size>\n<size\=12>Centum septuāgintā trēs lb</size>
+r:"^174 lb$"=<size\=18>CLXXIV lb</size>\n<size\=12>Centum septuāgintā quattuor lb</size>
+r:"^175 lb$"=<size\=18>CLXXV lb</size>\n<size\=12>Centum septuāgintā quīnque lb</size>
+r:"^176 lb$"=<size\=18>CLXXVI lb</size>\n<size\=12>Centum septuāgintā sex lb</size>
+r:"^177 lb$"=<size\=18>CLXXVII lb</size>\n<size\=12>Centum septuāgintā septem lb</size>
+r:"^178 lb$"=<size\=18>CLXXVIII lb</size>\n<size\=12>Centum duodēoctōgintā lb</size>
+r:"^179 lb$"=<size\=18>CLXXIX lb</size>\n<size\=12>Centum ūndēoctōgintā lb</size>
+r:"^180 lb$"=<size\=18>CLXXX lb</size>\n<size\=12>Centum octōgintā lb</size>
+r:"^181 lb$"=<size\=18>CLXXXI lb</size>\n<size\=12>Centum octōgintā ūnae lb</size>
+r:"^182 lb$"=<size\=18>CLXXXII lb</size>\n<size\=12>Centum octōgintā duae lb</size>
+r:"^183 lb$"=<size\=18>CLXXXIII lb</size>\n<size\=12>Centum octōgintā trēs lb</size>
+r:"^184 lb$"=<size\=18>CLXXXIV lb</size>\n<size\=12>Centum octōgintā quattuor lb</size>
+r:"^185 lb$"=<size\=18>CLXXXV lb</size>\n<size\=12>Centum octōgintā quīnque lb</size>
+r:"^186 lb$"=<size\=18>CLXXXVI lb</size>\n<size\=12>Centum octōgintā sex lb</size>
+r:"^187 lb$"=<size\=18>CLXXXVII lb</size>\n<size\=12>Centum octōgintā septem lb</size>
+r:"^188 lb$"=<size\=18>CLXXXVIII lb</size>\n<size\=12>Centum duodēnōnāgintā lb</size>
+r:"^189 lb$"=<size\=18>CLXXXIX lb</size>\n<size\=12>Centum ūndēnōnāgintā lb</size>
+r:"^190 lb$"=<size\=18>CXC lb</size>\n<size\=12>Centum nōnāgintā lb</size>
+r:"^191 lb$"=<size\=18>CXCI lb</size>\n<size\=12>Centum nōnāgintā ūnae lb</size>
+r:"^192 lb$"=<size\=18>CXCII lb</size>\n<size\=12>Centum nōnāgintā duae lb</size>
+r:"^193 lb$"=<size\=18>CXCIII lb</size>\n<size\=12>Centum nōnāgintā trēs lb</size>
+r:"^194 lb$"=<size\=18>CXCIV lb</size>\n<size\=12>Centum nōnāgintā quattuor lb</size>
+r:"^195 lb$"=<size\=18>CXCV lb</size>\n<size\=12>Centum nōnāgintā quīnque lb</size>
+r:"^196 lb$"=<size\=18>CXCVI lb</size>\n<size\=12>Centum nōnāgintā sex lb</size>
+r:"^197 lb$"=<size\=18>CXCVII lb</size>\n<size\=12>Centum nōnāgintā septem lb</size>
+r:"^198 lb$"=<size\=18>CXCVIII lb</size>\n<size\=12>Centum nōnāgintā octō lb</size>
+r:"^199 lb$"=<size\=18>CXCIX lb</size>\n<size\=12>Centum nōnāgintā novem lb</size>
 r:"^200 lb$"=<size\=18>CC lb</size>\n<size\=12>Ducentī lb</size>
 r:"^201 lb$"=<size\=18>CCI lb</size>\n<size\=12>Ducentī ūnae lb</size>
 r:"^202 lb$"=<size\=18>CCII lb</size>\n<size\=12>Ducentī duae lb</size>
@@ -1098,106 +1098,106 @@ r:"^1096 lb$"=<size\=18>MXCVI lb</size>\n<size\=12>Mīlle nōnāgintā sex lb</s
 r:"^1097 lb$"=<size\=18>MXCVII lb</size>\n<size\=12>Mīlle nōnāgintā septem lb</size>
 r:"^1098 lb$"=<size\=18>MXCVIII lb</size>\n<size\=12>Mīlle nōnāgintā octō lb</size>
 r:"^1099 lb$"=<size\=18>MXCIX lb</size>\n<size\=12>Mīlle nōnāgintā novem lb</size>
-r:"^1100 lb$"=<size\=18>MC lb</size>\n<size\=12>Mīlle centae lb</size>
-r:"^1101 lb$"=<size\=18>MCI lb</size>\n<size\=12>Mīlle centae ūnae lb</size>
-r:"^1102 lb$"=<size\=18>MCII lb</size>\n<size\=12>Mīlle centae duae lb</size>
-r:"^1103 lb$"=<size\=18>MCIII lb</size>\n<size\=12>Mīlle centae trēs lb</size>
-r:"^1104 lb$"=<size\=18>MCIV lb</size>\n<size\=12>Mīlle centae quattuor lb</size>
-r:"^1105 lb$"=<size\=18>MCV lb</size>\n<size\=12>Mīlle centae quīnque lb</size>
-r:"^1106 lb$"=<size\=18>MCVI lb</size>\n<size\=12>Mīlle centae sex lb</size>
-r:"^1107 lb$"=<size\=18>MCVII lb</size>\n<size\=12>Mīlle centae septem lb</size>
-r:"^1108 lb$"=<size\=18>MCVIII lb</size>\n<size\=12>Mīlle centae octō lb</size>
-r:"^1109 lb$"=<size\=18>MCIX lb</size>\n<size\=12>Mīlle centae novem lb</size>
-r:"^1110 lb$"=<size\=18>MCX lb</size>\n<size\=12>Mīlle centae decem lb</size>
-r:"^1111 lb$"=<size\=18>MCXI lb</size>\n<size\=12>Mīlle centae ūndecim lb</size>
-r:"^1112 lb$"=<size\=18>MCXII lb</size>\n<size\=12>Mīlle centae duodecim lb</size>
-r:"^1113 lb$"=<size\=18>MCXIII lb</size>\n<size\=12>Mīlle centae tredecim lb</size>
-r:"^1114 lb$"=<size\=18>MCXIV lb</size>\n<size\=12>Mīlle centae quattuordecim lb</size>
-r:"^1115 lb$"=<size\=18>MCXV lb</size>\n<size\=12>Mīlle centae quīndecim lb</size>
-r:"^1116 lb$"=<size\=18>MCXVI lb</size>\n<size\=12>Mīlle centae sēdecim lb</size>
-r:"^1117 lb$"=<size\=18>MCXVII lb</size>\n<size\=12>Mīlle centae septendecim lb</size>
-r:"^1118 lb$"=<size\=18>MCXVIII lb</size>\n<size\=12>Mīlle centae duodēvīgintī lb</size>
-r:"^1119 lb$"=<size\=18>MCXIX lb</size>\n<size\=12>Mīlle centae ūndēvīgintī lb</size>
-r:"^1120 lb$"=<size\=18>MCXX lb</size>\n<size\=12>Mīlle centae vīgintī lb</size>
-r:"^1121 lb$"=<size\=18>MCXXI lb</size>\n<size\=12>Mīlle centae vīgintī ūnae lb</size>
-r:"^1122 lb$"=<size\=18>MCXXII lb</size>\n<size\=12>Mīlle centae vīgintī duae lb</size>
-r:"^1123 lb$"=<size\=18>MCXXIII lb</size>\n<size\=12>Mīlle centae vīgintī trēs lb</size>
-r:"^1124 lb$"=<size\=18>MCXXIV lb</size>\n<size\=12>Mīlle centae vīgintī quattuor lb</size>
-r:"^1125 lb$"=<size\=18>MCXXV lb</size>\n<size\=12>Mīlle centae vīgintī quīnque lb</size>
-r:"^1126 lb$"=<size\=18>MCXXVI lb</size>\n<size\=12>Mīlle centae vīgintī sex lb</size>
-r:"^1127 lb$"=<size\=18>MCXXVII lb</size>\n<size\=12>Mīlle centae vīgintī septem lb</size>
-r:"^1128 lb$"=<size\=18>MCXXVIII lb</size>\n<size\=12>Mīlle centae duodētrīgintā lb</size>
-r:"^1129 lb$"=<size\=18>MCXXIX lb</size>\n<size\=12>Mīlle centae ūndētrīgintā lb</size>
-r:"^1130 lb$"=<size\=18>MCXXX lb</size>\n<size\=12>Mīlle centae trīgintā lb</size>
-r:"^1131 lb$"=<size\=18>MCXXXI lb</size>\n<size\=12>Mīlle centae trīgintā ūnae lb</size>
-r:"^1132 lb$"=<size\=18>MCXXXII lb</size>\n<size\=12>Mīlle centae trīgintā duae lb</size>
-r:"^1133 lb$"=<size\=18>MCXXXIII lb</size>\n<size\=12>Mīlle centae trīgintā trēs lb</size>
-r:"^1134 lb$"=<size\=18>MCXXXIV lb</size>\n<size\=12>Mīlle centae trīgintā quattuor lb</size>
-r:"^1135 lb$"=<size\=18>MCXXXV lb</size>\n<size\=12>Mīlle centae trīgintā quīnque lb</size>
-r:"^1136 lb$"=<size\=18>MCXXXVI lb</size>\n<size\=12>Mīlle centae trīgintā sex lb</size>
-r:"^1137 lb$"=<size\=18>MCXXXVII lb</size>\n<size\=12>Mīlle centae trīgintā septem lb</size>
-r:"^1138 lb$"=<size\=18>MCXXXVIII lb</size>\n<size\=12>Mīlle centae duodēquadrāgintā lb</size>
-r:"^1139 lb$"=<size\=18>MCXXXIX lb</size>\n<size\=12>Mīlle centae ūndēquadrāgintā lb</size>
-r:"^1140 lb$"=<size\=18>MCXL lb</size>\n<size\=12>Mīlle centae quadrāgintā lb</size>
-r:"^1141 lb$"=<size\=18>MCXLI lb</size>\n<size\=12>Mīlle centae quadrāgintā ūnae lb</size>
-r:"^1142 lb$"=<size\=18>MCXLII lb</size>\n<size\=12>Mīlle centae quadrāgintā duae lb</size>
-r:"^1143 lb$"=<size\=18>MCXLIII lb</size>\n<size\=12>Mīlle centae quadrāgintā trēs lb</size>
-r:"^1144 lb$"=<size\=18>MCXLIV lb</size>\n<size\=12>Mīlle centae quadrāgintā quattuor lb</size>
-r:"^1145 lb$"=<size\=18>MCXLV lb</size>\n<size\=12>Mīlle centae quadrāgintā quīnque lb</size>
-r:"^1146 lb$"=<size\=18>MCXLVI lb</size>\n<size\=12>Mīlle centae quadrāgintā sex lb</size>
-r:"^1147 lb$"=<size\=18>MCXLVII lb</size>\n<size\=12>Mīlle centae quadrāgintā septem lb</size>
-r:"^1148 lb$"=<size\=18>MCXLVIII lb</size>\n<size\=12>Mīlle centae duodēquīnquāgintā lb</size>
-r:"^1149 lb$"=<size\=18>MCXLIX lb</size>\n<size\=12>Mīlle centae ūndēquīnquāgintā lb</size>
-r:"^1150 lb$"=<size\=18>MCL lb</size>\n<size\=12>Mīlle centae quīnquāgintā lb</size>
-r:"^1151 lb$"=<size\=18>MCLI lb</size>\n<size\=12>Mīlle centae quīnquāgintā ūnae lb</size>
-r:"^1152 lb$"=<size\=18>MCLII lb</size>\n<size\=12>Mīlle centae quīnquāgintā duae lb</size>
-r:"^1153 lb$"=<size\=18>MCLIII lb</size>\n<size\=12>Mīlle centae quīnquāgintā trēs lb</size>
-r:"^1154 lb$"=<size\=18>MCLIV lb</size>\n<size\=12>Mīlle centae quīnquāgintā quattuor lb</size>
-r:"^1155 lb$"=<size\=18>MCLV lb</size>\n<size\=12>Mīlle centae quīnquāgintā quīnque lb</size>
-r:"^1156 lb$"=<size\=18>MCLVI lb</size>\n<size\=12>Mīlle centae quīnquāgintā sex lb</size>
-r:"^1157 lb$"=<size\=18>MCLVII lb</size>\n<size\=12>Mīlle centae quīnquāgintā septem lb</size>
-r:"^1158 lb$"=<size\=18>MCLVIII lb</size>\n<size\=12>Mīlle centae duodēsexāgintā lb</size>
-r:"^1159 lb$"=<size\=18>MCLIX lb</size>\n<size\=12>Mīlle centae ūndēsexāgintā lb</size>
-r:"^1160 lb$"=<size\=18>MCLX lb</size>\n<size\=12>Mīlle centae sexāgintā lb</size>
-r:"^1161 lb$"=<size\=18>MCLXI lb</size>\n<size\=12>Mīlle centae sexāgintā ūnae lb</size>
-r:"^1162 lb$"=<size\=18>MCLXII lb</size>\n<size\=12>Mīlle centae sexāgintā duae lb</size>
-r:"^1163 lb$"=<size\=18>MCLXIII lb</size>\n<size\=12>Mīlle centae sexāgintā trēs lb</size>
-r:"^1164 lb$"=<size\=18>MCLXIV lb</size>\n<size\=12>Mīlle centae sexāgintā quattuor lb</size>
-r:"^1165 lb$"=<size\=18>MCLXV lb</size>\n<size\=12>Mīlle centae sexāgintā quīnque lb</size>
-r:"^1166 lb$"=<size\=18>MCLXVI lb</size>\n<size\=12>Mīlle centae sexāgintā sex lb</size>
-r:"^1167 lb$"=<size\=18>MCLXVII lb</size>\n<size\=12>Mīlle centae sexāgintā septem lb</size>
-r:"^1168 lb$"=<size\=18>MCLXVIII lb</size>\n<size\=12>Mīlle centae duodēseptuāgintā lb</size>
-r:"^1169 lb$"=<size\=18>MCLXIX lb</size>\n<size\=12>Mīlle centae ūndēseptuāgintā lb</size>
-r:"^1170 lb$"=<size\=18>MCLXX lb</size>\n<size\=12>Mīlle centae septuāgintā lb</size>
-r:"^1171 lb$"=<size\=18>MCLXXI lb</size>\n<size\=12>Mīlle centae septuāgintā ūnae lb</size>
-r:"^1172 lb$"=<size\=18>MCLXXII lb</size>\n<size\=12>Mīlle centae septuāgintā duae lb</size>
-r:"^1173 lb$"=<size\=18>MCLXXIII lb</size>\n<size\=12>Mīlle centae septuāgintā trēs lb</size>
-r:"^1174 lb$"=<size\=18>MCLXXIV lb</size>\n<size\=12>Mīlle centae septuāgintā quattuor lb</size>
-r:"^1175 lb$"=<size\=18>MCLXXV lb</size>\n<size\=12>Mīlle centae septuāgintā quīnque lb</size>
-r:"^1176 lb$"=<size\=18>MCLXXVI lb</size>\n<size\=12>Mīlle centae septuāgintā sex lb</size>
-r:"^1177 lb$"=<size\=18>MCLXXVII lb</size>\n<size\=12>Mīlle centae septuāgintā septem lb</size>
-r:"^1178 lb$"=<size\=18>MCLXXVIII lb</size>\n<size\=12>Mīlle centae duodēoctōgintā lb</size>
-r:"^1179 lb$"=<size\=18>MCLXXIX lb</size>\n<size\=12>Mīlle centae ūndēoctōgintā lb</size>
-r:"^1180 lb$"=<size\=18>MCLXXX lb</size>\n<size\=12>Mīlle centae octōgintā lb</size>
-r:"^1181 lb$"=<size\=18>MCLXXXI lb</size>\n<size\=12>Mīlle centae octōgintā ūnae lb</size>
-r:"^1182 lb$"=<size\=18>MCLXXXII lb</size>\n<size\=12>Mīlle centae octōgintā duae lb</size>
-r:"^1183 lb$"=<size\=18>MCLXXXIII lb</size>\n<size\=12>Mīlle centae octōgintā trēs lb</size>
-r:"^1184 lb$"=<size\=18>MCLXXXIV lb</size>\n<size\=12>Mīlle centae octōgintā quattuor lb</size>
-r:"^1185 lb$"=<size\=18>MCLXXXV lb</size>\n<size\=12>Mīlle centae octōgintā quīnque lb</size>
-r:"^1186 lb$"=<size\=18>MCLXXXVI lb</size>\n<size\=12>Mīlle centae octōgintā sex lb</size>
-r:"^1187 lb$"=<size\=18>MCLXXXVII lb</size>\n<size\=12>Mīlle centae octōgintā septem lb</size>
-r:"^1188 lb$"=<size\=18>MCLXXXVIII lb</size>\n<size\=12>Mīlle centae duodēnōnāgintā lb</size>
-r:"^1189 lb$"=<size\=18>MCLXXXIX lb</size>\n<size\=12>Mīlle centae ūndēnōnāgintā lb</size>
-r:"^1190 lb$"=<size\=18>MCXC lb</size>\n<size\=12>Mīlle centae nōnāgintā lb</size>
-r:"^1191 lb$"=<size\=18>MCXCI lb</size>\n<size\=12>Mīlle centae nōnāgintā ūnae lb</size>
-r:"^1192 lb$"=<size\=18>MCXCII lb</size>\n<size\=12>Mīlle centae nōnāgintā duae lb</size>
-r:"^1193 lb$"=<size\=18>MCXCIII lb</size>\n<size\=12>Mīlle centae nōnāgintā trēs lb</size>
-r:"^1194 lb$"=<size\=18>MCXCIV lb</size>\n<size\=12>Mīlle centae nōnāgintā quattuor lb</size>
-r:"^1195 lb$"=<size\=18>MCXCV lb</size>\n<size\=12>Mīlle centae nōnāgintā quīnque lb</size>
-r:"^1196 lb$"=<size\=18>MCXCVI lb</size>\n<size\=12>Mīlle centae nōnāgintā sex lb</size>
-r:"^1197 lb$"=<size\=18>MCXCVII lb</size>\n<size\=12>Mīlle centae nōnāgintā septem lb</size>
-r:"^1198 lb$"=<size\=18>MCXCVIII lb</size>\n<size\=12>Mīlle centae nōnāgintā octō lb</size>
-r:"^1199 lb$"=<size\=18>MCXCIX lb</size>\n<size\=12>Mīlle centae nōnāgintā novem lb</size>
+r:"^1100 lb$"=<size\=18>MC lb</size>\n<size\=12>Mīlle centum lb</size>
+r:"^1101 lb$"=<size\=18>MCI lb</size>\n<size\=12>Mīlle centum ūnae lb</size>
+r:"^1102 lb$"=<size\=18>MCII lb</size>\n<size\=12>Mīlle centum duae lb</size>
+r:"^1103 lb$"=<size\=18>MCIII lb</size>\n<size\=12>Mīlle centum trēs lb</size>
+r:"^1104 lb$"=<size\=18>MCIV lb</size>\n<size\=12>Mīlle centum quattuor lb</size>
+r:"^1105 lb$"=<size\=18>MCV lb</size>\n<size\=12>Mīlle centum quīnque lb</size>
+r:"^1106 lb$"=<size\=18>MCVI lb</size>\n<size\=12>Mīlle centum sex lb</size>
+r:"^1107 lb$"=<size\=18>MCVII lb</size>\n<size\=12>Mīlle centum septem lb</size>
+r:"^1108 lb$"=<size\=18>MCVIII lb</size>\n<size\=12>Mīlle centum octō lb</size>
+r:"^1109 lb$"=<size\=18>MCIX lb</size>\n<size\=12>Mīlle centum novem lb</size>
+r:"^1110 lb$"=<size\=18>MCX lb</size>\n<size\=12>Mīlle centum decem lb</size>
+r:"^1111 lb$"=<size\=18>MCXI lb</size>\n<size\=12>Mīlle centum ūndecim lb</size>
+r:"^1112 lb$"=<size\=18>MCXII lb</size>\n<size\=12>Mīlle centum duodecim lb</size>
+r:"^1113 lb$"=<size\=18>MCXIII lb</size>\n<size\=12>Mīlle centum tredecim lb</size>
+r:"^1114 lb$"=<size\=18>MCXIV lb</size>\n<size\=12>Mīlle centum quattuordecim lb</size>
+r:"^1115 lb$"=<size\=18>MCXV lb</size>\n<size\=12>Mīlle centum quīndecim lb</size>
+r:"^1116 lb$"=<size\=18>MCXVI lb</size>\n<size\=12>Mīlle centum sēdecim lb</size>
+r:"^1117 lb$"=<size\=18>MCXVII lb</size>\n<size\=12>Mīlle centum septendecim lb</size>
+r:"^1118 lb$"=<size\=18>MCXVIII lb</size>\n<size\=12>Mīlle centum duodēvīgintī lb</size>
+r:"^1119 lb$"=<size\=18>MCXIX lb</size>\n<size\=12>Mīlle centum ūndēvīgintī lb</size>
+r:"^1120 lb$"=<size\=18>MCXX lb</size>\n<size\=12>Mīlle centum vīgintī lb</size>
+r:"^1121 lb$"=<size\=18>MCXXI lb</size>\n<size\=12>Mīlle centum vīgintī ūnae lb</size>
+r:"^1122 lb$"=<size\=18>MCXXII lb</size>\n<size\=12>Mīlle centum vīgintī duae lb</size>
+r:"^1123 lb$"=<size\=18>MCXXIII lb</size>\n<size\=12>Mīlle centum vīgintī trēs lb</size>
+r:"^1124 lb$"=<size\=18>MCXXIV lb</size>\n<size\=12>Mīlle centum vīgintī quattuor lb</size>
+r:"^1125 lb$"=<size\=18>MCXXV lb</size>\n<size\=12>Mīlle centum vīgintī quīnque lb</size>
+r:"^1126 lb$"=<size\=18>MCXXVI lb</size>\n<size\=12>Mīlle centum vīgintī sex lb</size>
+r:"^1127 lb$"=<size\=18>MCXXVII lb</size>\n<size\=12>Mīlle centum vīgintī septem lb</size>
+r:"^1128 lb$"=<size\=18>MCXXVIII lb</size>\n<size\=12>Mīlle centum duodētrīgintā lb</size>
+r:"^1129 lb$"=<size\=18>MCXXIX lb</size>\n<size\=12>Mīlle centum ūndētrīgintā lb</size>
+r:"^1130 lb$"=<size\=18>MCXXX lb</size>\n<size\=12>Mīlle centum trīgintā lb</size>
+r:"^1131 lb$"=<size\=18>MCXXXI lb</size>\n<size\=12>Mīlle centum trīgintā ūnae lb</size>
+r:"^1132 lb$"=<size\=18>MCXXXII lb</size>\n<size\=12>Mīlle centum trīgintā duae lb</size>
+r:"^1133 lb$"=<size\=18>MCXXXIII lb</size>\n<size\=12>Mīlle centum trīgintā trēs lb</size>
+r:"^1134 lb$"=<size\=18>MCXXXIV lb</size>\n<size\=12>Mīlle centum trīgintā quattuor lb</size>
+r:"^1135 lb$"=<size\=18>MCXXXV lb</size>\n<size\=12>Mīlle centum trīgintā quīnque lb</size>
+r:"^1136 lb$"=<size\=18>MCXXXVI lb</size>\n<size\=12>Mīlle centum trīgintā sex lb</size>
+r:"^1137 lb$"=<size\=18>MCXXXVII lb</size>\n<size\=12>Mīlle centum trīgintā septem lb</size>
+r:"^1138 lb$"=<size\=18>MCXXXVIII lb</size>\n<size\=12>Mīlle centum duodēquadrāgintā lb</size>
+r:"^1139 lb$"=<size\=18>MCXXXIX lb</size>\n<size\=12>Mīlle centum ūndēquadrāgintā lb</size>
+r:"^1140 lb$"=<size\=18>MCXL lb</size>\n<size\=12>Mīlle centum quadrāgintā lb</size>
+r:"^1141 lb$"=<size\=18>MCXLI lb</size>\n<size\=12>Mīlle centum quadrāgintā ūnae lb</size>
+r:"^1142 lb$"=<size\=18>MCXLII lb</size>\n<size\=12>Mīlle centum quadrāgintā duae lb</size>
+r:"^1143 lb$"=<size\=18>MCXLIII lb</size>\n<size\=12>Mīlle centum quadrāgintā trēs lb</size>
+r:"^1144 lb$"=<size\=18>MCXLIV lb</size>\n<size\=12>Mīlle centum quadrāgintā quattuor lb</size>
+r:"^1145 lb$"=<size\=18>MCXLV lb</size>\n<size\=12>Mīlle centum quadrāgintā quīnque lb</size>
+r:"^1146 lb$"=<size\=18>MCXLVI lb</size>\n<size\=12>Mīlle centum quadrāgintā sex lb</size>
+r:"^1147 lb$"=<size\=18>MCXLVII lb</size>\n<size\=12>Mīlle centum quadrāgintā septem lb</size>
+r:"^1148 lb$"=<size\=18>MCXLVIII lb</size>\n<size\=12>Mīlle centum duodēquīnquāgintā lb</size>
+r:"^1149 lb$"=<size\=18>MCXLIX lb</size>\n<size\=12>Mīlle centum ūndēquīnquāgintā lb</size>
+r:"^1150 lb$"=<size\=18>MCL lb</size>\n<size\=12>Mīlle centum quīnquāgintā lb</size>
+r:"^1151 lb$"=<size\=18>MCLI lb</size>\n<size\=12>Mīlle centum quīnquāgintā ūnae lb</size>
+r:"^1152 lb$"=<size\=18>MCLII lb</size>\n<size\=12>Mīlle centum quīnquāgintā duae lb</size>
+r:"^1153 lb$"=<size\=18>MCLIII lb</size>\n<size\=12>Mīlle centum quīnquāgintā trēs lb</size>
+r:"^1154 lb$"=<size\=18>MCLIV lb</size>\n<size\=12>Mīlle centum quīnquāgintā quattuor lb</size>
+r:"^1155 lb$"=<size\=18>MCLV lb</size>\n<size\=12>Mīlle centum quīnquāgintā quīnque lb</size>
+r:"^1156 lb$"=<size\=18>MCLVI lb</size>\n<size\=12>Mīlle centum quīnquāgintā sex lb</size>
+r:"^1157 lb$"=<size\=18>MCLVII lb</size>\n<size\=12>Mīlle centum quīnquāgintā septem lb</size>
+r:"^1158 lb$"=<size\=18>MCLVIII lb</size>\n<size\=12>Mīlle centum duodēsexāgintā lb</size>
+r:"^1159 lb$"=<size\=18>MCLIX lb</size>\n<size\=12>Mīlle centum ūndēsexāgintā lb</size>
+r:"^1160 lb$"=<size\=18>MCLX lb</size>\n<size\=12>Mīlle centum sexāgintā lb</size>
+r:"^1161 lb$"=<size\=18>MCLXI lb</size>\n<size\=12>Mīlle centum sexāgintā ūnae lb</size>
+r:"^1162 lb$"=<size\=18>MCLXII lb</size>\n<size\=12>Mīlle centum sexāgintā duae lb</size>
+r:"^1163 lb$"=<size\=18>MCLXIII lb</size>\n<size\=12>Mīlle centum sexāgintā trēs lb</size>
+r:"^1164 lb$"=<size\=18>MCLXIV lb</size>\n<size\=12>Mīlle centum sexāgintā quattuor lb</size>
+r:"^1165 lb$"=<size\=18>MCLXV lb</size>\n<size\=12>Mīlle centum sexāgintā quīnque lb</size>
+r:"^1166 lb$"=<size\=18>MCLXVI lb</size>\n<size\=12>Mīlle centum sexāgintā sex lb</size>
+r:"^1167 lb$"=<size\=18>MCLXVII lb</size>\n<size\=12>Mīlle centum sexāgintā septem lb</size>
+r:"^1168 lb$"=<size\=18>MCLXVIII lb</size>\n<size\=12>Mīlle centum duodēseptuāgintā lb</size>
+r:"^1169 lb$"=<size\=18>MCLXIX lb</size>\n<size\=12>Mīlle centum ūndēseptuāgintā lb</size>
+r:"^1170 lb$"=<size\=18>MCLXX lb</size>\n<size\=12>Mīlle centum septuāgintā lb</size>
+r:"^1171 lb$"=<size\=18>MCLXXI lb</size>\n<size\=12>Mīlle centum septuāgintā ūnae lb</size>
+r:"^1172 lb$"=<size\=18>MCLXXII lb</size>\n<size\=12>Mīlle centum septuāgintā duae lb</size>
+r:"^1173 lb$"=<size\=18>MCLXXIII lb</size>\n<size\=12>Mīlle centum septuāgintā trēs lb</size>
+r:"^1174 lb$"=<size\=18>MCLXXIV lb</size>\n<size\=12>Mīlle centum septuāgintā quattuor lb</size>
+r:"^1175 lb$"=<size\=18>MCLXXV lb</size>\n<size\=12>Mīlle centum septuāgintā quīnque lb</size>
+r:"^1176 lb$"=<size\=18>MCLXXVI lb</size>\n<size\=12>Mīlle centum septuāgintā sex lb</size>
+r:"^1177 lb$"=<size\=18>MCLXXVII lb</size>\n<size\=12>Mīlle centum septuāgintā septem lb</size>
+r:"^1178 lb$"=<size\=18>MCLXXVIII lb</size>\n<size\=12>Mīlle centum duodēoctōgintā lb</size>
+r:"^1179 lb$"=<size\=18>MCLXXIX lb</size>\n<size\=12>Mīlle centum ūndēoctōgintā lb</size>
+r:"^1180 lb$"=<size\=18>MCLXXX lb</size>\n<size\=12>Mīlle centum octōgintā lb</size>
+r:"^1181 lb$"=<size\=18>MCLXXXI lb</size>\n<size\=12>Mīlle centum octōgintā ūnae lb</size>
+r:"^1182 lb$"=<size\=18>MCLXXXII lb</size>\n<size\=12>Mīlle centum octōgintā duae lb</size>
+r:"^1183 lb$"=<size\=18>MCLXXXIII lb</size>\n<size\=12>Mīlle centum octōgintā trēs lb</size>
+r:"^1184 lb$"=<size\=18>MCLXXXIV lb</size>\n<size\=12>Mīlle centum octōgintā quattuor lb</size>
+r:"^1185 lb$"=<size\=18>MCLXXXV lb</size>\n<size\=12>Mīlle centum octōgintā quīnque lb</size>
+r:"^1186 lb$"=<size\=18>MCLXXXVI lb</size>\n<size\=12>Mīlle centum octōgintā sex lb</size>
+r:"^1187 lb$"=<size\=18>MCLXXXVII lb</size>\n<size\=12>Mīlle centum octōgintā septem lb</size>
+r:"^1188 lb$"=<size\=18>MCLXXXVIII lb</size>\n<size\=12>Mīlle centum duodēnōnāgintā lb</size>
+r:"^1189 lb$"=<size\=18>MCLXXXIX lb</size>\n<size\=12>Mīlle centum ūndēnōnāgintā lb</size>
+r:"^1190 lb$"=<size\=18>MCXC lb</size>\n<size\=12>Mīlle centum nōnāgintā lb</size>
+r:"^1191 lb$"=<size\=18>MCXCI lb</size>\n<size\=12>Mīlle centum nōnāgintā ūnae lb</size>
+r:"^1192 lb$"=<size\=18>MCXCII lb</size>\n<size\=12>Mīlle centum nōnāgintā duae lb</size>
+r:"^1193 lb$"=<size\=18>MCXCIII lb</size>\n<size\=12>Mīlle centum nōnāgintā trēs lb</size>
+r:"^1194 lb$"=<size\=18>MCXCIV lb</size>\n<size\=12>Mīlle centum nōnāgintā quattuor lb</size>
+r:"^1195 lb$"=<size\=18>MCXCV lb</size>\n<size\=12>Mīlle centum nōnāgintā quīnque lb</size>
+r:"^1196 lb$"=<size\=18>MCXCVI lb</size>\n<size\=12>Mīlle centum nōnāgintā sex lb</size>
+r:"^1197 lb$"=<size\=18>MCXCVII lb</size>\n<size\=12>Mīlle centum nōnāgintā septem lb</size>
+r:"^1198 lb$"=<size\=18>MCXCVIII lb</size>\n<size\=12>Mīlle centum nōnāgintā octō lb</size>
+r:"^1199 lb$"=<size\=18>MCXCIX lb</size>\n<size\=12>Mīlle centum nōnāgintā novem lb</size>
 r:"^1200 lb$"=<size\=18>MCC lb</size>\n<size\=12>Mīlle ducentī lb</size>
 r:"^1201 lb$"=<size\=18>MCCI lb</size>\n<size\=12>Mīlle ducentī ūnae lb</size>
 r:"^1202 lb$"=<size\=18>MCCII lb</size>\n<size\=12>Mīlle ducentī duae lb</size>
@@ -2098,106 +2098,106 @@ r:"^2096 lb$"=<size\=18>MMXCVI lb</size>\n<size\=12>Duae milia nōnāgintā sex 
 r:"^2097 lb$"=<size\=18>MMXCVII lb</size>\n<size\=12>Duae milia nōnāgintā septem lb</size>
 r:"^2098 lb$"=<size\=18>MMXCVIII lb</size>\n<size\=12>Duae milia nōnāgintā octō lb</size>
 r:"^2099 lb$"=<size\=18>MMXCIX lb</size>\n<size\=12>Duae milia nōnāgintā novem lb</size>
-r:"^2100 lb$"=<size\=18>MMC lb</size>\n<size\=12>Duae milia centae lb</size>
-r:"^2101 lb$"=<size\=18>MMCI lb</size>\n<size\=12>Duae milia centae ūnae lb</size>
-r:"^2102 lb$"=<size\=18>MMCII lb</size>\n<size\=12>Duae milia centae duae lb</size>
-r:"^2103 lb$"=<size\=18>MMCIII lb</size>\n<size\=12>Duae milia centae trēs lb</size>
-r:"^2104 lb$"=<size\=18>MMCIV lb</size>\n<size\=12>Duae milia centae quattuor lb</size>
-r:"^2105 lb$"=<size\=18>MMCV lb</size>\n<size\=12>Duae milia centae quīnque lb</size>
-r:"^2106 lb$"=<size\=18>MMCVI lb</size>\n<size\=12>Duae milia centae sex lb</size>
-r:"^2107 lb$"=<size\=18>MMCVII lb</size>\n<size\=12>Duae milia centae septem lb</size>
-r:"^2108 lb$"=<size\=18>MMCVIII lb</size>\n<size\=12>Duae milia centae octō lb</size>
-r:"^2109 lb$"=<size\=18>MMCIX lb</size>\n<size\=12>Duae milia centae novem lb</size>
-r:"^2110 lb$"=<size\=18>MMCX lb</size>\n<size\=12>Duae milia centae decem lb</size>
-r:"^2111 lb$"=<size\=18>MMCXI lb</size>\n<size\=12>Duae milia centae ūndecim lb</size>
-r:"^2112 lb$"=<size\=18>MMCXII lb</size>\n<size\=12>Duae milia centae duodecim lb</size>
-r:"^2113 lb$"=<size\=18>MMCXIII lb</size>\n<size\=12>Duae milia centae tredecim lb</size>
-r:"^2114 lb$"=<size\=18>MMCXIV lb</size>\n<size\=12>Duae milia centae quattuordecim lb</size>
-r:"^2115 lb$"=<size\=18>MMCXV lb</size>\n<size\=12>Duae milia centae quīndecim lb</size>
-r:"^2116 lb$"=<size\=18>MMCXVI lb</size>\n<size\=12>Duae milia centae sēdecim lb</size>
-r:"^2117 lb$"=<size\=18>MMCXVII lb</size>\n<size\=12>Duae milia centae septendecim lb</size>
-r:"^2118 lb$"=<size\=18>MMCXVIII lb</size>\n<size\=12>Duae milia centae duodēvīgintī lb</size>
-r:"^2119 lb$"=<size\=18>MMCXIX lb</size>\n<size\=12>Duae milia centae ūndēvīgintī lb</size>
-r:"^2120 lb$"=<size\=18>MMCXX lb</size>\n<size\=12>Duae milia centae vīgintī lb</size>
-r:"^2121 lb$"=<size\=18>MMCXXI lb</size>\n<size\=12>Duae milia centae vīgintī ūnae lb</size>
-r:"^2122 lb$"=<size\=18>MMCXXII lb</size>\n<size\=12>Duae milia centae vīgintī duae lb</size>
-r:"^2123 lb$"=<size\=18>MMCXXIII lb</size>\n<size\=12>Duae milia centae vīgintī trēs lb</size>
-r:"^2124 lb$"=<size\=18>MMCXXIV lb</size>\n<size\=12>Duae milia centae vīgintī quattuor lb</size>
-r:"^2125 lb$"=<size\=18>MMCXXV lb</size>\n<size\=12>Duae milia centae vīgintī quīnque lb</size>
-r:"^2126 lb$"=<size\=18>MMCXXVI lb</size>\n<size\=12>Duae milia centae vīgintī sex lb</size>
-r:"^2127 lb$"=<size\=18>MMCXXVII lb</size>\n<size\=12>Duae milia centae vīgintī septem lb</size>
-r:"^2128 lb$"=<size\=18>MMCXXVIII lb</size>\n<size\=12>Duae milia centae duodētrīgintā lb</size>
-r:"^2129 lb$"=<size\=18>MMCXXIX lb</size>\n<size\=12>Duae milia centae ūndētrīgintā lb</size>
-r:"^2130 lb$"=<size\=18>MMCXXX lb</size>\n<size\=12>Duae milia centae trīgintā lb</size>
-r:"^2131 lb$"=<size\=18>MMCXXXI lb</size>\n<size\=12>Duae milia centae trīgintā ūnae lb</size>
-r:"^2132 lb$"=<size\=18>MMCXXXII lb</size>\n<size\=12>Duae milia centae trīgintā duae lb</size>
-r:"^2133 lb$"=<size\=18>MMCXXXIII lb</size>\n<size\=12>Duae milia centae trīgintā trēs lb</size>
-r:"^2134 lb$"=<size\=18>MMCXXXIV lb</size>\n<size\=12>Duae milia centae trīgintā quattuor lb</size>
-r:"^2135 lb$"=<size\=18>MMCXXXV lb</size>\n<size\=12>Duae milia centae trīgintā quīnque lb</size>
-r:"^2136 lb$"=<size\=18>MMCXXXVI lb</size>\n<size\=12>Duae milia centae trīgintā sex lb</size>
-r:"^2137 lb$"=<size\=18>MMCXXXVII lb</size>\n<size\=12>Duae milia centae trīgintā septem lb</size>
-r:"^2138 lb$"=<size\=18>MMCXXXVIII lb</size>\n<size\=12>Duae milia centae duodēquadrāgintā lb</size>
-r:"^2139 lb$"=<size\=18>MMCXXXIX lb</size>\n<size\=12>Duae milia centae ūndēquadrāgintā lb</size>
-r:"^2140 lb$"=<size\=18>MMCXL lb</size>\n<size\=12>Duae milia centae quadrāgintā lb</size>
-r:"^2141 lb$"=<size\=18>MMCXLI lb</size>\n<size\=12>Duae milia centae quadrāgintā ūnae lb</size>
-r:"^2142 lb$"=<size\=18>MMCXLII lb</size>\n<size\=12>Duae milia centae quadrāgintā duae lb</size>
-r:"^2143 lb$"=<size\=18>MMCXLIII lb</size>\n<size\=12>Duae milia centae quadrāgintā trēs lb</size>
-r:"^2144 lb$"=<size\=18>MMCXLIV lb</size>\n<size\=12>Duae milia centae quadrāgintā quattuor lb</size>
-r:"^2145 lb$"=<size\=18>MMCXLV lb</size>\n<size\=12>Duae milia centae quadrāgintā quīnque lb</size>
-r:"^2146 lb$"=<size\=18>MMCXLVI lb</size>\n<size\=12>Duae milia centae quadrāgintā sex lb</size>
-r:"^2147 lb$"=<size\=18>MMCXLVII lb</size>\n<size\=12>Duae milia centae quadrāgintā septem lb</size>
-r:"^2148 lb$"=<size\=18>MMCXLVIII lb</size>\n<size\=12>Duae milia centae duodēquīnquāgintā lb</size>
-r:"^2149 lb$"=<size\=18>MMCXLIX lb</size>\n<size\=12>Duae milia centae ūndēquīnquāgintā lb</size>
-r:"^2150 lb$"=<size\=18>MMCL lb</size>\n<size\=12>Duae milia centae quīnquāgintā lb</size>
-r:"^2151 lb$"=<size\=18>MMCLI lb</size>\n<size\=12>Duae milia centae quīnquāgintā ūnae lb</size>
-r:"^2152 lb$"=<size\=18>MMCLII lb</size>\n<size\=12>Duae milia centae quīnquāgintā duae lb</size>
-r:"^2153 lb$"=<size\=18>MMCLIII lb</size>\n<size\=12>Duae milia centae quīnquāgintā trēs lb</size>
-r:"^2154 lb$"=<size\=18>MMCLIV lb</size>\n<size\=12>Duae milia centae quīnquāgintā quattuor lb</size>
-r:"^2155 lb$"=<size\=18>MMCLV lb</size>\n<size\=12>Duae milia centae quīnquāgintā quīnque lb</size>
-r:"^2156 lb$"=<size\=18>MMCLVI lb</size>\n<size\=12>Duae milia centae quīnquāgintā sex lb</size>
-r:"^2157 lb$"=<size\=18>MMCLVII lb</size>\n<size\=12>Duae milia centae quīnquāgintā septem lb</size>
-r:"^2158 lb$"=<size\=18>MMCLVIII lb</size>\n<size\=12>Duae milia centae duodēsexāgintā lb</size>
-r:"^2159 lb$"=<size\=18>MMCLIX lb</size>\n<size\=12>Duae milia centae ūndēsexāgintā lb</size>
-r:"^2160 lb$"=<size\=18>MMCLX lb</size>\n<size\=12>Duae milia centae sexāgintā lb</size>
-r:"^2161 lb$"=<size\=18>MMCLXI lb</size>\n<size\=12>Duae milia centae sexāgintā ūnae lb</size>
-r:"^2162 lb$"=<size\=18>MMCLXII lb</size>\n<size\=12>Duae milia centae sexāgintā duae lb</size>
-r:"^2163 lb$"=<size\=18>MMCLXIII lb</size>\n<size\=12>Duae milia centae sexāgintā trēs lb</size>
-r:"^2164 lb$"=<size\=18>MMCLXIV lb</size>\n<size\=12>Duae milia centae sexāgintā quattuor lb</size>
-r:"^2165 lb$"=<size\=18>MMCLXV lb</size>\n<size\=12>Duae milia centae sexāgintā quīnque lb</size>
-r:"^2166 lb$"=<size\=18>MMCLXVI lb</size>\n<size\=12>Duae milia centae sexāgintā sex lb</size>
-r:"^2167 lb$"=<size\=18>MMCLXVII lb</size>\n<size\=12>Duae milia centae sexāgintā septem lb</size>
-r:"^2168 lb$"=<size\=18>MMCLXVIII lb</size>\n<size\=12>Duae milia centae duodēseptuāgintā lb</size>
-r:"^2169 lb$"=<size\=18>MMCLXIX lb</size>\n<size\=12>Duae milia centae ūndēseptuāgintā lb</size>
-r:"^2170 lb$"=<size\=18>MMCLXX lb</size>\n<size\=12>Duae milia centae septuāgintā lb</size>
-r:"^2171 lb$"=<size\=18>MMCLXXI lb</size>\n<size\=12>Duae milia centae septuāgintā ūnae lb</size>
-r:"^2172 lb$"=<size\=18>MMCLXXII lb</size>\n<size\=12>Duae milia centae septuāgintā duae lb</size>
-r:"^2173 lb$"=<size\=18>MMCLXXIII lb</size>\n<size\=12>Duae milia centae septuāgintā trēs lb</size>
-r:"^2174 lb$"=<size\=18>MMCLXXIV lb</size>\n<size\=12>Duae milia centae septuāgintā quattuor lb</size>
-r:"^2175 lb$"=<size\=18>MMCLXXV lb</size>\n<size\=12>Duae milia centae septuāgintā quīnque lb</size>
-r:"^2176 lb$"=<size\=18>MMCLXXVI lb</size>\n<size\=12>Duae milia centae septuāgintā sex lb</size>
-r:"^2177 lb$"=<size\=18>MMCLXXVII lb</size>\n<size\=12>Duae milia centae septuāgintā septem lb</size>
-r:"^2178 lb$"=<size\=18>MMCLXXVIII lb</size>\n<size\=12>Duae milia centae duodēoctōgintā lb</size>
-r:"^2179 lb$"=<size\=18>MMCLXXIX lb</size>\n<size\=12>Duae milia centae ūndēoctōgintā lb</size>
-r:"^2180 lb$"=<size\=18>MMCLXXX lb</size>\n<size\=12>Duae milia centae octōgintā lb</size>
-r:"^2181 lb$"=<size\=18>MMCLXXXI lb</size>\n<size\=12>Duae milia centae octōgintā ūnae lb</size>
-r:"^2182 lb$"=<size\=18>MMCLXXXII lb</size>\n<size\=12>Duae milia centae octōgintā duae lb</size>
-r:"^2183 lb$"=<size\=18>MMCLXXXIII lb</size>\n<size\=12>Duae milia centae octōgintā trēs lb</size>
-r:"^2184 lb$"=<size\=18>MMCLXXXIV lb</size>\n<size\=12>Duae milia centae octōgintā quattuor lb</size>
-r:"^2185 lb$"=<size\=18>MMCLXXXV lb</size>\n<size\=12>Duae milia centae octōgintā quīnque lb</size>
-r:"^2186 lb$"=<size\=18>MMCLXXXVI lb</size>\n<size\=12>Duae milia centae octōgintā sex lb</size>
-r:"^2187 lb$"=<size\=18>MMCLXXXVII lb</size>\n<size\=12>Duae milia centae octōgintā septem lb</size>
-r:"^2188 lb$"=<size\=18>MMCLXXXVIII lb</size>\n<size\=12>Duae milia centae duodēnōnāgintā lb</size>
-r:"^2189 lb$"=<size\=18>MMCLXXXIX lb</size>\n<size\=12>Duae milia centae ūndēnōnāgintā lb</size>
-r:"^2190 lb$"=<size\=18>MMCXC lb</size>\n<size\=12>Duae milia centae nōnāgintā lb</size>
-r:"^2191 lb$"=<size\=18>MMCXCI lb</size>\n<size\=12>Duae milia centae nōnāgintā ūnae lb</size>
-r:"^2192 lb$"=<size\=18>MMCXCII lb</size>\n<size\=12>Duae milia centae nōnāgintā duae lb</size>
-r:"^2193 lb$"=<size\=18>MMCXCIII lb</size>\n<size\=12>Duae milia centae nōnāgintā trēs lb</size>
-r:"^2194 lb$"=<size\=18>MMCXCIV lb</size>\n<size\=12>Duae milia centae nōnāgintā quattuor lb</size>
-r:"^2195 lb$"=<size\=18>MMCXCV lb</size>\n<size\=12>Duae milia centae nōnāgintā quīnque lb</size>
-r:"^2196 lb$"=<size\=18>MMCXCVI lb</size>\n<size\=12>Duae milia centae nōnāgintā sex lb</size>
-r:"^2197 lb$"=<size\=18>MMCXCVII lb</size>\n<size\=12>Duae milia centae nōnāgintā septem lb</size>
-r:"^2198 lb$"=<size\=18>MMCXCVIII lb</size>\n<size\=12>Duae milia centae nōnāgintā octō lb</size>
-r:"^2199 lb$"=<size\=18>MMCXCIX lb</size>\n<size\=12>Duae milia centae nōnāgintā novem lb</size>
+r:"^2100 lb$"=<size\=18>MMC lb</size>\n<size\=12>Duae milia centum lb</size>
+r:"^2101 lb$"=<size\=18>MMCI lb</size>\n<size\=12>Duae milia centum ūnae lb</size>
+r:"^2102 lb$"=<size\=18>MMCII lb</size>\n<size\=12>Duae milia centum duae lb</size>
+r:"^2103 lb$"=<size\=18>MMCIII lb</size>\n<size\=12>Duae milia centum trēs lb</size>
+r:"^2104 lb$"=<size\=18>MMCIV lb</size>\n<size\=12>Duae milia centum quattuor lb</size>
+r:"^2105 lb$"=<size\=18>MMCV lb</size>\n<size\=12>Duae milia centum quīnque lb</size>
+r:"^2106 lb$"=<size\=18>MMCVI lb</size>\n<size\=12>Duae milia centum sex lb</size>
+r:"^2107 lb$"=<size\=18>MMCVII lb</size>\n<size\=12>Duae milia centum septem lb</size>
+r:"^2108 lb$"=<size\=18>MMCVIII lb</size>\n<size\=12>Duae milia centum octō lb</size>
+r:"^2109 lb$"=<size\=18>MMCIX lb</size>\n<size\=12>Duae milia centum novem lb</size>
+r:"^2110 lb$"=<size\=18>MMCX lb</size>\n<size\=12>Duae milia centum decem lb</size>
+r:"^2111 lb$"=<size\=18>MMCXI lb</size>\n<size\=12>Duae milia centum ūndecim lb</size>
+r:"^2112 lb$"=<size\=18>MMCXII lb</size>\n<size\=12>Duae milia centum duodecim lb</size>
+r:"^2113 lb$"=<size\=18>MMCXIII lb</size>\n<size\=12>Duae milia centum tredecim lb</size>
+r:"^2114 lb$"=<size\=18>MMCXIV lb</size>\n<size\=12>Duae milia centum quattuordecim lb</size>
+r:"^2115 lb$"=<size\=18>MMCXV lb</size>\n<size\=12>Duae milia centum quīndecim lb</size>
+r:"^2116 lb$"=<size\=18>MMCXVI lb</size>\n<size\=12>Duae milia centum sēdecim lb</size>
+r:"^2117 lb$"=<size\=18>MMCXVII lb</size>\n<size\=12>Duae milia centum septendecim lb</size>
+r:"^2118 lb$"=<size\=18>MMCXVIII lb</size>\n<size\=12>Duae milia centum duodēvīgintī lb</size>
+r:"^2119 lb$"=<size\=18>MMCXIX lb</size>\n<size\=12>Duae milia centum ūndēvīgintī lb</size>
+r:"^2120 lb$"=<size\=18>MMCXX lb</size>\n<size\=12>Duae milia centum vīgintī lb</size>
+r:"^2121 lb$"=<size\=18>MMCXXI lb</size>\n<size\=12>Duae milia centum vīgintī ūnae lb</size>
+r:"^2122 lb$"=<size\=18>MMCXXII lb</size>\n<size\=12>Duae milia centum vīgintī duae lb</size>
+r:"^2123 lb$"=<size\=18>MMCXXIII lb</size>\n<size\=12>Duae milia centum vīgintī trēs lb</size>
+r:"^2124 lb$"=<size\=18>MMCXXIV lb</size>\n<size\=12>Duae milia centum vīgintī quattuor lb</size>
+r:"^2125 lb$"=<size\=18>MMCXXV lb</size>\n<size\=12>Duae milia centum vīgintī quīnque lb</size>
+r:"^2126 lb$"=<size\=18>MMCXXVI lb</size>\n<size\=12>Duae milia centum vīgintī sex lb</size>
+r:"^2127 lb$"=<size\=18>MMCXXVII lb</size>\n<size\=12>Duae milia centum vīgintī septem lb</size>
+r:"^2128 lb$"=<size\=18>MMCXXVIII lb</size>\n<size\=12>Duae milia centum duodētrīgintā lb</size>
+r:"^2129 lb$"=<size\=18>MMCXXIX lb</size>\n<size\=12>Duae milia centum ūndētrīgintā lb</size>
+r:"^2130 lb$"=<size\=18>MMCXXX lb</size>\n<size\=12>Duae milia centum trīgintā lb</size>
+r:"^2131 lb$"=<size\=18>MMCXXXI lb</size>\n<size\=12>Duae milia centum trīgintā ūnae lb</size>
+r:"^2132 lb$"=<size\=18>MMCXXXII lb</size>\n<size\=12>Duae milia centum trīgintā duae lb</size>
+r:"^2133 lb$"=<size\=18>MMCXXXIII lb</size>\n<size\=12>Duae milia centum trīgintā trēs lb</size>
+r:"^2134 lb$"=<size\=18>MMCXXXIV lb</size>\n<size\=12>Duae milia centum trīgintā quattuor lb</size>
+r:"^2135 lb$"=<size\=18>MMCXXXV lb</size>\n<size\=12>Duae milia centum trīgintā quīnque lb</size>
+r:"^2136 lb$"=<size\=18>MMCXXXVI lb</size>\n<size\=12>Duae milia centum trīgintā sex lb</size>
+r:"^2137 lb$"=<size\=18>MMCXXXVII lb</size>\n<size\=12>Duae milia centum trīgintā septem lb</size>
+r:"^2138 lb$"=<size\=18>MMCXXXVIII lb</size>\n<size\=12>Duae milia centum duodēquadrāgintā lb</size>
+r:"^2139 lb$"=<size\=18>MMCXXXIX lb</size>\n<size\=12>Duae milia centum ūndēquadrāgintā lb</size>
+r:"^2140 lb$"=<size\=18>MMCXL lb</size>\n<size\=12>Duae milia centum quadrāgintā lb</size>
+r:"^2141 lb$"=<size\=18>MMCXLI lb</size>\n<size\=12>Duae milia centum quadrāgintā ūnae lb</size>
+r:"^2142 lb$"=<size\=18>MMCXLII lb</size>\n<size\=12>Duae milia centum quadrāgintā duae lb</size>
+r:"^2143 lb$"=<size\=18>MMCXLIII lb</size>\n<size\=12>Duae milia centum quadrāgintā trēs lb</size>
+r:"^2144 lb$"=<size\=18>MMCXLIV lb</size>\n<size\=12>Duae milia centum quadrāgintā quattuor lb</size>
+r:"^2145 lb$"=<size\=18>MMCXLV lb</size>\n<size\=12>Duae milia centum quadrāgintā quīnque lb</size>
+r:"^2146 lb$"=<size\=18>MMCXLVI lb</size>\n<size\=12>Duae milia centum quadrāgintā sex lb</size>
+r:"^2147 lb$"=<size\=18>MMCXLVII lb</size>\n<size\=12>Duae milia centum quadrāgintā septem lb</size>
+r:"^2148 lb$"=<size\=18>MMCXLVIII lb</size>\n<size\=12>Duae milia centum duodēquīnquāgintā lb</size>
+r:"^2149 lb$"=<size\=18>MMCXLIX lb</size>\n<size\=12>Duae milia centum ūndēquīnquāgintā lb</size>
+r:"^2150 lb$"=<size\=18>MMCL lb</size>\n<size\=12>Duae milia centum quīnquāgintā lb</size>
+r:"^2151 lb$"=<size\=18>MMCLI lb</size>\n<size\=12>Duae milia centum quīnquāgintā ūnae lb</size>
+r:"^2152 lb$"=<size\=18>MMCLII lb</size>\n<size\=12>Duae milia centum quīnquāgintā duae lb</size>
+r:"^2153 lb$"=<size\=18>MMCLIII lb</size>\n<size\=12>Duae milia centum quīnquāgintā trēs lb</size>
+r:"^2154 lb$"=<size\=18>MMCLIV lb</size>\n<size\=12>Duae milia centum quīnquāgintā quattuor lb</size>
+r:"^2155 lb$"=<size\=18>MMCLV lb</size>\n<size\=12>Duae milia centum quīnquāgintā quīnque lb</size>
+r:"^2156 lb$"=<size\=18>MMCLVI lb</size>\n<size\=12>Duae milia centum quīnquāgintā sex lb</size>
+r:"^2157 lb$"=<size\=18>MMCLVII lb</size>\n<size\=12>Duae milia centum quīnquāgintā septem lb</size>
+r:"^2158 lb$"=<size\=18>MMCLVIII lb</size>\n<size\=12>Duae milia centum duodēsexāgintā lb</size>
+r:"^2159 lb$"=<size\=18>MMCLIX lb</size>\n<size\=12>Duae milia centum ūndēsexāgintā lb</size>
+r:"^2160 lb$"=<size\=18>MMCLX lb</size>\n<size\=12>Duae milia centum sexāgintā lb</size>
+r:"^2161 lb$"=<size\=18>MMCLXI lb</size>\n<size\=12>Duae milia centum sexāgintā ūnae lb</size>
+r:"^2162 lb$"=<size\=18>MMCLXII lb</size>\n<size\=12>Duae milia centum sexāgintā duae lb</size>
+r:"^2163 lb$"=<size\=18>MMCLXIII lb</size>\n<size\=12>Duae milia centum sexāgintā trēs lb</size>
+r:"^2164 lb$"=<size\=18>MMCLXIV lb</size>\n<size\=12>Duae milia centum sexāgintā quattuor lb</size>
+r:"^2165 lb$"=<size\=18>MMCLXV lb</size>\n<size\=12>Duae milia centum sexāgintā quīnque lb</size>
+r:"^2166 lb$"=<size\=18>MMCLXVI lb</size>\n<size\=12>Duae milia centum sexāgintā sex lb</size>
+r:"^2167 lb$"=<size\=18>MMCLXVII lb</size>\n<size\=12>Duae milia centum sexāgintā septem lb</size>
+r:"^2168 lb$"=<size\=18>MMCLXVIII lb</size>\n<size\=12>Duae milia centum duodēseptuāgintā lb</size>
+r:"^2169 lb$"=<size\=18>MMCLXIX lb</size>\n<size\=12>Duae milia centum ūndēseptuāgintā lb</size>
+r:"^2170 lb$"=<size\=18>MMCLXX lb</size>\n<size\=12>Duae milia centum septuāgintā lb</size>
+r:"^2171 lb$"=<size\=18>MMCLXXI lb</size>\n<size\=12>Duae milia centum septuāgintā ūnae lb</size>
+r:"^2172 lb$"=<size\=18>MMCLXXII lb</size>\n<size\=12>Duae milia centum septuāgintā duae lb</size>
+r:"^2173 lb$"=<size\=18>MMCLXXIII lb</size>\n<size\=12>Duae milia centum septuāgintā trēs lb</size>
+r:"^2174 lb$"=<size\=18>MMCLXXIV lb</size>\n<size\=12>Duae milia centum septuāgintā quattuor lb</size>
+r:"^2175 lb$"=<size\=18>MMCLXXV lb</size>\n<size\=12>Duae milia centum septuāgintā quīnque lb</size>
+r:"^2176 lb$"=<size\=18>MMCLXXVI lb</size>\n<size\=12>Duae milia centum septuāgintā sex lb</size>
+r:"^2177 lb$"=<size\=18>MMCLXXVII lb</size>\n<size\=12>Duae milia centum septuāgintā septem lb</size>
+r:"^2178 lb$"=<size\=18>MMCLXXVIII lb</size>\n<size\=12>Duae milia centum duodēoctōgintā lb</size>
+r:"^2179 lb$"=<size\=18>MMCLXXIX lb</size>\n<size\=12>Duae milia centum ūndēoctōgintā lb</size>
+r:"^2180 lb$"=<size\=18>MMCLXXX lb</size>\n<size\=12>Duae milia centum octōgintā lb</size>
+r:"^2181 lb$"=<size\=18>MMCLXXXI lb</size>\n<size\=12>Duae milia centum octōgintā ūnae lb</size>
+r:"^2182 lb$"=<size\=18>MMCLXXXII lb</size>\n<size\=12>Duae milia centum octōgintā duae lb</size>
+r:"^2183 lb$"=<size\=18>MMCLXXXIII lb</size>\n<size\=12>Duae milia centum octōgintā trēs lb</size>
+r:"^2184 lb$"=<size\=18>MMCLXXXIV lb</size>\n<size\=12>Duae milia centum octōgintā quattuor lb</size>
+r:"^2185 lb$"=<size\=18>MMCLXXXV lb</size>\n<size\=12>Duae milia centum octōgintā quīnque lb</size>
+r:"^2186 lb$"=<size\=18>MMCLXXXVI lb</size>\n<size\=12>Duae milia centum octōgintā sex lb</size>
+r:"^2187 lb$"=<size\=18>MMCLXXXVII lb</size>\n<size\=12>Duae milia centum octōgintā septem lb</size>
+r:"^2188 lb$"=<size\=18>MMCLXXXVIII lb</size>\n<size\=12>Duae milia centum duodēnōnāgintā lb</size>
+r:"^2189 lb$"=<size\=18>MMCLXXXIX lb</size>\n<size\=12>Duae milia centum ūndēnōnāgintā lb</size>
+r:"^2190 lb$"=<size\=18>MMCXC lb</size>\n<size\=12>Duae milia centum nōnāgintā lb</size>
+r:"^2191 lb$"=<size\=18>MMCXCI lb</size>\n<size\=12>Duae milia centum nōnāgintā ūnae lb</size>
+r:"^2192 lb$"=<size\=18>MMCXCII lb</size>\n<size\=12>Duae milia centum nōnāgintā duae lb</size>
+r:"^2193 lb$"=<size\=18>MMCXCIII lb</size>\n<size\=12>Duae milia centum nōnāgintā trēs lb</size>
+r:"^2194 lb$"=<size\=18>MMCXCIV lb</size>\n<size\=12>Duae milia centum nōnāgintā quattuor lb</size>
+r:"^2195 lb$"=<size\=18>MMCXCV lb</size>\n<size\=12>Duae milia centum nōnāgintā quīnque lb</size>
+r:"^2196 lb$"=<size\=18>MMCXCVI lb</size>\n<size\=12>Duae milia centum nōnāgintā sex lb</size>
+r:"^2197 lb$"=<size\=18>MMCXCVII lb</size>\n<size\=12>Duae milia centum nōnāgintā septem lb</size>
+r:"^2198 lb$"=<size\=18>MMCXCVIII lb</size>\n<size\=12>Duae milia centum nōnāgintā octō lb</size>
+r:"^2199 lb$"=<size\=18>MMCXCIX lb</size>\n<size\=12>Duae milia centum nōnāgintā novem lb</size>
 r:"^2200 lb$"=<size\=18>MMCC lb</size>\n<size\=12>Duae milia ducentī lb</size>
 r:"^2201 lb$"=<size\=18>MMCCI lb</size>\n<size\=12>Duae milia ducentī ūnae lb</size>
 r:"^2202 lb$"=<size\=18>MMCCII lb</size>\n<size\=12>Duae milia ducentī duae lb</size>
@@ -3098,106 +3098,106 @@ r:"^3096 lb$"=<size\=18>MMMXCVI lb</size>\n<size\=12>Tria milia nōnāgintā sex
 r:"^3097 lb$"=<size\=18>MMMXCVII lb</size>\n<size\=12>Tria milia nōnāgintā septem lb</size>
 r:"^3098 lb$"=<size\=18>MMMXCVIII lb</size>\n<size\=12>Tria milia nōnāgintā octō lb</size>
 r:"^3099 lb$"=<size\=18>MMMXCIX lb</size>\n<size\=12>Tria milia nōnāgintā novem lb</size>
-r:"^3100 lb$"=<size\=18>MMMC lb</size>\n<size\=12>Tria milia centae lb</size>
-r:"^3101 lb$"=<size\=18>MMMCI lb</size>\n<size\=12>Tria milia centae ūnae lb</size>
-r:"^3102 lb$"=<size\=18>MMMCII lb</size>\n<size\=12>Tria milia centae duae lb</size>
-r:"^3103 lb$"=<size\=18>MMMCIII lb</size>\n<size\=12>Tria milia centae trēs lb</size>
-r:"^3104 lb$"=<size\=18>MMMCIV lb</size>\n<size\=12>Tria milia centae quattuor lb</size>
-r:"^3105 lb$"=<size\=18>MMMCV lb</size>\n<size\=12>Tria milia centae quīnque lb</size>
-r:"^3106 lb$"=<size\=18>MMMCVI lb</size>\n<size\=12>Tria milia centae sex lb</size>
-r:"^3107 lb$"=<size\=18>MMMCVII lb</size>\n<size\=12>Tria milia centae septem lb</size>
-r:"^3108 lb$"=<size\=18>MMMCVIII lb</size>\n<size\=12>Tria milia centae octō lb</size>
-r:"^3109 lb$"=<size\=18>MMMCIX lb</size>\n<size\=12>Tria milia centae novem lb</size>
-r:"^3110 lb$"=<size\=18>MMMCX lb</size>\n<size\=12>Tria milia centae decem lb</size>
-r:"^3111 lb$"=<size\=18>MMMCXI lb</size>\n<size\=12>Tria milia centae ūndecim lb</size>
-r:"^3112 lb$"=<size\=18>MMMCXII lb</size>\n<size\=12>Tria milia centae duodecim lb</size>
-r:"^3113 lb$"=<size\=18>MMMCXIII lb</size>\n<size\=12>Tria milia centae tredecim lb</size>
-r:"^3114 lb$"=<size\=18>MMMCXIV lb</size>\n<size\=12>Tria milia centae quattuordecim lb</size>
-r:"^3115 lb$"=<size\=18>MMMCXV lb</size>\n<size\=12>Tria milia centae quīndecim lb</size>
-r:"^3116 lb$"=<size\=18>MMMCXVI lb</size>\n<size\=12>Tria milia centae sēdecim lb</size>
-r:"^3117 lb$"=<size\=18>MMMCXVII lb</size>\n<size\=12>Tria milia centae septendecim lb</size>
-r:"^3118 lb$"=<size\=18>MMMCXVIII lb</size>\n<size\=12>Tria milia centae duodēvīgintī lb</size>
-r:"^3119 lb$"=<size\=18>MMMCXIX lb</size>\n<size\=12>Tria milia centae ūndēvīgintī lb</size>
-r:"^3120 lb$"=<size\=18>MMMCXX lb</size>\n<size\=12>Tria milia centae vīgintī lb</size>
-r:"^3121 lb$"=<size\=18>MMMCXXI lb</size>\n<size\=12>Tria milia centae vīgintī ūnae lb</size>
-r:"^3122 lb$"=<size\=18>MMMCXXII lb</size>\n<size\=12>Tria milia centae vīgintī duae lb</size>
-r:"^3123 lb$"=<size\=18>MMMCXXIII lb</size>\n<size\=12>Tria milia centae vīgintī trēs lb</size>
-r:"^3124 lb$"=<size\=18>MMMCXXIV lb</size>\n<size\=12>Tria milia centae vīgintī quattuor lb</size>
-r:"^3125 lb$"=<size\=18>MMMCXXV lb</size>\n<size\=12>Tria milia centae vīgintī quīnque lb</size>
-r:"^3126 lb$"=<size\=18>MMMCXXVI lb</size>\n<size\=12>Tria milia centae vīgintī sex lb</size>
-r:"^3127 lb$"=<size\=18>MMMCXXVII lb</size>\n<size\=12>Tria milia centae vīgintī septem lb</size>
-r:"^3128 lb$"=<size\=18>MMMCXXVIII lb</size>\n<size\=12>Tria milia centae duodētrīgintā lb</size>
-r:"^3129 lb$"=<size\=18>MMMCXXIX lb</size>\n<size\=12>Tria milia centae ūndētrīgintā lb</size>
-r:"^3130 lb$"=<size\=18>MMMCXXX lb</size>\n<size\=12>Tria milia centae trīgintā lb</size>
-r:"^3131 lb$"=<size\=18>MMMCXXXI lb</size>\n<size\=12>Tria milia centae trīgintā ūnae lb</size>
-r:"^3132 lb$"=<size\=18>MMMCXXXII lb</size>\n<size\=12>Tria milia centae trīgintā duae lb</size>
-r:"^3133 lb$"=<size\=18>MMMCXXXIII lb</size>\n<size\=12>Tria milia centae trīgintā trēs lb</size>
-r:"^3134 lb$"=<size\=18>MMMCXXXIV lb</size>\n<size\=12>Tria milia centae trīgintā quattuor lb</size>
-r:"^3135 lb$"=<size\=18>MMMCXXXV lb</size>\n<size\=12>Tria milia centae trīgintā quīnque lb</size>
-r:"^3136 lb$"=<size\=18>MMMCXXXVI lb</size>\n<size\=12>Tria milia centae trīgintā sex lb</size>
-r:"^3137 lb$"=<size\=18>MMMCXXXVII lb</size>\n<size\=12>Tria milia centae trīgintā septem lb</size>
-r:"^3138 lb$"=<size\=18>MMMCXXXVIII lb</size>\n<size\=12>Tria milia centae duodēquadrāgintā lb</size>
-r:"^3139 lb$"=<size\=18>MMMCXXXIX lb</size>\n<size\=12>Tria milia centae ūndēquadrāgintā lb</size>
-r:"^3140 lb$"=<size\=18>MMMCXL lb</size>\n<size\=12>Tria milia centae quadrāgintā lb</size>
-r:"^3141 lb$"=<size\=18>MMMCXLI lb</size>\n<size\=12>Tria milia centae quadrāgintā ūnae lb</size>
-r:"^3142 lb$"=<size\=18>MMMCXLII lb</size>\n<size\=12>Tria milia centae quadrāgintā duae lb</size>
-r:"^3143 lb$"=<size\=18>MMMCXLIII lb</size>\n<size\=12>Tria milia centae quadrāgintā trēs lb</size>
-r:"^3144 lb$"=<size\=18>MMMCXLIV lb</size>\n<size\=12>Tria milia centae quadrāgintā quattuor lb</size>
-r:"^3145 lb$"=<size\=18>MMMCXLV lb</size>\n<size\=12>Tria milia centae quadrāgintā quīnque lb</size>
-r:"^3146 lb$"=<size\=18>MMMCXLVI lb</size>\n<size\=12>Tria milia centae quadrāgintā sex lb</size>
-r:"^3147 lb$"=<size\=18>MMMCXLVII lb</size>\n<size\=12>Tria milia centae quadrāgintā septem lb</size>
-r:"^3148 lb$"=<size\=18>MMMCXLVIII lb</size>\n<size\=12>Tria milia centae duodēquīnquāgintā lb</size>
-r:"^3149 lb$"=<size\=18>MMMCXLIX lb</size>\n<size\=12>Tria milia centae ūndēquīnquāgintā lb</size>
-r:"^3150 lb$"=<size\=18>MMMCL lb</size>\n<size\=12>Tria milia centae quīnquāgintā lb</size>
-r:"^3151 lb$"=<size\=18>MMMCLI lb</size>\n<size\=12>Tria milia centae quīnquāgintā ūnae lb</size>
-r:"^3152 lb$"=<size\=18>MMMCLII lb</size>\n<size\=12>Tria milia centae quīnquāgintā duae lb</size>
-r:"^3153 lb$"=<size\=18>MMMCLIII lb</size>\n<size\=12>Tria milia centae quīnquāgintā trēs lb</size>
-r:"^3154 lb$"=<size\=18>MMMCLIV lb</size>\n<size\=12>Tria milia centae quīnquāgintā quattuor lb</size>
-r:"^3155 lb$"=<size\=18>MMMCLV lb</size>\n<size\=12>Tria milia centae quīnquāgintā quīnque lb</size>
-r:"^3156 lb$"=<size\=18>MMMCLVI lb</size>\n<size\=12>Tria milia centae quīnquāgintā sex lb</size>
-r:"^3157 lb$"=<size\=18>MMMCLVII lb</size>\n<size\=12>Tria milia centae quīnquāgintā septem lb</size>
-r:"^3158 lb$"=<size\=18>MMMCLVIII lb</size>\n<size\=12>Tria milia centae duodēsexāgintā lb</size>
-r:"^3159 lb$"=<size\=18>MMMCLIX lb</size>\n<size\=12>Tria milia centae ūndēsexāgintā lb</size>
-r:"^3160 lb$"=<size\=18>MMMCLX lb</size>\n<size\=12>Tria milia centae sexāgintā lb</size>
-r:"^3161 lb$"=<size\=18>MMMCLXI lb</size>\n<size\=12>Tria milia centae sexāgintā ūnae lb</size>
-r:"^3162 lb$"=<size\=18>MMMCLXII lb</size>\n<size\=12>Tria milia centae sexāgintā duae lb</size>
-r:"^3163 lb$"=<size\=18>MMMCLXIII lb</size>\n<size\=12>Tria milia centae sexāgintā trēs lb</size>
-r:"^3164 lb$"=<size\=18>MMMCLXIV lb</size>\n<size\=12>Tria milia centae sexāgintā quattuor lb</size>
-r:"^3165 lb$"=<size\=18>MMMCLXV lb</size>\n<size\=12>Tria milia centae sexāgintā quīnque lb</size>
-r:"^3166 lb$"=<size\=18>MMMCLXVI lb</size>\n<size\=12>Tria milia centae sexāgintā sex lb</size>
-r:"^3167 lb$"=<size\=18>MMMCLXVII lb</size>\n<size\=12>Tria milia centae sexāgintā septem lb</size>
-r:"^3168 lb$"=<size\=18>MMMCLXVIII lb</size>\n<size\=12>Tria milia centae duodēseptuāgintā lb</size>
-r:"^3169 lb$"=<size\=18>MMMCLXIX lb</size>\n<size\=12>Tria milia centae ūndēseptuāgintā lb</size>
-r:"^3170 lb$"=<size\=18>MMMCLXX lb</size>\n<size\=12>Tria milia centae septuāgintā lb</size>
-r:"^3171 lb$"=<size\=18>MMMCLXXI lb</size>\n<size\=12>Tria milia centae septuāgintā ūnae lb</size>
-r:"^3172 lb$"=<size\=18>MMMCLXXII lb</size>\n<size\=12>Tria milia centae septuāgintā duae lb</size>
-r:"^3173 lb$"=<size\=18>MMMCLXXIII lb</size>\n<size\=12>Tria milia centae septuāgintā trēs lb</size>
-r:"^3174 lb$"=<size\=18>MMMCLXXIV lb</size>\n<size\=12>Tria milia centae septuāgintā quattuor lb</size>
-r:"^3175 lb$"=<size\=18>MMMCLXXV lb</size>\n<size\=12>Tria milia centae septuāgintā quīnque lb</size>
-r:"^3176 lb$"=<size\=18>MMMCLXXVI lb</size>\n<size\=12>Tria milia centae septuāgintā sex lb</size>
-r:"^3177 lb$"=<size\=18>MMMCLXXVII lb</size>\n<size\=12>Tria milia centae septuāgintā septem lb</size>
-r:"^3178 lb$"=<size\=18>MMMCLXXVIII lb</size>\n<size\=12>Tria milia centae duodēoctōgintā lb</size>
-r:"^3179 lb$"=<size\=18>MMMCLXXIX lb</size>\n<size\=12>Tria milia centae ūndēoctōgintā lb</size>
-r:"^3180 lb$"=<size\=18>MMMCLXXX lb</size>\n<size\=12>Tria milia centae octōgintā lb</size>
-r:"^3181 lb$"=<size\=18>MMMCLXXXI lb</size>\n<size\=12>Tria milia centae octōgintā ūnae lb</size>
-r:"^3182 lb$"=<size\=18>MMMCLXXXII lb</size>\n<size\=12>Tria milia centae octōgintā duae lb</size>
-r:"^3183 lb$"=<size\=18>MMMCLXXXIII lb</size>\n<size\=12>Tria milia centae octōgintā trēs lb</size>
-r:"^3184 lb$"=<size\=18>MMMCLXXXIV lb</size>\n<size\=12>Tria milia centae octōgintā quattuor lb</size>
-r:"^3185 lb$"=<size\=18>MMMCLXXXV lb</size>\n<size\=12>Tria milia centae octōgintā quīnque lb</size>
-r:"^3186 lb$"=<size\=18>MMMCLXXXVI lb</size>\n<size\=12>Tria milia centae octōgintā sex lb</size>
-r:"^3187 lb$"=<size\=18>MMMCLXXXVII lb</size>\n<size\=12>Tria milia centae octōgintā septem lb</size>
-r:"^3188 lb$"=<size\=18>MMMCLXXXVIII lb</size>\n<size\=12>Tria milia centae duodēnōnāgintā lb</size>
-r:"^3189 lb$"=<size\=18>MMMCLXXXIX lb</size>\n<size\=12>Tria milia centae ūndēnōnāgintā lb</size>
-r:"^3190 lb$"=<size\=18>MMMCXC lb</size>\n<size\=12>Tria milia centae nōnāgintā lb</size>
-r:"^3191 lb$"=<size\=18>MMMCXCI lb</size>\n<size\=12>Tria milia centae nōnāgintā ūnae lb</size>
-r:"^3192 lb$"=<size\=18>MMMCXCII lb</size>\n<size\=12>Tria milia centae nōnāgintā duae lb</size>
-r:"^3193 lb$"=<size\=18>MMMCXCIII lb</size>\n<size\=12>Tria milia centae nōnāgintā trēs lb</size>
-r:"^3194 lb$"=<size\=18>MMMCXCIV lb</size>\n<size\=12>Tria milia centae nōnāgintā quattuor lb</size>
-r:"^3195 lb$"=<size\=18>MMMCXCV lb</size>\n<size\=12>Tria milia centae nōnāgintā quīnque lb</size>
-r:"^3196 lb$"=<size\=18>MMMCXCVI lb</size>\n<size\=12>Tria milia centae nōnāgintā sex lb</size>
-r:"^3197 lb$"=<size\=18>MMMCXCVII lb</size>\n<size\=12>Tria milia centae nōnāgintā septem lb</size>
-r:"^3198 lb$"=<size\=18>MMMCXCVIII lb</size>\n<size\=12>Tria milia centae nōnāgintā octō lb</size>
-r:"^3199 lb$"=<size\=18>MMMCXCIX lb</size>\n<size\=12>Tria milia centae nōnāgintā novem lb</size>
+r:"^3100 lb$"=<size\=18>MMMC lb</size>\n<size\=12>Tria milia centum lb</size>
+r:"^3101 lb$"=<size\=18>MMMCI lb</size>\n<size\=12>Tria milia centum ūnae lb</size>
+r:"^3102 lb$"=<size\=18>MMMCII lb</size>\n<size\=12>Tria milia centum duae lb</size>
+r:"^3103 lb$"=<size\=18>MMMCIII lb</size>\n<size\=12>Tria milia centum trēs lb</size>
+r:"^3104 lb$"=<size\=18>MMMCIV lb</size>\n<size\=12>Tria milia centum quattuor lb</size>
+r:"^3105 lb$"=<size\=18>MMMCV lb</size>\n<size\=12>Tria milia centum quīnque lb</size>
+r:"^3106 lb$"=<size\=18>MMMCVI lb</size>\n<size\=12>Tria milia centum sex lb</size>
+r:"^3107 lb$"=<size\=18>MMMCVII lb</size>\n<size\=12>Tria milia centum septem lb</size>
+r:"^3108 lb$"=<size\=18>MMMCVIII lb</size>\n<size\=12>Tria milia centum octō lb</size>
+r:"^3109 lb$"=<size\=18>MMMCIX lb</size>\n<size\=12>Tria milia centum novem lb</size>
+r:"^3110 lb$"=<size\=18>MMMCX lb</size>\n<size\=12>Tria milia centum decem lb</size>
+r:"^3111 lb$"=<size\=18>MMMCXI lb</size>\n<size\=12>Tria milia centum ūndecim lb</size>
+r:"^3112 lb$"=<size\=18>MMMCXII lb</size>\n<size\=12>Tria milia centum duodecim lb</size>
+r:"^3113 lb$"=<size\=18>MMMCXIII lb</size>\n<size\=12>Tria milia centum tredecim lb</size>
+r:"^3114 lb$"=<size\=18>MMMCXIV lb</size>\n<size\=12>Tria milia centum quattuordecim lb</size>
+r:"^3115 lb$"=<size\=18>MMMCXV lb</size>\n<size\=12>Tria milia centum quīndecim lb</size>
+r:"^3116 lb$"=<size\=18>MMMCXVI lb</size>\n<size\=12>Tria milia centum sēdecim lb</size>
+r:"^3117 lb$"=<size\=18>MMMCXVII lb</size>\n<size\=12>Tria milia centum septendecim lb</size>
+r:"^3118 lb$"=<size\=18>MMMCXVIII lb</size>\n<size\=12>Tria milia centum duodēvīgintī lb</size>
+r:"^3119 lb$"=<size\=18>MMMCXIX lb</size>\n<size\=12>Tria milia centum ūndēvīgintī lb</size>
+r:"^3120 lb$"=<size\=18>MMMCXX lb</size>\n<size\=12>Tria milia centum vīgintī lb</size>
+r:"^3121 lb$"=<size\=18>MMMCXXI lb</size>\n<size\=12>Tria milia centum vīgintī ūnae lb</size>
+r:"^3122 lb$"=<size\=18>MMMCXXII lb</size>\n<size\=12>Tria milia centum vīgintī duae lb</size>
+r:"^3123 lb$"=<size\=18>MMMCXXIII lb</size>\n<size\=12>Tria milia centum vīgintī trēs lb</size>
+r:"^3124 lb$"=<size\=18>MMMCXXIV lb</size>\n<size\=12>Tria milia centum vīgintī quattuor lb</size>
+r:"^3125 lb$"=<size\=18>MMMCXXV lb</size>\n<size\=12>Tria milia centum vīgintī quīnque lb</size>
+r:"^3126 lb$"=<size\=18>MMMCXXVI lb</size>\n<size\=12>Tria milia centum vīgintī sex lb</size>
+r:"^3127 lb$"=<size\=18>MMMCXXVII lb</size>\n<size\=12>Tria milia centum vīgintī septem lb</size>
+r:"^3128 lb$"=<size\=18>MMMCXXVIII lb</size>\n<size\=12>Tria milia centum duodētrīgintā lb</size>
+r:"^3129 lb$"=<size\=18>MMMCXXIX lb</size>\n<size\=12>Tria milia centum ūndētrīgintā lb</size>
+r:"^3130 lb$"=<size\=18>MMMCXXX lb</size>\n<size\=12>Tria milia centum trīgintā lb</size>
+r:"^3131 lb$"=<size\=18>MMMCXXXI lb</size>\n<size\=12>Tria milia centum trīgintā ūnae lb</size>
+r:"^3132 lb$"=<size\=18>MMMCXXXII lb</size>\n<size\=12>Tria milia centum trīgintā duae lb</size>
+r:"^3133 lb$"=<size\=18>MMMCXXXIII lb</size>\n<size\=12>Tria milia centum trīgintā trēs lb</size>
+r:"^3134 lb$"=<size\=18>MMMCXXXIV lb</size>\n<size\=12>Tria milia centum trīgintā quattuor lb</size>
+r:"^3135 lb$"=<size\=18>MMMCXXXV lb</size>\n<size\=12>Tria milia centum trīgintā quīnque lb</size>
+r:"^3136 lb$"=<size\=18>MMMCXXXVI lb</size>\n<size\=12>Tria milia centum trīgintā sex lb</size>
+r:"^3137 lb$"=<size\=18>MMMCXXXVII lb</size>\n<size\=12>Tria milia centum trīgintā septem lb</size>
+r:"^3138 lb$"=<size\=18>MMMCXXXVIII lb</size>\n<size\=12>Tria milia centum duodēquadrāgintā lb</size>
+r:"^3139 lb$"=<size\=18>MMMCXXXIX lb</size>\n<size\=12>Tria milia centum ūndēquadrāgintā lb</size>
+r:"^3140 lb$"=<size\=18>MMMCXL lb</size>\n<size\=12>Tria milia centum quadrāgintā lb</size>
+r:"^3141 lb$"=<size\=18>MMMCXLI lb</size>\n<size\=12>Tria milia centum quadrāgintā ūnae lb</size>
+r:"^3142 lb$"=<size\=18>MMMCXLII lb</size>\n<size\=12>Tria milia centum quadrāgintā duae lb</size>
+r:"^3143 lb$"=<size\=18>MMMCXLIII lb</size>\n<size\=12>Tria milia centum quadrāgintā trēs lb</size>
+r:"^3144 lb$"=<size\=18>MMMCXLIV lb</size>\n<size\=12>Tria milia centum quadrāgintā quattuor lb</size>
+r:"^3145 lb$"=<size\=18>MMMCXLV lb</size>\n<size\=12>Tria milia centum quadrāgintā quīnque lb</size>
+r:"^3146 lb$"=<size\=18>MMMCXLVI lb</size>\n<size\=12>Tria milia centum quadrāgintā sex lb</size>
+r:"^3147 lb$"=<size\=18>MMMCXLVII lb</size>\n<size\=12>Tria milia centum quadrāgintā septem lb</size>
+r:"^3148 lb$"=<size\=18>MMMCXLVIII lb</size>\n<size\=12>Tria milia centum duodēquīnquāgintā lb</size>
+r:"^3149 lb$"=<size\=18>MMMCXLIX lb</size>\n<size\=12>Tria milia centum ūndēquīnquāgintā lb</size>
+r:"^3150 lb$"=<size\=18>MMMCL lb</size>\n<size\=12>Tria milia centum quīnquāgintā lb</size>
+r:"^3151 lb$"=<size\=18>MMMCLI lb</size>\n<size\=12>Tria milia centum quīnquāgintā ūnae lb</size>
+r:"^3152 lb$"=<size\=18>MMMCLII lb</size>\n<size\=12>Tria milia centum quīnquāgintā duae lb</size>
+r:"^3153 lb$"=<size\=18>MMMCLIII lb</size>\n<size\=12>Tria milia centum quīnquāgintā trēs lb</size>
+r:"^3154 lb$"=<size\=18>MMMCLIV lb</size>\n<size\=12>Tria milia centum quīnquāgintā quattuor lb</size>
+r:"^3155 lb$"=<size\=18>MMMCLV lb</size>\n<size\=12>Tria milia centum quīnquāgintā quīnque lb</size>
+r:"^3156 lb$"=<size\=18>MMMCLVI lb</size>\n<size\=12>Tria milia centum quīnquāgintā sex lb</size>
+r:"^3157 lb$"=<size\=18>MMMCLVII lb</size>\n<size\=12>Tria milia centum quīnquāgintā septem lb</size>
+r:"^3158 lb$"=<size\=18>MMMCLVIII lb</size>\n<size\=12>Tria milia centum duodēsexāgintā lb</size>
+r:"^3159 lb$"=<size\=18>MMMCLIX lb</size>\n<size\=12>Tria milia centum ūndēsexāgintā lb</size>
+r:"^3160 lb$"=<size\=18>MMMCLX lb</size>\n<size\=12>Tria milia centum sexāgintā lb</size>
+r:"^3161 lb$"=<size\=18>MMMCLXI lb</size>\n<size\=12>Tria milia centum sexāgintā ūnae lb</size>
+r:"^3162 lb$"=<size\=18>MMMCLXII lb</size>\n<size\=12>Tria milia centum sexāgintā duae lb</size>
+r:"^3163 lb$"=<size\=18>MMMCLXIII lb</size>\n<size\=12>Tria milia centum sexāgintā trēs lb</size>
+r:"^3164 lb$"=<size\=18>MMMCLXIV lb</size>\n<size\=12>Tria milia centum sexāgintā quattuor lb</size>
+r:"^3165 lb$"=<size\=18>MMMCLXV lb</size>\n<size\=12>Tria milia centum sexāgintā quīnque lb</size>
+r:"^3166 lb$"=<size\=18>MMMCLXVI lb</size>\n<size\=12>Tria milia centum sexāgintā sex lb</size>
+r:"^3167 lb$"=<size\=18>MMMCLXVII lb</size>\n<size\=12>Tria milia centum sexāgintā septem lb</size>
+r:"^3168 lb$"=<size\=18>MMMCLXVIII lb</size>\n<size\=12>Tria milia centum duodēseptuāgintā lb</size>
+r:"^3169 lb$"=<size\=18>MMMCLXIX lb</size>\n<size\=12>Tria milia centum ūndēseptuāgintā lb</size>
+r:"^3170 lb$"=<size\=18>MMMCLXX lb</size>\n<size\=12>Tria milia centum septuāgintā lb</size>
+r:"^3171 lb$"=<size\=18>MMMCLXXI lb</size>\n<size\=12>Tria milia centum septuāgintā ūnae lb</size>
+r:"^3172 lb$"=<size\=18>MMMCLXXII lb</size>\n<size\=12>Tria milia centum septuāgintā duae lb</size>
+r:"^3173 lb$"=<size\=18>MMMCLXXIII lb</size>\n<size\=12>Tria milia centum septuāgintā trēs lb</size>
+r:"^3174 lb$"=<size\=18>MMMCLXXIV lb</size>\n<size\=12>Tria milia centum septuāgintā quattuor lb</size>
+r:"^3175 lb$"=<size\=18>MMMCLXXV lb</size>\n<size\=12>Tria milia centum septuāgintā quīnque lb</size>
+r:"^3176 lb$"=<size\=18>MMMCLXXVI lb</size>\n<size\=12>Tria milia centum septuāgintā sex lb</size>
+r:"^3177 lb$"=<size\=18>MMMCLXXVII lb</size>\n<size\=12>Tria milia centum septuāgintā septem lb</size>
+r:"^3178 lb$"=<size\=18>MMMCLXXVIII lb</size>\n<size\=12>Tria milia centum duodēoctōgintā lb</size>
+r:"^3179 lb$"=<size\=18>MMMCLXXIX lb</size>\n<size\=12>Tria milia centum ūndēoctōgintā lb</size>
+r:"^3180 lb$"=<size\=18>MMMCLXXX lb</size>\n<size\=12>Tria milia centum octōgintā lb</size>
+r:"^3181 lb$"=<size\=18>MMMCLXXXI lb</size>\n<size\=12>Tria milia centum octōgintā ūnae lb</size>
+r:"^3182 lb$"=<size\=18>MMMCLXXXII lb</size>\n<size\=12>Tria milia centum octōgintā duae lb</size>
+r:"^3183 lb$"=<size\=18>MMMCLXXXIII lb</size>\n<size\=12>Tria milia centum octōgintā trēs lb</size>
+r:"^3184 lb$"=<size\=18>MMMCLXXXIV lb</size>\n<size\=12>Tria milia centum octōgintā quattuor lb</size>
+r:"^3185 lb$"=<size\=18>MMMCLXXXV lb</size>\n<size\=12>Tria milia centum octōgintā quīnque lb</size>
+r:"^3186 lb$"=<size\=18>MMMCLXXXVI lb</size>\n<size\=12>Tria milia centum octōgintā sex lb</size>
+r:"^3187 lb$"=<size\=18>MMMCLXXXVII lb</size>\n<size\=12>Tria milia centum octōgintā septem lb</size>
+r:"^3188 lb$"=<size\=18>MMMCLXXXVIII lb</size>\n<size\=12>Tria milia centum duodēnōnāgintā lb</size>
+r:"^3189 lb$"=<size\=18>MMMCLXXXIX lb</size>\n<size\=12>Tria milia centum ūndēnōnāgintā lb</size>
+r:"^3190 lb$"=<size\=18>MMMCXC lb</size>\n<size\=12>Tria milia centum nōnāgintā lb</size>
+r:"^3191 lb$"=<size\=18>MMMCXCI lb</size>\n<size\=12>Tria milia centum nōnāgintā ūnae lb</size>
+r:"^3192 lb$"=<size\=18>MMMCXCII lb</size>\n<size\=12>Tria milia centum nōnāgintā duae lb</size>
+r:"^3193 lb$"=<size\=18>MMMCXCIII lb</size>\n<size\=12>Tria milia centum nōnāgintā trēs lb</size>
+r:"^3194 lb$"=<size\=18>MMMCXCIV lb</size>\n<size\=12>Tria milia centum nōnāgintā quattuor lb</size>
+r:"^3195 lb$"=<size\=18>MMMCXCV lb</size>\n<size\=12>Tria milia centum nōnāgintā quīnque lb</size>
+r:"^3196 lb$"=<size\=18>MMMCXCVI lb</size>\n<size\=12>Tria milia centum nōnāgintā sex lb</size>
+r:"^3197 lb$"=<size\=18>MMMCXCVII lb</size>\n<size\=12>Tria milia centum nōnāgintā septem lb</size>
+r:"^3198 lb$"=<size\=18>MMMCXCVIII lb</size>\n<size\=12>Tria milia centum nōnāgintā octō lb</size>
+r:"^3199 lb$"=<size\=18>MMMCXCIX lb</size>\n<size\=12>Tria milia centum nōnāgintā novem lb</size>
 r:"^3200 lb$"=<size\=18>MMMCC lb</size>\n<size\=12>Tria milia ducentī lb</size>
 r:"^3201 lb$"=<size\=18>MMMCCI lb</size>\n<size\=12>Tria milia ducentī ūnae lb</size>
 r:"^3202 lb$"=<size\=18>MMMCCII lb</size>\n<size\=12>Tria milia ducentī duae lb</size>
