@@ -97,11 +97,21 @@ def process_specific_files_and_folders_with_two_zips():
 
                     # Modify the 'name' and 'description' properties
                     content['name'] += "_Educational"  # Append "_Educational" to the existing name
-                    content['description'] += " - Educational notes like the ordinal number that corresponds to a cardinal number are included. These can be educational, but break immersion"  # Append the additional description
+                    content['description'] += " - Includes educational"  # Append the additional description
 
                     # Write the updated content back to the JSON file
                     with open(file_path, 'w', encoding='utf-8') as f:
                         json.dump(content, f, indent=4, ensure_ascii=False)
+
+        for root, dirs, files in os.walk(temp_dir_educational):
+            for file in files:
+                if file.endswith(('.txt', '.cfg')):
+                    file_path = os.path.join(root, file)
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        content = f.read()
+                    content = remove_macrons(content)
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        f.write(content)
 
         # Create zip file without macrons
         with zipfile.ZipFile(zip_name_normal, 'w', zipfile.ZIP_DEFLATED) as zipf:
