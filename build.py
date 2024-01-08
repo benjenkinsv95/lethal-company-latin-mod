@@ -96,7 +96,7 @@ def process_specific_files_and_folders_with_two_zips():
                         content = json.load(f)
 
                     # Modify the 'name' and 'description' properties
-                    content['name'] += "_Educational"  # Append "_Educational" to the existing name
+                    content['name'] = content['name'].replace("_Localization", "_Educational")
                     content['description'] += " - Includes educational"  # Append the additional description
 
                     # Write the updated content back to the JSON file
