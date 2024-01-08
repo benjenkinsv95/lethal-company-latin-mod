@@ -21,8 +21,9 @@ Gratias tibi ago! - Quīntus
 Install the thunderstore mod manager:
 1. [Download Thunderstore Mod Manager Here](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) (Download and follow installer)
 
-Install the latin mod (this should automatically install any mods the latin mod requires):
-1. [Lethal Company Latin Localization](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/)
+Install the version of the latin mod you want below (this should automatically install any mods the latin mod requires):
+1. [Lethal Company Latin Localization](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization/) - A more immersive way to play the game.
+2. [Lethal Company Latin Localization Educational](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/Lethal_Company_Latin_Localization_Educational/) - An educational version with more added notes. These notes can be useful for learning (like mentioning the ordinal number for the weight).
 
 After you have the mod manager downloaded, downloading the mods is as simple as clicking "Install with Mod Manager".
 

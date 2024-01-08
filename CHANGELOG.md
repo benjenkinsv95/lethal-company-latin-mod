@@ -1,4 +1,7 @@
 # Changelog
+# 2.0.3 More cardinal numbers for weights, better font sizes, & new educational version
+A new educational version now exists with some added notes for learning.
+
 # 2.0.0 New font, updated logo, and added discord link
 New font that supports macrons and discord link
 

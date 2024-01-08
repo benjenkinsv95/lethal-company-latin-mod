@@ -216,9 +216,9 @@ r:"^DEADLINE:\n8 Days$"=FINIS: \nVIII DĪES
 r:"^DEADLINE:\n9 Days$"=FINIS: \nIX DĪES
 r:"^DEADLINE:\n(1[0-9]+) Days$"=FINIS: \n$1 DĪES
 r:"^DUE: \$([0-9]+)$"=Dēbitum: $1 AU
-r:"^File 1$"=<size\=13>Tabella I</size>
-r:"^File 2$"=<size\=13>Tabella II</size>
-r:"^File 3$"=<size\=13>Tabella III</size>
+r:"^File 1$"=<size\=13>Tabella\nPrīma</size>
+r:"^File 2$"=<size\=13>Tabella\nSecunda</size>
+r:"^File 3$"=<size\=13>Tabella\nTertia</size>
 r:"^MONITORING: (.+)$"=Spectāns:  $1
 r:"^MONITORING:(.+)Player$"=(Spectāns:  Lūsor)
 r:"^MONITORING:(.+)Player #0$"=(Spectāns:  Lūsor Nullus)
