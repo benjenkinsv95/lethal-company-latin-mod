@@ -51,8 +51,10 @@ const convertToFeminine = (words, num) => {
 
     const wordsArr = words.split(' ');
     const masculineWords = wordsArr.map(word => {
-        if (word.toLowerCase() === 'duo') return 'duae'
-        if (word.toLowerCase() === 'tria') return 'trēs'
+        if (word === 'duo') return 'duae'
+        if (word === 'tria') return 'trēs'
+        if (word === 'Duo') return 'Duae'
+        if (word === 'Dria') return 'Trēs'
 
         if (word.endsWith('us')) {
             return word.slice(0, word.length - 'us'.length) + ending;
@@ -98,8 +100,8 @@ function generateTimeTranslationPatterns(filename) {
 
 // Generate patterns up to 3,999 and write to money.txt
 generateTranslationPatterns(3999, "money.txt", createMoneyPattern);
-// generateTranslationPatterns(3999, "weight.txt", createWeightPattern);
-// generateTranslationPatterns(3999, "weight-nota.txt", createWeightWithNotesPattern);
+generateTranslationPatterns(3999, "weight.txt", createWeightPattern);
+generateTranslationPatterns(3999, "weight-nota.txt", createWeightWithNotesPattern);
 // generateTimeTranslationPatterns('time.txt')
 
 function createMoneyPattern(i, roman, cardinalWord, ordinalWord, aureus) {
@@ -126,7 +128,7 @@ function createWeightWithNotesPattern(i, roman, cardinalWord, ordinalWord, aureu
     const cardinal = convertToFeminine(cardinalWord, i);
     const ordinal = convertToFeminine(ordinalWord, i)
 
-    return `r:"^${i} lb$"=<size\\=18>${roman} lb</size>\\n\\n<size\\=11>Nota:\\n\'${cardinal}\' est numerus, cuius ordinalis est \'${ordinal}\'</size>\n`;
+    return `r:"^${i} lb$"=<size\\=18>${roman} lb</size>\\n\\n<size\\=11>Nota grammaticae:\\n\'${cardinal}\' est numerus, cuius ordinalis est \'${ordinal}\'</size>\n`;
 }
 // <size\=18>CLVI lb</size>\n<size\=10>Centum quīnquāgintā sex lb</size><size\=9>\n\nCentēsima quīnquāgēsima sexta libra portata est</size>
 
