@@ -1,4 +1,7 @@
 # Changelog
+# 2.0.9 Remove english from audio dialogue, replace intro audio with latin, and v47 updates
+Because apparently v47 was released today as well, haha
+
 # 2.0.7 Small tweaks to numbers
 
 # 2.0.3 More cardinal numbers for weights, better font sizes, & new educational version

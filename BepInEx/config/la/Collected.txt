@@ -117,3 +117,6 @@ Whoopie cushion collected!=Saccus iocōsus collēctus est!
 Yield sign collected!=Signum cessandī collēctum est!
 Zap Gun collected!=Sclopetum electricum collēctum est!
 Zap gun collected!=Sclopetum electricum collēctum est!
+
+sr:"^\$(1|0|Nūlla|Nūllus) Collected$"=Nūllus AU\ncollēctus
+sr:"^(.*) Collected$"=$1 AU\ncollēctī

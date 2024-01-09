@@ -30,7 +30,7 @@ Flooded=Inundātum
 Foggy=Nebulōsum
 Frozen, rocky. Its planet orbits a white dwarf star.=Glaciālis, saxōsa. Planeta orbitat stēllam nānam albam.
 Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Glaciālis, saxōsa. Hīc lūna explōrāta est prō rēbus. Facile est hīc errāre.
-HAZARD LEVEL:=GRADUS\nPERĪCULĪ:
+HAZARD LEVEL:=<size\=20>GRADUS PERĪCULĪ:</size>
 # Home camp. Sedes Domestica and Fundamentum Domus are tempting.
 Home base=Castra Domestica
 Humid. Rough terrain. Teeming with plant-life.=Humidum. Terra incondita. Plena vitae plantarum.

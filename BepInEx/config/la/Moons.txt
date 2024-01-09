@@ -1,4 +1,5 @@
 8 Titan=VIII Titan
+Voiumya-10=X Voiumya
 Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Glaciālis, saxōsa. In hāc lūnā rēs quaesītae sunt. Facile est hīc errāre.
 Dangerous entities have been rumored to take residence in the vast network of tunnels.\n=Perīculōsae rēs in cuniculīs habitant.\n
 

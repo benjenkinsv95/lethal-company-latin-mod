@@ -6,8 +6,11 @@
 (Cannot hold until ship has landed)=(Nōn potest tenēre, dum nāvis attingit terram)
 (Dead)= (Mortuus) 
 (Radar booster)=(Radarīs augēns)
+(Removed score)=(Numerus delētus) 
 (Requires battery-powered item)=(Renovat rēs ēlectrīcās\nExempla: ambulans-loquēns aut lūmen portābile)
+(See how you compare to friends in the\nmain menu leaderboard!)=(Inspecta qualiter te cum amīcīs\n in principālī tabulā lūsōrum comparās!)
 (Spectating: )=(Spectāns: )
+
 [LIFE SUPPORT: OFFLINE]=[SUSTINERE VĪTAE: INACTĪVUS]
 [Near activity detected!]=[Proximē Actiō Dētēcta!]
 1 casualties: -0%\n(1 bodies recovered)=I interfectī: -Nulla%\n(I corpus salvātum)
@@ -35,6 +38,7 @@ ALERT!=CAVE!
 An error occurred!=Error factus est!
 # typo
 An error occured!=Error factus est!
+AS MUCH\nPROFIT AS\nPOSSIBLE=QUAM MAXIMUS LUCRUM POSSUMUS
 
 
 
@@ -47,13 +51,21 @@ bludgeoning=percussiō
 BROADCASTED SPECIAL CODE=CŌDEX PROPRIUS DIVULGATUS
 Buy flashlights and travel to new planets!=Eme lūmen portabile et iter fac ad planetās novās!
 Can't stay closed forever=Nōn potest manēre clausum sēmper
-Change suit=Mūta vestimenta
+CHALLENGE RESULTS:=CERTĀMINIS EXITUS:
+CHALLENGE=CERTĀMEN
+sr:"Challenge Moon (.*) Results"=Lūnae Certāminis $1 Exitus
+Change suit=Mūta: Vestīmentum
 Change: Green suit=Mūta: Vestīmentum viride
-Change: Hazard suit=Mūta: Vestīmentum perīculī
+Change: Purple suit=Mūta: Vestīmentum purpureum
+Change: Purple Suit=Mūta: Vestīmentum purpureum
+Change: Hazard suit=Mūta: Vestīmentum perīculōsum
 Change: Pajama suit=Mūta: Vestīmentum nocturnum
+
 r:"^Change: (.+)$"=Mūta: $1
 Confirm changes?=Cōnfirmā Mūtātiōnēs?
 Continue=Confīrmā
+Controller connected = Imperium iungitur
+Controller disconnected = Imperium disiungitur
 Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Cōnnectiō ad servātōrēs STEAM dēfēcit!
 (Sī in retī locālī sōlum lūdere cupis,
 ēlige 'Locale Rete' cum lūdum incipis.)
@@ -63,6 +75,7 @@ CREW:=OPERĀRIĪ:
 CRITICAL INJURY=VULNUS CRITICUS
 DarthRevan=Quīntus
 Darth Revan=Quīntus
+Deceased=Mortuus 
 DEADLINE:\n NOW=FINIS: \nNUNC
 # TODO Controlores feels bad
 Door controls=Instrumenta Ianuarum
@@ -70,7 +83,9 @@ DOOR HYDRAULICS:=Ianua Hydraulica:
 Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Nunc, abiice tuas res metallicas! Electricitas animadversa est.  Secunda tibi superfuerunt ut vīvās.
 EMPLOYEE RANK=GRADUS OPERARIORUM
 Employee=Operarius
+
 Error! Could not get the lobby data. Are you offline?=Error! Non potui data servātōris accipere. Nonne in interrēte es?
+
 
 Fines=Poenae
 FIRE EXIT=EXITUS IGNIS
@@ -91,6 +106,7 @@ Kick=Expelle
 Lands the ship.=Navis descendit ad terram.
 Leader=Dux
 LOADING WORLD...=Ad mundum dēscenditur... 
+Loading ranking...=Gradus Inveniendi...
 Loading server list...=Servātōrum Index Rēnovātur...
 
 Locked=Clūsus
@@ -109,6 +125,7 @@ PERFORMANCE REPORT=RELATIO OPERIS
 # Something using Gubernator could be fun
 PILOT COMPUTER=Computātor Navigātōrius
 Player=Lūsor
+[ Play again ]=[ Iterum lūde ]
 Press "/" to talk.=Preme '/' loquī.
 Price=Pretium
 PRIVATE means you must send invites through Steam for players to join.=PRĪVĀTUS significat tē per Steam debēre mittere invītātiōnēs ut lūsōrēs sē iungant
@@ -118,6 +135,7 @@ Push to talk:=Preme loquī:
 QUOTA REACHED!=<size\=40>QUOTA COMPLETA!</size>
 Quota=Quota
 RECEIVING SIGNAL=Signal Acceptum
+[ Remove my score ]=[ Numerum meum delē ]
 r:"^(.*) \n ?AM"=AM $1
 r:"^(.*) \n ?PM"=PM $1
 # TODO potential roman numerals (Automate)
@@ -191,7 +209,7 @@ r:"^\[MODDED\](.+?)$"=[Mōdificātum]$1
 r:"^Body of (.+)$"=Corpus quod est [noun]
 r:"^Casualties \((.+)\): (.+)$"=Interfectī ($1): $2
 
-# r:"^CELESTIAL BODY: (.+?)$"=CORPUS COELESTIS: $1
+sr:"^CELESTIAL BODY: (.+?)$"=CORPUS COELESTIS: $1
 r:"^CELESTIAL BODY: 8 Titan$"=CORPUS COELESTIS: VIII Titan
 r:"^CELESTIAL BODY: 21 Offense$"=CORPUS COELESTIS: XXI Offense
 r:"^CELESTIAL BODY: 220 Assurance$"=CORPUS COELESTIS: CCXX Assurance
@@ -230,7 +248,7 @@ r:"^MONITORING:(.+)Player #5$"=(Spectāns:  Lūsor V)
 r:"^MONITORING:(.+)Player #6$"=(Spectāns:  Lūsor VI)
 
 r:"^Overtime bonus: (.+)$"=Extra tempus merces:  $1
-sr:"^PROFIT QUOTA:\n\$([0-9]+) / \$([0-9]+)$"=QUOTA LŪCRĪ: \n$1 / $2\nAUREI 
+sr:"^PROFIT QUOTA:\n\$(\d*) / \$(\d*)(.*)"=QUOTA LŪCRĪ: \n$1 / $2\nAU 
 # r:"^(.*)Random seed: ([0-9]+)(.*)$"=Forte semen: $2
 r:"^(.*)Random seed(.*)"=Forte semen $2
 
@@ -274,10 +292,11 @@ r:"(.+)The laziest employee"=$1Operarius pigrissimus
 The host has not loaded or has already landed their ship.=Hospēs nōndum accessit aut iam nāvem suam ad terram attigit.
 
 The server is full!=Servātor iam plēnus est!
+This is the weekly challenge moon.\nYou have one day and one attempt to\nmake as much profit as possible.=<size\=12>Hoc est lūna certāminis hebdomadālis.\nŪnus diēs et ūna cōnātiō tibi dantur\nut quam maximē lūcrum faciās.</size>
 TIP:=MONITUM: 
 Tip=Monitum
 Press B to move and place objects in the ship, E to cancel.=Preme B ad rēs in nāvī movendās et ponendās, E ad relinquendum.
-TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=MONITUM!: Tene [RMB] ut suffrāgium mittās pro nāvī gubernātōre prius discedente.
+sr:"TIP!: Hold (.*) to vote for the autopilot ship\nto leave early."=MONITUM!: Tene $1 ut suffrāgium mittās\npro nāvī gubernātōre prius discedente.
 TO MEET PROFIT QUOTA=\nUt Quota Lucrī Efficiātur
 To sell, use the terminal to route the ship to the company building.=Vendere, utere computātrum ut ducere navem ad aedificium collēgiī.
 TOTAL:=Tōtus:
@@ -297,7 +316,7 @@ Weather alert!=Tempestās, cavē!
 YOU ARE FIRED.=DĪSMISSUS ES.
 You did not meet the profit quota before the deadline.=Quotam lūcrī ante finem dierum nōn effecistī.
 You have landed in an eclipse. Exercise caution!=Ad obscūrātiōnem advēnistī. Cave!
-You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=Nulla diēs tibi reliquī sunt ad quota complenda. Utere computātrum ut dūcere ad collēgium et vēndere.
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=<size\=24>Nulla diēs tibi reliquī sunt ad quota complenda.\nUtere computātrum ut dūcere ad collēgium et vēndere.</size>
 
 
 
@@ -348,3 +367,6 @@ To read the manual:=Ad manuālem legendum:
 Unnamed=Nōmine Carent
 Up Arrow=Sagitta Sūrsum
 WAIT!=EXSPECTĀ!
+Welcome to\nVoiumya-10=Salvē, Voiumyae X.
+With challenge moon=Cum lunā certāminis
+Your rank: =<size\=20>Gradus tuus: </size>

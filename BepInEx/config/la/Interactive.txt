@@ -153,6 +153,8 @@ r:"^Drop Yield sign(.+)"=<size\=10>Pōne signum cessandī$1</size>
 r:"^Drop Zap gun(.+)"=<size\=10>Pōne sclopetum electricum$1</size>
 r:"^Drop Zap Gun(.+)"=<size\=10>Pōne sclopetum electricum$1</size>
 
+Enter a tag...=Inscrībe signum...
+Enter server tag...=<size\=9>Inscrībe signum servātōriī...</size>
 r:"^Enter(.+)"=Intrā$1
 r:"^Enter(.+)"=Intrā$1
 r:"^Exit(.+)"=Exi$1

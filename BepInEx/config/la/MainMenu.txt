@@ -12,15 +12,15 @@
 [ Continue ]=[ Confīrmā ]
 [ Refresh ]=[ Renovā ]
 
-> Back to menu=> Redī Ad Menū
+> Back to menu=> Redī ad menū
 > Back=> Redī
 > Cancel=> Negā
-> Confirm changes=> Cōnfirma Mūtātiōnēs
+> Confirm changes=> Cōnfirma mūtātiōnēs
 > Confirm=> Cōnfirma
 > CONFIRM=>Cōnfirma
 > Credits=> Crēditōrēs
 > Host=> Hospitā
-> Invite friends=> Invitā Amīcōs 
+> Invite friends=> Invitā amīcōs 
 > Join a crew=> Iunge tē operāriīs
 > Join LAN session=> Iunge tē lūsiōnī
 > LAN=\n\n\n<size\=20>>  Rete locale</size>\n\n<size\=14>Cōnspexistīne mendum?\n\nCorrige mē, sī vīs:</size>\n<size\=14>discord.gg/ludus</size>
@@ -32,7 +32,7 @@
 > Set to defaults=<size\=14>> Redde ad prīstinum statum</size>
 
 # A-M
-ACCESSIBILITY=Accessibil-\nitās
+ACCESSIBILITY=<size\=16>Accessibilitās</size>
 Adjust screen brightness until the symbol on the right is barely visible.=Luminis schermi auge donec signum ad dextram vix videas.
 Allow remote connections=Permitte conexionēs remōtās
 An error occured when syncing the scene! The host might not have loaded in.=Error in scaena synchronizanda ortus est! Fortasse hospes nondum accessit.
@@ -71,7 +71,7 @@ LAN= Rete locale
 LAUNCH MODE=MODUS INITII
 Local-only=Sōlum Locālīs 
 Loading...=Incipitur...
-Look sensitivity:=Aspicere Sensitivitās: 
+Look sensitivity:=<size\=10>Aspicere Sensitivitās:</size>
 Master volume:=Magister Magnitūdō: 
 Max players...=Lūdōrēs Maximī...
 Maximized window=Fenestra Maxima
@@ -83,15 +83,25 @@ Name your server...=Nōmina Servātōrem Tuum...
 Online= Interrete
 Push to talk=Loquere pressa
 r:"BG IG, A System"=     BG IG, Socius Agendi Systematis\n     Ius (C) MMXXXIV-MMCVIII, Halden Elctronicae\n\nGenus CPU                : BORSON CCC CPU ad MMV MHz\nTentamen Memoria          : CDLXXMMMDLXXXV K Recte\n\nApplicatio Distributeris Initium\nIus Litterarum (C) MMCVII Distributor\n     Invenio Aculeus X ROM\n     Invenio Tela LNV Extensor\n     Invenio Pulsus Recte\n\n\nUTGF Instrumentum Audiens...\n\nCORPUS      ID    Neuralis   Genus Instrumenti \n-----------------------------------------------\n\n    II     LII      JoCLII                HDXV   \n    II     LII      SaDXLV                HDXV    \n    II     LII      BolXXV                HDXV      \n    II     LII       EriDX                HDXV    \n     I   XXXVI   EllDLXVII                HDXV  \n     I   XXXVI    JosCMXII                HDXV\n Nulla 
-r:"^Do you want to delete File (.+)\?$"=Visne Tabellam $1 Dēlēre?
+r:"^Do you want to delete File (.+)\?$"=Visne tabellam $1 dēlēre?
+r:"^Do you want to delete File 1\?$"=Visne tabellam prīmam dēlēre?
+r:"^Do you want to delete File 2\?$"=Visne tabellam secundam dēlēre?
+r:"^Do you want to delete File 3\?$"=Visne tabellam tertiam dēlēre?
+
 Save File=Quotam tabellam seligēs?
 Server name:=Nōmen Servātōris: 
-Servers=Servātōrēs
-Sort: far=Ordinā: longē
-Sort: near=Ordinā: propinquē
-Sort: worldwide=Ordinā: tōtum orbem
+Servers=<size\=22>Servātōrēs</size>
+Sort: far=<size\=11>Ordinā: longē</size>
+Sort: Friends=<size\=11>Ordinā: Amīcī</size>
+Sort: near=<size\=11>Ordinā: propinquē</size>
+Sort: Similar rank=<size\=11>Ordinā: Gradus Similis</size>
+Sort: Top 20=<size\=11>Ordinā: Summī Vīgintī</size>
+Sort: worldwide=<size\=11>Ordinā: tōtum orbem</size>
+
+
 Started server, joining...=Servātōrem Coēpī, Iungēns...
 TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=Mōnitiō: Tene [RMB] ad suffrāgium ferendum ut navis gubernātor prius relinquat.
+TIP!: Hold [R-Trigger] to vote for the autopilot ship to leave early.=Mōnitiō: Tene [R-Trigger] ad suffrāgium ferendum ut navis gubernātor prius relinquat.
 The file will NOT save! Your ship must be in orbit.=Tabella NON servābitur! Navis tua debet in orbitā esse.
 Uncapped=Sine limitibus
 Unconfirmed changes!=Mūtātiōnēs Inconfirmātae!
