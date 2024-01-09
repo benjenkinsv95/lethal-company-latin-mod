@@ -322,7 +322,7 @@ Weather alert!=Tempestās, cavē!
 YOU ARE FIRED.=DĪSMISSUS ES.
 You did not meet the profit quota before the deadline.=Quotam lūcrī ante finem dierum nōn effecistī.
 You have landed in an eclipse. Exercise caution!=Ad obscūrātiōnem advēnistī. Cave!
-You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=<size\=24>Nulla diēs tibi reliquī sunt ad quota complenda.\nŪtere computātrum ut dūcere ad collēgium et vēndere.</size>
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=<size\=14>Nulla diēs tibi reliquī sunt ad quota complenda.\nŪtere computātrum ut dūcere ad collēgium et vēndere.</size>
 
 
 
