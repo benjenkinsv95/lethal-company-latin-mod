@@ -13,3 +13,4 @@ Teeth =Dentēs
 Unlikely for complex life to exist\n=Improbabile est ut vitae sapiens existant\n
 DarthRevan=Quīntus 
 DarthRevan =Quīntus 
+Welcome!\nThis patch includes the replayable challenge moons and new factory hallway types, as well as some tweaks to existing creatures.\n\nOthers must update their game to play with you on this version.\n\n\nGood luck!=Salvēte! In hāc versiōne, novum gaudium præbetur: certāmina lunāria quæ iterum atque iterum agī possunt, et ambulācrōrum officīnārum genera nova. Item, quædam in bēstiīs iam nōtīs immūtāta sunt.\n\nLūsōrēs alīī suōs lūdōs ad hanc versiōnem āctuāre dēbent ut tēcum in hāc ēditiōne ludere possint.\n\n\nBonam fortūnam!

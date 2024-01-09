@@ -49,8 +49,8 @@ bludgeoning=percussiō
 # Tough: proprius is llpsi ch 35 for special,
 # DIVULGATUS - emphasizes the action of actively broadcasting or disseminating the code.
 BROADCASTED SPECIAL CODE=CŌDEX PROPRIUS DIVULGATUS
-Buy flashlights and travel to new planets!=Eme lūmen portabile et iter fac ad planetās novās!
-Can't stay closed forever=Nōn potest manēre clausum sēmper
+Buy flashlights and travel to new planets!=<size\=7>Eme lūmen portabile et\niter fac ad planetās novās!</size>
+Can't stay closed forever=<size\=8>Nōn potest manēre\nclausum sēmper</size>
 CHALLENGE RESULTS:=CERTĀMINIS EXITUS:
 CHALLENGE=CERTĀMEN
 sr:"Challenge Moon (.*) Results"=Lūnae Certāminis $1 Exitus
@@ -78,8 +78,8 @@ Darth Revan=Quīntus
 Deceased=Mortuus 
 DEADLINE:\n NOW=FINIS: \nNUNC
 # TODO Controlores feels bad
-Door controls=Instrumenta Ianuarum
-DOOR HYDRAULICS:=Ianua Hydraulica: 
+Door controls=Instrumenta ianuarum
+DOOR HYDRAULICS:=<size\=19>Ianua hydraulica:</size>
 Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Nunc, abiice tuas res metallicas! Electricitas animadversa est.  Secunda tibi superfuerunt ut vīvās.
 EMPLOYEE RANK=GRADUS OPERARIORUM
 Employee=Operarius
@@ -103,10 +103,10 @@ Item collected!=Res collēcta est!
 Items missed!=Rēs neglēctae!
 The vehicle returned with your purchased items. Our delivery fee cannot be refunded.=Currus, cum rēbus quās ēmistī, reversus est. Nōn licet mercedem trānsportātiōnis restituere.
 Kick=Expelle
-Lands the ship.=Navis descendit ad terram.
+Lands the ship.=<size\=8>Navis descendit\nad terram.</size>
 Leader=Dux
 LOADING WORLD...=Ad mundum dēscenditur... 
-Loading ranking...=Gradus Inveniendi...
+Loading ranking...=Gradus inveniendi...
 Loading server list...=Servātōrum Index Rēnovātur...
 
 Locked=Clūsus
@@ -116,6 +116,7 @@ Mauling=Sectiō
 # N-R
 New creature data sent to terminal!=Animalibus novīs data ad computātrum missa!
 NEW PROFIT QUOTA:=<size\=40>NOVA QUOTA LŪCRĪS: </size>
+No available servers to join.=Nūllī servātōrēs praestō sunt quī iungantur.
 None=Nihil
 
 
@@ -143,14 +144,16 @@ r:"^(.*) EXP$"=$1 EXP
 r:"^(.*) FPS$"=FPS $1
 
 
-r:"(.+)joined the ship"=$1navem adiit
+r:"(.*) joined the ship"=$1 navem adiit
 # r:"([\s\S]+) joined the ship."=$1 navem adiit.
-r:"Player #0(.+?)joined the ship(.+?)"=Lūsor nullus navem adiit $2
-r:"Player #1(.+?)joined the ship(.+?)"=Lūsor I navem adiit $2
-r:"Player #2(.+?)joined the ship(.+?)"=Lūsor II navem adiit $2
-r:"Player #3(.+?)joined the ship(.+?)"=Lūsor III navem adiit $2
-r:"Player #4(.+?)joined the ship(.+?)"=Lūsor IV navem adiit $2
-r:"Player #5(.+?)joined the ship(.+?)"=Lūsor V navem adiit $2
+r:"DarthRevan(.+?)joined the ship(.+?)"=Quīntus navem adiit.
+r:"Player #0(.+?)joined the ship(.+?)"=Lūsor nullus navem adiit.
+r:"Player #1(.+?)joined the ship(.+?)"=Lūsor I navem adiit.
+r:"Player #2(.+?)joined the ship(.+?)"=Lūsor II navem adiit.
+r:"Player #3(.+?)joined the ship(.+?)"=Lūsor III navem adiit.
+r:"Player #4(.+?)joined the ship(.+?)"=Lūsor IV navem adiit.
+r:"Player #5(.+?)joined the ship(.+?)"=Lūsor V navem adiit.
+sr:"(.*) #(\d)(.+?)joined the ship(.+?)"=$1 $2 navem adiit.
 r:"Player #0$"=Lūsor nullus
 r:"Player #1$"=Lūsor I 
 r:"Player #2$"=Lūsor II 
@@ -161,28 +164,31 @@ r:"Player #5$"=Lūsor V
 # r:"^Player #0$"=(Spectāns:  )
 
 # TODO potential roman numerals
-r:"^5 (Days|Day) Left$"=V Diēs Rēliquī
-r:"^4 (Days|Day) Left$"=IV Diēs Rēliquī
-r:"^3 (Days|Day) Left$"=III Diēs Rēliquī
-r:"^2 (Days|Day) Left$"=II Diēs Rēliquī
-r:"^1 (Days|Day) Left$"=I Diēs Rēliquī
-r:"^0 (Days|Day) Left$"=Nulla Diēs Rēliquī
+r:"^5 (Days|Day) Left$"=V Diēs rēliquī
+r:"^4 (Days|Day) Left$"=IV Diēs rēliquī
+r:"^3 (Days|Day) Left$"=III Diēs rēliquī
+r:"^2 (Days|Day) Left$"=II Diēs rēliquī
+r:"^1 (Days|Day) Left$"=I Diēs rēliquī
+r:"^0 (Days|Day) Left$"=Nulla Diēs rēliquī
 
 # Using servata
 # TODO potential roman numerals
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī: $2\n ($3 corpora salvāta) 
-r:"(.+)started the ship"=$1nāvem incēpit.
 # departed (simpler)
 r:"(.+)disconnected"=$1abīvit.
 r:"(.+)was kicked"=$1expulsus est.
 r:"(.+)was left behind"=$1relictus est.
 r:"^The server host disconnected."=Hospes Servātōris abīvit.
-r:"^Player #0(.+?)started the ship(.+?)$"=Lūsor nullus navem incēpit $2
-r:"^Player #1(.+?)started the ship(.+?)$"=Lūsor I navem incēpit $2
-r:"^Player #2(.+?)started the ship(.+?)$"=Lūsor II navem incēpit $2
-r:"^Player #3(.+?)started the ship(.+?)$"=Lūsor III navem incēpit $2
-r:"^Player #4(.+?)started the ship(.+?)$"=Lūsor IV navem incēpit $2
-r:"^Player #5(.+?)started the ship(.+?)$"=Lūsor V navem incēpit $2
+r:"Player #0(.+?)started the ship(.+?)$"=Lūsor nullus navem incēpit $2
+r:"Player #1(.+?)started the ship(.+?)$"=Lūsor I navem incēpit $2
+r:"Player #2(.+?)started the ship(.+?)$"=Lūsor II navem incēpit $2
+r:"Player #3(.+?)started the ship(.+?)$"=Lūsor III navem incēpit $2
+r:"Player #4(.+?)started the ship(.+?)$"=Lūsor IV navem incēpit $2
+r:"Player #5(.+?)started the ship(.+?)$"=Lūsor V navem incēpit $2
+sr:"DarthRevan(.+?)started the ship(.+?)$"=Quīntus navem incēpit $2
+# sr:"(.*)Player #(\d)(.+?)started the ship"=$1$2 $3 navem incēpit$4
+sr:"(.+)started the ship"=$1nāvem incēpit.
+r:"(.+)started the ship"=$1nāvem incēpit.
 
 r:"^(.+) was left behind"=$1 relictus est
 r:"^(Current input device: \n)(.*)$"=Instrumenta imposita praesēns: $2
@@ -234,12 +240,12 @@ r:"^DEADLINE:\n8 Days$"=FINIS: \nVIII DĪES
 r:"^DEADLINE:\n9 Days$"=FINIS: \nIX DĪES
 r:"^DEADLINE:\n(1[0-9]+) Days$"=FINIS: \n$1 DĪES
 r:"^DUE: \$([0-9]+)$"=Dēbitum: $1 AU
-r:"^File 1$"=<size\=13>Tabella\nPrīma</size>
-r:"^File 2$"=<size\=13>Tabella\nSecunda</size>
-r:"^File 3$"=<size\=13>Tabella\nTertia</size>
+r:"^File 1$"=<size\=13>Tabella\nprīma</size>
+r:"^File 2$"=<size\=13>Tabella\nsecunda</size>
+r:"^File 3$"=<size\=13>Tabella\ntertia</size>
 r:"^MONITORING: (.+)$"=Spectāns:  $1
 r:"^MONITORING:(.+)Player$"=(Spectāns:  Lūsor)
-r:"^MONITORING:(.+)Player #0$"=(Spectāns:  Lūsor Nullus)
+r:"^MONITORING:(.+)Player #0$"=(Spectāns:  Lūsor nullus)
 r:"^MONITORING:(.+)Player #1$"=(Spectāns:  Lūsor I)
 r:"^MONITORING:(.+)Player #2$"=(Spectāns:  Lūsor II)
 r:"^MONITORING:(.+)Player #3$"=(Spectāns:  Lūsor III)
@@ -248,7 +254,7 @@ r:"^MONITORING:(.+)Player #5$"=(Spectāns:  Lūsor V)
 r:"^MONITORING:(.+)Player #6$"=(Spectāns:  Lūsor VI)
 
 r:"^Overtime bonus: (.+)$"=Extra tempus merces:  $1
-sr:"^PROFIT QUOTA:\n\$(\d*) / \$(\d*)(.*)"=QUOTA LŪCRĪ: \n$1 / $2\nAU 
+sr:"^PROFIT QUOTA:\n\$(\d*) / \$(\d*)(.*)"=<size\=60> QUOTA\n LŪCRĪ: \n $1 / $2\n AU</size>
 # r:"^(.*)Random seed: ([0-9]+)(.*)$"=Forte semen: $2
 r:"^(.*)Random seed(.*)"=Forte semen $2
 
@@ -297,13 +303,13 @@ TIP:=MONITUM:
 Tip=Monitum
 Press B to move and place objects in the ship, E to cancel.=Preme B ad rēs in nāvī movendās et ponendās, E ad relinquendum.
 sr:"TIP!: Hold (.*) to vote for the autopilot ship\nto leave early."=MONITUM!: Tene $1 ut suffrāgium mittās\npro nāvī gubernātōre prius discedente.
-TO MEET PROFIT QUOTA=\nUt Quota Lucrī Efficiātur
-To sell, use the terminal to route the ship to the company building.=Vendere, utere computātrum ut ducere navem ad aedificium collēgiī.
+TO MEET PROFIT QUOTA=\nUt quota lucrī efficiātur
+To sell, use the terminal to route the ship to the company building.=Vendere, ūtere computātrum ut ducere navem ad aedificium collēgiī.
 TOTAL:=Tōtus:
 Training manual=Liber operarii
 Typing...=Scribens...
 Uncapped=Sine limitibus
-Use the ship computer terminal to access secure doors.=Utere computātrum computrī nāvis ut intrare ianuas tutas.
+Use the ship computer terminal to access secure doors.=Ūtere computātrum computrī nāvis ut intrare ianuas tutas.
 Useful info!=Informatiō ūtilis!
 Value: ???=Pretium:  ???
 VISIBILITY LOW!\n\nSteam leak detected in area=VISIBILITAS PARVA!\n\nVaporis perfluita invenitur in loco.
@@ -316,7 +322,7 @@ Weather alert!=Tempestās, cavē!
 YOU ARE FIRED.=DĪSMISSUS ES.
 You did not meet the profit quota before the deadline.=Quotam lūcrī ante finem dierum nōn effecistī.
 You have landed in an eclipse. Exercise caution!=Ad obscūrātiōnem advēnistī. Cave!
-You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=<size\=24>Nulla diēs tibi reliquī sunt ad quota complenda.\nUtere computātrum ut dūcere ad collēgium et vēndere.</size>
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=<size\=24>Nulla diēs tibi reliquī sunt ad quota complenda.\nŪtere computātrum ut dūcere ad collēgium et vēndere.</size>
 
 
 
@@ -368,5 +374,6 @@ Unnamed=Nōmine Carent
 Up Arrow=Sagitta Sūrsum
 WAIT!=EXSPECTĀ!
 Welcome to\nVoiumya-10=Salvē, Voiumyae X.
+Weekly Challenge Results=Exitus certāminis hebdomadālis
 With challenge moon=Cum lunā certāminis
 Your rank: =<size\=20>Gradus tuus: </size>

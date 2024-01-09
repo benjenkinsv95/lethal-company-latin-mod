@@ -37,7 +37,7 @@ Adjust screen brightness until the symbol on the right is barely visible.=Lumini
 Allow remote connections=Permitte conexionēs remōtās
 An error occured when syncing the scene! The host might not have loaded in.=Error in scaena synchronizanda ortus est! Fortasse hospes nondum accessit.
 An error occured while spawning into the game. Please report the glitch!=Error in lūdō accidit. Quaeso, errātum nūntiā!
-Arachnophobia Mode=Modus Timōris Arāneārum
+Arachnophobia Mode=Modus timōris arāneārum
 Autosaving...=Automatice Servans...
 Back=Redī
 BACK=Redī
@@ -54,32 +54,32 @@ Discard changes=Abice Mutationēs
 Discard=Abice
 Discard Large axle=Abice axem magnum
 DISCARD=ABICE
-Display mode:=Modus Ostendendī: 
+Display mode:=Modus ostendendī: 
 DISPLAY=Mōnstrāre
 ENABLED=ACTIVATUM
-Enter a lobby name!=Scribe Nōmen Conclāvis！
-Frame rate cap:=Frāmī Limitātiō: 
+Enter a lobby name!=Scribe nōmen conclāvis！
+Frame rate cap:=Frāmī limitātiō: 
 Friends-only=Cum amīcīs
-Fullscreen=Totus Ecranus
-Gamma/Brightness:=Gamma/Lucitās: 
+Fullscreen=Totus ecranus
+Gamma/Brightness:=Gamma/lucitās: 
 Go back=Redī
-Host LAN Server:=Hospita Localem Retem Servatorem:
+Host LAN Server:=<size\=12>Hospitā locālem retem servātōrem:</size>
 INSTABILITY:=INSTABILITAS: 
-Invert Y-Axis=Inversio Axis Y
+Invert Y-Axis=Inversio axis Y
 Join=Iunge
 LAN= Rete locale
 LAUNCH MODE=MODUS INITII
-Local-only=Sōlum Locālīs 
+Local-only=Cum amīcīs
 Loading...=Incipitur...
-Look sensitivity:=<size\=10>Aspicere Sensitivitās:</size>
-Master volume:=Magister Magnitūdō: 
-Max players...=Lūdōrēs Maximī...
-Maximized window=Fenestra Maxima
+Look sensitivity:=<size\=10>Aspicere sensitivitās:</size>
+Master volume:=Magister magnitūdō: 
+Max players...=Lūdōrēs maximī...
+Maximized window=Fenestra maxima
 MODE: Push to talk=MODUS: Preme loquī
-MODE: Voice activation=MODUS: Vōcis Activatio 
+MODE: Voice activation=MODUS: Vōcis activatio 
 
 # N-Z
-Name your server...=Nōmina Servātōrem Tuum...
+Name your server...=Nōmina servātōrem tuum...
 Online= Interrete
 Push to talk=Loquere pressa
 r:"BG IG, A System"=     BG IG, Socius Agendi Systematis\n     Ius (C) MMXXXIV-MMCVIII, Halden Elctronicae\n\nGenus CPU                : BORSON CCC CPU ad MMV MHz\nTentamen Memoria          : CDLXXMMMDLXXXV K Recte\n\nApplicatio Distributeris Initium\nIus Litterarum (C) MMCVII Distributor\n     Invenio Aculeus X ROM\n     Invenio Tela LNV Extensor\n     Invenio Pulsus Recte\n\n\nUTGF Instrumentum Audiens...\n\nCORPUS      ID    Neuralis   Genus Instrumenti \n-----------------------------------------------\n\n    II     LII      JoCLII                HDXV   \n    II     LII      SaDXLV                HDXV    \n    II     LII      BolXXV                HDXV      \n    II     LII       EriDX                HDXV    \n     I   XXXVI   EllDLXVII                HDXV  \n     I   XXXVI    JosCMXII                HDXV\n Nulla 
@@ -89,7 +89,7 @@ r:"^Do you want to delete File 2\?$"=Visne tabellam secundam dēlēre?
 r:"^Do you want to delete File 3\?$"=Visne tabellam tertiam dēlēre?
 
 Save File=Quotam tabellam seligēs?
-Server name:=Nōmen Servātōris: 
+Server name:=Nōmen servātōris: 
 Servers=<size\=22>Servātōrēs</size>
 Sort: far=<size\=11>Ordinā: longē</size>
 Sort: Friends=<size\=11>Ordinā: Amīcī</size>
@@ -105,15 +105,16 @@ TIP!: Hold [R-Trigger] to vote for the autopilot ship to leave early.=Mōnitiō:
 The file will NOT save! Your ship must be in orbit.=Tabella NON servābitur! Navis tua debet in orbitā esse.
 Uncapped=Sine limitibus
 Unconfirmed changes!=Mūtātiōnēs Inconfirmātae!
-Use monitor (V-Sync)=Utere mon. (V-Sync)
-r:"^Version ([0-9]+) is out!$"=Versio $1 ēdita est!
+Use monitor (V-Sync)=Ūtere mon. (V-Sync)
+sr:"^Version (.*) is out!$"=<size\=24>Versio $1 ēdita est!</size>
 r:"^Welcome! Version ([0-9]+) is out now.\nOthers must update their game to play with you on this version.\n\n\nGood luck!$"=Salvē! Versio $1 nunc ēdita est!\nAliī debent suum lūdum renovāre ut tēcum in hāc versiōne ludant.\n\n\nFēlīcem fortūnam!
 Voice Volume=Vōcis Magnitūdō
 Waiting for input=Exspectāns impositiōnem
 Welcome! Version 40 is out now.\nOthers must update their game to play with you on this version.\n\nGood luck!=Salvē! Versio quadrāgēsima nunc dispōnibilis est.\nAliī suum lūdum novum faciant ut tēcum in hac versiōne ludant.\n\nBona fortūna!
+Welcome!\nThis patch includes the replayable\nchallenge moons and new factory hallway\ntypes, as well as some tweaks to\nexisting creatures.\n\nOthers must update their game to play with you on this version.\n\n\nGood luck!=Salvēte!\nIn hāc versiōne, novum gaudium præbetur: certāmina lunāria quæ iterum atque iterum agī possunt, et ambulācrōrum officīnārum genera nova.\nItem, quædam in bēstiīs iam nōtīs immūtāta sunt.\n\nLūsōrēs alīī suōs lūdōs ad hanc versiōnem āctuāre dēbent ut tēcum in hāc ēditiōne ludere possint.\n\n\nBonam fortūnam!
 Welcome!=Salvē!
 Window=Fenestra
 Windowed fullscreen=Fenestra plena
 Would you like to leave the game?=Visne relinquere lūsus?
 You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=In localis retis modo es. CAVE cōnexionēs remōtās (remote connections) per localem retem. Sī cōnexionēs remōtae licent, quaesō utī ignīs mūrum (firewall) et/vēl 'VPN' habeās.
-(Launched in LAN mode)=(In locālī retī coepta est)
+(Launched in LAN mode)=<size\=12>(In locālī retī coepta est)</size>
