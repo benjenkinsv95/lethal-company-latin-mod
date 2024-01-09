@@ -1,4 +1,7 @@
 # Changelog
+# 2.0.10 Various bug fixes
+Various issues addressed, font sizes, english, inconsitent translations, replace grex/gregis with opearius/i
+
 # 2.0.9 Remove english from audio dialogue, replace intro audio with latin, and v47 updates
 Because apparently v47 was released today as well, haha
 
