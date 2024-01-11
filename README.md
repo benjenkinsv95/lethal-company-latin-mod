@@ -59,6 +59,7 @@ bplay YOUTUBE_URL_HERE
 
 You can also upload youtube videos to the tv, using [the Television Controller mod](https://thunderstore.io/c/lethal-company/p/KoderTeh/Television_Controller/)!
 
+
 So you could watch latin videos if you're the ship person in game.
 
 Upload a video with the command (it doesn't support playlists)
@@ -99,8 +100,6 @@ tplay YOUTUBE_URL_HERE
 
 ![Screenshot (412)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/87cb0e7a-df16-4bac-8cd8-e3625e703c9d)
 
-
-
 ![Screenshot (288)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/cea58d03-2c9a-4b55-ae1e-da585b1fd788)
 
 ![Screenshot (287)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/0c80061f-0eb6-4ab8-b4eb-1724c173dfd1)
@@ -108,6 +107,20 @@ tplay YOUTUBE_URL_HERE
 ![Screenshot (289)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/e2641e3d-a193-448d-86f8-ec0b773e960e)
 
 ![Screenshot (290)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/3d908d96-d2e2-419f-b9a4-611b7ca746c6)
+
+**With Television Controller**
+
+![Screenshot (536)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/1f8ec889-d6c6-4815-8448-b215a676bd0c)
+
+**With MoreAdditionalSuits**
+
+![Screenshot (538)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/d72bf222-16f2-4452-a3a8-254e7634b478)
+
+
+**With NeedyCats**
+
+![image](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/6b6ba9e4-4d06-4cb6-b2d0-95102a1335ae)
+
 
 ## Game Menus & UI Translations
 All of the translations can be found in the files linked below.
