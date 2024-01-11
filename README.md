@@ -49,6 +49,24 @@ Once the mods are installed, you can play it in latin by clicking the "Modded pl
 
 I enjoy playing with [a reserved boombox](https://thunderstore.io/c/lethal-company/p/Luck/LuckReservedBoombox/) on me at all times, [that plays latin playlists from youtube](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/). It provides so much extra latin content while gaming. 🙂
 
+Upload a song with the command 
+
+```
+bplay YOUTUBE_URL_HERE
+```
+
+#### Television Controller
+
+You can also upload youtube videos to the tv, using [the Television Controller mod](https://thunderstore.io/c/lethal-company/p/KoderTeh/Television_Controller/)!
+
+So you could watch latin videos if you're the ship person in game.
+
+Upload a video with the command (it doesn't support playlists)
+
+```
+tplay YOUTUBE_URL_HERE
+```
+
 ##### Suggested Podcasts
 1. LAC Podcast: Series Prima: https://www.youtube.com/playlist?list=PLqUVhv2MKbZGApEGg1vZGGuN-kSvs9x4z
 2. Rem Tene! - LAC: https://www.youtube.com/playlist?list=PLqUVhv2MKbZGlurc0JueLnQ7ovOzlUdFj

@@ -29,6 +29,7 @@
 [Scan activates]=[Inspectātiō incipit]
 [Ship door opening]=[Ianua nāvis aperitur]
 [Ship door opens]=[Ianua nāvis aperit]
+[Ship door closes]=[Ianua nāvis clauditur]
 [Spider attacks]=[Aranea impetit]
 [Web rustling]=[Aranea per retem ambulat.]
 [Unintelligible fast speech]=[Sermo celer et confusus]
