@@ -39,6 +39,12 @@ Once the mods are installed, you can play it in latin by clicking the "Modded pl
 
 ### Recommended Mods
 
+#### Supported (Optional) Mods
+
+1. [MoreAdditionalSuits](https://thunderstore.io/c/lethal-company/p/ChooMcoo/MoreAdditionalSuits/) Adds 12 suits of different colors to wear. (Fully supported)
+2. [NeedyCats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/) Adds cats whose names are beginner latin vocab (Mostly supported)
+3. [Subtitles by JustJelly](https://thunderstore.io/c/lethal-company/p/JustJelly/Subtitles/) Adds subtitles to most audio (english and latin sounds). Very accesible. (Mostly supported, though there are likely some sounds I haven't heard yet. Also, the initial audio and subtitles are currently different, though will be re-recorded by a human shortly)
+
 #### Boombox Controller & LuckReservedBoombox
 
 I enjoy playing with [a reserved boombox](https://thunderstore.io/c/lethal-company/p/Luck/LuckReservedBoombox/) on me at all times, [that plays latin playlists from youtube](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/). It provides so much extra latin content while gaming. 🙂

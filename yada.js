@@ -129,7 +129,7 @@ function createWeightWithNotesPattern(i, roman, cardinalWord, ordinalWord, aureu
     const cardinal = convertToFeminine(cardinalWord, i);
     const ordinal = convertToFeminine(ordinalWord, i)
 
-    return `r:"^${i} lb$"=<size\\=18>${roman} lb</size>\\n\\n<size\\=11>Nota grammaticae:\\n\'${cardinal}\' est numerus, cuius ordinalis est \'${ordinal}\'</size>\n`;
+    return `r:"^${i} lb$"=<size\\=18>${roman} lb</size>\\n\\n<size\\=13>Nota grammaticae:\\n\'${cardinal}\' est numerus, cuius ordinalis est \'${ordinal}\'</size>\n`;
 }
 // <size\=18>CLVI lb</size>\n<size\=10>Centum quīnquāgintā sex lb</size><size\=9>\n\nCentēsima quīnquāgēsima sexta libra portata est</size>
 

@@ -1,0 +1,67 @@
+[Apparatus disconnected]=[Apparātus sēiūnctus]
+[Bug walks]=[Īnsectus graditur]
+[Breaker opens]=[Fractiōrum ostiolum aperit]
+[Breaker closes]=[Fractiōrum ostiolum claudit]
+[Company Jingle plays]=[Carmen collēgii sonat]
+
+[Breathing]=[Spiritus]
+[Dog lunges]=[Canis impetum facit]
+[Footsteps]=[Vestigia pedum]
+
+
+[Double stomps]=[Bis graditur]
+[Stomps]=[Graditur]
+[Flapping]=[Alarum plausus]
+[Landmine beeps]=[Mīna tellūris sonat]
+
+[Level flips]=[Nīvēllum versat]
+[Locusts disperse]=[Locustae dissipantur]
+[Loud creaks]=[Strīdōrēs magnī audīuntur]
+
+[Creature roars]=[Bēstia fremit]
+[Door opening]=[Ianua aperitur]
+[Door opens]=[Ianua aperit]
+[Door shuts]=[Ianua clauditur]
+[Door closes]=[Ianua clauditur]
+[Metal door shuts]=[Ianua metallī clauditur]
+[Robot toy cheers]=[Automaton ludicrum plaudit]
+[Rustling]=[Strepitus]
+[Scan activates]=[Inspectātiō incipit]
+[Ship door opening]=[Ianua nāvis aperitur]
+[Ship door opens]=[Ianua nāvis aperit]
+[Spider attacks]=[Aranea impetit]
+[Web rustling]=[Aranea per retem ambulat.]
+[Unintelligible fast speech]=[Sermo celer et confusus]
+[Warning alarm]=[Signum monentis]
+[Warning beep]=[Sonitus monentis]
+[Neck snap]=[Cervicis fractio]
+
+[Landmine triggers]=[Mīna telluris excitātur]
+[Landmine detonates]=[Mīna telluris explōdit]
+[Turret locks aim]=[Turris scopum claudit]
+[Turret fires]=[Turris mittit]
+
+and sign into your ship's computer terminal.=et ūtere computātrum nāvis tuae.
+
+We trust you will be a great asset to the company.=Fīdimus tē bonum magnum collēgiō fore,
+Great-great asset to the company-=Bonum magnum-magnum collēgiō,
+asset great-great-great asset to the company-=Bonum magnum-magnum-magnum collēgiō,
+asset to great-great asset to the-=Bonum magnum-magnum collēgiō.
+
+
+for the duration of your contract.=per tempus pactionis tuae.
+Hey.=Salvē.
+Make yourself at home.=Sis sīcutī domī tuā.
+Report to the company building immediately=Ī ad aedificium collegii statim
+
+
+the autopilot to the company building.=gubernātor automāticus ad aedificium collēgiī.
+This is your very own autopilot ship=Haec est tua ipsīus nāvis cum gubernātōre automāticō.
+To complete the onboarding process,=Ad initium muneri complendum,
+to sell your scrap metal and other goods.=ut ferrum reliquum aliaque bona vendās.
+Welcome to your first day on the job!=Salvē! In prīmō tuō diē operis!
+where you will eat and sleep=ubi edēs dormiēsque
+You can use the terminal to route=Computātrum ūtī potes ad itinera dirigenda.
+You have zero days left to meet the profit quota.=ullae tibi diēs supersunt ad lucrum quota explendum.
+you will want to check the instruction manual=volum inspectare librum operarii.
+

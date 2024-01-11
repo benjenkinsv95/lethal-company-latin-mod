@@ -42,6 +42,7 @@ r:"^Drop Brass bell(.+)"=<size\=10>Pōne tintinnābulum āneum$1</size>
 r:"^Drop Brush(.+)"=<size\=10>Pōne scōpam$1</size>
 r:"^Drop Bubblegum(.+)"=<size\=10>Pōne gummi bullātum$1</size>
 r:"^Drop Candy(.+)"=<size\=10>Pōne dulcia$1</size>
+r:"^Drop Cat(.+)"=<size\=10>Pōne fēlem$1</size>
 r:"^Drop Cash register(.+)"=<size\=10>Pōne cistam pecūniārum$1</size>
 r:"^Drop Charges batteries(.+)"=<size\=10>Pōne accūmulātōrēs renovātōs$1</size>
 r:"^Drop Chemical Jug(.+)"=<size\=10>Pōne amphoram chemicōrum$1</size>
@@ -162,7 +163,7 @@ r:"^Exit(.+)"=Exi$1
 
 # TODO: Might be a better word for switch
 r:"^Fire(.+)"=<size\=10>Ictūs $1</size>
-r:"^Flip switch(.+)"=<size\=10>Verte claviculam$1</size>
+r:"^Flip switch(.+)"=Verte claviculam$1
 r:"^Flush(.+)"=Emitte:$1
 r:"^Get log(.+)"=<size\=10>Sume commentarium$1</size>
 r:"^Grab(.+)"=Sume$1
@@ -187,6 +188,8 @@ r:"^Open hatch(.+)"=Aperi foramen$1
 r:"^Open(.+)"=<size\=10>Aperi$1</size>
 
 # TODO: Need to review usage, I'm unsure what the word for button is.
+r:"^Pet Cat(.+)"=<size\=10>Mulce fēlem$1</size>
+r:"^Pet cat(.+)"=<size\=10>Mulce fēlem$1</size>
 r:"^Place on door(.+)"=<size\=10>Pone in ianuam$1</size>
 r:"^Play record(.+)"=Lude ludi orbem$1
 r:"^Pop up ladder(.+)"=<size\=10>Ascendē scālam $1</size>

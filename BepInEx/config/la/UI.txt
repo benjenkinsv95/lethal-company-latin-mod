@@ -51,21 +51,36 @@ bludgeoning=percussiō
 BROADCASTED SPECIAL CODE=CŌDEX PROPRIUS DIVULGATUS
 Buy flashlights and travel to new planets!=<size\=7>Eme lūmen portabile et\niter fac ad planetās novās!</size>
 Can't stay closed forever=<size\=8>Nōn potest manēre\nclausum sēmper</size>
+r:"^Cat (.*)"=Fēlēs $1
+Cat=Fēlēs
 CHALLENGE RESULTS:=CERTĀMINIS EXITUS:
 CHALLENGE=CERTĀMEN
 sr:"Challenge Moon (.*) Results"=Lūnae Certāminis $1 Exitus
-Change suit=Mūta: Vestīmentum
-Change: Green suit=Mūta: Vestīmentum viride
-Change: Purple suit=Mūta: Vestīmentum purpureum
-Change: Purple Suit=Mūta: Vestīmentum purpureum
-Change: Hazard suit=Mūta: Vestīmentum perīculōsum
-Change: Pajama suit=Mūta: Vestīmentum nocturnum
-
+Change suit=Indue: Vestīmentum aurantium
+Change: Beige Suit=Indue: Vestīmentum 'beige'
+Change: Black Suit=Indue: Vestīmentum atrum
+Change: Blue Suit=Indue: Vestīmentum caeruleum
+Change: Bubblegum Suit=Indue: Vestīmentum 'bubblegum' roseum
+Change: Green suit=Indue: Vestīmentum viride
+Change: Green Suit=Indue: Vestīmentum viride
+Change: Hazard suit=Indue: Vestīmentum perīculōsum
+Change: Lime Suit=Indue: Vestīmentum 'lime' viride
+Change: Pajama suit=Indue: Vestīmentum nocturnum
+Change: Pink Suit=Indue: Vestīmentum roseum
+Change: Purple suit=Indue: Vestīmentum purpureum
+Change: Purple Suit=Indue: Vestīmentum purpureum
+Change: Red Suit=Indue: Vestīmentum rubrum
+Change: Storm Suit=Indue: Vestīmentum tempestātis
+Change: White Suit=Indue: Vestīmentum album
+Change: Yellow Suit=Indue: Vestīmentum flāvum
 r:"^Change: (.+)$"=Mūta: $1
+# Red, Yellow, Beige, Green, Lime, Storm, Pink, Bubblegum, White, Black
+
+
 Confirm changes?=Cōnfirmā Mūtātiōnēs?
 Continue=Confīrmā
 Controller connected = Imperium iungitur
-Controller disconnected = Imperium disiungitur
+Controller disconnected = Imperium abīvitur
 Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Cōnnectiō ad servātōrēs STEAM dēfēcit!
 (Sī in retī locālī sōlum lūdere cupis,
 ēlige 'Locale Rete' cum lūdum incipis.)
@@ -107,7 +122,7 @@ Lands the ship.=<size\=8>Navis descendit\nad terram.</size>
 Leader=Dux
 LOADING WORLD...=Ad mundum dēscenditur... 
 Loading ranking...=Gradus inveniendi...
-Loading server list...=Servātōrum Index Rēnovātur...
+Loading server list...=Servātōrum index rēnovātur...
 
 Locked=Clūsus
 # Implies cutting, llpsi ch 29
@@ -175,10 +190,10 @@ r:"^0 (Days|Day) Left$"=Nulla Diēs rēliquī
 # TODO potential roman numerals
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī: $2\n ($3 corpora salvāta) 
 # departed (simpler)
-r:"(.+)disconnected"=$1abīvit.
+r:"(.+)disconnected"=$1abīvitur.
 r:"(.+)was kicked"=$1expulsus est.
 r:"(.+)was left behind"=$1relictus est.
-r:"^The server host disconnected."=Hospes Servātōris abīvit.
+r:"^The server host disconnected."=Hospes servātōris abīvitur.
 r:"Player #0(.+?)started the ship(.+?)$"=Lūsor nullus navem incēpit $2
 r:"Player #1(.+?)started the ship(.+?)$"=Lūsor I navem incēpit $2
 r:"Player #2(.+?)started the ship(.+?)$"=Lūsor II navem incēpit $2
@@ -217,12 +232,12 @@ r:"^Casualties \((.+)\): (.+)$"=Interfectī ($1): $2
 
 sr:"^CELESTIAL BODY: (.+?)$"=CORPUS COELESTIS: $1
 r:"^CELESTIAL BODY: 8 Titan$"=CORPUS COELESTIS: VIII Titan
-r:"^CELESTIAL BODY: 21 Offense$"=CORPUS COELESTIS: XXI Offense
-r:"^CELESTIAL BODY: 220 Assurance$"=CORPUS COELESTIS: CCXX Assurance
+r:"^CELESTIAL BODY: 21 Offense$"=CORPUS COELESTIS: XXI Offensa
+r:"^CELESTIAL BODY: 220 Assurance$"=CORPUS COELESTIS: CCXX Fīdūcia
 r:"^CELESTIAL BODY: 31 March$"=CORPUS COELESTIS: XXXI March
 r:"^CELESTIAL BODY: 41 Experimentation$"=CORPUS COELESTIS: XLI Experimentum
-r:"^CELESTIAL BODY: 56 Vow$"=CORPUS COELESTIS: LVI Vow
-r:"^CELESTIAL BODY: 61 March$"=CORPUS COELESTIS: LXI March
+r:"^CELESTIAL BODY: 56 Vow$"=CORPUS COELESTIS: LVI Votum
+r:"^CELESTIAL BODY: 61 March$"=CORPUS COELESTIS: LXI Martius
 r:"^CELESTIAL BODY: 71 Gordion$"=CORPUS COELESTIS: LXXI Gordion
 r:"^CELESTIAL BODY: 85 Rend$"=CORPUS COELESTIS: LXXXV Rend
 
