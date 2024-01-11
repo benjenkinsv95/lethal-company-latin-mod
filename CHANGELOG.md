@@ -1,4 +1,9 @@
 # Changelog
+# 2.0.11 Improve the support of various mods
+1. NeedyCats
+2. Subtitles
+3. MoreAdditionalSuits
+
 # 2.0.10 Various bug fixes
 Various issues addressed, font sizes, english, inconsitent translations, replace grex/gregis with opearius/i
 

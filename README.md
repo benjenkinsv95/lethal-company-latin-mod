@@ -146,7 +146,7 @@ The NewTerminal translations, used to translate the terminal itself.
 
 Made with the help of the following contributors, listed alphabetically:
 
-* Benjaminus Johannes Quīntus
+* [Benjaminus Johannes Quīntus](https://ben-jenkins.com/welcome) - Mod author
 * DT
 * Hadriánus Mathis
 
