@@ -70,7 +70,7 @@ Perfume bottle collected!=Amphora odoris collēcta est!
 Perfume collected!=Amphora odoris collēctum est!
 Pickle Jar collected!=Amphora cucumerum collēcta est!
 Pill bottle collected!=Amphora medicinārum collēcta est!
-Plastic fish collected!=Piscis plasticus collēctus est!
+Plastic fish collected!=Piscis cummeus collēctus est!
 Player Body collected!=Corpus lūdēns collēctum est!
 Player body collected!=Corpus lūdēns collēctum est!
 Pro-flashlight collected!=Lūmen portabile praemium collēctum est!
@@ -81,8 +81,8 @@ Red soda collected!=Pōtus ruber collēctus est!
 Remote collected!=Remote collēctum est!
 Ring collected!=Annulus collēctus est!
 Robot Toy collected!=Automaton ludicrum collēctum est!
-Rubber Ducky collected!=Anser plasticus collēctus est!
-Rubber ducky collected!=Anser plasticus collēctus est!
+Rubber Ducky collected!=Anser cummeus collēctus est!
+Rubber ducky collected!=Anser cummeus collēctus est!
 
 # S-Z
 Shotgun collected!=Sclopetum collēctum est!

@@ -87,8 +87,8 @@ r:"^Pickle jar$"=Amphora cucumerum
 # Bottle of medicine
 r:"^Pill Bottle$"=Amphora medicinārum
 r:"^Pill bottle$"=Amphora medicinārum
-# Tempted to use falsus, instead of plasticus
-r:"^Plastic fish$"=Piscis plasticus
+# Tempted to use falsus, instead of cummeus
+r:"^Plastic fish$"=Piscis cummeus
 r:"^Player Body$"=Corpus lūdentis
 r:"^Player body$"=Corpus lūdentis
 r:"^Pro-flashlight$"=Lūmen portabile praemium
@@ -103,8 +103,8 @@ r:"^Ring$"=Annulus
 r:"^Robot Toy$"=Automaton ludicrum
 # rōmāntica - would be more accurate, but later latin
 r:"^Romantic table$"=Mēnsa amoena
-r:"^Rubber Ducky$"=Anser plasticus
-r:"^Rubber ducky$"=Anser plasticus
+r:"^Rubber Ducky$"=Anser cummeus
+r:"^Rubber ducky$"=Anser cummeus
 
 # S-Z
 r:"^Ship$"=Navis

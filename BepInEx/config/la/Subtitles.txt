@@ -12,7 +12,7 @@
 [Double stomps]=[Bis graditur]
 [Stomps]=[Graditur]
 [Flapping]=[Alarum plausus]
-[Landmine beeps]=[Mīna tellūris sonat]
+[Landmine beeps]=[Mina terrae sonat]
 
 [Level flips]=[Nīvēllum versat]
 [Locusts disperse]=[Locustae dissipantur]
@@ -37,10 +37,10 @@
 [Warning beep]=[Sonitus monentis]
 [Neck snap]=[Cervicis fractio]
 
-[Landmine triggers]=[Mīna telluris excitātur]
-[Landmine detonates]=[Mīna telluris explōdit]
-[Turret locks aim]=[Turris scopum claudit]
-[Turret fires]=[Turris mittit]
+[Landmine triggers]=[Mina terrae excitātur]
+[Landmine detonates]=[Mina terrae explōdit]
+[Turret locks aim]=[Turris armāta scopum claudit]
+[Turret fires]=[Turris armāta mittit]
 
 and sign into your ship's computer terminal.=et ūtere computātrum nāvis tuae.
 

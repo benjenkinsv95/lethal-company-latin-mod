@@ -1,4 +1,32 @@
 # Changelog
+# 2.1.1 Reviewed and updated monster names throughout
+Updated the list of creature names:
+
+Baboon hawk=Papio accipiter
+Bracken=Bracken
+Bunker spider=Arānea mūnīmentī
+Circuit bees=Apēs fulgurum
+Coil-head=Caput cochlea
+Earth leviathan=Leviathan terrae
+Eyeless dog=Canis sine oculīs
+Forest Giant=Gigās silvae
+Forest keeper=Satyrid proceritas
+Ghost girl=Imāgō puella
+Hoarding bug=Cīmex accumulāns
+Hygrodere=Hygrodere
+Jeb=Jeb
+Jester=INSANEUS THINGUS
+Landmine=Mina terrae
+Manticoil=Quadrupes manta
+Nutcracker=Nucifrangibulum
+Roaming locusts=Lōcustae vagae
+Snare flea=Pūlex īnsidia
+Spore lizard=Lacerta sporā
+Thumper=Pulsātor
+Turret=Turris armāta
+
+My research is here: https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/31#issuecomment-1891067445
+
 # 2.1.0 Add VR Support
 VR support came to the thunderstore today! It is now supported as well.
 
