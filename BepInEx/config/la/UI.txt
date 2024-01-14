@@ -341,7 +341,7 @@ You have 0 days left to meet the quota. Use the terminal to route to the company
 
 
 
-r:"^Climb(.+)"=Ascende$1
+r:"^Climb(.*)"=Ascende$1
 # sr:"^Drop (.+?): \[G\]$"=ut $1 cadat: [G]
 # sr:"^Drop (.+?): \[B\]$"=ut $1 cadat: [B]
 # Unknown, but scared to modify

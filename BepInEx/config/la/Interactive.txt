@@ -12,249 +12,249 @@
 [Wait for ship to land]=<size\=12>[Exspecta dum navis appropinquat terram]</size>
 
 # A-M
-r:"^Access terminal(.+)"=Ūtere computātrum$1
-r:"^Beam up(.+)"=Ascende$1
+r:"^Access terminal(.*)"=Ūtere computātrum$1
+r:"^Beam up(.*)"=Ascende$1
 # "Electrifica rem" might also work, but seems less beginner friendly
-r:"^Charge item(.+)"=<size\=10>Renovā rem$1</size>
+r:"^Charge item(.*)"=<size\=10>Renovā rem$1</size>
 
-r:"^Climb(.+)"=Ascende$1
-r:"^Close(.+)"=Claude$1
-r:"^Close door(.+)"=Claude ianuam$1
+r:"^Climb(.*)"=Ascende$1
+r:"^Close(.*)"=Claude$1
+r:"^Close door(.*)"=Claude ianuam$1
 Confirm: [B]   |   Rotate: [R]   |   Store: [X]=Cōnfirma: [B]   |   Rotā: [R]   |   Conde: [X]
 Confirm: [Y]   |   Rotate: [L-shoulder]   |   Store: [B]=Cōnfirma: [Y]   |   Rotā: [L-shoulder]   |   Conde: [B]
 
 
 # rumpo, perdo, and frango are tempting but imply they would break the speaker
-r:"^Disable speaker(.+)"=<size\=10>Deactiva Loquentium$1</size>
-# sr:"^Drop(.+?):(.+?)$"=ut $1 cadat: $2
+r:"^Disable speaker(.*)"=<size\=10>Deactiva Loquentium$1</size>
+# sr:"^Drop(.*?):(.*?)$"=ut $1 cadat: $2
 
-r:"^Drop Airhorn(.+)"=<size\=10>Pōne cornū aureum$1</size>
-r:"^Drop Apparatice(.+)"=<size\=10>Pōne apparātum$1</size>
-r:"^Drop Apparatus(.+)"=<size\=10>Pōne apparātum$1</size>
-r:"^Drop Bee hive(.+)"=<size\=10>Pōne alvum apum$1</size>
-r:"^Drop Bell(.+)"=<size\=10>Pōne tintinnābulum$1</size>
-r:"^Drop Big bolt(.+)"=<size\=10>Pōne paxillum magnum$1</size>
-r:"^Drop Body(.+)"=<size\=10>Pōne corpus$1</size>
-r:"^Drop Boombox(.+)"=<size\=10>Pōne arcās sonōrum$1</size>
-r:"^Drop Bottles(.+)"=<size\=10>Pōne amphorās bibendī$1</size>
-r:"^Drop Brake lever(.+)"=<size\=10>Pōne lēvem frenī$1</size>
-r:"^Drop Brass bell(.+)"=<size\=10>Pōne tintinnābulum āneum$1</size>
-r:"^Drop Brush(.+)"=<size\=10>Pōne scōpam$1</size>
-r:"^Drop Bubblegum(.+)"=<size\=10>Pōne gummi bullātum$1</size>
-r:"^Drop Candy(.+)"=<size\=10>Pōne dulcia$1</size>
-r:"^Drop Cat(.+)"=<size\=10>Pōne fēlem$1</size>
-r:"^Drop Cash register(.+)"=<size\=10>Pōne cistam pecūniārum$1</size>
-r:"^Drop Charges batteries(.+)"=<size\=10>Pōne accūmulātōrēs renovātōs$1</size>
-r:"^Drop Chemical Jug(.+)"=<size\=10>Pōne amphoram chemicōrum$1</size>
-r:"^Drop Chemical jug(.+)"=<size\=10>Pōne amphoram chemicōrum$1</size>
-r:"^Drop clipboard(.+)"=<size\=10>Pōne tabellam annotationum$1</size>
-r:"^Drop Clown horn(.+)"=<size\=10>Pōne cornū scūrrae$1</size>
-r:"^Drop Coffee mug(.+)"=<size\=10>Pōne poculum coffeae$1</size>
-r:"^Drop Cog(.+)"=<size\=10>Pōne rotam dentātam$1</size>
-r:"^Drop Coil(.+)"=<size\=10>Pōne volutam$1</size>
-r:"^Drop Comedy(.+)"=<size\=10>Pōne coemediam$1</size>
-r:"^Drop Cookie mold pan(.+)"=<size\=10>Pōne formam crustulōrum$1</size>
-r:"^Drop Data chip(.+)"=<size\=10>Pōne laminam Datorum$1</size>
-r:"^Drop Dentures(.+)"=<size\=10>Pōne dentēs artificiālēs$1</size>
-r:"^Drop Dog toy(.+)"=<size\=10>Pōne automatonem canīnum$1</size>
-r:"^Drop Dust pan(.+)"=<size\=10>Pōne palam pulveris$1</size>
-r:"^Drop Echo Scanner(.+)"=Dēpōne inspectātōrem echo$1</size>
-r:"^Drop Egg beater(.+)"=<size\=10>Pōne verberātrīcem ovōrum$1</size>
-r:"^Drop Extension ladder(.+)"=<size\=10>Pōne scālam prōtrahendam$1</size>
-r:"^Drop Extension Ladder(.+)"=<size\=10>Pōne scālam prōtrahendam$1</size>
-r:"^Drop Fancy lamp(.+)"=<size\=10>Pōne lucernam magnificam$1</size>
-r:"^Drop Fancy ring(.+)"=<size\=10>Pōne annulum magnificum$1</size>
-r:"^Drop Fish toy(.+)"=<size\=10>Pōne automatonem piscium$1</size>
-r:"^Drop Flashlight(.+)"=<size\=10>Pōne lūmen portābile$1</size>
-r:"^Drop Flask(.+)"=<size\=10>Pōne amphoram$1</size>
-r:"^Drop Gearbox(.+)"=<size\=10>Pōne gearbox$1</size>
-r:"^Drop Gift box(.+)"=<size\=10>Pōne arcām Donī$1</size>
-r:"^Drop Gift(.+)"=<size\=10>Pōne donum$1</size>
-r:"^Drop Gold bar(.+)"=<size\=10>Pōne tāleam auream$1</size>
-r:"^Drop Gold Bar(.+)"=<size\=10>Pōne tāleam auream$1</size>
-r:"^Drop Golden cup(.+)"=<size\=10>Pōne poculum aureum$1</size>
-r:"^Drop Golden Cup(.+)"=<size\=10>Pōne poculum aureum$1</size>
-r:"^Drop Hair brush(.+)"=<size\=10>Pōne scōpam capillī$1</size>
-r:"^Drop Hair dryer(.+)"=<size\=10>Pōne siccātōrem capillāris$1</size>
-r:"^Drop Hairdryer(.+)"=<size\=10>Pōne siccātōrem capillāris$1</size>
-r:"^Drop Hive(.+)"=<size\=10>Pōne alvum$1</size>
-r:"^Drop Homemade flashbang(.+)"=<size\=10>Pōne Bombam Stupidī Domēsticam$1</size>
-r:"^Drop Inverse teleporter(.+)"=<size\=10>Pōne transportātorem inversum$1</size>
-r:"^Drop Inverse Teleporter(.+)"=<size\=10>Pōne transportātorem inversum$1</size>
-r:"^Drop Jack O' Lanter(.+)"=<size\=10>Pōne Jack O' Lantern$1</size>
-r:"^Drop Jar of pickles(.+)"=<size\=10>Pōne amphoram cucumerum$1</size>
-r:"^Drop Jetpack(.+)"=<size\=10>Pōne saccum volāntem$1</size>
-r:"^Drop Key(.+)"=<size\=10>Pōne clāvem$1</size>
-r:"^Drop Large axle(.+)"=<size\=10>Pōne axem magnum$1</size>
-r:"^Drop Laser pointer(.+)"=<size\=10>Pōne indicem lucem$1</size>
-r:"^Drop Lockpicker(.+)"=<size\=10>Pōne clāvem reserātrīcem$1</size>
-r:"^Drop Loud horn(.+)"=<size\=10>Pōne cornū clārum$1</size>
-r:"^Drop Loud Horn(.+)"=<size\=10>Pōne cornū clārum$1</size>
-r:"^Drop Magic 7 ball(.+)"=<size\=10>Pōne pilam magica VII$1</size>
-r:"^Drop Magic Ball(.+)"=<size\=10>Pōne pilam magicam$1</size>
-r:"^Drop Magic8Ball(.+)"=<size\=10>Pōne pilam magica VII$1</size>
-r:"^Drop Magnifying glass(.+)"=<size\=10>Pōne vītrum amplificāns$1</size>
-r:"^Drop Metal sheet(.+)"=<size\=10>Pōne laminam metallī$1</size>
-r:"^Drop Metal Sheet(.+)"=<size\=10>Pōne laminam metallī$1</size>
-r:"^Drop Mug(.+)"=<size\=10>Pōne poculum$1</size>
-r:"^Drop Old phone(.+)"=<size\=10>Pōne telephōnum antīquum$1</size>
-r:"^Drop Old Phone(.+)"=<size\=10>Pōne telephōnum antīquum$1</size>
-r:"^Drop Painting(.+)"=<size\=10>Pōne pictūram$1</size>
-r:"^Drop Perfume bottle(.+)"=<size\=10>Pōne amphoram odōris$1</size>
-r:"^Drop Perfume(.+)"=<size\=10>Pōne amphoram odōris$1</size>
-r:"^Drop Pickle Jar(.+)"=<size\=10>Pōne amphoram cucumerum$1</size>
-r:"^Drop Pill bottle(.+)"=<size\=10>Pōne amphoram medicīnārum$1</size>
-r:"^Drop Plastic fish(.+)"=<size\=10>Pōne piscem plasticum$1</size>
-r:"^Drop Player body(.+)"=<size\=10>Pōne corpus$1</size>
-r:"^Drop Player Body(.+)"=<size\=10>Pōne corpus$1</size>
-r:"^Drop Pro-flashlight(.+)"=<size\=10>Pōne lūmen portābile praemium$1</size>
-r:"^Drop Radar booster(.+)"=<size\=10>Pōne radārem augentem$1</size>
-r:"^Drop Radar Booster(.+)"=<size\=10>Pōne radārem augentem$1</size>
-r:"^Drop Radar-booster(.+)"=<size\=10>Pōne radārem augentem$1</size>
-r:"^Drop Record Player(.+)"=<size\=10>Pōne lūdum orbis$1</size>
-r:"^Drop Red soda(.+)"=<size\=10>Pōne pōtum rubrum$1</size>
-r:"^Drop Red Soda(.+)"=<size\=10>Pōne pōtum rubrum$1</size>
-r:"^Drop Remote(.+)"=<size\=10>Pōne remotum$1</size>
-r:"^Drop Ring(.+)"=<size\=10>Pōne annulum$1</size>
-r:"^Drop Robot Toy(.+)"=<size\=10>Pōne automatonem ludīcrum$1</size>
-r:"^Drop Rubber ducky(.+)"=<size\=10>Pōne anserem plasticum$1</size>
-r:"^Drop Rubber Ducky(.+)"=<size\=10>Pōne anserem plasticum$1</size>
-r:"^Drop Shotgun shell(.+)"=<size\=10>Pōne testam sclopētī$1</size>
-r:"^Drop Shotgun(.+)"=<size\=10>Pōne sclopētum$1</size>
-r:"^Drop Shovel(.+)"=<size\=10>Pōne pālam$1</size>
-r:"^Drop Signal Translator(.+)"=<size\=10>Pōne translātōrem Signālis$1</size>
-r:"^Drop Signal Transmitter(.+)"=<size\=10>Pōne emissorem Signālis$1</size>
-r:"^Drop Sneakers(.+)"=<size\=10>Pōne calceōs cursōriōs$1</size>
-r:"^Drop Spray paint(.+)"=<size\=10>Pōne sparsum pigmentum$1</size>
-r:"^Drop Steering wheel(.+)"=<size\=10>Pōne rotam volubilem$1</size>
-r:"^Drop Sticky note(.+)"=<size\=10>Pōne pāginam lentam$1</size>
-r:"^Drop Stop sign(.+)"=<size\=10>Pōne signum consistendi$1</size>
-r:"^Drop Stun grenade(.+)"=<size\=10>Pōne bombam stupīdī$1</size>
-r:"^Drop Stun Grenade(.+)"=<size\=10>Pōne bombam stupīdī$1</size>
-r:"^Drop Tattered metal sheet(.+)"=<size\=10>Pōne laminam metallī fragōsam$1</size>
-r:"^Drop Tea kettle(.+)"=<size\=10>Pōne caccabum theae$1</size>
-r:"^Drop Tea Kettle(.+)"=<size\=10>Pōne caccabum theae$1</size>
-r:"^Drop Teeth(.+)"=<size\=10>Pōne dentēs$1</size>
-r:"^Drop Teleporter(.+)"=<size\=10>Pōne transportātōrem$1</size>
-r:"^Drop Toothpaste(.+)"=<size\=10>Pōne dentifrīcium$1</size>
-r:"^Drop Toy cube(.+)"=<size\=10>Pōne cubum lūdīcum$1</size>
-r:"^Drop Toy robot(.+)"=<size\=10>Pōne automatonem lūdīcum$1</size>
-r:"^Drop Toy Rubix cube(.+)"=<size\=10>Pōne rubik cubum lūdīcum$1</size>
-r:"^Drop Tragedy(.+)"=<size\=10>Pōne tragoediam$1</size>
-r:"^Drop TZP inhalant(.+)"=<size\=10>Pōne inhalantem TZP$1</size>
-r:"^Drop TZP-inhalant(.+)"=<size\=10>Pōne inhalantem TZP$1</size>
-r:"^Drop TZP-Inhalant(.+)"=<size\=10>Pōne inhalantem TZP$1</size>
-r:"^Drop V-type engine(.+)"=<size\=10>Pōne mōtorem generis quīntī$1</size>
-r:"^Drop V-Type engine(.+)"=<size\=10>Pōne mōtorem generis quīntī$1</size>
-r:"^Drop V-Type Engine(.+)"=<size\=10>Pōne mōtorem generis quīntī$1</size>
-r:"^Drop Walkie-talkie(.+)"=<size\=10>Pōne ambulans-loquēns$1</size>
-r:"^Drop Wedding ring(.+)"=<size\=10>Pōne annulum nūptiālem$1</size>
-r:"^Drop Whoopie cushion(.+)"=<size\=10>Pōne saccum iocōsum$1</size>
-r:"^Drop Yield sign(.+)"=<size\=10>Pōne signum cessandī$1</size>
-r:"^Drop Zap gun(.+)"=<size\=10>Pōne sclopetum electricum$1</size>
-r:"^Drop Zap Gun(.+)"=<size\=10>Pōne sclopetum electricum$1</size>
+r:"^Drop Airhorn(.*)"=<size\=10>Pōne cornū aureum$1</size>
+r:"^Drop Apparatice(.*)"=<size\=10>Pōne apparātum$1</size>
+r:"^Drop Apparatus(.*)"=<size\=10>Pōne apparātum$1</size>
+r:"^Drop Bee hive(.*)"=<size\=10>Pōne alvum apum$1</size>
+r:"^Drop Bell(.*)"=<size\=10>Pōne tintinnābulum$1</size>
+r:"^Drop Big bolt(.*)"=<size\=10>Pōne paxillum magnum$1</size>
+r:"^Drop Body(.*)"=<size\=10>Pōne corpus$1</size>
+r:"^Drop Boombox(.*)"=<size\=10>Pōne arcās sonōrum$1</size>
+r:"^Drop Bottles(.*)"=<size\=10>Pōne amphorās bibendī$1</size>
+r:"^Drop Brake lever(.*)"=<size\=10>Pōne lēvem frenī$1</size>
+r:"^Drop Brass bell(.*)"=<size\=10>Pōne tintinnābulum āneum$1</size>
+r:"^Drop Brush(.*)"=<size\=10>Pōne scōpam$1</size>
+r:"^Drop Bubblegum(.*)"=<size\=10>Pōne gummi bullātum$1</size>
+r:"^Drop Candy(.*)"=<size\=10>Pōne dulcia$1</size>
+r:"^Drop Cat(.*)"=<size\=10>Pōne fēlem$1</size>
+r:"^Drop Cash register(.*)"=<size\=10>Pōne cistam pecūniārum$1</size>
+r:"^Drop Charges batteries(.*)"=<size\=10>Pōne accūmulātōrēs renovātōs$1</size>
+r:"^Drop Chemical Jug(.*)"=<size\=10>Pōne amphoram chemicōrum$1</size>
+r:"^Drop Chemical jug(.*)"=<size\=10>Pōne amphoram chemicōrum$1</size>
+r:"^Drop clipboard(.*)"=<size\=10>Pōne tabellam annotationum$1</size>
+r:"^Drop Clown horn(.*)"=<size\=10>Pōne cornū scūrrae$1</size>
+r:"^Drop Coffee mug(.*)"=<size\=10>Pōne poculum coffeae$1</size>
+r:"^Drop Cog(.*)"=<size\=10>Pōne rotam dentātam$1</size>
+r:"^Drop Coil(.*)"=<size\=10>Pōne volutam$1</size>
+r:"^Drop Comedy(.*)"=<size\=10>Pōne coemediam$1</size>
+r:"^Drop Cookie mold pan(.*)"=<size\=10>Pōne formam crustulōrum$1</size>
+r:"^Drop Data chip(.*)"=<size\=10>Pōne laminam Datorum$1</size>
+r:"^Drop Dentures(.*)"=<size\=10>Pōne dentēs artificiālēs$1</size>
+r:"^Drop Dog toy(.*)"=<size\=10>Pōne automatonem canīnum$1</size>
+r:"^Drop Dust pan(.*)"=<size\=10>Pōne palam pulveris$1</size>
+r:"^Drop Echo Scanner(.*)"=Dēpōne inspectātōrem echo$1</size>
+r:"^Drop Egg beater(.*)"=<size\=10>Pōne verberātrīcem ovōrum$1</size>
+r:"^Drop Extension ladder(.*)"=<size\=10>Pōne scālam prōtrahendam$1</size>
+r:"^Drop Extension Ladder(.*)"=<size\=10>Pōne scālam prōtrahendam$1</size>
+r:"^Drop Fancy lamp(.*)"=<size\=10>Pōne lucernam magnificam$1</size>
+r:"^Drop Fancy ring(.*)"=<size\=10>Pōne annulum magnificum$1</size>
+r:"^Drop Fish toy(.*)"=<size\=10>Pōne automatonem piscium$1</size>
+r:"^Drop Flashlight(.*)"=<size\=10>Pōne lūmen portābile$1</size>
+r:"^Drop Flask(.*)"=<size\=10>Pōne amphoram$1</size>
+r:"^Drop Gearbox(.*)"=<size\=10>Pōne gearbox$1</size>
+r:"^Drop Gift box(.*)"=<size\=10>Pōne arcām Donī$1</size>
+r:"^Drop Gift(.*)"=<size\=10>Pōne donum$1</size>
+r:"^Drop Gold bar(.*)"=<size\=10>Pōne tāleam auream$1</size>
+r:"^Drop Gold Bar(.*)"=<size\=10>Pōne tāleam auream$1</size>
+r:"^Drop Golden cup(.*)"=<size\=10>Pōne poculum aureum$1</size>
+r:"^Drop Golden Cup(.*)"=<size\=10>Pōne poculum aureum$1</size>
+r:"^Drop Hair brush(.*)"=<size\=10>Pōne scōpam capillī$1</size>
+r:"^Drop Hair dryer(.*)"=<size\=10>Pōne siccātōrem capillāris$1</size>
+r:"^Drop Hairdryer(.*)"=<size\=10>Pōne siccātōrem capillāris$1</size>
+r:"^Drop Hive(.*)"=<size\=10>Pōne alvum$1</size>
+r:"^Drop Homemade flashbang(.*)"=<size\=10>Pōne Bombam Stupidī Domēsticam$1</size>
+r:"^Drop Inverse teleporter(.*)"=<size\=10>Pōne transportātorem inversum$1</size>
+r:"^Drop Inverse Teleporter(.*)"=<size\=10>Pōne transportātorem inversum$1</size>
+r:"^Drop Jack O' Lanter(.*)"=<size\=10>Pōne Jack O' Lantern$1</size>
+r:"^Drop Jar of pickles(.*)"=<size\=10>Pōne amphoram cucumerum$1</size>
+r:"^Drop Jetpack(.*)"=<size\=10>Pōne saccum volāntem$1</size>
+r:"^Drop Key(.*)"=<size\=10>Pōne clāvem$1</size>
+r:"^Drop Large axle(.*)"=<size\=10>Pōne axem magnum$1</size>
+r:"^Drop Laser pointer(.*)"=<size\=10>Pōne indicem lucem$1</size>
+r:"^Drop Lockpicker(.*)"=<size\=10>Pōne clāvem reserātrīcem$1</size>
+r:"^Drop Loud horn(.*)"=<size\=10>Pōne cornū clārum$1</size>
+r:"^Drop Loud Horn(.*)"=<size\=10>Pōne cornū clārum$1</size>
+r:"^Drop Magic 7 ball(.*)"=<size\=10>Pōne pilam magica VII$1</size>
+r:"^Drop Magic Ball(.*)"=<size\=10>Pōne pilam magicam$1</size>
+r:"^Drop Magic8Ball(.*)"=<size\=10>Pōne pilam magica VII$1</size>
+r:"^Drop Magnifying glass(.*)"=<size\=10>Pōne vītrum amplificāns$1</size>
+r:"^Drop Metal sheet(.*)"=<size\=10>Pōne laminam metallī$1</size>
+r:"^Drop Metal Sheet(.*)"=<size\=10>Pōne laminam metallī$1</size>
+r:"^Drop Mug(.*)"=<size\=10>Pōne poculum$1</size>
+r:"^Drop Old phone(.*)"=<size\=10>Pōne telephōnum antīquum$1</size>
+r:"^Drop Old Phone(.*)"=<size\=10>Pōne telephōnum antīquum$1</size>
+r:"^Drop Painting(.*)"=<size\=10>Pōne pictūram$1</size>
+r:"^Drop Perfume bottle(.*)"=<size\=10>Pōne amphoram odōris$1</size>
+r:"^Drop Perfume(.*)"=<size\=10>Pōne amphoram odōris$1</size>
+r:"^Drop Pickle Jar(.*)"=<size\=10>Pōne amphoram cucumerum$1</size>
+r:"^Drop Pill bottle(.*)"=<size\=10>Pōne amphoram medicīnārum$1</size>
+r:"^Drop Plastic fish(.*)"=<size\=10>Pōne piscem plasticum$1</size>
+r:"^Drop Player body(.*)"=<size\=10>Pōne corpus$1</size>
+r:"^Drop Player Body(.*)"=<size\=10>Pōne corpus$1</size>
+r:"^Drop Pro-flashlight(.*)"=<size\=10>Pōne lūmen portābile praemium$1</size>
+r:"^Drop Radar booster(.*)"=<size\=10>Pōne radārem augentem$1</size>
+r:"^Drop Radar Booster(.*)"=<size\=10>Pōne radārem augentem$1</size>
+r:"^Drop Radar-booster(.*)"=<size\=10>Pōne radārem augentem$1</size>
+r:"^Drop Record Player(.*)"=<size\=10>Pōne lūdum orbis$1</size>
+r:"^Drop Red soda(.*)"=<size\=10>Pōne pōtum rubrum$1</size>
+r:"^Drop Red Soda(.*)"=<size\=10>Pōne pōtum rubrum$1</size>
+r:"^Drop Remote(.*)"=<size\=10>Pōne remotum$1</size>
+r:"^Drop Ring(.*)"=<size\=10>Pōne annulum$1</size>
+r:"^Drop Robot Toy(.*)"=<size\=10>Pōne automatonem ludīcrum$1</size>
+r:"^Drop Rubber ducky(.*)"=<size\=10>Pōne anserem plasticum$1</size>
+r:"^Drop Rubber Ducky(.*)"=<size\=10>Pōne anserem plasticum$1</size>
+r:"^Drop Shotgun shell(.*)"=<size\=10>Pōne testam sclopētī$1</size>
+r:"^Drop Shotgun(.*)"=<size\=10>Pōne sclopētum$1</size>
+r:"^Drop Shovel(.*)"=<size\=10>Pōne pālam$1</size>
+r:"^Drop Signal Translator(.*)"=<size\=10>Pōne translātōrem Signālis$1</size>
+r:"^Drop Signal Transmitter(.*)"=<size\=10>Pōne emissorem Signālis$1</size>
+r:"^Drop Sneakers(.*)"=<size\=10>Pōne calceōs cursōriōs$1</size>
+r:"^Drop Spray paint(.*)"=<size\=10>Pōne sparsum pigmentum$1</size>
+r:"^Drop Steering wheel(.*)"=<size\=10>Pōne rotam volubilem$1</size>
+r:"^Drop Sticky note(.*)"=<size\=10>Pōne pāginam lentam$1</size>
+r:"^Drop Stop sign(.*)"=<size\=10>Pōne signum consistendi$1</size>
+r:"^Drop Stun grenade(.*)"=<size\=10>Pōne bombam stupīdī$1</size>
+r:"^Drop Stun Grenade(.*)"=<size\=10>Pōne bombam stupīdī$1</size>
+r:"^Drop Tattered metal sheet(.*)"=<size\=10>Pōne laminam metallī fragōsam$1</size>
+r:"^Drop Tea kettle(.*)"=<size\=10>Pōne caccabum theae$1</size>
+r:"^Drop Tea Kettle(.*)"=<size\=10>Pōne caccabum theae$1</size>
+r:"^Drop Teeth(.*)"=<size\=10>Pōne dentēs$1</size>
+r:"^Drop Teleporter(.*)"=<size\=10>Pōne transportātōrem$1</size>
+r:"^Drop Toothpaste(.*)"=<size\=10>Pōne dentifrīcium$1</size>
+r:"^Drop Toy cube(.*)"=<size\=10>Pōne cubum lūdīcum$1</size>
+r:"^Drop Toy robot(.*)"=<size\=10>Pōne automatonem lūdīcum$1</size>
+r:"^Drop Toy Rubix cube(.*)"=<size\=10>Pōne rubik cubum lūdīcum$1</size>
+r:"^Drop Tragedy(.*)"=<size\=10>Pōne tragoediam$1</size>
+r:"^Drop TZP inhalant(.*)"=<size\=10>Pōne inhalantem TZP$1</size>
+r:"^Drop TZP-inhalant(.*)"=<size\=10>Pōne inhalantem TZP$1</size>
+r:"^Drop TZP-Inhalant(.*)"=<size\=10>Pōne inhalantem TZP$1</size>
+r:"^Drop V-type engine(.*)"=<size\=10>Pōne mōtorem generis quīntī$1</size>
+r:"^Drop V-Type engine(.*)"=<size\=10>Pōne mōtorem generis quīntī$1</size>
+r:"^Drop V-Type Engine(.*)"=<size\=10>Pōne mōtorem generis quīntī$1</size>
+r:"^Drop Walkie-talkie(.*)"=<size\=10>Pōne ambulans-loquēns$1</size>
+r:"^Drop Wedding ring(.*)"=<size\=10>Pōne annulum nūptiālem$1</size>
+r:"^Drop Whoopie cushion(.*)"=<size\=10>Pōne saccum iocōsum$1</size>
+r:"^Drop Yield sign(.*)"=<size\=10>Pōne signum cessandī$1</size>
+r:"^Drop Zap gun(.*)"=<size\=10>Pōne sclopetum electricum$1</size>
+r:"^Drop Zap Gun(.*)"=<size\=10>Pōne sclopetum electricum$1</size>
 
 Enter a tag...=Inscrībe signum...
 Enter server tag...=<size\=9>Inscrībe signum servātōriī...</size>
-r:"^Enter(.+)"=Intrā$1
-r:"^Enter(.+)"=Intrā$1
-r:"^Exit(.+)"=Exi$1
-r:"^Exit(.+)"=Exi$1
+r:"^Enter(.*)"=Intrā$1
+r:"^Enter(.*)"=Intrā$1
+r:"^Exit(.*)"=Exi$1
+r:"^Exit(.*)"=Exi$1
 
 # TODO: Might be a better word for switch
-r:"^Fire(.+)"=<size\=10>Ictūs $1</size>
-r:"^Flip switch(.+)"=Verte claviculam$1
-r:"^Flush(.+)"=Emitte:$1
-r:"^Get log(.+)"=<size\=10>Sume commentarium$1</size>
-r:"^Grab(.+)"=Sume$1
-r:"^Hold(.+)"=<size\=10>Tene$1</size>
-r:"^Hit Jack-o-Lantern(.+)"=<size\=10>Pulsa Jack O' Lantern$1</size>
-r:"^Hit pumpkin(.+)"=<size\=10>Pulsa Cucurbitam Pepo$1</size>
+r:"^Fire(.*)"=<size\=10>Ictūs $1</size>
+r:"^Flip switch(.*)"=Verte claviculam$1
+r:"^Flush(.*)"=Emitte:$1
+r:"^Get log(.*)"=<size\=10>Sume commentarium$1</size>
+r:"^Grab(.*)"=Sume$1
+r:"^Hold(.*)"=<size\=10>Tene$1</size>
+r:"^Hit Jack-o-Lantern(.*)"=<size\=10>Pulsa Jack O' Lantern$1</size>
+r:"^Hit pumpkin(.*)"=<size\=10>Pulsa Cucurbitam Pepo$1</size>
 # Aspice is from LLPSI ch.8 to look at
-r:"^Inspect(.+)"=<size\=10>Aspice$1</size>
+r:"^Inspect(.*)"=<size\=10>Aspice$1</size>
 
-r:"^Land ship(.+)"=Applica navem$1
-r:"^Let go(.+)"=Relinque$1
+r:"^Land ship(.*)"=Applica navem$1
+r:"^Let go(.*)"=Relinque$1
 
 # TODO: is this actual glass like vitrum?
-r:"^Lift glass(.+)"=Tolle poculum$1
-r:"^Kick out (.+)"=$1 expelle?
+r:"^Lift glass(.*)"=Tolle poculum$1
+r:"^Kick out (.*)"=$1 expelle?
 
 # N-Z
-r:"^Open(.+)"=Aperi$1
-r:"^Open door(.+)"=Aperi ianuam$1
-r:"^Open gift(.+)"=<size\=10>Aperi donum$1</size>
-r:"^Open hatch(.+)"=Aperi foramen$1
-r:"^Open(.+)"=<size\=10>Aperi$1</size>
+r:"^Open(.*)"=Aperi$1
+r:"^Open door(.*)"=Aperi ianuam$1
+r:"^Open gift(.*)"=<size\=10>Aperi donum$1</size>
+r:"^Open hatch(.*)"=Aperi foramen$1
+r:"^Open(.*)"=<size\=10>Aperi$1</size>
 
 # TODO: Need to review usage, I'm unsure what the word for button is.
-r:"^Pet Cat(.+)"=<size\=10>Mulce fēlem$1</size>
-r:"^Pet cat(.+)"=<size\=10>Mulce fēlem$1</size>
-r:"^Place on door(.+)"=<size\=10>Pone in ianuam$1</size>
-r:"^Play record(.+)"=Lude ludi orbem$1
-r:"^Pop up ladder(.+)"=<size\=10>Ascendē scālam $1</size>
-r:"^Power button(.+)"=<size\=10>Mūta potentiam $1</size>
-r:"^Pull cord(.+) \((.+)\)"=Trāhe līneam$1 (Tene)
-r:"^Pull pin(.+)"=<size\=10>Trahe clāvem$1</size>
-r:"^Pull valve(.+)"=Trahe valvam$1
-r:"^Pull switch(.+)"=Trahe claviculam$1
+r:"^Pet Cat(.*)"=<size\=10>Mulce fēlem$1</size>
+r:"^Pet cat(.*)"=<size\=10>Mulce fēlem$1</size>
+r:"^Place on door(.*)"=<size\=10>Pone in ianuam$1</size>
+r:"^Play record(.*)"=Lude ludi orbem$1
+r:"^Pop up ladder(.*)"=<size\=10>Ascendē scālam $1</size>
+r:"^Power button(.*)"=<size\=10>Mūta potentiam $1</size>
+r:"^Pull cord(.*) \((.*)\)"=Trāhe līneam$1 (Tene)
+r:"^Pull pin(.*)"=<size\=10>Trahe clāvem$1</size>
+r:"^Pull valve(.*)"=Trahe valvam$1
+r:"^Pull switch(.*)"=Trahe claviculam$1
 
-r:"^Quit terminal(.+)"=Exi computātrum$1
+r:"^Quit terminal(.*)"=Exi computātrum$1
 r:"^Quit terminal : \[Start\]"=Exi computātrum : [Incipe]
-r:"^Reload(.+)"=<size\=10>Replē $1</size>
-r:"^Ring bell(.+)"=Pulsā tintinnabulum$1
+r:"^Reload(.*)"=<size\=10>Replē $1</size>
+r:"^Ring bell(.*)"=Pulsā tintinnabulum$1
 
 # Scande could work, Inspectā seems more beginner friendly
-r:"^Scan(.+)"=<size\=10>Inspectā$1</size>
-r:"^Scan for threat:(.+)"=<size\=10>Inspectā periculum$1</size>
-r:"^Sell item(.+)"=Vende rem$1
-r:"^Send voice(.+)"=<size\=10>Mitte vocem$1</size>
-r:"^Set candles(.+)"=Pone candēlābra$1
-r:"^Sprint(.+)"=<size\=10>Curre$1</size>
-r:"^Squeeze(.+)"=<size\=10>Premē$1</size>
+r:"^Scan(.*)"=<size\=10>Inspectā$1</size>
+r:"^Scan for threat:(.*)"=<size\=10>Inspectā periculum$1</size>
+r:"^Sell item(.*)"=Vende rem$1
+r:"^Send voice(.*)"=<size\=10>Mitte vocem$1</size>
+r:"^Set candles(.*)"=Pone candēlābra$1
+r:"^Sprint(.*)"=<size\=10>Curre$1</size>
+r:"^Squeeze(.*)"=<size\=10>Premē$1</size>
 
 # Incipe LLPSI ch 13
-r:"^Spray(.+)"=<size\=10>Sparge$1</size>
-r:"^Shake can(.+)"=<size\=10>Quate amphoram$1</size>
-r:"^Start game(.+)"=Incipe ludum$1
-r:"^Start ship(.+)"=Incipe navem$1
-r:"^Store item(.+)"=Conde rem$1
-r:"^Swing shovel(.+)"=<size\=10>Agitā pālam$1</size>
-r:"^Swing sign(.+)"=<size\=10>Agitā signum$1</size>
-r:"^Switch camera(.+)"=Muta camaram$1
-r:"^Switch lights(.+)"=Muta lucem$1
-r:"^Switch TV(.+)"=Muta tēlevīsiōnem$1
-r:"^Switch water(.+)"=Muta aquam$1
-r:"^Take TZP(.+)"=<size\=10>Cape TZP$1</size>
-r:"^Tell autopilot ship to leave early(.+)(Hold)"=Dīc nāvem gubernatōrem reliquere prius$1Tene)
+r:"^Spray(.*)"=<size\=10>Sparge$1</size>
+r:"^Shake can(.*)"=<size\=10>Quate amphoram$1</size>
+r:"^Start game(.*)"=Incipe ludum$1
+r:"^Start ship(.*)"=Incipe navem$1
+r:"^Store item(.*)"=Conde rem$1
+r:"^Swing shovel(.*)"=<size\=10>Agitā pālam$1</size>
+r:"^Swing sign(.*)"=<size\=10>Agitā signum$1</size>
+r:"^Switch camera(.*)"=Muta camaram$1
+r:"^Switch lights(.*)"=Muta lucem$1
+r:"^Switch TV(.*)"=Muta tēlevīsiōnem$1
+r:"^Switch water(.*)"=Muta aquam$1
+r:"^Take TZP(.*)"=<size\=10>Cape TZP$1</size>
+r:"^Tell autopilot ship to leave early(.*)(Hold)"=Dīc nāvem gubernatōrem reliquere prius$1Tene)
 
-r:"^Toggle light(.+)"=<size\=10>Muta lucem$1</size>
-r:"^Toggle laser(.+)"=<size\=10>Muta indicem lucem$1</size>
-r:"^Toggle music(.+)"=<size\=10>Muta musicam $1</size>
+r:"^Toggle light(.*)"=<size\=10>Muta lucem$1</size>
+r:"^Toggle laser(.*)"=<size\=10>Muta indicem lucem$1</size>
+r:"^Toggle music(.*)"=<size\=10>Muta musicam $1</size>
 
 # Aiming for a "Change power" or "Toggle power"
-r:"^Turn on booster(.+)"=<size\=10>Activa propulsōrem $1</size>
-r:"^Turn on/off(.+)"=Muta potentiam$1
-r:"^Turn page(.+)"=<size\=10>Verte paginam$1</size>
-r:"^Turn safety on(.+)"=<size\=10>Modum tūtum āctīva $1</size>
-r:"^Turn safety off(.+)"=<size\=10>Modum tūtum dēsīne $1</size>
-r:"^Use Airhorn(.+)"=<size\=10>Ūtere cornū aureum$1</size>
-r:"^Use airhorn(.+)"=<size\=10>Ūtere cornū aereum$1</size>
-r:"^Use cash register(.+)"=<size\=10>Ūtere cistam pecuniārum$1</size>
-r:"^Use Clown horn(.+)"=<size\=10>Ūtere cornū scūrrae$1</size>
-r:"^Use Clown Horn(.+)"=<size\=10>Ūtere cornū scūrrae$1</size>
-r:"^Use door(.+)"=Ūtere ianuam$1
-r:"^Use DIY-Flashbang(.+)"=<size\=10>Ūtere DIY-Bombam stupidī$1</size>
-r:"^Use grenade(.+)"=<size\=10>Ūtere bombam$1</size>
-r:"^Use hairdryer(.+)"=<size\=10>Ūtere siccatorem capillforaris$1</size>
-r:"^Use horn(.+)"=<size\=10>Ūtere cornū$1</size>
-r:"^Use jetpack(.+)"=<size\=10>Ūtere saccum volante$1</size>
-r:"^Use key(.+)"=<size\=10>Ūtere clavem$1</size>
-r:"^Use ladder(.+)"=Ūtere scalam$1
-r:"^Use Large axle(.+)"=<size\=10>Ūtere axem magnum$1</size>
-r:"^Use remote(.+)"=<size\=10>Ūtere remotum$1</size>
-r:"^Use Television(.+)"=Ūtere televisiōnem$1
-r:"^Use Toilet(.+)"=Ūtere cloācam$1
+r:"^Turn on booster(.*)"=<size\=10>Activa propulsōrem $1</size>
+r:"^Turn on/off(.*)"=Muta potentiam$1
+r:"^Turn page(.*)"=<size\=10>Verte paginam$1</size>
+r:"^Turn safety on(.*)"=<size\=10>Modum tūtum āctīva $1</size>
+r:"^Turn safety off(.*)"=<size\=10>Modum tūtum dēsīne $1</size>
+r:"^Use Airhorn(.*)"=<size\=10>Ūtere cornū aureum$1</size>
+r:"^Use airhorn(.*)"=<size\=10>Ūtere cornū aereum$1</size>
+r:"^Use cash register(.*)"=<size\=10>Ūtere cistam pecuniārum$1</size>
+r:"^Use Clown horn(.*)"=<size\=10>Ūtere cornū scūrrae$1</size>
+r:"^Use Clown Horn(.*)"=<size\=10>Ūtere cornū scūrrae$1</size>
+r:"^Use door(.*)"=Ūtere ianuam$1
+r:"^Use DIY-Flashbang(.*)"=<size\=10>Ūtere DIY-Bombam stupidī$1</size>
+r:"^Use grenade(.*)"=<size\=10>Ūtere bombam$1</size>
+r:"^Use hairdryer(.*)"=<size\=10>Ūtere siccatorem capillforaris$1</size>
+r:"^Use horn(.*)"=<size\=10>Ūtere cornū$1</size>
+r:"^Use jetpack(.*)"=<size\=10>Ūtere saccum volante$1</size>
+r:"^Use key(.*)"=<size\=10>Ūtere clavem$1</size>
+r:"^Use ladder(.*)"=Ūtere scalam$1
+r:"^Use Large axle(.*)"=<size\=10>Ūtere axem magnum$1</size>
+r:"^Use remote(.*)"=<size\=10>Ūtere remotum$1</size>
+r:"^Use Television(.*)"=Ūtere televisiōnem$1
+r:"^Use Toilet(.*)"=Ūtere cloācam$1
 
-r:"^Walk(.+)"=<size\=10>Ambula$1</size>
+r:"^Walk(.*)"=<size\=10>Ambula$1</size>
 

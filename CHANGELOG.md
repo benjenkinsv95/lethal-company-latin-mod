@@ -1,4 +1,8 @@
 # Changelog
+# 2.1.0 Add VR Support
+VR support came to the thunderstore today! It is now supported as well.
+
+
 # 2.0.11 Improve the support of various mods
 1. NeedyCats
 2. Subtitles
