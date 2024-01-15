@@ -43,9 +43,8 @@ Once the mods are installed, you can play it in latin by clicking the "Modded pl
 
 1. [MoreAdditionalSuits](https://thunderstore.io/c/lethal-company/p/ChooMcoo/MoreAdditionalSuits/) Adds 12 suits of different colors to wear. (Fully supported)
 2. [LethalCompanyVR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) (Fully supported) Lethal Company in VR! Here's [a lets play I recorded](https://www.youtube.com/watch?v=VgfxZVCrRF4) if you'd like to check it out.
-3. [NeedyCats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/) Adds cats whose names are beginner latin vocab (Mostly supported)
-4. [Subtitles by JustJelly](https://thunderstore.io/c/lethal-company/p/JustJelly/Subtitles/) Adds subtitles to most audio (english and latin sounds). Very accesible. (Mostly supported, though there are likely some sounds I haven't heard yet. Also, the initial audio and subtitles are currently different, though will be re-recorded by a human shortly)
-
+3. [Subtitles by JustJelly](https://thunderstore.io/c/lethal-company/p/JustJelly/Subtitles/) Adds subtitles to most audio (Fully supported). Very accesible. (Mostly supported, though there are likely some sounds I haven't heard yet. Also, the initial audio and subtitles are currently different, though will be re-recorded by a human shortly)
+4. [NeedyCats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/) Adds cats whose names are beginner latin vocab (Mostly supported)
 
 #### Boombox Controller & LuckReservedBoombox
 
@@ -149,7 +148,7 @@ The NewTerminal translations, used to translate the terminal itself.
 Made with the help of the following contributors:
 
 * [Benjaminus Johannes Quīntus](https://ben-jenkins.com/welcome) - Mod author
-* Hadriánus Mathis
+* Hadriánus Mathis - Graciously contributed feedback
 
 ## Future Enhancements & Bugs
 
