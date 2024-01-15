@@ -1,4 +1,10 @@
 # Changelog
+# 2.1.2 Generated remaining subtitles for mod
+The list of subtitles can be found here:
+https://github.com/JanGuillermo/LethalCompany/blob/main/SubtitlesAPI/Locales/EnglishSubtitleLocalization.cs
+
+Ours are stored in la/Subtitles.txt
+
 # 2.1.1 Reviewed and updated monster names throughout
 Updated the list of creature names:
 

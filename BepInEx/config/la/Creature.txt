@@ -9,14 +9,14 @@ Coil-head=Caput cochlea
 Earth leviathan=Leviathan terrae
 Eyeless dog=Canis sine oculīs
 Forest Giant=Gigās silvae
-Forest keeper=Satyrid proceritas
+Forest keeper=Custōs silvae
 Ghost girl=Imāgō puella
 Hoarding bug=Cīmex accumulāns
 Hygrodere=Hygrodere
 Jeb=Jeb
-Jester=INSANEUS THINGUS
+Jester=Scurra
 Landmine=Mina terrae
-Manticoil=Quadrupes manta
+Manticoil=Manticoil
 # Terminal Needs review, but source is latin
 Nutcracker=Nucifrangibulum
 Roaming locusts=Lōcustae vagae
