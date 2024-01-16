@@ -1,4 +1,7 @@
 # Changelog
+# 2.2.0 HI Paws Music Added
+
+
 # 2.1.2 Generated remaining subtitles for mod
 The list of subtitles can be found here:
 https://github.com/JanGuillermo/LethalCompany/blob/main/SubtitlesAPI/Locales/EnglishSubtitleLocalization.cs

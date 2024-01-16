@@ -1,6 +1,6 @@
 {
     "name": "Lethal_Company_Latin_Localization",
-    "version_number": "2.1.2",
+    "version_number": "2.2.0",
     "website_url": "https://github.com/benjenkinsv95/lethal-company-latin-mod",
     "description": "Lethal Company Latin Translation",
     "dependencies": [
@@ -9,6 +9,9 @@
         "femboytv-LethalPosters-1.2.0",
         "femboytv-LethalPaintings-1.2.0",
         "no00ob-LCSoundTool-1.4.0",
-        "Clementinise-CustomSounds-2.2.0"
+        "Clementinise-CustomSounds-2.2.0",
+        "Steven-Custom_Boombox_Music-1.4.0",
+        "Rattenbonkers-TVLoader-1.1.1",
+        "CodeEnder-Custom_Boombox_Fix-1.2.2"
     ]
 }

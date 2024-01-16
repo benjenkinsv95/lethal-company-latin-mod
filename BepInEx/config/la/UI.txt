@@ -388,7 +388,8 @@ To read the manual:=Ad manuālem legendum:
 Unnamed=Nōmine Carent
 Up Arrow=Sagitta Sūrsum
 WAIT!=EXSPECTĀ!
-Welcome to\nVoiumya-10=Salvē, Voiumyae X.
+Welcome to\nVoiumya-10=Salvē, ad Voiumyam X.
+sr:"^Welcome to\n(.*)"=Salvē, ad $1
 Weekly Challenge Results=Exitus certāminis hebdomadālis
 With challenge moon=Cum lunā certāminis
 Your rank: =<size\=20>Gradus tuus: </size>

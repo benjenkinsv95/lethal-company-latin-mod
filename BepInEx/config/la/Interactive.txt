@@ -15,7 +15,7 @@
 r:"^Access terminal(.*)"=Ūtere computātrum$1
 r:"^Beam up(.*)"=Ascende$1
 # "Electrifica rem" might also work, but seems less beginner friendly
-r:"^Charge item(.*)"=<size\=10>Renovā rem$1</size>
+r:"^Charge item(.*)"=Renovā rem$1
 
 r:"^Climb(.*)"=Ascende$1
 r:"^Close(.*)"=Claude$1
@@ -35,7 +35,8 @@ r:"^Drop Bee hive(.*)"=<size\=10>Pōne alvum apum$1</size>
 r:"^Drop Bell(.*)"=<size\=10>Pōne tintinnābulum$1</size>
 r:"^Drop Big bolt(.*)"=<size\=10>Pōne paxillum magnum$1</size>
 r:"^Drop Body(.*)"=<size\=10>Pōne corpus$1</size>
-r:"^Drop Boombox(.*)"=<size\=10>Pōne arcās sonōrum$1</size>
+r:"^Drop Boombox(.*)"=<size\=10>Pōne arcās sonōrum$1\n</size><size\=9>(HI Paws carmina)</size>
+r:"^Drop pbA HI Paws(.*)"=<size\=10>Pōne arcās sonōrum$1\n</size><size\=9>(HI Paws carmina grammatica)</size>
 r:"^Drop Bottles(.*)"=<size\=10>Pōne amphorās bibendī$1</size>
 r:"^Drop Brake lever(.*)"=<size\=10>Pōne lēvem frenī$1</size>
 r:"^Drop Brass bell(.*)"=<size\=10>Pōne tintinnābulum āneum$1</size>

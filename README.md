@@ -41,10 +41,11 @@ Once the mods are installed, you can play it in latin by clicking the "Modded pl
 
 #### Supported (Optional) Mods
 
-1. [MoreAdditionalSuits](https://thunderstore.io/c/lethal-company/p/ChooMcoo/MoreAdditionalSuits/) Adds 12 suits of different colors to wear. (Fully supported)
-2. [LethalCompanyVR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) (Fully supported) Lethal Company in VR! Here's [a lets play I recorded](https://www.youtube.com/watch?v=VgfxZVCrRF4) if you'd like to check it out.
-3. [Subtitles by JustJelly](https://thunderstore.io/c/lethal-company/p/JustJelly/Subtitles/) Adds subtitles to most audio (Fully supported). Very accesible. (Mostly supported, though there are likely some sounds I haven't heard yet. Also, the initial audio and subtitles are currently different, though will be re-recorded by a human shortly)
-4. [NeedyCats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/) Adds cats whose names are beginner latin vocab (Mostly supported)
+1. [HI Paws Latin Language Boombox - Grammar Music](https://thunderstore.io/c/lethal-company/p/LudusTranslationis/HI_PAWS_LATIN_BOOMBOX/) Adds another boombox with latin language music. There is some english in this boombox, since he teaches the grammar with a mix of latin and english.
+2. [MoreAdditionalSuits](https://thunderstore.io/c/lethal-company/p/ChooMcoo/MoreAdditionalSuits/) Adds 12 suits of different colors to wear. (Fully supported)
+3. [LethalCompanyVR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/) (Fully supported) Lethal Company in VR! Here's [a lets play I recorded](https://www.youtube.com/watch?v=VgfxZVCrRF4) if you'd like to check it out.
+4. [Subtitles by JustJelly](https://thunderstore.io/c/lethal-company/p/JustJelly/Subtitles/) Adds subtitles to most audio (Fully supported). Very accesible. (Mostly supported, though there are likely some sounds I haven't heard yet. Also, the initial audio and subtitles are currently different, though will be re-recorded by a human shortly)
+5. [NeedyCats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/) Adds cats whose names are beginner latin vocab (Mostly supported)
 
 #### Boombox Controller & LuckReservedBoombox
 
@@ -149,6 +150,7 @@ Made with the help of the following contributors:
 
 * [Benjaminus Johannes Quīntus](https://ben-jenkins.com/welcome) - Mod author
 * Hadriánus Mathis - Graciously contributed feedback
+* HI Paws - Graciously allowed us [to use their songs](https://www.youtube.com/c/HIPAWS) for the game's soundtrack
 
 ## Future Enhancements & Bugs
 

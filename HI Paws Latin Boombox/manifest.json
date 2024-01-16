@@ -1,0 +1,9 @@
+{
+    "name": "HI_PAWS_LATIN_BOOMBOX",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/benjenkinsv95/lethal-company-latin-mod",
+    "description": "HI Paws Grammar Latin Songs boombox",
+    "dependencies": [
+        "Alice-YourOwnPersonalBoombox-1.1.0"
+    ]
+}
