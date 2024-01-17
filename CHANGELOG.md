@@ -1,6 +1,10 @@
 # Changelog
-# 2.2.0 HI Paws Music Added
+# 2.3.0 Heavily reviewed translations and macrons of creatures, scrap, and items
+1. New scrap and items: https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/32#issuecomment-1893014092
+2. New creature names: https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/31#issuecomment-1891067445
 
+# 2.2.0 HI Paws Music Added
+Music by the HI Paws youtube channel has been licensed and added to the game!
 
 # 2.1.2 Generated remaining subtitles for mod
 The list of subtitles can be found here:

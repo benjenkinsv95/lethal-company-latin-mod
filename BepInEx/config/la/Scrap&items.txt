@@ -2,154 +2,155 @@
 # Reviewed
 
 # A-C
-r:"^Airhorn$"=Cornū aereum
+r:"^Airhorn$"=Cornū āērum
 r:"^Apparatice$"=Apparātus
 r:"^Apparatus$"=Apparātus
 r:"^Bee hive$"=Alvus apum
-r:"^Bell$"=Tintinnabulum
-r:"^Big bolt$"=Paxillus magnus
-r:"^Big Bolt$"=Paxillus magnus
+r:"^Bell$"=Tintinnābulum
+r:"^Big bolt$"=Cochlea magna
+r:"^Big Bolt$"=Cochlea magna
 r:"^Body$"=Corpus
+
 # Arcā sonōrum - box of sounds, Cistella tonitrūs thunder box
-r:"^Boombox$"=Arcā sonōrum
-r:"^Bottles$"=Amphorae Bibendī
-r:"^Brake lever$"=Lēvis frenī
-r:"^Brass bell$"=Tintinnabulum āneum
-r:"^Brush$"=Scopa
+r:"^Boombox$"=Arca carminum
+r:"^Bottles$"=Lagoenae
+r:"^Brake lever$"=Lēvis frenī ; TODO
+r:"^Brass bell$"=Tintinnābulum aerāriī
+r:"^Brush$"=Pēniculus capillōrum
 r:"^Bubblegum$"=Gummi bullātum
 r:"^Candy$"=Dulcia
-r:"^Cash register$"=Cistam pecuniārum
-r:"^Charges batteries$"=Renovat rēs ēlectrīcās
-r:"^Chemical jug$"=Amphora chemicōrum
-r:"^clipboard$"=Tabella annotationum
-r:"^Clown horn$"=Cornū scūrrae
-r:"^Comedy$"=Coemedia
-r:"^Coffee mug$"=Poculum coffeae
+r:"^Cash register$"=Arca pecūniārum
+r:"^Charges batteries$"=Renovat rēs ēlectricās
+r:"^Chemical jug$"=Amphora chēmicōrum
+r:"^clipboard$"=Tabella
+r:"^Clown horn$"=Cornū scurrae
+r:"^Comedy$"=Cōmoedia
+r:"^Coffee mug$"=Pōculum coffēae
 r:"^Cog$"=Rota dentāta
-r:"^Coil$"=Voluta
-r:"^Cookie mold pan$"=Fōrma crustulōrum
-r:"^Cookie Mold Pan$"=Fōrma crustulōrum
+r:"^Coil$"=Cochlea
+r:"^Cookie mold pan$"=Cācabus crustulōrum
+r:"^Cookie Mold Pan$"=Cācabus crustulōrum
 
 # D-M
 # Sheet of data
-r:"^Data chip$"=Lamina Datorum
-r:"^Dentures$"=Dentēs artificiālēs
-r:"^Dog toy$"=Cānīs lūdibrium
-r:"^Double-barrel$"=Gēmināta canna
+r:"^Data chip$"=Tabella datārum
+r:"^Dentures$"=Dentēs falsus
+r:"^Dog toy$"=Lūdibrium canīnum
+r:"^Double-barrel$"=Gemina dōlia
 # Shovel/pan of dust
-r:"^Dust pan$"=Pala pulveris
-r:"^Dust Pan$"=Pala pulveris
-r:"^Echo Scanner$"=Inspectātor Echo
-r:"^Egg beater$"=Verberātrīx Ovōrum
-r:"^Egg Beater$"=Verberātrīx Ovōrum
-r:"^Extension ladder$"=Scala prōtrahenda
-r:"^Fancy lamp$"=Lucerna magnifica
-r:"^Fancy ring$"=Annulus magnificus
-r:"^Fish toy$"=Piscis lūdibrium
-r:"^Flashlight$"=Lūmen portābile
-r:"^Flask$"=Amphora
-r:"^Gift$"=Donum
-r:"^Gift box$"=Arca Doni
-r:"^Gearbox$"=Capsula cōgnum
+r:"^Dust pan$"=Pāla nūbium
+r:"^Dust Pan$"=Pāla nūbium
+r:"^Echo Scanner$"=Spectātor resonantiārum
+r:"^Egg beater$"=Pulsātor ōvōrum
+r:"^Egg Beater$"=Pulsātor ōvōrum
+r:"^Extension ladder$"=Scāla prōtrahenda
+r:"^Fancy lamp$"=Lucerna mīra
+r:"^Fancy ring$"=Ānulus mīrus
+r:"^Fish toy$"=Lūdibrium pisceum
+r:"^Flashlight$"=Lanterna
+r:"^Flask$"=Ampulla
+r:"^Gift$"=Dōnum
+r:"^Gift box$"=Dōnum
+r:"^Gearbox$"=Arca dentāta
 r:"^Gold bar$"=Tālea aurea
 r:"^Gold Bar$"=Tālea aurea
-r:"^Golden cup$"=Poculum aureum
-r:"^Hair brush$"=Scopa capillī
-r:"^Hairbrush$"=Scopa capillī
-r:"^Hairdryer$"=Siccator capillaris
-r:"^Hair dryer$"=Siccator capillaris
-r:"^Hive$"=Alvus
-r:"^Homemade Flashbang$"=Bomba stupidī domēstica
-r:"^Homemade flashbang$"=Bomba stupidī domēstica
+r:"^Golden cup$"=Pōculum aureum
+r:"^Hair brush$"=Pēniculus capillōrum
+r:"^Hairbrush$"=Pēniculus capillōrum
+r:"^Hairdryer$"=Favōnius
+r:"^Hair dryer$"=Favōnius
+r:"^Hive$"=Alvus apum
+r:"^Homemade Flashbang$"=Bomba stupefacta domestica
+r:"^Homemade flashbang$"=Bomba stupefacta domestica
 r:"^Inverse Teleporter$"=Transportātor inversus
 r:"^Jack O' Lanter$"=Jack O' Lantern
-r:"^Jar of pickles$"=Amphora cucumerum
+r:"^Jar of pickles$"=Ōlla cucumerum in mūriā
 # Flying bag
-r:"^Jetpack$"=Saccus volāns
-r:"^Key$"=Clavis
+r:"^Jetpack$"=Saccus volātilis
+r:"^Key$"=Clāvis
 r:"^Large axle$"=Axis magnus
-r:"^Laser pointer$"=Index lūce
-r:"^Lockpicker$"=Clāvis reserātrīx
-r:"^Loud horn$"=Cornū clārus
-r:"^Magic ball$"=Pila magica
+r:"^Laser pointer$"=Index lūcis
+r:"^Lockpicker$"=Apertor clāvium
+r:"^Loud horn$"=Cornu magnum
+r:"^Magic ball$"=Pīla magica
 r:"^Magnifying glass$"=Vitrum amplificāns
-r:"^Metal sheet$"=Lamina metallī
-r:"^Metal Sheet$"=Lamina metallī
-r:"^Mug$"=Poculum
+r:"^Metal sheet$"=Lāmina metallica
+r:"^Metal Sheet$"=Lāmina metallica
+r:"^Mug$"=Pōculum
 
 # N-R
-r:"^Old phone$"=Telephōnum antīquum
+r:"^Old phone$"=Telephonum antīquum
 r:"^Painting$"=Pictūra
 # (container of scent). Amphora unguenti is more accurate for ointments/perfume, but less common vocab.
-r:"^Perfume bottle$"=Amphora odoris
-r:"^Perfume$"=Amphora odoris
-r:"^Pickle jar$"=Amphora cucumerum
+r:"^Perfume bottle$"=Unguentarium
+r:"^Perfume$"=Unguentarium
+r:"^Pickle jar$"=Ōlla cucumerum in mūriā
 # Bottle of medicine
-r:"^Pill Bottle$"=Amphora medicinārum
-r:"^Pill bottle$"=Amphora medicinārum
+r:"^Pill Bottle$"=Ampulla medicīna
+r:"^Pill bottle$"=Ampulla medicīna
 # Tempted to use falsus, instead of cummeus
-r:"^Plastic fish$"=Piscis cummeus
-r:"^Player Body$"=Corpus lūdentis
-r:"^Player body$"=Corpus lūdentis
-r:"^Pro-flashlight$"=Lūmen portabile praemium
+r:"^Plastic fish$"=Piscis plasticus
+r:"^Player Body$"=Corpus lūsōris
+r:"^Player body$"=Corpus lūsōris
+r:"^Pro-flashlight$"=Lanterna mīra
 # augere is LLPSI ch 19 for increase
-r:"^Radar-booster$"=Radāris augens
+r:"^Radar-booster$"=Radāris augēns
 # Aiming for disk player
-r:"^Record Player$"=Ludi orbis
+r:"^Record Player$"=Grammophonum
 # Red drink
-r:"^Red soda$"=Pōtus ruber
+r:"^Red soda$"=Pōtus rubeus
 r:"^Remote$"=Remote
-r:"^Ring$"=Annulus
-r:"^Robot Toy$"=Automaton ludicrum
+r:"^Ring$"=Ānulus
+r:"^Robot Toy$"=Lūdibrium automatum
 # rōmāntica - would be more accurate, but later latin
-r:"^Romantic table$"=Mēnsa amoena
-r:"^Rubber Ducky$"=Anser cummeus
-r:"^Rubber ducky$"=Anser cummeus
+r:"^Romantic table$"=Mēnsa romantica
+r:"^Rubber Ducky$"=Ānser cummeus
+r:"^Rubber ducky$"=Ānser cummeus
 
 # S-Z
-r:"^Ship$"=Navis
-r:"^Shotgun$"=Sclopetum
-r:"^Shotgun shell$"=Testa sclopetī
-r:"^Shovel$"=Pala
+r:"^Ship$"=Nāvis
+r:"^Shotgun$"=Sclopētum
+r:"^Shotgun shell$"=Glāns sclopetī
+r:"^Shovel$"=Pāla
 r:"^Shower$"=Balneum
-r:"^Signal Translator$"=Translātor Signālis
-r:"^Signal Transmitter$"=Emissor Signālis
-r:"^Sneakers$"=Calceī cursōriī
+r:"^Signal Translator$"=Translātor signālis
+r:"^Signal Transmitter$"=Emissor signālis
+r:"^Sneakers$"=Calceāmenta āthlētica
 r:"^Spray paint$"=Sparsum pigmentum
 # Rota volubilis is tempting to match O fortuna
-r:"^Steering wheel$"=Rota volēns
-r:"^Steering Wheel$"=Rota volēns
+r:"^Steering wheel$"=Rota gubernātiōnis
+r:"^Steering Wheel$"=Rota gubernātiōnis
 # Lenta means slow, but also sticky
-r:"^Sticky note$"=Pagina lenta
+r:"^Sticky note$"=Pāgina lenta
 # consistere is llpsi ch 8 for stop
-r:"^Stop sign$"=Signum consistendi
+r:"^Stop sign$"=Signum cōnsistendī
 # stupidus can mean stunned, bomba has meant bomb since 1730ish
-r:"^Stun grenade$"=Bomba stupidī
+r:"^Stun grenade$"=Bomba stupefacta
 r:"^Table$"=Mēnsa
-r:"^Tattered metal sheet$"=Lamina metallī fragosa
-r:"^Tea kettle$"=Caccabus theae
-r:"^Tea Kettle$"=Caccabus theae
+r:"^Tattered metal sheet$"=Lāmina metallica fragōsa
+r:"^Tea kettle$"=Aeneum theae
+r:"^Tea Kettle$"=Aeneum theae
 r:"^Teeth$"=Dentēs
 r:"^Teleporter$"=Transportātor
 r:"^Television$"=Televisiō
-r:"^Toilet$"=Cloāca
+r:"^Toilet$"=Lātrīna
 r:"^Toothpaste$"=Dentifrīcium
-r:"^Toy cube$"=Cubus ludicus
-r:"^Toy robot$"=Automaton ludicrum
+r:"^Toy cube$"=Lūdibrium cubicum
+r:"^Toy robot$"=Lūdibrium automatum
 r:"^Tragedy$"=Tragoedia
-r:"^TZP inhalant$"=Inhalātor TZP
-r:"^TZP-inhalant$"=Inhalātor TZP
-r:"^V-type engine$"=Mōtor generis quīntī
-r:"^V-Type Engine$"=Mōtor generis quīntī
-r:"^V-Type engine$"=Mōtor generis quīntī
-r:"^V-type engine$"=Mōtor generis quīntī
-r:"^Walkie-talkie$"=Ambulans-loquēns
-r:"^Wedding ring$"=Annulus nūptiālis
-r:"^Whoopie Cushion$"=Saccus iocōsus
-r:"^Whoopie cushion$"=Saccus iocōsus
+r:"^TZP inhalant$"=Inhālātus TZP
+r:"^TZP-inhalant$"=Inhālātus TZP
+r:"^V-type engine$"=Mōtor V generis (quīntī)
+r:"^V-Type Engine$"=Mōtor V generis (quīntī)
+r:"^V-Type engine$"=Mōtor V generis (quīntī)
+r:"^V-type engine$"=Mōtor V generis (quīntī)
+r:"^Walkie-talkie$"=Locūtor portābilis
+r:"^Wedding ring$"=Ānulus nūptiālis
+r:"^Whoopie Cushion$"=Saccus 'Whoopie'
+r:"^Whoopie cushion$"=Saccus 'Whoopie'
 r:"^Yield sign$"=Signum cessandī
-r:"^Zap gun$"=Sclopetum electricum
+r:"^Zap gun$"=Sclopētum ēlectricum
 
-r:"^Magic 7 ball$"=Pila magica VII $1
+r:"^Magic 7 ball$"=Pīla magica VII $1
 # r:"^(.*) \((.*)\)([^\n]*)"=$1 ($2)$3
 # sr:"^(.*) \((.*)\)([^\n]*)\n(.*) \((.*)\)([^\n]*)$"=$1 ($2)$3\n$4 ($5)$6\n

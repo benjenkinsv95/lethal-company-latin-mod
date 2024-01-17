@@ -100,9 +100,9 @@ Sort: worldwide=<size\=11>Ordinā: tōtum orbem</size>
 
 
 Started server, joining...=Servātōrem Coēpī, Iungēns...
-TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=Mōnitiō: Tene [RMB] ad suffrāgium ferendum ut navis gubernātor prius relinquat.
-TIP!: Hold [R-Trigger] to vote for the autopilot ship to leave early.=Mōnitiō: Tene [R-Trigger] ad suffrāgium ferendum ut navis gubernātor prius relinquat.
-The file will NOT save! Your ship must be in orbit.=Tabella NON servābitur! Navis tua debet in orbitā esse.
+TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=Mōnitiō: Tene [RMB] ad suffrāgium ferendum ut nāvis gubernātor prius relinquat.
+TIP!: Hold [R-Trigger] to vote for the autopilot ship to leave early.=Mōnitiō: Tene [R-Trigger] ad suffrāgium ferendum ut nāvis gubernātor prius relinquat.
+The file will NOT save! Your ship must be in orbit.=Tabella NON servābitur! Nāvis tua debet in orbitā esse.
 Uncapped=Sine limitibus
 Unconfirmed changes!=Mūtātiōnēs Inconfirmātae!
 Use monitor (V-Sync)=Ūtere mon. (V-Sync)
