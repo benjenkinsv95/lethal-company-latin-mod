@@ -129,11 +129,11 @@ All of the translations can be found in the files linked below.
 
 The latin translations used for everything besides the terminal.
 
-1. [Creature](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/Creature.txt)
+1. [Creature](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/Creature.txt) | [Research](https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/31#issuecomment-1891067445)
 2. [Interactive](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/Interactive.txt)
 3. [Location](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/Location.txt)
 4. [MainMenu](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/MainMenu.txt)
-5. [Scrap&items](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/Scrap&items.txt)
+5. [Scrap&items](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/Scrap&items.txt) | [Research](https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/32#issuecomment-1893014092)
 6. [UI](https://github.com/benjenkinsv95/lethal-company-latin-mod/blob/main/BepInEx/config/la/UI.txt)
 
 ## Terminal Translations

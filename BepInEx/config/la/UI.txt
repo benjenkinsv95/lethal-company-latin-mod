@@ -290,11 +290,11 @@ sr:"^Cause of death: (.+)$"=Causa mortis:  $1
 
 sr:"^Found journal entry: (.+)$"=Invēnī līber inscriptionis: $1 
 # sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae:  \n* $1\n* $2\n* $3 \n* $4\n
-sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\n
-sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\nWeather: (.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\nTempestās: $5
-sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4
-sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=Circumdare：$1\nPōpulatio：$2\nCondiciōnēs：$3\nFauna：$4$5$6
-sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=Circumdare：$1\nPōpulatio：$2\nCondiciōnēs：$3\nFauna：$4\nTempestās：$5
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=<size\=25>Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\n</size>
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\nWeather: (.+?)$"=<size\=25>Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\nTempestās: $5</size>
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=<size\=25>Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4</size>
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=<size\=25>Circumdare：$1\nPōpulatio：$2\nCondiciōnēs：$3\nFauna：$4$5$6</size>
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=<size\=25>Circumdare：$1\nPōpulatio：$2\nCondiciōnēs：$3\nFauna：$4\nTempestās：$5</size>
 
 sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Pōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\n
 sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Pōpulatio: $1\nCondiciōnēs: $2\nFauna: $3
