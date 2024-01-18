@@ -1,15 +1,15 @@
 ﻿# Interactive
 # Reviewed, overall, using mostly beginner friendly words from LLPSI
 
-[ Not holding items ]=[Non habens res]
-[Cannot pull valve]=[Non possum trahere valvam]
-[Hands full]=[Manibus plenis]
-[Nothing to store]=[Nihil condere]
-[Pulling cord]=[Trahens lineam]
-[Pulling valve]=[Trahens valvam]
+[ Not holding items ]=[Rēs nōn habēs]
+[Cannot pull valve]=[Valvam trahere nōn potes]
+[Hands full]=[Manūs tuae plēnae]
+[Nothing to store]=[Condere nihil habēs]
+[Pulling cord]=[Līneam trahis]
+[Pulling valve]=[Valvam trahis]
 
 # Close: Wait while the ship [comes] to land
-[Wait for ship to land]=<size\=12>[Exspecta dum nāvis appropinquat terram]</size>
+[Wait for ship to land]=<size\=12>[Exspectāre dēbēs dum nāvis ad terram dēscendit]</size>
 
 # A-M
 r:"^Access terminal(.*)"=Ūtere computātrum$1
@@ -19,13 +19,13 @@ r:"^Charge item(.*)"=Renovā rem$1
 
 r:"^Climb(.*)"=Ascende$1
 r:"^Close(.*)"=Claude$1
-r:"^Close door(.*)"=Claude ianuam$1
-Confirm: [B]   |   Rotate: [R]   |   Store: [X]=Cōnfirma: [B]   |   Rotā: [R]   |   Conde: [X]
-Confirm: [Y]   |   Rotate: [L-shoulder]   |   Store: [B]=Cōnfirma: [Y]   |   Rotā: [L-shoulder]   |   Conde: [B]
+r:"^Close door(.*)"=Claude iānuam$1
+Confirm: [B]   |   Rotate: [R]   |   Store: [X]=Cōnfirmā: [B]   |   Rotā: [R]   |   Conde: [X]
+Confirm: [Y]   |   Rotate: [L-shoulder]   |   Store: [B]=Cōnfirmā: [Y]   |   Rotā: [L-shoulder]   |   Conde: [B]
 
 
 # rumpo, perdo, and frango are tempting but imply they would break the speaker
-r:"^Disable speaker(.*)"=<size\=10>Deactiva Loquentium$1</size>
+r:"^Disable speaker(.*)"=<size\=10>Exstingue loquentium$1</size>
 # sr:"^Drop(.*?):(.*?)$"=ut $1 cadat: $2
 
 r:"^Drop Airhorn(.*)"=<size\=10>Pōne cornū āērum$1</size>
@@ -155,107 +155,107 @@ r:"^Drop Yield sign(.*)"=<size\=10>Pōne signum cessandī$1</size>
 r:"^Drop Zap gun(.*)"=<size\=10>Pōne sclopētum ēlectricum$1</size>
 r:"^Drop Zap Gun(.*)"=<size\=10>Pōne sclopētum ēlectricum$1</size>
 
-Enter a tag...=Inscrībe signum...
-Enter server tag...=<size\=9>Inscrībe signum servātōriī...</size>
+Enter a tag...=Īnscrībe signum...
+Enter server tag...=<size\=9>Īnscrībe signum servātōriī...</size>
 r:"^Enter(.*)"=Intrā$1
 r:"^Enter(.*)"=Intrā$1
-r:"^Exit(.*)"=Exi$1
-r:"^Exit(.*)"=Exi$1
+r:"^Exit(.*)"=Exī$1
+r:"^Exit(.*)"=Exī$1
 
 # TODO: Might be a better word for switch
-r:"^Fire(.*)"=<size\=10>Ictūs $1</size>
-r:"^Flip switch(.*)"=Verte claviculam$1
-r:"^Flush(.*)"=Emitte:$1
-r:"^Get log(.*)"=<size\=10>Sume commentarium$1</size>
-r:"^Grab(.*)"=Sume$1
-r:"^Hold(.*)"=<size\=10>Tene$1</size>
-r:"^Hit Jack-o-Lantern(.*)"=<size\=10>Pulsa Jack O' Lantern$1</size>
-r:"^Hit pumpkin(.*)"=<size\=10>Pulsa Cucurbitam Pepo$1</size>
+r:"^Fire(.*)"=<size\=10>Mitte $1</size>
+r:"^Flip switch(.*)"=Verte mutatrum$1
+r:"^Flush(.*)"=Ēmitte:$1
+r:"^Get log(.*)"=<size\=10>Sūme commentārium$1</size>
+r:"^Grab(.*)"=Sūme$1
+r:"^Hold(.*)"=<size\=10>Tenē$1</size>
+r:"^Hit Jack-o-Lantern(.*)"=<size\=10>Pulsā Jack O' Lantern$1</size>
+r:"^Hit pumpkin(.*)"=<size\=10>Pulsā Cucurbitam Pepo$1</size>
 # Aspice is from LLPSI ch.8 to look at
 r:"^Inspect(.*)"=<size\=10>Aspice$1</size>
 
-r:"^Land ship(.*)"=Applica nāvem$1
+r:"^Land ship(.*)"=Dēscende nāvem ad terram$1
 r:"^Let go(.*)"=Relinque$1
 
 # TODO: is this actual glass like vitrum?
-r:"^Lift glass(.*)"=Tolle pōculum$1
+r:"^Lift glass(.*)"=Tolle vitrum$1
 r:"^Kick out (.*)"=$1 expelle?
 
 # N-Z
-r:"^Open(.*)"=Aperi$1
-r:"^Open door(.*)"=Aperi ianuam$1
-r:"^Open gift(.*)"=<size\=10>Aperi dōnum$1</size>
-r:"^Open hatch(.*)"=Aperi foramen$1
-r:"^Open(.*)"=<size\=10>Aperi$1</size>
+r:"^Open(.*)"=Aperī$1
+r:"^Open door(.*)"=Aperī iānuam$1
+r:"^Open gift(.*)"=<size\=10>Aperī dōnum$1</size>
+r:"^Open hatch(.*)"=Aperī iānuam$1
+r:"^Open(.*)"=<size\=10>Aperī$1</size>
 
 # TODO: Need to review usage, I'm unsure what the word for button is.
-r:"^Pet Cat(.*)"=<size\=10>Mulce fēlem$1</size>
-r:"^Pet cat(.*)"=<size\=10>Mulce fēlem$1</size>
-r:"^Place on door(.*)"=<size\=10>Pone in ianuam$1</size>
-r:"^Play record(.*)"=Lude grammophonum$1
-r:"^Pop up ladder(.*)"=<size\=10>Ascendē scālam $1</size>
-r:"^Power button(.*)"=<size\=10>Mūta potentiam $1</size>
-r:"^Pull cord(.*) \((.*)\)"=Trāhe līneam$1 (Tene)
+r:"^Pet Cat(.*)"=<size\=10>Mulcē fēlem$1</size>
+r:"^Pet cat(.*)"=<size\=10>Mulcē fēlem$1</size>
+r:"^Place on door(.*)"=<size\=10>Pōne in iānuam$1</size>
+r:"^Play record(.*)"=Lūde grammophonum$1
+r:"^Pop up ladder(.*)"=<size\=10>Ascende scālam $1</size>
+r:"^Power button(.*)"=<size\=10>Accende/exstingue potentiam $1</size>
+r:"^Pull cord(.*) \((.*)\)"=Trahe līneam$1 (Tene)
 r:"^Pull pin(.*)"=<size\=10>Trahe clāvem$1</size>
 r:"^Pull valve(.*)"=Trahe valvam$1
-r:"^Pull switch(.*)"=Trahe claviculam$1
+r:"^Pull switch(.*)"=Trahe mutatrum$1
 
-r:"^Quit terminal(.*)"=Exi computātrum$1
-r:"^Quit terminal : \[Start\]"=Exi computātrum : [Incipe]
+r:"^Quit terminal(.*)"=Exī computātrum$1
+r:"^Quit terminal : \[Start\]"=Exī computātrum : [Incipe]
 r:"^Reload(.*)"=<size\=10>Replē $1</size>
-r:"^Ring bell(.*)"=Pulsā Tintinnābulum$1
+r:"^Ring bell(.*)"=Pulsā tintinnābulum$1
 
 # Scande could work, Inspectā seems more beginner friendly
-r:"^Scan(.*)"=<size\=10>Inspectā$1</size>
-r:"^Scan for threat:(.*)"=<size\=10>Inspectā periculum$1</size>
-r:"^Sell item(.*)"=Vende rem$1
-r:"^Send voice(.*)"=<size\=10>Mitte vocem$1</size>
-r:"^Set candles(.*)"=Pone candēlābra$1
+r:"^Scan(.*)"=<size\=10>Īnspectā$1</size>
+r:"^Scan for threat:(.*)"=<size\=10>Īnspectā periculum$1</size>
+r:"^Sell item(.*)"=Vēnde rem$1
+r:"^Send voice(.*)"=<size\=10>Mitte vōcem$1</size>
+r:"^Set candles(.*)"=Pōne candelabra$1
 r:"^Sprint(.*)"=<size\=10>Curre$1</size>
-r:"^Squeeze(.*)"=<size\=10>Premē$1</size>
+r:"^Squeeze(.*)"=<size\=10>Preme$1</size>
 
 # Incipe LLPSI ch 13
 r:"^Spray(.*)"=<size\=10>Sparge$1</size>
-r:"^Shake can(.*)"=<size\=10>Quate amphoram$1</size>
-r:"^Start game(.*)"=Incipe ludum$1
+r:"^Shake can(.*)"=<size\=10>Quate ampullam$1</size>
+r:"^Start game(.*)"=Incipe lūdum$1
 r:"^Start ship(.*)"=Incipe nāvem$1
 r:"^Store item(.*)"=Conde rem$1
 r:"^Swing shovel(.*)"=<size\=10>Agitā pālam$1</size>
 r:"^Swing sign(.*)"=<size\=10>Agitā signum$1</size>
-r:"^Switch camera(.*)"=Muta camaram$1
-r:"^Switch lights(.*)"=Muta lucem$1
-r:"^Switch TV(.*)"=Muta tēlevīsiōnem$1
-r:"^Switch water(.*)"=Muta aquam$1
+r:"^Switch camera(.*)"=Mūtā 'camera'$1
+r:"^Switch lights(.*)"=Accende/exstingue lūcēs$1
+r:"^Switch TV(.*)"=Accende/exstingue tēlevīsiōnem$1
+r:"^Switch water(.*)"=Accende/exstingue aquam$1
 r:"^Take TZP(.*)"=<size\=10>Cape TZP$1</size>
-r:"^Tell autopilot ship to leave early(.*)(Hold)"=Dīc nāvem gubernatōrem reliquere prius$1Tene)
+r:"^Tell autopilot ship to leave early(.*)(Hold)"=Dīc nāvem gubernātōrem relīquēre, mox$1Tene)
 
-r:"^Toggle light(.*)"=<size\=10>Muta lucem$1</size>
-r:"^Toggle laser(.*)"=<size\=10>Muta indicem lūcis$1</size>
-r:"^Toggle music(.*)"=<size\=10>Muta musicam $1</size>
+r:"^Toggle light(.*)"=<size\=10>Accende/exstingue lūcem$1</size>
+r:"^Toggle laser(.*)"=<size\=10>Accende/exstingue indicem lūcis$1</size>
+r:"^Toggle music(.*)"=<size\=10>Accende/exstingue carmen $1</size>
 
 # Aiming for a "Change power" or "Toggle power"
-r:"^Turn on booster(.*)"=<size\=10>Activa propulsōrem $1</size>
-r:"^Turn on/off(.*)"=Muta potentiam$1
-r:"^Turn page(.*)"=<size\=10>Verte paginam$1</size>
-r:"^Turn safety on(.*)"=<size\=10>Modum tūtum āctīva $1</size>
-r:"^Turn safety off(.*)"=<size\=10>Modum tūtum dēsīne $1</size>
-r:"^Use Airhorn(.*)"=<size\=10>Ūtere cornū āērum$1</size>
-r:"^Use airhorn(.*)"=<size\=10>Ūtere cornū āērum$1</size>
+r:"^Turn on booster(.*)"=<size\=10>Vīve $1</size>
+r:"^Turn on/off(.*)"=Accende/exstingue$1
+r:"^Turn page(.*)"=<size\=10>Verte pāginam$1</size>
+r:"^Turn safety on(.*)"=<size\=10>Modum tutum accende $1</size>
+r:"^Turn safety off(.*)"=<size\=10>Modum tutum dēsine $1</size>
+r:"^Use Airhorn(.*)"=<size\=10>Cane cornū āērum$1</size>
+r:"^Use airhorn(.*)"=<size\=10>Cane cornū āērum$1</size>
 r:"^Use cash register(.*)"=<size\=10>Ūtere arcam pecūniārum$1</size>
-r:"^Use Clown horn(.*)"=<size\=10>Ūtere cornū scurrae$1</size>
-r:"^Use Clown Horn(.*)"=<size\=10>Ūtere cornū scurrae$1</size>
-r:"^Use door(.*)"=Ūtere ianuam$1
-r:"^Use DIY-Flashbang(.*)"=<size\=10>Ūtere bombam stupefactam domesticam$1</size>
-r:"^Use grenade(.*)"=<size\=10>Ūtere bombam$1</size>
-r:"^Use hairdryer(.*)"=<size\=10>Ūtere favōnium$1</size>
-r:"^Use horn(.*)"=<size\=10>Ūtere cornū$1</size>
-r:"^Use jetpack(.*)"=<size\=10>Ūtere saccum volātilis$1</size>
-r:"^Use key(.*)"=<size\=10>Ūtere clavem$1</size>
-r:"^Use ladder(.*)"=Ūtere scālam$1
+r:"^Use Clown horn(.*)"=<size\=10>Preme cornū scurrae$1</size>
+r:"^Use Clown Horn(.*)"=<size\=10>Preme cornū scurrae$1</size>
+r:"^Use door(.*)"=Aperī /claude iānuam$1
+r:"^Use DIY-Flashbang(.*)"=<size\=10>Accende bombam stupefactam domesticam$1</size>
+r:"^Use grenade(.*)"=<size\=10>Accende bombam$1</size>
+r:"^Use hairdryer(.*)"=<size\=10>Accende favōnium$1</size>
+r:"^Use horn(.*)"=<size\=10>Cane cornū$1</size>
+r:"^Use jetpack(.*)"=<size\=10>Impelle saccum volātilis$1</size>
+r:"^Use key(.*)"=<size\=10>Verte clavem$1</size>
+r:"^Use ladder(.*)"=Ascende/dēscende scālam$1
 r:"^Use Large axle(.*)"=<size\=10>Ūtere axem magnum$1</size>
 r:"^Use remote(.*)"=<size\=10>Ūtere remotum$1</size>
-r:"^Use Television(.*)"=Ūtere televisiōnem$1
-r:"^Use Toilet(.*)"=Ūtere lātrīnam$1
+r:"^Use Television(.*)"=Accende/exstingue televisiōnem$1
+r:"^Use Toilet(.*)"=Ēmitte lātrīnam$1
 
-r:"^Walk(.*)"=<size\=10>Ambula$1</size>
+r:"^Walk(.*)"=<size\=10>Ambulā$1</size>
 
