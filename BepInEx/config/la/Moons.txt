@@ -1,12 +1,65 @@
+# Location
+# Reviewed
+
+# A-M
+(Eclipsed)=(Obscūrātum)
+
+
+# Planets/moons
+21 Offense=XXI Offēnsa
+220 Assurance=CCXX Fīdūcia
+31 March=XXXI Mārtius
+41 Experimentation=XLI Experīmentum
+56 Vow=LVI Vōtum
+61 March=LXI Mārtius
+7 Dine=VII Dine
+71 Gordion=LXXI Gordion
 8 Titan=VIII Titan
-Voiumya-10=X Voiumya
-Ouu-59=LIX Ouu
-Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Glaciālis, saxōsa. In hāc lūnā rēs quaesītae sunt. Facile est hīc errāre.
-Dangerous entities have been rumored to take residence in the vast network of tunnels.\n=Perīculōsae rēs in cuniculīs habitant.\n
+8 Titan=VIII Titan
+85 Rend=LXXXV Rend
 
+A competitive ecosystem supports aggressive lifeforms.=Oecosystēma certāminis vītās inimīcās sustinet.
+Abandoned=Dērelictum
+Arid. Thick haze, worsened by industrial artifacts.=Siccum. Nebula crassa, acerbāta a reliquiīs industriae.
+Can be accessed from terminal=Potes aperīre in computātrum.
+Dangerous entities have been rumored to take residence in the vast network of tunnels.\n=Perīculōsa animālia in hīs spēluncīs amplīs habitāre fāma est.\n
+Dangerous entities have been rumored to take residence in the vast network of tunnels.=Perīculōsa animālia in hīs spēluncīs amplīs habitāre fāma est.
+Diverse=Dīversum
+Dominated by a few species.=Pauca animālia speciālia dominantur.
+Eclipsed=obscūrātum
+Ecosystem supports territorial behaviour.=Oecosystēma mōrēs territōriālēs sustinet.
+Expansive. Constant rain.=Vāstum. Imber cōnstāns.
+Flooded=inundātum
+Foggy=nebulōsum
+Frozen, rocky. Its planet orbits a white dwarf star.=Glaciālis, saxōsa. Planēta sua stēllam albam pūmillam circumerrat.
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=Glaciālis, saxōsa. Lūna haec canāliciās opēs habuī. Hic errāre facile est.
+HAZARD LEVEL:=<size\=28>GRADUS PERĪCULĪ:</size>
+
+# Home camp. Sedes Domestica and Fundamentum Domus are tempting.
+Home base=Castra domestica
+Humid. Rough terrain. Teeming with plant-life.=Hūmidum. Terra aspera. Plantās multās habet.
+Jagged and weathered terrain. =Terra serrāta et aspera 
+Jagged and weathered terrain.=Terra serrāta et aspera
+# Primus or principale could make sense
+Main entrance=Iānuam prīmam
+
+# N-Z
+No land masses. Continual storms.=Nihil terra. Tempestātēs cōnstantēs.
 None=Nihil
-Frozen, rocky. Its planet orbits a white dwarf star.=Glaciālis, saxeus. Planeta orbitat stēllam nānam albam.
-Unlikely for complex life to exist.=Improbabile est ut vitae sapiens existant.
-
-
-Unknown\nWhere the Company resides.\n=Ignotus\nUbi Collēgium habitat.\n
+Ouu-59=LIX Ouu
+Oxygen critically low!=Oxygenium parvum valdē!
+Rainy=pluvium
+Safe=Tūtum
+Secure door=Ōstium sēcūritātis
+Stormy=turbidum
+Unknown\nWhere the Company resides.\n=Ignōta\nUbi collēgium habitat.\n
+Unknown=Ignōta
+Unlikely for complex life to exist.=Vītae sapientēs esse haud probābile sunt.
+Unlikely for complex life to exist=Vītae sapientēs esse haud probābile sunt
+Voiumya-10=X Voiumya
+Weather: Eclipsed=Caelum est obscūrātum
+Weather: Flooded=Caelum est inundātum
+Weather: Foggy=Caelum est nebulōsum
+Weather: Rainy=Caelum est pluvium
+Weather: Stormy=Caelum est turbidum
+Where the Company resides.=Ubi collēgium habitat.

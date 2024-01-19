@@ -1,6 +1,6 @@
 ﻿# Creatures
 # Reviewed, using the scientific names that were included in the games description for monsters
-# Here's a comment
+
 Baboon hawk=Papio accipiter
 Bracken=Bracken
 Bunker spider=Arānea mūnīmentī

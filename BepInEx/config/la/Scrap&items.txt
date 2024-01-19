@@ -14,7 +14,7 @@ r:"^Body$"=Corpus
 # Arcā sonōrum - box of sounds, Cistella tonitrūs thunder box
 r:"^Boombox$"=Arca carminum
 r:"^Bottles$"=Lagoenae
-r:"^Brake lever$"=Lēvis frenī ; TODO
+r:"^Brake lever$"=Lēvis frenī
 r:"^Brass bell$"=Tintinnābulum aerāriī
 r:"^Brush$"=Pēniculus capillōrum
 r:"^Bubblegum$"=Gummi bullātum

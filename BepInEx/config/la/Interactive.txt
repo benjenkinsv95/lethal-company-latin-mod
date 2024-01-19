@@ -8,7 +8,7 @@
 [Pulling cord]=[Līneam trahis]
 [Pulling valve]=[Valvam trahis]
 
-# Close: Wait while the ship [comes] to land
+
 [Wait for ship to land]=<size\=12>[Exspectāre dēbēs dum nāvis ad terram dēscendit]</size>
 
 # A-M
@@ -24,7 +24,6 @@ Confirm: [B]   |   Rotate: [R]   |   Store: [X]=Cōnfirmā: [B]   |   Rotā: [R]
 Confirm: [Y]   |   Rotate: [L-shoulder]   |   Store: [B]=Cōnfirmā: [Y]   |   Rotā: [L-shoulder]   |   Conde: [B]
 
 
-# rumpo, perdo, and frango are tempting but imply they would break the speaker
 r:"^Disable speaker(.*)"=<size\=10>Exstingue loquentium$1</size>
 # sr:"^Drop(.*?):(.*?)$"=ut $1 cadat: $2
 
@@ -101,8 +100,8 @@ r:"^Drop Mug(.*)"=<size\=10>Pōne pōculum$1</size>
 r:"^Drop Old phone(.*)"=<size\=10>Pōne telephonum antīquum$1</size>
 r:"^Drop Old Phone(.*)"=<size\=10>Pōne telephonum antīquum$1</size>
 r:"^Drop Painting(.*)"=<size\=10>Pōne pictūram$1</size>
-r:"^Drop Perfume bottle(.*)"=<size\=10>Pōne unguentarium$1</size>
 r:"^Drop Perfume(.*)"=<size\=10>Pōne unguentarium$1</size>
+r:"^Drop Perfume bottle(.*)"=<size\=10>Pōne unguentarium$1</size>
 r:"^Drop Pickle Jar(.*)"=<size\=10>Pōne ūllam cucumerum in mūriā$1</size>
 r:"^Drop Pill bottle(.*)"=<size\=10>Pōne ampullam medicīnam$1</size>
 r:"^Drop Plastic fish(.*)"=<size\=10>Pōne piscem plasticum$1</size>
@@ -162,8 +161,8 @@ r:"^Enter(.*)"=Intrā$1
 r:"^Exit(.*)"=Exī$1
 r:"^Exit(.*)"=Exī$1
 
-# TODO: Might be a better word for switch
 r:"^Fire(.*)"=<size\=10>Mitte $1</size>
+# TODO: Might be a better word for switch
 r:"^Flip switch(.*)"=Verte mutatrum$1
 r:"^Flush(.*)"=Ēmitte:$1
 r:"^Get log(.*)"=<size\=10>Sūme commentārium$1</size>
@@ -177,7 +176,6 @@ r:"^Inspect(.*)"=<size\=10>Aspice$1</size>
 r:"^Land ship(.*)"=Dēscende nāvem ad terram$1
 r:"^Let go(.*)"=Relinque$1
 
-# TODO: is this actual glass like vitrum?
 r:"^Lift glass(.*)"=Tolle vitrum$1
 r:"^Kick out (.*)"=$1 expelle?
 
@@ -244,13 +242,13 @@ r:"^Use airhorn(.*)"=<size\=10>Cane cornū āērum$1</size>
 r:"^Use cash register(.*)"=<size\=10>Ūtere arcam pecūniārum$1</size>
 r:"^Use Clown horn(.*)"=<size\=10>Preme cornū scurrae$1</size>
 r:"^Use Clown Horn(.*)"=<size\=10>Preme cornū scurrae$1</size>
-r:"^Use door(.*)"=Aperī /claude iānuam$1
+r:"^Use door(.*)"=Aperī/claude iānuam$1
 r:"^Use DIY-Flashbang(.*)"=<size\=10>Accende bombam stupefactam domesticam$1</size>
 r:"^Use grenade(.*)"=<size\=10>Accende bombam$1</size>
 r:"^Use hairdryer(.*)"=<size\=10>Accende favōnium$1</size>
 r:"^Use horn(.*)"=<size\=10>Cane cornū$1</size>
 r:"^Use jetpack(.*)"=<size\=10>Impelle saccum volātilis$1</size>
-r:"^Use key(.*)"=<size\=10>Verte clavem$1</size>
+r:"^Use key(.*)"=Verte clavem$1
 r:"^Use ladder(.*)"=Ascende/dēscende scālam$1
 r:"^Use Large axle(.*)"=<size\=10>Ūtere axem magnum$1</size>
 r:"^Use remote(.*)"=<size\=10>Ūtere remotum$1</size>
@@ -258,4 +256,5 @@ r:"^Use Television(.*)"=Accende/exstingue televisiōnem$1
 r:"^Use Toilet(.*)"=Ēmitte lātrīnam$1
 
 r:"^Walk(.*)"=<size\=10>Ambulā$1</size>
+r:"^Wear mask(.*)"=<size\=10>Gere persōnam$1</size>
 
