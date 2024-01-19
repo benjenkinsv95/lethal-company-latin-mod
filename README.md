@@ -41,6 +41,9 @@ Once the mods are installed, you can play it in latin by clicking the "Modded pl
 
 Theses can occur for many reasons in lethal company, but sometimes it is because the lobby is using a mod like ["More company"](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) which makes it impossible to join, unless you download More company yourself.
 
+![Screenshot (582)](https://github.com/benjenkinsv95/lethal-company-latin-mod/assets/6377344/b8b9392c-24d6-4318-8fbf-041cc274279d)
+
+
 ### Recommended Mods
 
 #### Supported (Optional) Mods
