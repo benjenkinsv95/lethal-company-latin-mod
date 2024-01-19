@@ -1,4 +1,7 @@
 # Changelog
+# 2.3.2 Remove sharedassets file and heavily reviewed Moons.txt and weather translations
+Research: https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/46#issuecomment-1899644029
+
 # 2.3.0 Heavily reviewed translations and macrons of creatures, scrap, and items
 1. New scrap and items: https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/32#issuecomment-1893014092
 2. New creature names: https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/31#issuecomment-1891067445
