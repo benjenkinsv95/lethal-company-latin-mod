@@ -1,4 +1,7 @@
 # Changelog
+# 2.3.3 Using HI Paws WAV files
+His music sounds so much better than before. This is delightful. (Also, download the HI Paws Latin Boombox mod for a separate boombox with more music).
+
 # 2.3.2 Remove sharedassets file and heavily reviewed Moons.txt and weather translations
 Research: https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/46#issuecomment-1899644029
 
