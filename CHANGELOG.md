@@ -1,4 +1,7 @@
 # Changelog
+# 2.3.4 Add missing license for roman-numerals package
+Add missing license
+
 # 2.3.3 Using HI Paws WAV files
 His music sounds so much better than before. This is delightful. (Also, download the HI Paws Latin Boombox mod for a separate boombox with more music).
 
