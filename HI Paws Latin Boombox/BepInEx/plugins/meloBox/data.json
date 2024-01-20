@@ -1,9 +1,9 @@
 {
 	"name": "HI Paws",
-	"description": "Latina carmina grammatica ex 'HI Paws'",
-	"price": 5,
+	"description": "Latina carmina grammatica a 'HI Paws'",
+	"price": 0,
 	"volume": 0.7,
-	"red": 255,
-	"blue": 255,
-	"green": 0
+	"red": 198,
+	"blue": 115,
+	"green": 255
 }
