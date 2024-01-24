@@ -12,7 +12,7 @@
 [Wait for ship to land]=<size\=12>[Exspectāre dēbēs dum nāvis ad terram dēscendit]</size>
 
 # A-M
-r:"^Access terminal(.*)"=Ūtere computātrum$1
+r:"^Access terminal(.*)"=Ūtere computātrō$1
 r:"^Beam up(.*)"=Ascende$1
 # "Electrifica rem" might also work, but seems less beginner friendly
 r:"^Charge item(.*)"=Renovā rem$1
@@ -84,7 +84,7 @@ r:"^Drop Inverse Teleporter(.*)"=<size\=10>Pōne transportātorem inversum$1</si
 r:"^Drop Jack O' Lanter(.*)"=<size\=10>Pōne Jack O' Lantern$1</size>
 r:"^Drop Jar of pickles(.*)"=<size\=10>Pōne ūllam cucumerum in mūriā$1</size>
 r:"^Drop Jetpack(.*)"=<size\=10>Pōne saccum volātilis$1</size>
-r:"^Drop Key(.*)"=Pōne clāvem$1
+r:"^Drop Key(.*)"=<size\=10>Pōne clāvem$1</size>
 r:"^Drop Large axle(.*)"=<size\=10>Pōne axem magnum$1</size>
 r:"^Drop Laser pointer(.*)"=<size\=10>Pōne indicem lūcis$1</size>
 r:"^Drop Lockpicker(.*)"=<size\=10>Pōne apertorem clāvium$1</size>
@@ -239,7 +239,7 @@ r:"^Turn safety on(.*)"=<size\=10>Modum tutum accende $1</size>
 r:"^Turn safety off(.*)"=<size\=10>Modum tutum dēsine $1</size>
 r:"^Use Airhorn(.*)"=<size\=10>Cane cornū āērum$1</size>
 r:"^Use airhorn(.*)"=<size\=10>Cane cornū āērum$1</size>
-r:"^Use cash register(.*)"=<size\=10>Ūtere arcam pecūniārum$1</size>
+r:"^Use cash register(.*)"=<size\=10>Ūtere arcā pecūniārum$1</size>
 r:"^Use Clown horn(.*)"=<size\=10>Preme cornū scurrae$1</size>
 r:"^Use Clown Horn(.*)"=<size\=10>Preme cornū scurrae$1</size>
 r:"^Use door(.*)"=Aperī/claude iānuam$1
@@ -250,8 +250,8 @@ r:"^Use horn(.*)"=<size\=10>Cane cornū$1</size>
 r:"^Use jetpack(.*)"=<size\=10>Impelle saccum volātilis$1</size>
 r:"^Use key(.*)"=Verte clavem$1
 r:"^Use ladder(.*)"=Ascende/dēscende scālam$1
-r:"^Use Large axle(.*)"=<size\=10>Ūtere axem magnum$1</size>
-r:"^Use remote(.*)"=<size\=10>Ūtere remotum$1</size>
+r:"^Use Large axle(.*)"=<size\=10>Ūtere axe magne$1</size>
+r:"^Use remote(.*)"=<size\=10>Ūtere remotō$1</size>
 r:"^Use Television(.*)"=Accende/exstingue televisiōnem$1
 r:"^Use Toilet(.*)"=Ēmitte lātrīnam$1
 

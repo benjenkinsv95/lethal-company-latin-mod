@@ -135,7 +135,7 @@
 [Warning alarm]=[Signum monentis]
 [Warning beep]=[Sonitus monentis]
 [Web rustling]=[Aranea per retem ambulat.]
-and sign into your ship's computer terminal.=et ūtere computātrum nāvis tuae.
+and sign into your ship's computer terminal.=et ūtere computātrō nāvis tuae.
 asset great-great-great asset to the company-=Bonum magnum-magnum-magnum collēgiō,
 asset to great-great asset to the-=Bonum magnum-magnum collēgiō.
 for the duration of your contract.=per tempus pactionis tuae.

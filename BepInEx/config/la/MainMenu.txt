@@ -1,5 +1,5 @@
-﻿# Main menu
-# Reviewed
+﻿#### Main menu
+#### Reviewed
   CONFIRM=   Cōnfirma
   CONFIRM=   Cōnfirma
   DISABLED=DEACTIVATUM
@@ -31,7 +31,7 @@
 > Settings=> Optiōnēs
 > Set to defaults=<size\=14>> Redde ad prīstinum statum</size>
 
-# A-M
+#### A-M
 ACCESSIBILITY=<size\=16>Accessibilitās</size>
 Adjust screen brightness until the symbol on the right is barely visible.=Luminis schermi auge donec signum ad dextram vix videas.
 Allow remote connections=Permitte conexionēs remōtās
@@ -78,7 +78,7 @@ Maximized window=Fenestra maxima
 MODE: Push to talk=MODUS: Preme loquī
 MODE: Voice activation=MODUS: Vōcis activatio 
 
-# N-Z
+#### N-Z
 Name your server...=Nōmina servātōrem tuum...
 Online= Interrete
 Push to talk=Loquere pressa

@@ -41,7 +41,7 @@ Humid. Rough terrain. Teeming with plant-life.=Hūmidum. Terra aspera. Plantās 
 Jagged and weathered terrain. =Terra serrāta et aspera 
 Jagged and weathered terrain.=Terra serrāta et aspera
 # Primus or principale could make sense
-Main entrance=Iānuam prīmam
+Main entrance=Iānua prīma
 
 # N-Z
 No land masses. Continual storms.=Nihil terra. Tempestātēs cōnstantēs.
