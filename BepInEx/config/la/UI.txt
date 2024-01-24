@@ -1,20 +1,46 @@
 # UI
-# Manually reviewed by Ben
 
-# TODO: Review if this can be done.
-# 'Screams - Sep 13='Clāmōrēs - XIII Sept
-(Cannot hold until ship has landed)=(Nōn potest tenēre, dum nāvis attingit terram)
+### Special characters
+#### ✔️ (aiming for: you cannot hold, until the ship has descended to the earth/ground) https://latin.cactus2000.de/showverb.en.php?verb=descendere https://en.wiktionary.org/wiki/tenere#Latin 
+(Cannot hold until ship has landed)=(Nōn potes tenēre, dum nāvis dēscendit ad terram)
+
+#### 🌱  (should we use Mortuum, since they could be feminine?) https://en.wiktionary.org/wiki/mortuus#Latin
 (Dead)= (Mortuus) 
-(Radar booster)=(Radarīs augēns)
-(Removed score)=(Numerus delētus) 
-(Requires battery-powered item)=(Renovat rēs ēlectrīcās\nExempla: ambulans-loquēns aut lūmen portābile)
-(See how you compare to friends in the\nmain menu leaderboard!)=(Inspecta qualiter te cum amīcīs\n in principālī tabulā lūsōrum comparās!)
-(Spectating: )=(Spectāns: )
 
-[LIFE SUPPORT: OFFLINE]=[SUSTINERE VĪTAE: INACTĪVUS]
-[Near activity detected!]=[Proximē Actiō Dētēcta!]
-1 casualties: -0%\n(1 bodies recovered)=I interfectī: -Nulla%\n(I corpus salvātum)
-1 casualties: -20%\n(0 bodies recovered)=I interfectī: -XX%\n(Nulla corpora salvāta)
+####  🌱 (Should we use something besides radaris?) https://en.wiktionary.org/wiki/augens
+(Radar booster)=(Radarīs augēns)
+
+#### 🌱  (Anything better than numerus for the score?) https://en.wiktionary.org/wiki/numerus#Latin https://en.wiktionary.org/wiki/deletus
+(Removed score)=(Numerus dēlētus) 
+
+#### 🌱 (Very different translation. Players thought items that could be recharged were consumables, so going for "Renew electrical items. Examples walkie talkie and flashlight" https://en.wiktionary.org/wiki/renovat#Latin 
+(Requires battery-powered item)=(Renovat rēs ēlectricās\nExempla: Locūtor portābilis aut lanterna)
+
+#### 🌱 https://en.wiktionary.org/wiki/inspecta#Latin https://latin.cactus2000.de/showverb.en.php?verb=comparare 
+(See how you compare to friends in the\nmain menu leaderboard!)=(Īnspectā qualiter tē cum amīcīs\n in prīncipālī tabulā lūsōrum comparās!)
+
+#### ✔️  (You are watching) https://en.wiktionary.org/wiki/spectas
+(Spectating: )=(Spectās: )
+
+#### ✔️ https://en.wiktionary.org/wiki/iterum#Latin https://en.wiktionary.org/wiki/lude#Latin
+[ Play again ]=[ Iterum lūde ]
+
+#### 🌱 https://en.wiktionary.org/wiki/dele#Latin
+[ Remove my score ]=[ Numerum meum dēlē ]
+
+#### ❓ (Sustained life: inactive (inert)) https://en.wiktionary.org/wiki/sustentus#Latin https://en.wiktionary.org/wiki/iners#Latin
+[LIFE SUPPORT: OFFLINE]=[SUSTENTA VĪTA: INERS]
+
+#### ✔️ https://en.wiktionary.org/wiki/agitatio#Latin https://en.wiktionary.org/wiki/propinquus#Latin https://en.wiktionary.org/wiki/inventus#Latin
+[Near activity detected!]=[Agitātiōnem propinquam inventa est]
+
+
+#### ✔️ https://en.wiktionary.org/wiki/primigenius#Latin https://en.wiktionary.org/wiki/redde#Latin https://en.wiktionary.org/wiki/statum#Latin
+> Set to defaults=<size\=14>> Redde ad statum prīmigenium</size>
+
+#### ✔️ Corpus is 3rd neuter https://en.wiktionary.org/wiki/corpus#Latin https://en.wiktionary.org/wiki/salvatus#:~:text=salv%C4%81tus%20(feminine%20salv%C4%81ta%2C%20neuter%20salv%C4%81tum,saved%20(made%20safe)  https://en.wiktionary.org/wiki/interfectus#:~:text=interfectus%20(feminine%20interfecta%2C%20neuter%20interfectum,killed%2C%20destroyed
+1 casualties: -0%\n(1 bodies recovered)=I interfectus: -Nullus%\n(I corpus salvātum)
+1 casualties: -20%\n(0 bodies recovered)=I interfectus: -XX%\n(Nulla corpora salvāta)
 120 FPS=CXX FPS
 144 FPS=CXLIV FPS
 2 casualties: -0%\n(2 bodies recovered)=II interfectī: -Nulla%\n(II corpora salvāta)
@@ -32,364 +58,637 @@
 4 casualties: -80%\n(0 bodies recovered)=IV interfectī: -LXXX%\n(Nulla corpora salvāta)
 60 FPS=LX FPS
 
-# A-M
-Alert! The autopilot is leaving due to dangerous conditions.=CAVE! Gubernator prōpter pericula condiciones relinquit
-ALERT!=CAVE!
-An error occurred!=Error factus est!
-# typo
-An error occured!=Error factus est!
-AS MUCH\nPROFIT AS\nPOSSIBLE=QUAM MAXIMUS LUCRUM POSSUMUS
+### A - F
+#### ✔️ (stata pericula pl n.) https://en.wiktionary.org/wiki/cave#Latin https://en.wiktionary.org/wiki/gubernator#Latin https://en.wiktionary.org/wiki/automatarius#Latin https://en.wiktionary.org/wiki/relinquit
+Alert! The autopilot is leaving due to dangerous conditions.=CAVĒ! Gubernātor automatārius propter stata pericula relinquit.
+#### ✔️
+ALERT!=CAVĒ!
 
+#### ✔️ https://en.wiktionary.org/wiki/erratum#Latin https://en.wiktionary.org/wiki/factus#Latin
+An error occured!=Errātum factum est!
+An error occurred!=Errātum factum est!
 
+#### ✔️  https://en.wiktionary.org/wiki/maximus#Latin https://en.wiktionary.org/wiki/lucrum#Latin
+AS MUCH\nPROFIT AS\nPOSSIBLE=QUAM LUCRUM MAXIMUM  POSSUMUS
 
-# This seems tough, displosio seems like a more modern word for explosion
-# https://www.latin-is-simple.com/en/vocabulary/noun/8622/
-Blast=Displosio
-bludgeoning=percussiō
-# Tough: proprius is llpsi ch 35 for special,
-# DIVULGATUS - emphasizes the action of actively broadcasting or disseminating the code.
-BROADCASTED SPECIAL CODE=CŌDEX PROPRIUS DIVULGATUS
-Buy flashlights and travel to new planets!=<size\=7>Eme lanternas et\niter fac ad planetās novās!</size>
-Can't stay closed forever=<size\=8>Nōn potest manēre\nclausum sēmper</size>
-r:"^Cat (.*)"=Fēlēs $1
+#### 🌱  https://en.wiktionary.org/wiki/mutatus#Latin https://en.wiktionary.org/wiki/res#Latin https://en.wiktionary.org/wiki/rogantur https://en.wiktionary.org/wiki/lusor#Latin
+Asking all other players for installed mods..=Omnēs lūsōrēs aliōs rēbus mūtātīs rogantur...
+
+#### 🌱 (explosion) https://en.wiktionary.org/wiki/displosio#Latin
+Blast=Displosiō
+#### ❓ (lashed) https://en.wiktionary.org/wiki/verberatus#Latin
+bludgeoning=verberātus
+
+#### 🌱 This is a part of a ranking (intern, part time, employee?, boss) https://en.wiktionary.org/wiki/princeps#Latin 
+Boss=Prīnceps
+
+#### ✔️ https://en.wiktionary.org/wiki/codex#Latin https://en.wiktionary.org/wiki/praecipuus#Latin https://en.wiktionary.org/wiki/pronuntiatus#Latin
+BROADCASTED SPECIAL CODE=CŌDEX PRAECIPUUS PRŌNŪNTIĀTUS EST
+
+#### ✔️ https://en.wiktionary.org/wiki/eme#Latin https://en.wiktionary.org/wiki/lanterna#Latin https://en.wiktionary.org/wiki/planeta#Latin 
+Buy flashlights and travel to new planets!=<size\=7>Eme lanternās et\niter fac ad planētās novās!</size>
+
+#### ✔️ https://en.wiktionary.org/wiki/manere#Latin https://en.wiktionary.org/wiki/semper#Latin https://en.wiktionary.org/wiki/clausum#Latin
+Can't stay closed forever=<size\=8>Nōn potest manēre\nclausum semper</size>
+
+#### ✔️ https://en.wiktionary.org/wiki/feles#Latin
 Cat=Fēlēs
-CHALLENGE RESULTS:=CERTĀMINIS EXITUS:
+
+####  ❓ (it is a long gun)https://en.wiktionary.org/wiki/causa#Latin https://en.wiktionary.org/wiki/mortis#Latin (
+Cause of death: Gunshots=Causa mortis: ictī sclopētī
+
+#### 🌱 (Mulcatum might also make sense) https://en.wiktionary.org/wiki/mulco#Latin https://en.wiktionary.org/wiki/sectio#Latin
+Cause of death: Mauling=Causa mortis: sectiō
+
+#### ✔️ https://en.wiktionary.org/wiki/eventus#Latin
+CHALLENGE RESULTS:=ĒVENTŪS CERTĀBUNDUS:
+# ✔️
 CHALLENGE=CERTĀMEN
-sr:"Challenge Moon (.*) Results"=Lūnae Certāminis $1 Exitus
-Change suit=Indue: Vestīmentum aurantium
-Change: Beige Suit=Indue: Vestīmentum 'beige'
-Change: Black Suit=Indue: Vestīmentum atrum
-Change: Blue Suit=Indue: Vestīmentum caeruleum
-Change: Bubblegum Suit=Indue: Vestīmentum 'bubblegum' roseum
-Change: Green suit=Indue: Vestīmentum viride
-Change: Green Suit=Indue: Vestīmentum viride
-Change: Hazard suit=Indue: Vestīmentum perīculōsum
-Change: Lime Suit=Indue: Vestīmentum 'lime' viride
-Change: Pajama suit=Indue: Vestīmentum nocturnum
-Change: Pink Suit=Indue: Vestīmentum roseum
-Change: Purple suit=Indue: Vestīmentum purpureum
-Change: Purple Suit=Indue: Vestīmentum purpureum
-Change: Red Suit=Indue: Vestīmentum rubrum
-Change: Storm Suit=Indue: Vestīmentum tempestātis
-Change: White Suit=Indue: Vestīmentum album
-Change: Yellow Suit=Indue: Vestīmentum flāvum
-r:"^Change: (.+)$"=Mūta: $1
-# Red, Yellow, Beige, Green, Lime, Storm, Pink, Bubblegum, White, Black
 
+#### https://en.wiktionary.org/wiki/vestimentum#Latin https://en.wiktionary.org/wiki/indue#Latin
+#### ✔️ https://en.wiktionary.org/wiki/aurantius
+Change suit=Indue: Vestīmenta aurantia
+#### ❓
+Change: Beige Suit=Indue: Vestīmenta 'beige'
 
-Confirm changes?=Cōnfirmā Mūtātiōnēs?
-Continue=Confīrmā
-Controller connected = Imperium iungitur
-Controller disconnected = Imperium abīvitur
-Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Cōnnectiō ad servātōrēs STEAM dēfēcit!
-(Sī in retī locālī sōlum lūdere cupis,
-ēlige 'Locale Rete' cum lūdum incipis.)
+#### ✔️  (negra might work too) https://en.wiktionary.org/wiki/atra#Latin
+Change: Black Suit=Indue: Vestīmenta ātra
+
+#### ✔️ https://en.wiktionary.org/wiki/caerulea
+Change: Blue Suit=Indue: Vestīmenta caerulea
+
+#### ❓  https://en.wiktionary.org/wiki/rosea#Latin
+Change: Bubblegum Suit=Indue: Vestīmenta 'bubblegum' rosea
+
+#### ✔️ https://en.wiktionary.org/wiki/viridia#Latin
+Change: Green suit=Indue: Vestīmenta viridia
+Change: Green Suit=Indue: Vestīmenta viridia
+
+#### ✔️ https://en.wiktionary.org/wiki/periculosa
+Change: Hazard suit=Indue: Vestīmenta perīculōsa
+
+#### ❓ https://en.wiktionary.org/wiki/viridia#Latin
+Change: Lime Suit=Indue: Vestīmenta 'lime' viridia
+
+#### ✔️  https://en.wiktionary.org/wiki/nocturna#Latin
+Change: Pajama suit=Indue: Vestīmenta nocturna
+
+#### ✔️ https://en.wiktionary.org/wiki/rosea#Latin
+Change: Pink Suit=Indue: Vestīmenta rosea
+
+#### ✔️ https://en.wiktionary.org/wiki/purpurea#Latin
+Change: Purple suit=Indue: Vestīmenta purpurea
+Change: Purple Suit=Indue: Vestīmenta purpurea
+
+#### ✔️  https://en.wiktionary.org/wiki/rubra#Latin
+Change: Red Suit=Indue: Vestīmenta rubra
+
+#### ✔️  https://en.wiktionary.org/wiki/tempestuosus#Latin
+Change: Storm Suit=Indue: Vestīmenta tempestuōsa
+
+#### ✔️ https://en.wiktionary.org/wiki/alba?oldformat=true#Latin
+Change: White Suit=Indue: Vestīmenta alba
+
+#### ✔️ https://en.wiktionary.org/wiki/flava#Latin
+Change: Yellow Suit=Indue: Vestīmenta flāva
+
+#### ✔️ https://en.wiktionary.org/wiki/confirma#Latin https://en.wiktionary.org/wiki/mutationes
+Confirm changes?=Cōnfirmā mūtātiōnēs?
+#### ✔️ 
+Continue=Cōnfīrmā
+
+#### ❓ https://en.wiktionary.org/wiki/disiungitur https://en.wiktionary.org/wiki/iungitur https://en.wiktionary.org/wiki/moderator#Latin
+Controller connected = Moderātor iūnxit
+Controller disconnected = Moderātor disiūnxit
+
+#### ❓ (Server?) Simplifying to "Do you want to play in local network mode?" https://en.wiktionary.org/wiki/velis#Latin https://en.wiktionary.org/wiki/ludere#Latin https://en.wiktionary.org/wiki/modus#Latin https://en.wiktionary.org/wiki/localis#Latin
+Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Non potest iungēre STEAM servātōrum (Velīsne lūdere in modō localī rēte?)
+
+#### ✔️ https://en.wiktionary.org/wiki/operarii
 CREW:=OPERĀRIĪ:
 
-# vulnus llpsi ch 33, cicero uses criticus in Ad Familiares IX
+#### ✔️ https://en.wiktionary.org/wiki/vulnus#Latin https://en.wiktionary.org/wiki/criticus#Latin
 CRITICAL INJURY=VULNUS CRITICUS
-DarthRevan=Quīntus
+
+#### ✔️
 Darth Revan=Quīntus
+DarthRevan=Quīntus
+
+#### 🌱 https://en.wiktionary.org/wiki/finis#Latin
+DEADLINE:\n NOW=FĪNIS: \nNUNC
+
+#### ✔️ https://en.wiktionary.org/wiki/mortuus#Latin
 Deceased=Mortuus 
-DEADLINE:\n NOW=FINIS: \nNUNC
-# TODO Controlores feels bad
-Door controls=Instrumenta ianuarum
-DOOR HYDRAULICS:=<size\=19>Ianua hydraulica:</size>
-Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Nunc, abiice tuas res metallicas! Electricitas animadversa est.  Secunda tibi superfuerunt ut vīvās.
-EMPLOYEE RANK=GRADUS OPERARIORUM
-Employee=Operarius
 
-Error! Could not get the lobby data. Are you offline?=Error! Non potui data servātōris accipere. Nonne in interrēte es?
+#### ✔️ https://en.wiktionary.org/wiki/ianua#Latin https://en.wiktionary.org/wiki/instrumenta#Latin (large ship door)
+Door controls=Īnstrūmenta iānuae
 
+#### ❓ unknown macrons for hydraulicae https://latin-dictionary.net/definition/22418/hydraulicus-hydraulica-hydraulicum https://en.wiktionary.org/wiki/ianua#Latin 
+DOOR HYDRAULICS:=<size\=19>hydraulicae iānuae :</size>
 
-Fines=Poenae
-FIRE EXIT=EXITUS IGNIS
-Got scrap!=Reliquiam sumpsī!
-# https://morcus.net/dicts?q=gunshot,SnH
-Gunshots=Ictus sclopēti
-HANDS FULL=MANUS PLENAE
-HALT!=Exspectā!
-HOW WAS YOUR DAY?=QUID HODIĒ FĒCISTĪ?
-# Lesser worker
-Intern=Operarius minor
-# Inventarium shows up in ~AD 200
-Inventory full!=Inventārium plēnum!
-Item collected!=Res collēcta est!
-Items missed!=Rēs neglēctae!
-The vehicle returned with your purchased items. Our delivery fee cannot be refunded.=Currus, cum rēbus quās ēmistī, reversus est. Nōn licet mercedem trānsportātiōnis restituere.
+#### ❓  (deorsum is questionable, since it is an adverb, i think I want an adj.)
+Down Arrow=Sagitta deorsum
+
+#### https://en.wiktionary.org/wiki/metallicus#Latin https://en.wiktionary.org/wiki/pones#Latin
+Drop your metallic items now! A static charge has been detected. You have seconds left to live.=Nunc, rēs metallicās pōnēs! Ēlectricita inventa est. Secundās habeās ut vivas.
+
+#### ✔️ (gradus might also work) https://en.wiktionary.org/wiki/operarii https://en.wiktionary.org/wiki/ordo#Latin
+EMPLOYEE RANK=ŌRDŌ OPERĀRIĪ
+
+Employee=Operārius
+
+#### ✔️ https://en.wiktionary.org/wiki/servator#Latin https://en.wiktionary.org/wiki/accipere  https://en.wiktionary.org/wiki/potuit
+Error! Could not get the lobby data. Are you offline?=Errātum! Data servātōris non potuit accipere. Nōnne in interrēte es?
+
+#### ❓ (Damnum, multae, et poenae are tempting) https://en.wiktionary.org/wiki/damnum#Latin https://en.wiktionary.org/wiki/multa#Latin
+Fines=Multae
+
+#### 🌱  Fiery exit (a genitive for fire might make sense too) https://en.wiktionary.org/wiki/igneus#Latin
+FIRE EXIT=EXITUS IGNEUS
+
+#### ✔️ https://en.wiktionary.org/wiki/inventus#Latin https://en.wiktionary.org/wiki/diurni#Latin https://en.wiktionary.org/wiki/commentarii
+Found journal entry: 'Screams - Sep 13'=Commentāriī diurnī inventī sunt: 'Clāmōrēs - XIII Sept'
+
+### G-M
+
+#### ✔️ (got a remain https://en.wiktionary.org/wiki/reliquia#Latin)
+Got scrap!=Reliquam sūmpsī!
+
+#### ❓ it is a long gun, so sclopeti
+Gunshots=Ictī sclopētī
+
+#### ✔️
+HALT!=Manē!
+
+#### 🌱 (from interactive.txt research)
+HANDS FULL=Manūs tuae plēnae
+
+#### 🌱 This seems very literal https://en.wiktionary.org/wiki/quomodo#Latin https://en.wiktionary.org/wiki/dies#Latin
+HOW WAS YOUR DAY?=Quōmodo erat diēs tuus?
+
+#### 🌱 (Should we use a different gender?) A rank https://en.wiktionary.org/wiki/minor#Latin https://en.wiktionary.org/wiki/operarius#Latin
+Intern=Operārius minor
+
+#### ✔️ https://en.wiktionary.org/wiki/plenum#Latin https://en.wiktionary.org/wiki/inventarium#Latin
+Inventory full!=Inventārium plēnum est!
+
+#### ✔️
+Item collected!=Rēs collēcta est!
+
+#### ✔️ https://en.wiktionary.org/wiki/reliquus#Latin
+Items missed!=Rēs reliquae sunt!
+
+#### ✔️ (Kick from lobby) https://en.wiktionary.org/wiki/expelle
 Kick=Expelle
-Lands the ship.=<size\=8>Nāvis descendit\nad terram.</size>
-Leader=Dux
-LOADING WORLD...=Ad mundum dēscenditur... 
-Loading ranking...=Gradus inveniendi...
-Loading server list...=Servātōrum index rēnovātur...
 
-Locked=Clūsus
-# Implies cutting, llpsi ch 29
+#### ✔️ (More descriptive) https://en.wiktionary.org/wiki/descendit#Verb
+Lands the ship.=<size\=8>Nāvis dēscendit\nad terram.</size>
+
+#### ✔️ Another rank 
+Leader=Dux
+
+#### ✔️ Leaving ALT, CTRL, SHIFT, the same as the keyboard
+Left Alt=ALT sinister
+Left Arrow=Sagitta sinistra
+Left Control=CTRL sinister
+Left Shift=SHIFT sinister
+
+#### ✔️ (Finding rank) https://en.wiktionary.org/wiki/invenit#Latin
+Loading ranking...=Ōrdō invenit...
+
+#### ❓ (Finding list of servers)
+Loading server list...=Index servātōrum invenit...
+
+#### ✔️ ("You are descending to the world" (since it happens at the same time as loading) https://en.wiktionary.org/wiki/descendis https://en.wiktionary.org/wiki/mundum#Latin
+LOADING WORLD...=Ad mundum dēscendis... 
+
+#### ✔️ https://en.wiktionary.org/wiki/occlusus#Latin
+Locked=Occlūsa
+
+#### ❓ 
 Mauling=Sectiō
 
-# N-R
-New creature data sent to terminal!=Animalibus novīs data ad computātrum missa!
-NEW PROFIT QUOTA:=<size\=40>NOVA QUOTA LŪCRĪS: </size>
-No available servers to join.=Nūllī servātōrēs praestō sunt quī iungantur.
+#### ❓ List of changes https://en.wiktionary.org/wiki/mutatus#Latin 
+Mod List:=Index mūtātōrum:
+
+#### N-Q
+#### ✔️ https://en.wiktionary.org/wiki/sine#Latin
+Nameless=Sine nōmine
+
+#### ❓ (i'm unsure if data really works here)
+New creature data sent to terminal!=Data nova animālis ad computātrum missae sunt!
+
+#### ✔️ (New quota of profit) https://en.wiktionary.org/wiki/quota#Latin https://en.wiktionary.org/wiki/lucrum#Latin 
+NEW PROFIT QUOTA:=<size\=40>QUOTA NOVA LUCRĪ: </size>
+
+#### 🌱 (TODO review grammar) https://en.wiktionary.org/wiki/nullus#Latin https://en.wiktionary.org/wiki/servator#Latin https://en.wiktionary.org/wiki/praesto#Latin https://latin.cactus2000.de/showverb.en.php?verb=iugare
+No available servers to join.=Praestō, nūllī servātōrēs sunt quī iugās.
+
+#### ✔️
 None=Nihil
 
+#### ✔️ https://en.wiktionary.org/wiki/optio#Latin
+Option A=Optiō A
 
-Option A=Optio A
-Paycheck!=Merces!
-PERFORMANCE REPORT=RELATIO OPERIS
-# Something using Gubernator could be fun
-PILOT COMPUTER=Computātor Navigātōrius
+#### ✔️ https://en.wiktionary.org/wiki/operarius#Latin https://en.wiktionary.org/wiki/partitus#Latin https://en.wiktionary.org/wiki/temporalis#Latin
+Part-timer=Operārius temporālis partītus 
+
+#### ✔️ https://en.wiktionary.org/wiki/merces#Latin
+Paycheck!=Mercēs!
+
+#### ✔️ https://en.wiktionary.org/wiki/functio#Latin https://en.wiktionary.org/wiki/functio#Latin
+PERFORMANCE REPORT=ĒVENTUS FŪNCTIŌNIS
+
+#### 🌱 Gubernātor computātrālis https://en.wiktionary.org/wiki/computatralis#Latin
+PILOT COMPUTER=Gubernātor computātrālis
+
+#### ✔️ https://en.wiktionary.org/wiki/lusor#Latin
 Player=Lūsor
-[ Play again ]=[ Iterum lūde ]
+
+#### ✔️ https://en.wiktionary.org/wiki/preme#Latin 
 Press "/" to talk.=Preme '/' loquī.
+
+#### ✔️ https://en.wiktionary.org/wiki/neges#Latin https://en.wiktionary.org/wiki/ponas#Latin 
+Press B to move and place objects in the ship, E to cancel.=Preme B ut rēs in nāvī movēas et pōnās, preme E ut negēs.
+
+#### ✔️ https://latin.cactus2000.de/showverb.en.php?verb=inspicere https://en.wiktionary.org/wiki/vertas#Latin 
+Press Z to inspect closely. Press Q and E to flip the pages.=Preme Z ut prope īnspiciās. Preme Q et E ut pāginās vertās.
+
+#### ✔️ https://en.wiktionary.org/wiki/pretium#Latin
 Price=Pretium
-PRIVATE means you must send invites through Steam for players to join.=PRĪVĀTUS significat tē per Steam debēre mittere invītātiōnēs ut lūsōrēs sē iungant
-PUBLIC means your game will be visible on the server list for all to see.=PŪBLICUS significat lūdum tuum in indīce servātōrum ut omnibus esse visūrum.
+
+#### 🌱 (conveniant might make more sense than iungant) https://en.wiktionary.org/wiki/significat#Latin  https://en.wiktionary.org/wiki/invitationes https://en.wiktionary.org/wiki/debes https://latin.cactus2000.de/showverb.en.php?verb=mittere https://en.wiktionary.org/wiki/iungant
+PRIVATE means you must send invites through Steam for players to join.=PRĪVĀTUS significat, per Steam invitātiōnēs dēbēs mittere, ut lūsōrēs sē iungant.
+
+#### 🌱 https://en.wiktionary.org/wiki/publicus#Latin https://en.wiktionary.org/wiki/indice#Latin 
+PUBLIC means your game will be visible on the server list for all to see.=PŪBLICUS significat, lūdus tuus in indice servātōrum ut omnibus esse vīsūrus.
+
+#### ✔️ https://en.wiktionary.org/wiki/publicus#Latin
 Public=Pūblicus
+
+#### ✔️
 Push to talk:=Preme loquī: 
-QUOTA REACHED!=<size\=40>QUOTA COMPLETA!</size>
+
+#### ✔️ https://en.wiktionary.org/wiki/completus#Latin
+QUOTA REACHED!=<size\=36>QUOTA COMPLĒTA EST!</size>
+Quota reached=Quota complēta est
 Quota=Quota
-RECEIVING SIGNAL=Signal Acceptum
-[ Remove my score ]=[ Numerum meum delē ]
-r:"^(.*) \n ?AM"=AM $1
-r:"^(.*) \n ?PM"=PM $1
-# TODO potential roman numerals (Automate)
-r:"^(.*) EXP$"=$1 EXP
-r:"^(.*) FPS$"=FPS $1
 
 
+#### 🌱 (iunxit may be confusing) https://en.wiktionary.org/wiki/adiit 
 r:"(.*) joined the ship"=$1 nāvem adiit
-# r:"([\s\S]+) joined the ship."=$1 nāvem adiit.
-r:"DarthRevan(.+?)joined the ship(.+?)"=Quīntus nāvem adiit.
-r:"Player #0(.+?)joined the ship(.+?)"=Lūsor nullus nāvem adiit.
-r:"Player #1(.+?)joined the ship(.+?)"=Lūsor I nāvem adiit.
-r:"Player #2(.+?)joined the ship(.+?)"=Lūsor II nāvem adiit.
-r:"Player #3(.+?)joined the ship(.+?)"=Lūsor III nāvem adiit.
-r:"Player #4(.+?)joined the ship(.+?)"=Lūsor IV nāvem adiit.
-r:"Player #5(.+?)joined the ship(.+?)"=Lūsor V nāvem adiit.
-sr:"(.*) #(\d)(.+?)joined the ship(.+?)"=$1 $2 nāvem adiit.
-r:"Player #0$"=Lūsor nullus
-r:"Player #1$"=Lūsor I 
-r:"Player #2$"=Lūsor II 
-r:"Player #3$"=Lūsor III 
-r:"Player #4$"=Lūsor IV 
-r:"Player #5$"=Lūsor V 
 
-# r:"^Player #0$"=(Spectāns:  )
+#### ✔️ https://latin.cactus2000.de/showverb.en.php?verb=abesse
+r:"(.+)disconnected"=$disiūnxit.
 
-# TODO potential roman numerals
-r:"^5 (Days|Day) Left$"=V Diēs rēliquī
-r:"^4 (Days|Day) Left$"=IV Diēs rēliquī
-r:"^3 (Days|Day) Left$"=III Diēs rēliquī
-r:"^2 (Days|Day) Left$"=II Diēs rēliquī
-r:"^1 (Days|Day) Left$"=I Diēs rēliquī
-r:"^0 (Days|Day) Left$"=Nulla Diēs rēliquī
-
-# Using servata
-# TODO potential roman numerals
-r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectī: $2\n ($3 corpora salvāta) 
-# departed (simpler)
-r:"(.+)disconnected"=$1abīvitur.
-r:"(.+)was kicked"=$1expulsus est.
-r:"(.+)was left behind"=$1relictus est.
-r:"^The server host disconnected."=Hospes servātōris abīvitur.
-r:"Player #0(.+?)started the ship(.+?)$"=Lūsor nullus nāvem incēpit $2
-r:"Player #1(.+?)started the ship(.+?)$"=Lūsor I nāvem incēpit $2
-r:"Player #2(.+?)started the ship(.+?)$"=Lūsor II nāvem incēpit $2
-r:"Player #3(.+?)started the ship(.+?)$"=Lūsor III nāvem incēpit $2
-r:"Player #4(.+?)started the ship(.+?)$"=Lūsor IV nāvem incēpit $2
-r:"Player #5(.+?)started the ship(.+?)$"=Lūsor V nāvem incēpit $2
-sr:"DarthRevan(.+?)started the ship(.+?)$"=Quīntus nāvem incēpit $2
-# sr:"(.*)Player #(\d)(.+?)started the ship"=$1$2 $3 nāvem incēpit$4
-sr:"(.+)started the ship"=$1nāvem incēpit.
+#### ✔️ https://en.wiktionary.org/wiki/incepit
 r:"(.+)started the ship"=$1nāvem incēpit.
 
+#### ✔️ https://latin.cactus2000.de/adject/showadj_en.php?n=piger
+r:"(.+)The laziest employee"=$1Operārius pigerrimus
+
+#### ✔️ https://en.wiktionary.org/wiki/expulsus#Latin
+r:"(.+)was kicked"=$1expulsus est.
+
+#### ✔️ https://en.wiktionary.org/wiki/relictus
+r:"(.+)was left behind"=$1relictus est.
+
+#### ✔️
+r:"^(.*) \n ?AM"=AM $1
+r:"^(.*) \n ?PM"=PM $1
+r:"^(.*) EXP$"=$1 EXP
+r:"^(.*) FPS$"=$1 FPS
+
+#### ✔️ https://en.wiktionary.org/wiki/semen#Latin  https://en.wiktionary.org/wiki/fortuitus#Latin
+r:"^(.*)Random seed(.*)"=Sēmen fortuītum$2
+
+#### ✔️ links above
+r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectus (-ī): $2\n ($3 corpus salvātus)\n(corpora salvāta) 
+
+#### 🌱 (Mods = res mutatas) https://en.wiktionary.org/wiki/respondit
+r:"^(.+) responded with these mods:\n(.+)"=$1 Rēs mūtātās hās  respondit:\n$2
+
+#### ✔️ links above
 r:"^(.+) was left behind"=$1 relictus est
-r:"^(Current input device: \n)(.*)$"=Instrumenta imposita praesēns: $2
-# TODO potential roman numerals
+
+#### 🌱 (input device seems tough) https://en.wiktionary.org/wiki/praesens#Latin https://en.wiktionary.org/wiki/instrumentum#Latin https://en.wiktionary.org/wiki/impositus#Latin
+r:"^(Current input device: \n)(.*)$"=Īnstrūmentum impositum praesēns: $2
+
+#### ✔️
 r:"^\(([0-9]+)/([0-9]+) Votes\)$"=($1/$2 Suffrāgia)
-r:"^\(0/2 Votes\)$"=(Nulla/II Suffrāgia)
+r:"^\(0/2 Votes\)$"=(Nūlla/II Suffrāgia)
+r:"^\(0/3 Votes\)$"=(Nūlla/III Suffrāgia)
+r:"^\(0/4 Votes\)$"=(Nūlla/IV Suffrāgia)
 r:"^\(1/2 Votes\)$"=(I/II Suffrāgia)
-r:"^\(2/2 Votes\)$"=(II/II Suffrāgia)
-r:"^\(0/3 Votes\)$"=(Nulla/III Suffrāgia)
 r:"^\(1/3 Votes\)$"=(I/III Suffrāgia)
-r:"^\(2/3 Votes\)$"=(II/III Suffrāgia)
-r:"^\(3/3 Votes\)$"=(III/III Suffrāgia)
-r:"^\(0/4 Votes\)$"=(Nulla/IV Suffrāgia)
 r:"^\(1/4 Votes\)$"=(I/IV Suffrāgia)
+r:"^\(2/2 Votes\)$"=(II/II Suffrāgia)
+r:"^\(2/3 Votes\)$"=(II/III Suffrāgia)
 r:"^\(2/4 Votes\)$"=(II/IV Suffrāgia)
+r:"^\(3/3 Votes\)$"=(III/III Suffrāgia)
 r:"^\(3/4 Votes\)$"=(III/IV Suffrāgia)
 r:"^\(4/4 Votes\)$"=(IV/IV Suffrāgia)
 
-r:"^\(Spectating: Player\)$"=(Spectāns:  Lūsor)
+#### ✔️ (you are watching)
+r:"^\(Spectating: (.+)\)$"=(Spectās: $1)
+r:"^\(Spectating: Player\)$"=(Spectās:  lūsōrem)
 
-r:"^\(Spectating: (.+)\)$"=(Spectāns: $1)
-r:"^\[Cooldown : (.+)s\]$"=[Mora $1s]
-r:"^\[MODDED\](.+?)$"=[Mōdificātum]$1
+#### ✔️ https://en.wiktionary.org/wiki/mora#Latin
+r:"^\[Cooldown : (.+)s\]$"=[Mora: $1 secundae ]
+r:"^\[Cooldown : 0s\]$"=[Mora: Nūlla secunda]
+r:"^\[Cooldown : 1s\]$"=[Mora: $1 secunda]
+
+#### ✔️ https://en.wiktionary.org/wiki/habes#Latin
+r:"^\[MODDED\](.+?)$"=[Rēs mūtātās habēs]$1
+
+#### ❓  (I can't find a good term for "numbers left")
+r:"^0 (Days|Day) Left$"=Nūlla diēs reliquus
+r:"^1 (Days|Day) Left$"=I Diēs rēliquus
+r:"^2 (Days|Day) Left$"=II Diēs reliquī
+r:"^3 (Days|Day) Left$"=III Diēs reliquī
+r:"^4 (Days|Day) Left$"=IV Diēs reliquī
+r:"^5 (Days|Day) Left$"=V Diēs reliquī
+
+#### ✔️
 r:"^Body of (.+)$"=Corpus quod est [noun]
-r:"^Casualties \((.+)\): (.+)$"=Interfectī ($1): $2
 
-sr:"^CELESTIAL BODY: (.+?)$"=CORPUS COELESTIS: $1
-r:"^CELESTIAL BODY: 8 Titan$"=CORPUS COELESTIS: VIII Titan
-r:"^CELESTIAL BODY: 21 Offense$"=CORPUS COELESTIS: XXI Offensa
-r:"^CELESTIAL BODY: 220 Assurance$"=CORPUS COELESTIS: CCXX Fīdūcia
-r:"^CELESTIAL BODY: 31 March$"=CORPUS COELESTIS: XXXI March
-r:"^CELESTIAL BODY: 41 Experimentation$"=CORPUS COELESTIS: XLI Experimentum
-r:"^CELESTIAL BODY: 56 Vow$"=CORPUS COELESTIS: LVI Votum
-r:"^CELESTIAL BODY: 61 March$"=CORPUS COELESTIS: LXI Martius
-r:"^CELESTIAL BODY: 71 Gordion$"=CORPUS COELESTIS: LXXI Gordion
-r:"^CELESTIAL BODY: 85 Rend$"=CORPUS COELESTIS: LXXXV Rend
+#### ✔️
+r:"^Casualties \((.+)\): (.+)$"=($1): $2 interfectī
 
-# TODO potential roman numerals (tough)
-r:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps taken: (.+?)$"=Diēs in opere: $1\nPretium reliquiae collēctae: $2\nMortēs: $3\nGradūs factī: $4
-r:"^DEADLINE:\n0 Days$"=FINIS: \nNULLA DĪES!
-r:"^DEADLINE:\n1 Days$"=FINIS: \nI DĪES
-r:"^DEADLINE:\n2 Days$"=FINIS: \nII DĪES
-r:"^DEADLINE:\n3 Days$"=FINIS: \nIII DĪES
-r:"^DEADLINE:\n4 Days$"=FINIS: \nIV DĪES
-r:"^DEADLINE:\n5 Days$"=FINIS: \nV DĪES
-r:"^DEADLINE:\n6 Days$"=FINIS: \nVI DĪES
-r:"^DEADLINE:\n7 Days$"=FINIS: \nVII DĪES
-r:"^DEADLINE:\n8 Days$"=FINIS: \nVIII DĪES
-r:"^DEADLINE:\n9 Days$"=FINIS: \nIX DĪES
-r:"^DEADLINE:\n(1[0-9]+) Days$"=FINIS: \n$1 DĪES
+#### ✔️
+r:"^Cat (.*)"=Fēlēs $1
+
+#### ❓ (corpus caeleste "celestial body ~ astronomical object") moons from: https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/46 
+r:"^CELESTIAL BODY: 21 Offense$"=CORPUS CAELESTE: XXI Offēnsa
+r:"^CELESTIAL BODY: 220 Assurance$"=CORPUS CAELESTE: CCXX Fīdūcia
+r:"^CELESTIAL BODY: 31 March$"=CORPUS CAELESTE: XXXI Mārtius
+r:"^CELESTIAL BODY: 41 Experimentation$"=CORPUS CAELESTE: XLI Experīmentum
+r:"^CELESTIAL BODY: 56 Vow$"=CORPUS CAELESTE: LVI Vōtum
+r:"^CELESTIAL BODY: 61 March$"=CORPUS CAELESTE: LXI Mārtius
+r:"^CELESTIAL BODY: 71 Gordion$"=CORPUS CAELESTE: LXXI Gordion
+r:"^CELESTIAL BODY: 8 Titan$"=CORPUS CAELESTE: VIII Titan
+r:"^CELESTIAL BODY: 85 Rend$"=CORPUS CAELESTE: LXXXV Rend
+
+#### ✔️ https://en.wiktionary.org/wiki/muta#Latin
+r:"^Change: (.+)$"=Mūtā: $1
+
+
+#### ✔️
+r:"^Climb(.*)"=Ascende$1
+
+#### ✔️ (changed to "Steps walked") https://en.wiktionary.org/wiki/operarius#Latin https://en.wiktionary.org/wiki/pretium#Latin  https://en.wiktionary.org/wiki/reliquus https://en.wiktionary.org/wiki/mors#Latin https://latin.cactus2000.de/showverb.en.php?verb=ambulare&gen=0&voc=0 
+sr:"^Days on the job: (.+?)\nScrap value collected: (.+?)\nDeaths: (.+?)\nSteps taken: (.+?)$"=Diēs operāriae: $1\nPretium reliquum collēctum est: $2\nMortēs: $3\nGradūs ambulāvit: $4
+
+#### ✔️ (link above)
+r:"^DEADLINE:\n(1[0-9]+) Days$"=FĪNIS: \n$1 DĪES
+r:"^DEADLINE:\n0 Days$"=FĪNIS: \nNULLA DĪES!
+r:"^DEADLINE:\n1 Days$"=FĪNIS: \nI DĪES
+r:"^DEADLINE:\n2 Days$"=FĪNIS: \nII DĪES
+r:"^DEADLINE:\n3 Days$"=FĪNIS: \nIII DĪES
+r:"^DEADLINE:\n4 Days$"=FĪNIS: \nIV DĪES
+r:"^DEADLINE:\n5 Days$"=FĪNIS: \nV DĪES
+r:"^DEADLINE:\n6 Days$"=FĪNIS: \nVI DĪES
+r:"^DEADLINE:\n7 Days$"=FĪNIS: \nVII DĪES
+r:"^DEADLINE:\n8 Days$"=FĪNIS: \nVIII DĪES
+r:"^DEADLINE:\n9 Days$"=FĪNIS: \nIX DĪES
+
+#### ✔️ https://en.wiktionary.org/wiki/debitum#Latin
 r:"^DUE: \$([0-9]+)$"=Dēbitum: $1 AU
+
+#### ✔️ https://en.wiktionary.org/wiki/tabella#Latin 
 r:"^File 1$"=<size\=13>Tabella\nprīma</size>
 r:"^File 2$"=<size\=13>Tabella\nsecunda</size>
 r:"^File 3$"=<size\=13>Tabella\ntertia</size>
-r:"^MONITORING: (.+)$"=Spectāns:  $1
-r:"^MONITORING:(.+)Player$"=(Spectāns:  Lūsor)
-r:"^MONITORING:(.+)Player #0$"=(Spectāns:  Lūsor nullus)
-r:"^MONITORING:(.+)Player #1$"=(Spectāns:  Lūsor I)
-r:"^MONITORING:(.+)Player #2$"=(Spectāns:  Lūsor II)
-r:"^MONITORING:(.+)Player #3$"=(Spectāns:  Lūsor III)
-r:"^MONITORING:(.+)Player #4$"=(Spectāns:  Lūsor IV)
-r:"^MONITORING:(.+)Player #5$"=(Spectāns:  Lūsor V)
-r:"^MONITORING:(.+)Player #6$"=(Spectāns:  Lūsor VI)
+r:"^File 4$"=<size\=13>Tabella\nquārta</size>
+r:"^File 5$"=<size\=13>Tabella\nquīnta</size>
 
-r:"^Overtime bonus: (.+)$"=Extra tempus merces:  $1
-sr:"^PROFIT QUOTA:\n\$(\d*) / \$(\d*)(.*)"=<size\=60> QUOTA\n LŪCRĪ: \n $1 / $2\n AU</size>
-# r:"^(.*)Random seed: ([0-9]+)(.*)$"=Forte semen: $2
-r:"^(.*)Random seed(.*)"=Forte semen $2
+#### ✔️ (Simplifying: You are watching)
+r:"^MONITORING: (.+)$"=Spectās:  $1
+r:"^MONITORING:(.+)Player #0$"=(Spectās:  lūsōrem nūllum)
+r:"^MONITORING:(.+)Player #1$"=(Spectās:  lūsōrem I)
+r:"^MONITORING:(.+)Player #2$"=(Spectās:  lūsōrem II)
+r:"^MONITORING:(.+)Player #3$"=(Spectās:  lūsōrem III)
+r:"^MONITORING:(.+)Player #4$"=(Spectās:  lūsōrem IV)
+r:"^MONITORING:(.+)Player #5$"=(Spectās:  lūsōrem V)
+r:"^MONITORING:(.+)Player #6$"=(Spectās:  lūsōrem VI)
+r:"^MONITORING:(.+)Player$"=(Spectās:  lūsōrem )
+
+#### ❓ https://en.wiktionary.org/wiki/merces#Latin
+r:"^Overtime bonus: (.+)$"=Mercēs extrā tempus :  $1
+
+#### ✔️
+r:"^Page (.+)/(.+)$"=Pāgina $1/$2
+
+#### ✔️
+r:"^SHIP: \$(.+)$"=NĀVIS: $1 AU
+#### https://en.wiktionary.org/wiki/hospes#Latin
+
+#### ✔️
+r:"^The server host disconnected."=Hospes servātōris disiūnxit.
+
+#### 🌱https://en.wiktionary.org/wiki/mox https://en.wiktionary.org/wiki/suffragium#:~:text=vote,(Late%20Latin)%20help%2C%20support 
+r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=CAVĒ!\n Quaesō, tempore $1 redī. Suffrāgium factum est, et mox gubernātor automatārius nāvis relinquet.
+
+#### ✔️
+r:"DarthRevan(.+?)joined the ship(.+?)"=Quīntus nāvem adiit.
+r:"Player #0(.+?)joined the ship(.+?)"=Lūsor nullus nāvem adiit.
+r:"Player #0(.+?)started the ship(.+?)$"=Lūsor nullus nāvem incēpit $2
+r:"Player #0$"=Lūsor nūllus
+r:"Player #1(.+?)joined the ship(.+?)"=Lūsor I nāvem adiit.
+r:"Player #1(.+?)started the ship(.+?)$"=Lūsor I nāvem incēpit $2
+r:"Player #1$"=Lūsor I 
+r:"Player #2(.+?)joined the ship(.+?)"=Lūsor II nāvem adiit.
+r:"Player #2(.+?)started the ship(.+?)$"=Lūsor II nāvem incēpit $2
+r:"Player #2$"=Lūsor II 
+r:"Player #3(.+?)joined the ship(.+?)"=Lūsor III nāvem adiit.
+r:"Player #3(.+?)started the ship(.+?)$"=Lūsor III nāvem incēpit $2
+r:"Player #3$"=Lūsor III 
+r:"Player #4(.+?)joined the ship(.+?)"=Lūsor IV nāvem adiit.
+r:"Player #4(.+?)started the ship(.+?)$"=Lūsor IV nāvem incēpit $2
+r:"Player #4$"=Lūsor IV 
+r:"Player #5(.+?)joined the ship(.+?)"=Lūsor V nāvem adiit.
+r:"Player #5(.+?)started the ship(.+?)$"=Lūsor V nāvem incēpit $2
+r:"Player #5$"=Lūsor V 
+
+#### ✔️
+RECEIVING SIGNAL=Signālem accipit
+
+#### ✔️
+Right Alt=ALT dexter
+Right Arrow=Sagitta dextra
+Right Control=CTRL dexter
+Right Shift=SHIFT dexter
 
 
+### S-Z
+#### ✔️ https://en.wiktionary.org/wiki/pecunia#Latin
+Sell scrap for cash.=Vēnde reliquam pecūniīs.
 
-r:"^SHIP: \$(.+)$"=NAVIS: $1 AU
-# TODO potential roman numerals
-# r:"^TOTAL: (.+)$"=Tōtus: $1
-# r:"^Value: \$(.+)"=Pretium: $1 AU
-r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship will leave early.$"=CAVE!\n Quaesō, redi tempore $1. Suffragium factum est, et nāvis gubernator relinquet.
-
-# S-Z
-Sell scrap for cash.=Vende reliquam pecuniam.
-> Set to defaults=<size\=14>> Redde ad prīstinum statum </size>
+#### ❓ (is in needed?)
 Ship leaving in one hour=Nāvis in ūnā hōrā relinquet
-sr:"^(.+?)collected!$"=$1 collectum est！
+
+#### ✔️https://en.wiktionary.org/wiki/aranea#Latin
+SPIDER=Arānea
+
+#### ✔️ The space around `nāvem` may be incorrect (will have to verify in game). 
+sr:"(.*) #(\d)(.+?)joined the ship(.+?)"=$1 $2 nāvem adiit.
+sr:"(.+)started the ship"=$1nāvem incēpit.
+
+#### ✔️ https://en.wiktionary.org/wiki/collectum
+sr:"^(.+?)collected!$"=$1collēctum est！
+
+#### ✔️
 sr:"^Cause of death: (.+)$"=Causa mortis:  $1
 
-sr:"^Found journal entry: (.+)$"=Invēnī līber inscriptionis: $1 
-# sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae:  \n* $1\n* $2\n* $3 \n* $4\n
-sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=<size\=25>Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\n</size>
-sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\nWeather: (.+?)$"=<size\=25>Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\nCaelum est $5.</size>
-sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=<size\=25>Circumdare $1\nPōpulatio: $2\nCondiciōnēs: $3\nFauna: $4</size>
-sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=<size\=25>Circumdare：$1\nPōpulatio：$2\nCondiciōnēs：$3\nFauna：$4$5$6</size>
-sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=<size\=25>Circumdare：$1\nPōpulatio：$2\nCondiciōnēs：$3\nFauna：$4\nCaelum est $5.</size>
+#### ❓
+sr:"^CELESTIAL BODY: (.+?)$"=CORPUS CAELESTE: $1
 
-sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Pōpulatio: $2\nCondiciōnēs: $3\nFauna: $4\n
-sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Pōpulatio: $1\nCondiciōnēs: $2\nFauna: $3
-# Simplified, but accurate-ish?
-SPIDER=Aranea
-Stats=Numeri
+#### ✔️
+sr:"^Found journal entry:(.+)$"=Commentāriī diurnī inventī sunt:$1
+
+#### ✔️ (fauna refers to animals) https://en.wiktionary.org/wiki/orbita#Latin https://en.wiktionary.org/wiki/status#Latin https://en.wiktionary.org/wiki/status#Latin
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=<size\=25>In orbitā: $1\nPopulātio: $2\nStatūs: $3\nAnimālia: $4\n</size>
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\nWeather: (.+?)$"=<size\=25>In orbitā: $1\nPopulātio: $2\nStatūs: $3\nAnimālia: $4\nCaelum est $5.</size>
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=<size\=25>In orbitā: $1\Populātio: $2\nStatūs: $3\nAnimālia: $4</size>
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=<size\=25>In orbitā: $1\nPopulātio: $2\nStatūs:$3\nAnimālia：$4$5$6</size>
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=<size\=25>In orbitā: $1\nPopulātio: $2\nStatūs:$3\nAnimālia：$4\nCaelum est $5.</size>
+sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Populātio: $2\nStatūs: $3\nAnimālia: $4\n
+sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Populātio: $1\nStatūs: $2\nAnimālia: $3
+
+
+#### links above
+sr:"^PROFIT QUOTA:\n\$(\d*) / \$(\d*)(.*)"=<size\=60> QUOTA\n LŪCRĪ: \n $1 / $2\n AU</size>
+
+#### 
+sr:"^Welcome to\n(.*)"=Salvē, ad $1
+
+#### ("Results of challenging moon") https://en.wiktionary.org/wiki/luna#Latin
+sr:"Challenge Moon (.*) Results"= Eventūs lūnae certābundae: $1 
+
+sr:"DarthRevan(.+?)started the ship(.+?)$"=Quīntus nāvem incēpit$2
+
+
+#### [dīcās](https://latin.cactus2000.de/showverb.en.php?verb=dicere)
+sr:"TIP!: Hold (.*) to vote for the autopilot ship\nto leave early."=MONITUM!: Tene $1 ut nāvem gubernātōrem relīquēre dīcās, mox
+
+#### ❓
+Stats=Numerī
+
+#### https://morcus.net/dicts?q=strangulation&in=SnH
 Strangulation=Strangulātiō
 
-SYSTEMS ONLINE=<size\=32>SYSTEMAE INTERRETE</size>
+#### ("Machine connected to the internet")  https://latin.cactus2000.de/showverb.en.php?verb=connectere&gen=0&voc=0https://en.wiktionary.org/wiki/machina#Latin
+SYSTEMS ONLINE=<size\=22>MĀCHINA AD\nINTERRĒTE CONNEXUĪ</size>
+
+Tab=TAB
+
 Terminal=Computātrum
-The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Gubernator nunc conabitur ad proximum portum spatii tūtum volāre. Res tuae abiectae sunt.
-The Company must minimize risk of damage to proprietary hardware. Goodbye!=Collēgium dēbet minuere vulnus ad ferrāmentōrum suōrum. Valē!
-The file will NOT save! Your ship must be in orbit.=Tabella NON servābitur! Nāvis tua in orbitā esse debet.
-r:"(.+)The laziest employee"=$1Operarius pigrissimus
 
-The host has not loaded or has already landed their ship.=Hospēs nōndum accessit aut iam nāvem suam ad terram attigit.
 
-The server is full!=Servātor iam plēnus est!
-This is the weekly challenge moon.\nYou have one day and one attempt to\nmake as much profit as possible.=<size\=12>Hoc est lūna certāminis hebdomadālis.\nŪnus diēs et ūna cōnātiō tibi dantur\nut quam maximē lūcrum faciās.</size>
+#### 🌱 https://en.wiktionary.org/wiki/portum#Latin https://en.wiktionary.org/wiki/conabitur https://en.wiktionary.org/wiki/proximus#Latin  https://en.wiktionary.org/wiki/tutum#Latin https://en.wiktionary.org/wiki/spatii https://en.wiktionary.org/wiki/abiectus#Latin
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=Nunc, gubernātor automatārius cōnābitur ut portum proximum tūtum spatiī volet. Rēs tuae abiectae sunt.
+
+#### 🌱 https://en.wiktionary.org/wiki/collegium#Latin https://en.wiktionary.org/wiki/debet#Latin https://en.wiktionary.org/wiki/minuere https://en.wiktionary.org/wiki/vulnus#Latin https://en.wiktionary.org/wiki/machinis 
+The Company must minimize risk of damage to proprietary hardware. Goodbye!=Collēgium dēbet minuere vulnera māchinīs suīs. Valē!
+
+#### ✔️
+The file will NOT save! Your ship must be in orbit.=Tabella NŌN servābitur! Nāvis tua in orbitā esse dēbet.
+
+
+####🌱 (descendit is perfect activ, but also present) https://en.wiktionary.org/wiki/hospes#Latin 
+The host has not loaded or has already landed their ship.=Hospes lūdum nōn incēpit vel iam sua nāvis ad terram dēscendit.
+
+
+#### ✔️ https://en.wiktionary.org/wiki/plenus#Latin
+The server is full!=Servātor plēnus est!
+
+#### ✔️ (In the store we use pretium for price, so just going with 'Our price cannot be refunded/returned' https://en.wiktionary.org/wiki/pretium#Latin https://en.wiktionary.org/wiki/debitum#Latin https://en.wiktionary.org/wiki/emptus#Latin https://en.wiktionary.org/wiki/refundere
+The vehicle returned with your purchased items. Our delivery fee cannot be refunded.=Vehiculum cum rēbus quibus ēmptīs redux est. Pretium nostrum nōn possum refundere.
+
+#### ✔️ https://latin.cactus2000.de/showverb.en.php?verb=colligere https://en.wiktionary.org/wiki/lucrum#Latin
+This is the weekly challenge moon.\nYou have one day and one attempt to\nmake as much profit as possible.=<size\=12>Haec est lūna certābunda hebdomadālis.\nŪna diēs et ūna cōnātiō habeās\nut lucrum maximum colligās.</size>
+
+#### ✔️
 TIP:=MONITUM: 
 Tip=Monitum
-Press B to move and place objects in the ship, E to cancel.=Preme B ad rēs in nāvī movendās et ponendās, E ad relinquendum.
-sr:"TIP!: Hold (.*) to vote for the autopilot ship\nto leave early."=MONITUM!: Tene $1 ut suffrāgium mittās\npro nāvī gubernātōre prius discedente.
-TO MEET PROFIT QUOTA=\nUt quota lucrī efficiātur
-To sell, use the terminal to route the ship to the company building.=Vendere, ūtere computātrum ut ducere nāvem ad aedificium collēgiī.
+
+#### ✔️(After "X DAYS REMAIN") https://latin.cactus2000.de/showverb.en.php?verb=colligere https://en.wiktionary.org/wiki/quota#Latin
+TO MEET PROFIT QUOTA=\nUt quotam lucrī colligās
+
+#### ❓ (Might be something more descriptive than tabulam, this probably refers to the employee training manual) https://en.wiktionary.org/wiki/lege#Latin
+To read the manual:=Lege disciplīnam:
+
+#### ✔️ (Should ūtere take the ablative? Or acc? Unsure.)
+To sell, use the terminal to route the ship to the company building.=Ūtere computātrō, ut nāvem ducās ad aedificium collēgiī, ut vendās.
+
+#### ❓ Matches a number and AU (ex 50 AU). I think masc sing since it is a single amount of aureus? But maybe since there are multiple gold coins (using AU for money) maybe Tōtī makes more sense to match Aurei? https://en.wiktionary.org/wiki/totus#Latin
 TOTAL:=Tōtus:
-Training manual=Liber operarii
-Typing...=Scribens...
-Uncapped=Sine limitibus
-Use the ship computer terminal to access secure doors.=Ūtere computātrum computrī nāvis ut intrare ianuas tutas.
-Useful info!=Informatiō ūtilis!
+#### ✔️ https://en.wiktionary.org/wiki/operarius#Latin https://en.wiktionary.org/wiki/disciplina#Latin
+Training manual=Disciplīna operāriī
+
+#### ✔️ https://en.wiktionary.org/wiki/scribens#:~:text=Present%20active%20participle%20of%20scr%C4%ABb%C5%8D%20(%E2%80%9CI%20write%E2%80%9D)
+Typing...=Scrībēns...
+
+
+#### ✔️  https://en.wiktionary.org/wiki/limes#Latin
+Uncapped=Sine līmitibus
+#### ✔️ 
+Unnamed=Sine nōmine
+#### ✔️ https://en.wiktionary.org/wiki/sursum#Latin
+Up Arrow=Sagitta sūrsum
+
+#### 🌱 https://en.wiktionary.org/wiki/securitates https://en.wiktionary.org/wiki/intres
+Use the ship computer terminal to access secure doors.=Ūtere computātrō nāvis ut ōstiua sēcūritātum intrēs.
+
+#### ✔️ https://morcus.net/dicts?q=inform%C4%81t%C4%ADo&in=LnS 
+Useful info!=Informātio ūtilis!
+
+#### ✔️ (used for items with hidden prices)
 Value: ???=Pretium:  ???
-VISIBILITY LOW!\n\nSteam leak detected in area=VISIBILITAS PARVA!\n\nVaporis perfluita invenitur in loco.
-Voice volume=Magnitūdō Vōcis
-Voted for ship to leave early=Censuit ut nāvis relinquat, prius.
-Waiting for crew...=Operāriīs exspectantibus...
-Warning! No response from crew, which has not returned. Emergency code activated.=CAVE! Nūlla respōnse ā operāriīs, quī nōn rediērunt. Cōdex emergentiae activātus est.
-WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=CAVE!!! Nāvis gubernātor ad mediam noctem relinquet. Celeriter redi, quaesō.
-Weather alert!=Tempestās, cavē!
-YOU ARE FIRED.=DĪSMISSUS ES.
-You did not meet the profit quota before the deadline.=Quotam lūcrī ante finem dierum nōn effecistī.
-You have landed in an eclipse. Exercise caution!=Ad obscūrātiōnem advēnistī. Cave!
-You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=<size\=14>Nulla diēs tibi reliquī sunt ad quota complenda.\nŪtere computātrum ut dūcere ad collēgium et vēndere.</size>
 
+#### ✔️ (Here, vapor has been found) https://en.wiktionary.org/wiki/vapor#Latin https://latin.cactus2000.de/showverb.en.php?verb=invenire&gen=0&voc=1
+VISIBILITY LOW!\n\nSteam leak detected in area=VĪSIBILITAS PARVA!\n\nHic, vapor aquae inventus sum.
 
+#### ✔️ https://morcus.net/dicts?q=magn%C4%ADt%C5%ABdo&in=LnS&o=1
+Voice volume=Magnitūdo vōcis
 
-r:"^Climb(.*)"=Ascende$1
-# sr:"^Drop (.+?): \[G\]$"=ut $1 cadat: [G]
-# sr:"^Drop (.+?): \[B\]$"=ut $1 cadat: [B]
-# Unknown, but scared to modify
-sr:"^(.+) \((.+)\)(.+)"=TEST $1 ($2): $3
+#### ✔️ https://en.wiktionary.org/wiki/relinqueret
+Voted for ship to leave early=Suffrāgium factum est ut nāvis prius relinqueret.
 
-#####
-Asking all other players for installed mods..=Omnibus aliīs lūdēns interrogantur dē modīs installātīs..
-Boss=Prīnceps
-Cause of death: Gunshots=Causa mortis: Ictūs sclopētī
-Cause of death: Mauling=Causa mortis: Sectiō
-Down Arrow=Sagitta Dēorsum
-Found journal entry: 'Screams - Sep 13'=Inventum est diurnum: 'Clāmōrēs - XIII Sept'
-Found journal entry: 'Smells here! - Aug 24'=Inventum est diurnum: 'Odorēs Hīc! - XXIV Aug'
-Found journal entry: 'Swing of things - Aug 27'=Inventum est diurnum: 'Rērum Cursūs - XXVII Aug'
-Left Alt=Alt Sinister
-Left Arrow=Sagitta Sinistra
-Left Control=Ctrl Sinister
-Left Shift=Shift Sinister
-Mod List:=Index Modōrum:
-# Most paranoid employee.=Operarius suspiciosissimus.
-# Most paranoid employee=Operarius suspiciosissimus
-# Most profitable.=Operarius lucratissimus.
-# Most profitable=Operarius lucratissimus
-Nameless=Nōmine Carent
-Part-timer=Operarius partalis temporis
-Press Z to inspect closely. Press Q and E to flip the pages.=Premē Z ad īnspectandam propinquē. Premē Q et E ad vertendās paginās.
-Quota reached=Quota adsecūta
-r:"^(.+) responded with these mods:\n(.+)"=$1 His modīs respondit:\n$2
-r:"^Page (.+)/(.+)$"=Pagina $1/$2
-Right Alt=Alt Dexter
-Right Arrow=Sagitta Dextra
-Right Control=Ctrl Dexter
-Right Shift=Shift Dexter
-sr:"^Found journal entry: (.+)$"=Inventum est diurnum: $1
-# sr:"^Notes: \n* (.+)\n* (.+)\n* (.+)\n* (.+)$\n"=Notae: \n* $1\n* $2\n* $3 \n* $4\n
-# Sustained the most injuries.=Plūrimā vulnera sustinuit.
-# Sustained the most injuries=Plūrimā vulnera sustinuit.
-Tab=Tab
-# The laziest employee.=Operarius pigrissimus.
-# The laziest employee=Operarius pigrissimus
-# The most paranoid employee.=Operarius suspiciosissimus.
-# The most paranoid employee=Operarius suspiciosissimus
-To read the manual:=Ad manuālem legendum:
-Unnamed=Nōmine Carent
-Up Arrow=Sagitta Sūrsum
-WAIT!=EXSPECTĀ!
+#### ✔️
+WAIT!=MANĒ!
+#### https://en.wiktionary.org/wiki/operarius#Latin
+Waiting for crew...=Operāriōs exspectat...
+
+#### ✔️ https://latin.cactus2000.de/showverb.en.php?verb=redire https://latin.cactus2000.de/showverb.en.php?verb=incipere https://en.wiktionary.org/wiki/activitas#Latin
+Warning! No response from crew, which has not returned. Emergency code activated.=CAVĒ! Nūllum respōnsum ā operāriīs, quibus nōn rediērunt. Cōdex necessārius incēpit.
+
+#### 🌱
+WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=CAVĒ!!! Gubernātor automatārius nāvis nocte mediā relinquet. Quaesō, celeriter redī.
+
+#### ✔️ Monitum caeles! (Alert of sky, caelum)
+Weather alert!=Monitum caeles!
+
+#### ✔️ https://en.wiktionary.org/wiki/hebdomadalis#Latin
+Weekly Challenge Results=Ēventūs certābundī hebdomadālis
+
+#### ✔️
 Welcome to\nVoiumya-10=Salvē, ad Voiumyam X.
-sr:"^Welcome to\n(.*)"=Salvē, ad $1
-Weekly Challenge Results=Exitus certāminis hebdomadālis
-With challenge moon=Cum lunā certāminis
+
+#### ✔️
+With challenge moon=Cum lunā certābundā
+
+#### ✔️
+YOU ARE FIRED.=DĪSMISSUS ES.
+
+#### 🌱 https://en.wiktionary.org/wiki/finalis#Latin 
+You did not meet the profit quota before the deadline.=Quotam lucrī ante diēs fīnālis nōn colligās.
+
+#### 🌱 https://latin.cactus2000.de/showverb.en.php?verb=complere
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=<size\=14>Nūlla diēs habeās ut quotam compleās.\nŪtere computātrō ut nāvis ad collēgium dūcās et vēndās.</size>
+
+#### ✔️ (You have arrived during an eclipse.
+You have landed in an eclipse. Exercise caution!=Per obscūrātum advēnistī. Cavē!
+
+#### ✔️
 Your rank: =<size\=20>Gradus tuus: </size>

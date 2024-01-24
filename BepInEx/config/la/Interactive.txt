@@ -84,7 +84,7 @@ r:"^Drop Inverse Teleporter(.*)"=<size\=10>Pōne transportātorem inversum$1</si
 r:"^Drop Jack O' Lanter(.*)"=<size\=10>Pōne Jack O' Lantern$1</size>
 r:"^Drop Jar of pickles(.*)"=<size\=10>Pōne ūllam cucumerum in mūriā$1</size>
 r:"^Drop Jetpack(.*)"=<size\=10>Pōne saccum volātilis$1</size>
-r:"^Drop Key(.*)"=<size\=10>Pōne clāvem$1</size>
+r:"^Drop Key(.*)"=Pōne clāvem$1
 r:"^Drop Large axle(.*)"=<size\=10>Pōne axem magnum$1</size>
 r:"^Drop Laser pointer(.*)"=<size\=10>Pōne indicem lūcis$1</size>
 r:"^Drop Lockpicker(.*)"=<size\=10>Pōne apertorem clāvium$1</size>

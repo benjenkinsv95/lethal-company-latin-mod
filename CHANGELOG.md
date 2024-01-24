@@ -1,4 +1,7 @@
 # Changelog
+# 2.3.5 Heavily reviewed translations of UI.txt
+Research: https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/47
+
 # 2.3.4 Add missing license for roman-numerals package
 Add missing license
 
