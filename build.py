@@ -4,14 +4,47 @@ import shutil
 import tempfile
 import zipfile
 
-def remove_macrons(text):
+def process_text(text, replace_with_accent=False):
     """Remove Latin macrons from the given text."""
-    macron_map = {
-    'Ā': 'A', 'ā': 'a',
-    'Ē': 'E', 'ē': 'e',
-    'Ī': 'I', 'ī': 'i',
-    'Ō': 'O', 'ō': 'o',
-    'Ū': 'U', 'ū': 'u',
+
+# Map to remove macrons
+    remove_macrons_map = {
+        'Ā': 'A', 'ā': 'a',
+        'Ē': 'E', 'ē': 'e',
+        'Ī': 'I', 'ī': 'i',
+        'Ō': 'O', 'ō': 'o',
+        'Ū': 'U', 'ū': 'u'
+    }
+
+    # Map to replace with acute accents
+    replace_with_accent_map = {
+        'Ā': 'Á', 'ā': 'á',
+        'Ē': 'É', 'ē': 'é',
+        'Ī': 'Í', 'ī': 'í',
+        'Ō': 'Ó', 'ō': 'ó',
+        'Ū': 'Ú', 'ū': 'ú'
+    }
+
+    # Choose the appropriate map
+    map_to_use = replace_with_accent_map if replace_with_accent else remove_macrons_map
+
+
+    common_map = {
+    # Remove macrons
+    # 'Ā': 'A', 'ā': 'a',
+    # 'Ē': 'E', 'ē': 'e',
+    # 'Ī': 'I', 'ī': 'i',
+    # 'Ō': 'O', 'ō': 'o',
+    # 'Ū': 'U', 'ū': 'u',
+        
+    # Replace with accent
+    # 'Ā': 'Á', 'ā': 'á',
+    # 'Ē': 'É', 'ē': 'é',
+    # 'Ī': 'Í', 'ī': 'í',
+    # 'Ō': 'Ó', 'ō': 'ó',
+    # 'Ū': 'Ú', 'ū': 'ú',
+
+
     'Á': 'A', 'á': 'a',
     'É': 'E', 'é': 'e',
     'Í': 'I', 'í': 'i',
@@ -40,8 +73,14 @@ def remove_macrons(text):
     'Ç': 'C', 'ç': 'c',
     'Æ': 'AE', 'æ': 'ae'
 }
+    
+    
 
-    return ''.join(macron_map.get(c, c) for c in text)
+    # Combine the chosen map with the common map
+    final_map = {**map_to_use, **common_map}
+
+    # Process the text
+    return ''.join(final_map.get(c, c) for c in text)
 
 def process_specific_files_and_folders_with_two_zips():
     """Process specific files and folders in the current directory and create two zip files."""
@@ -75,7 +114,7 @@ def process_specific_files_and_folders_with_two_zips():
                     file_path = os.path.join(root, file)
                     with open(file_path, 'r', encoding='utf-8') as f:
                         content = f.read()
-                    content = remove_macrons(content)
+                    content = process_text(content) if file.endswith('.cfg') else process_text(content, replace_with_accent=True)
                     with open(file_path, 'w', encoding='utf-8') as f:
                         f.write(content)
 
@@ -109,7 +148,7 @@ def process_specific_files_and_folders_with_two_zips():
                     file_path = os.path.join(root, file)
                     with open(file_path, 'r', encoding='utf-8') as f:
                         content = f.read()
-                    content = remove_macrons(content)
+                    content = process_text(content) if file.endswith('.cfg') else process_text(content, replace_with_accent=True)
                     with open(file_path, 'w', encoding='utf-8') as f:
                         f.write(content)
 

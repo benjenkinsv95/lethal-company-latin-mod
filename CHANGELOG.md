@@ -1,4 +1,12 @@
 # Changelog
+# 3.0.0 Translations outside of terminal have vowel accents included
+The translations outside of the terminal now have vowel accents.
+
+Accents are currently in the form of an "apex"/"acute accent", if I can get a font
+that supports macrons (throughout the whole game) I will use it in the future.
+
+The translations in the terminal won't have vowel accents, until they have all been reviewed. (Since they still contain some chat gpt translations and accents)
+
 # 2.3.8 Finish replacing Chat GPT outside of the terminal
 Translations outside of the terminal have been replaced and should have 
 accurate macrons in the source files.
