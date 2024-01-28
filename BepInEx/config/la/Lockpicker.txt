@@ -1,4 +1,4 @@
-Picking lock: 0 sec.=Reserans clausuram: Nulla Secunda
+Picking lock: 0 sec.=Reserans clausuram: Nūlla Secunda
 Picking lock: 1 sec.=Reserans clausuram: I Secunda
 Picking lock: 2 sec.=Reserans clausuram: II Secundae
 Picking lock: 3 sec.=Reserans clausuram: III Secundae

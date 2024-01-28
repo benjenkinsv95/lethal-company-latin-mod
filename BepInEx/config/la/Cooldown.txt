@@ -1,4 +1,4 @@
-[Cooldown: 0 sec.]=[Exspectans: Nulla Secunda]
+[Cooldown: 0 sec.]=[Exspectans: Nūlla Secunda]
 [Cooldown: 1 sec.]=[Exspectans: I Secunda]
 [Cooldown: 2 sec.]=[Exspectans: II Secundae]
 [Cooldown: 3 sec.]=[Exspectans: III Secundae]

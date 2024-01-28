@@ -1,0 +1,3 @@
+#### TODO (low priority) v49 only message, shown once, won't exist in future, move to separate version 49 file.
+Welcome!\nThis patch includes the replayable\nchallenge moons and new factory hallway\ntypes, as well as some tweaks to\nexisting creatures.\n\nOthers must update their game to play with you on this version.\n\n\nGood luck!=Salvēte!\nIn hāc versiōne, novum gaudium præbetur: certāmina lunāria quæ iterum atque iterum agī possunt, et ambulācrōrum officīnārum genera nova.\nItem, quædam in bēstiīs iam nōtīs immūtāta sunt.\n\nLūsōrēs alīī suōs lūdōs ad hanc versiōnem āctuāre dēbent ut tēcum in hāc ēditiōne ludere possint.\n\n\nBonam fortūnam!
+Rizoo-83=Rizoo LXXXIII

@@ -1,4 +1,4 @@
-r:"^0 lb$"=<size\=18>Nulla lb</size>
+r:"^0 lb$"=<size\=18>Nūlla lb</size>
 r:"^1 lb$"=<size\=18>I lb</size>\n<size\=12>Ūna lb</size>
 r:"^2 lb$"=<size\=18>II lb</size>\n<size\=12>Duae lb</size>
 r:"^3 lb$"=<size\=18>III lb</size>\n<size\=12>Trēs lb</size>

@@ -49,6 +49,7 @@ None=Nihil
 Ouu-59=LIX Ouu
 Oxygen critically low!=Oxygenium parvum valdē!
 Rainy=pluvium
+# Rizoo-83=Rizoo LXXXIII
 Safe=Tūtum
 Secure door=Ōstium sēcūritātis
 Stormy=turbidum

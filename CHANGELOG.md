@@ -1,4 +1,9 @@
 # Changelog
+# 2.3.7 Heavily reviewed translations of MainMenu.txt
+Research: https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/48#issuecomment-1907295162
+
+I', getting very close to being able to release a "Macron" version, where all of the latin outside of the terminal has mostly correct macrons.
+
 # 2.3.5 Heavily reviewed translations of UI.txt
 Research: https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/47
 

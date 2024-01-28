@@ -39,23 +39,23 @@
 > Set to defaults=<size\=14>> Redde ad statum prīmigenium</size>
 
 #### ✔️ Corpus is 3rd neuter https://en.wiktionary.org/wiki/corpus#Latin https://en.wiktionary.org/wiki/salvatus#:~:text=salv%C4%81tus%20(feminine%20salv%C4%81ta%2C%20neuter%20salv%C4%81tum,saved%20(made%20safe)  https://en.wiktionary.org/wiki/interfectus#:~:text=interfectus%20(feminine%20interfecta%2C%20neuter%20interfectum,killed%2C%20destroyed
-1 casualties: -0%\n(1 bodies recovered)=I interfectus: -Nullus%\n(I corpus salvātum)
-1 casualties: -20%\n(0 bodies recovered)=I interfectus: -XX%\n(Nulla corpora salvāta)
+1 casualties: -0%\n(1 bodies recovered)=I interfectus: -Nūllus%\n(I corpus salvātum)
+1 casualties: -20%\n(0 bodies recovered)=I interfectus: -XX%\n(Nūlla corpora salvāta)
 120 FPS=CXX FPS
 144 FPS=CXLIV FPS
-2 casualties: -0%\n(2 bodies recovered)=II interfectī: -Nulla%\n(II corpora salvāta)
+2 casualties: -0%\n(2 bodies recovered)=II interfectī: -Nūlla%\n(II corpora salvāta)
 2 casualties: -20%\n(1 bodies recovered)=II interfectī: -XX%\n(I corpus salvātum)
-2 casualties: -40%\n(0 bodies recovered)=II interfectī: -XL%\n(Nulla corpora salvāta)
-3 casualties: -0%\n(3 bodies recovered)=III intrfectī: -Nulla%\n(III corpora salvāta)
+2 casualties: -40%\n(0 bodies recovered)=II interfectī: -XL%\n(Nūlla corpora salvāta)
+3 casualties: -0%\n(3 bodies recovered)=III intrfectī: -Nūlla%\n(III corpora salvāta)
 3 casualties: -20%\n(2 bodies recovered)=III interfectī: -XX%\n(II corpora salvāta)
 3 casualties: -40%\n(1 bodies recovered)=III interfectī: -XL%\n(I corpus salvātum)
-3 casualties: -60%\n(0 bodies recovered)=III interfectī: -LX%\n(Nulla corpora salvāta)
+3 casualties: -60%\n(0 bodies recovered)=III interfectī: -LX%\n(Nūlla corpora salvāta)
 30 FPS=XXX FPS
-4 casualties: -0%\n(4 bodies recovered)=IV interfectī: -Nulla%\n(IV corpora salvāta)
+4 casualties: -0%\n(4 bodies recovered)=IV interfectī: -Nūlla%\n(IV corpora salvāta)
 4 casualties: -20%\n(3 bodies recovered)=IV interfectī: -XX%\n(III corpora salvāta)
 4 casualties: -40%\n(2 bodies recovered)=IV interfectī: -XL%\n(II corpora salvāta)
 4 casualties: -60%\n(1 bodies recovered)=IV interfectī: -LX%\n(I corpus salvātum)
-4 casualties: -80%\n(0 bodies recovered)=IV interfectī: -LXXX%\n(Nulla corpora salvāta)
+4 casualties: -80%\n(0 bodies recovered)=IV interfectī: -LXXX%\n(Nūlla corpora salvāta)
 60 FPS=LX FPS
 
 ### A - F
@@ -157,9 +157,9 @@ Confirm changes?=Cōnfirmā mūtātiōnēs?
 #### ✔️ 
 Continue=Cōnfīrmā
 
-#### ❓ https://en.wiktionary.org/wiki/disiungitur https://en.wiktionary.org/wiki/iungitur https://en.wiktionary.org/wiki/moderator#Latin
-Controller connected = Moderātor iūnxit
-Controller disconnected = Moderātor disiūnxit
+#### ❓ (gets capitalized in game, but the game can't capitalize macrons) https://en.wiktionary.org/wiki/disiungitur https://en.wiktionary.org/wiki/iungitur https://en.wiktionary.org/wiki/moderator#Latin
+Controller connected = MODERĀTOR IŪNXIT
+Controller disconnected = MODERĀTOR DISIŪNXIT
 
 #### ❓ (Server?) Simplifying to "Do you want to play in local network mode?" https://en.wiktionary.org/wiki/velis#Latin https://en.wiktionary.org/wiki/ludere#Latin https://en.wiktionary.org/wiki/modus#Latin https://en.wiktionary.org/wiki/localis#Latin
 Could not connect to STEAM servers! (If you just want to play on your local network, choose LAN on launch. )=Non potest iungēre STEAM servātōrum (Velīsne lūdere in modō localī rēte?)
@@ -281,7 +281,7 @@ New creature data sent to terminal!=Data nova animālis ad computātrum missae s
 #### ✔️ (New quota of profit) https://en.wiktionary.org/wiki/quota#Latin https://en.wiktionary.org/wiki/lucrum#Latin 
 NEW PROFIT QUOTA:=<size\=40>QUOTA NOVA LUCRĪ: </size>
 
-#### 🌱 (TODO review grammar) https://en.wiktionary.org/wiki/nullus#Latin https://en.wiktionary.org/wiki/servator#Latin https://en.wiktionary.org/wiki/praesto#Latin https://latin.cactus2000.de/showverb.en.php?verb=iugare
+#### 🌱 (TODO review grammar) https://en.wiktionary.org/wiki/nūllus#Latin https://en.wiktionary.org/wiki/servator#Latin https://en.wiktionary.org/wiki/praesto#Latin https://latin.cactus2000.de/showverb.en.php?verb=iugare
 No available servers to join.=Praestō, nūllī servātōrēs sunt quī iugās.
 
 #### ✔️
@@ -491,8 +491,8 @@ r:"^WARNING! Please return by (.+). A vote has been cast, and the autopilot ship
 
 #### ✔️
 r:"DarthRevan(.+?)joined the ship(.+?)"=Quīntus nāvem adiit.
-r:"Player #0(.+?)joined the ship(.+?)"=Lūsor nullus nāvem adiit.
-r:"Player #0(.+?)started the ship(.+?)$"=Lūsor nullus nāvem incēpit $2
+r:"Player #0(.+?)joined the ship(.+?)"=Lūsor nūllus nāvem adiit.
+r:"Player #0(.+?)started the ship(.+?)$"=Lūsor nūllus nāvem incēpit $2
 r:"Player #0$"=Lūsor nūllus
 r:"Player #1(.+?)joined the ship(.+?)"=Lūsor I nāvem adiit.
 r:"Player #1(.+?)started the ship(.+?)$"=Lūsor I nāvem incēpit $2
@@ -547,13 +547,13 @@ sr:"^CELESTIAL BODY: (.+?)$"=CORPUS CAELESTE: $1
 sr:"^Found journal entry:(.+)$"=Commentāriī diurnī inventī sunt:$1
 
 #### ✔️ (fauna refers to animals) https://en.wiktionary.org/wiki/orbita#Latin https://en.wiktionary.org/wiki/status#Latin https://en.wiktionary.org/wiki/status#Latin
-sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=<size\=25>In orbitā: $1\nPopulātio: $2\nStatūs: $3\nAnimālia: $4\n</size>
-sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\nWeather: (.+?)$"=<size\=25>In orbitā: $1\nPopulātio: $2\nStatūs: $3\nAnimālia: $4\nCaelum est $5.</size>
-sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=<size\=25>In orbitā: $1\Populātio: $2\nStatūs: $3\nAnimālia: $4</size>
-sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=<size\=25>In orbitā: $1\nPopulātio: $2\nStatūs:$3\nAnimālia：$4$5$6</size>
-sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=<size\=25>In orbitā: $1\nPopulātio: $2\nStatūs:$3\nAnimālia：$4\nCaelum est $5.</size>
-sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Populātio: $2\nStatūs: $3\nAnimālia: $4\n
-sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Populātio: $1\nStatūs: $2\nAnimālia: $3
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=<size\=25>In orbitā: $1\nPopulātio: $2\nStatūs:  $3\nAnimālia:  $4\n</size>
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\nWeather: (.+?)$"=<size\=25>In orbitā: $1\nPopulātio: $2\nStatūs:  $3\nAnimālia:  $4\nCaelum est $5.</size>
+sr:"^Orbiting: (.+?)\nPOPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=<size\=25>In orbitā: $1\Populātio: $2\nStatūs:  $3\nAnimālia:  $4</size>
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)(\n)?([\s\S]+)?$"=<size\=25>In orbitā: $1\nPopulātio: $2\nStatūs: $3\nAnimālia： $4$5$6</size>
+sr:"^Orbiting: ([\s\S]+)\nPOPULATION: ([\s\S]+)\nCONDITIONS: ([\s\S]+)\nFAUNA: ([\s\S]+)\nWeather: ([\s\S]+)$"=<size\=25>In orbitā: $1\nPopulātio: $2\nStatūs: $3\nAnimālia： $4\nCaelum est $5.</size>
+sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)\n(.+?)$"=Populātio: $2\nStatūs:  $3\nAnimālia:  $4\n
+sr:"^POPULATION: (.+?)\nCONDITIONS: (.+?)\nFAUNA: (.+?)$"=Populātio: $1\nStatūs:  $2\nAnimālia:  $3
 
 
 #### links above
@@ -606,7 +606,7 @@ The server is full!=Servātor plēnus est!
 The vehicle returned with your purchased items. Our delivery fee cannot be refunded.=Vehiculum cum rēbus quibus ēmptīs redux est. Pretium nostrum nōn possum refundere.
 
 #### ✔️ https://latin.cactus2000.de/showverb.en.php?verb=colligere https://en.wiktionary.org/wiki/lucrum#Latin
-This is the weekly challenge moon.\nYou have one day and one attempt to\nmake as much profit as possible.=<size\=12>Haec est lūna certābunda hebdomadālis.\nŪna diēs et ūna cōnātiō habeās\nut lucrum maximum colligās.</size>
+This is the weekly challenge moon.\nYou have one day to make as much profit as possible.=<size\=12>Haec est lūna certābunda hebdomadālis.\nŪna diēs habeās\nut lucrum maximum colligās.</size>
 
 #### ✔️
 TIP:=MONITUM: 
@@ -682,7 +682,7 @@ With challenge moon=Cum lunā certābundā
 YOU ARE FIRED.=DĪSMISSUS ES.
 
 #### 🌱 https://en.wiktionary.org/wiki/finalis#Latin 
-You did not meet the profit quota before the deadline.=Quotam lucrī ante diēs fīnālis nōn colligās.
+You did not meet the profit quota before the deadline.=Quotam lucrī ante diēs fīnālis\nnōn colligās.
 
 #### 🌱 https://latin.cactus2000.de/showverb.en.php?verb=complere
 You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=<size\=14>Nūlla diēs habeās ut quotam compleās.\nŪtere computātrō ut nāvis ad collēgium dūcās et vēndās.</size>

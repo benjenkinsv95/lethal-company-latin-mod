@@ -165,7 +165,7 @@ r:"^Fire(.*)"=<size\=10>Mitte $1</size>
 # TODO: Might be a better word for switch
 r:"^Flip switch(.*)"=Verte mutatrum$1
 r:"^Flush(.*)"=Ēmitte:$1
-r:"^Get log(.*)"=<size\=10>Sūme commentārium$1</size>
+r:"^Get log(.*)"=Sūme commentārium$1
 r:"^Grab(.*)"=Sūme$1
 r:"^Hold(.*)"=<size\=10>Tenē$1</size>
 r:"^Hit Jack-o-Lantern(.*)"=<size\=10>Pulsā Jack O' Lantern$1</size>
@@ -215,7 +215,8 @@ r:"^Squeeze(.*)"=<size\=10>Preme$1</size>
 # Incipe LLPSI ch 13
 r:"^Spray(.*)"=<size\=10>Sparge$1</size>
 r:"^Shake can(.*)"=<size\=10>Quate ampullam$1</size>
-r:"^Start game(.*)"=Incipe lūdum$1
+# Start game session (not the game itself, that is started by thunderstore)
+r:"^Start game(.*)"=Incipe lusiōnem$1
 r:"^Start ship(.*)"=Incipe nāvem$1
 r:"^Store item(.*)"=Conde rem$1
 r:"^Swing shovel(.*)"=<size\=10>Agitā pālam$1</size>

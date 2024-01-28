@@ -1,4 +1,4 @@
-r:"^0 EXP$"=Nulla EXP
+r:"^0 EXP$"=Nūlla EXP
 r:"^1 EXP$"=I EXP
 r:"^2 EXP$"=II EXP
 r:"^3 EXP$"=III EXP

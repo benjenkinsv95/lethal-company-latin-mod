@@ -1,4 +1,4 @@
-r:"^TOTAL: \$0$"=Tōtus: Nulla AU
+r:"^TOTAL: \$0$"=Tōtus: Nūlla AU
 r:"^TOTAL: \$1$"=Tōtus: I AU
 r:"^TOTAL: \$2$"=Tōtus: II AU
 r:"^TOTAL: \$3$"=Tōtus: III AU

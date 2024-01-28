@@ -1,120 +1,294 @@
-﻿#### Main menu
-#### Reviewed
-  CONFIRM=   Cōnfirma
-  CONFIRM=   Cōnfirma
-  DISABLED=DEACTIVATUM
-   corrige mē, sī vīs:
-  LAN=\n\n\n<size\=20>   Rete locale</size>\n\n<size\=14>Cōnspexistīne mendum?\n\nCorrige mē, sī vīs:</size>\n<size\=14>discord.gg/ludus</size>
-  Online=<size\=20>   Interrete</size>
-(Recommended)=     Commendātum
+﻿# Main menu
+#### ✔️ https://latin.cactus2000.de/showverb.en.php?verb=confirmare
+  CONFIRM=   Cōnfirmā
+#### ✔️ https://en.wiktionary.org/wiki/iners#Latin
+  DISABLED=INERS
+#### ✔️(Includes discord link and request for corrections) https://en.wiktionary.org/wiki/rete#Latin https://latin.cactus2000.de/showverb.en.php?verb=conspicere https://en.wiktionary.org/wiki/mendum#Latin 
+  LAN=\n\n\n<size\=20>   Rēte lōcale</size>\n\n<size\=14>Cōnspēxistīne mendum?\n\nCorrige mē, sī vīs:</size>\n<size\=14>discord.gg/ludus</size>
+
+####  ✔️ https://en.wiktionary.org/wiki/interrete#Latin
+  Online=<size\=20>   Interrēte</size>
+#### ✔️ https://en.wiktionary.org/wiki/commendatum
+(Recommended)=<size\=16>     (Commendātum)</size>
+
+#### ✔️ https://en.wiktionary.org/wiki/redi#Latin
 [ Back ]=[ Redī ]
-[ Confirm ]=[Confīrmā]
-[ Continue ]=[ Confīrmā ]
+[ Confirm ]=[Cōnfirmā]
+[ Continue ]=[ Cōnfirmā]
+
+#### ✔️ https://en.wiktionary.org/wiki/renova#Latin
 [ Refresh ]=[ Renovā ]
 
-> Back to menu=> Redī ad menū
+#### ❓ list? (not sure how to translate menu)
+> Back to menu=> Redī ad indicem
+
+#### ✔️
 > Back=> Redī
+
+#### ✔️ https://en.wiktionary.org/wiki/nega#Latin
 > Cancel=> Negā
-> Confirm changes=> Cōnfirma mūtātiōnēs
-> Confirm=> Cōnfirma
-> CONFIRM=>Cōnfirma
+
+### ✔️ https://en.wiktionary.org/wiki/mutationes
+> Confirm changes=> Cōnfirmā mūtātiōnēs
+> Confirm=> Cōnfirmā
+> CONFIRM=>Cōnfirmā
+
+####  ❓ (partonus may be better) https://en.wiktionary.org/wiki/creditor#Latin 
+ https://en.wiktionary.org/wiki/patronus#Latin)
 > Credits=> Crēditōrēs
+
+#### ✔️
 > Host=> Hospitā
-> Invite friends=> Invitā amīcōs 
+
+#### ✔️ https://latin.cactus2000.de/showverb.en.php?verb=invitare
+> Invite friends=> Invītā amīcōs 
+
+#### ✔️ https://en.wiktionary.org/wiki/iunge 
 > Join a crew=> Iunge tē operāriīs
-> Join LAN session=> Iunge tē lūsiōnī
-> LAN=\n\n\n<size\=20>> Rete locale</size>\n\n<size\=14>Cōnspexistīne mendum?\n\nCorrige mē, sī vīs:</size>\n<size\=14>discord.gg/ludus</size>
-> Online=<size\=20>> Interrete</size>
+
+#### ✔️  (using lusio for the game session, ludus for the game itself) https://en.m.wiktionary.org/wiki/lusioni
+> Join LAN session=> Iunge tē lusiōnī
+
+#### ✔️
+> LAN=\n\n\n<size\=20>> Rēte lōcale</size>\n\n<size\=14>Cōnspēxistīne mendum?\n\nCorrige mē, sī vīs:</size>\n<size\=14>discord.gg/ludus</size>
+
+#### ✔️
+> Online=<size\=20>> Interrēte</size>
+
+#### ✔️ https://en.wiktionary.org/wiki/exi
 > Quit=> Exī
-> Reset all to default=<size\=14>> Redde ad prīstinum statum</size>
-> Resume=> Resumē
+
+#### ✔️ https://en.wiktionary.org/wiki/primigenius#Latin https://en.wiktionary.org/wiki/redde#Latin https://en.wiktionary.org/wiki/statum#Latin
+> Reset all to default=<size\=14>> Redde ad statum prīmigenium</size>
+
+#### ✔️ https://en.wiktionary.org/wiki/resume#Latin
+> Resume=> Resūme
+
+#### ✔️ https://en.wiktionary.org/wiki/optiones
 > Settings=> Optiōnēs
-> Set to defaults=<size\=14>> Redde ad prīstinum statum</size>
+
+#### ✔️ (simplifying and staying consistent with the above)
+> Set to defaults=<size\=14>> Redde ad statum prīmigenium</size>
+
+
 
 #### A-M
-ACCESSIBILITY=<size\=16>Accessibilitās</size>
-Adjust screen brightness until the symbol on the right is barely visible.=Luminis schermi auge donec signum ad dextram vix videas.
-Allow remote connections=Permitte conexionēs remōtās
-An error occured when syncing the scene! The host might not have loaded in.=Error in scaena synchronizanda ortus est! Fortasse hospes nondum accessit.
-An error occured while spawning into the game. Please report the glitch!=Error in lūdō accidit. Quaeso, errātum nūntiā!
+#### ✔️ https://en.wiktionary.org/wiki/facilitas#Latin
+ACCESSIBILITY=<size\=16>Facilitās</size>
+
+#### 🌱 https://en.wiktionary.org/wiki/signum#Latin  https://en.wiktionary.org/wiki/dextro#Latin https://en.wiktionary.org/wiki/vix#Latin
+Adjust screen brightness until the symbol on the right is barely visible.=Lūmen mūtā dum signum in dextrō vix videās.
+
+#### 🌱 https://en.wiktionary.org/wiki/conexio#Latin https://en.wiktionary.org/wiki/remotus https://en.wiktionary.org/wiki/permitte 
+Allow remote connections=Permitte cōnexiōnēs remōtās
+
+#### 🌱 (Simplifying. "An error has occurred. Perhaps, the host has not yet joined.") Errātum factum est! Fortasse, hospes nōndum iūnxit. https://en.wiktionary.org/wiki/hospes#Latin
+An error occured when syncing the scene! The host might not have loaded in.=Errātum factum est! Fortasse, hospes nōndum iūnxit.
+
+#### ✔️ (Going for joining instead of spawning) https://latin.cactus2000.de/showverb.en.php?verb=iungere#:~:text=to%20join%2C%20to%20connect%2C%20to%20unite https://en.wiktionary.org/wiki/nuntia#Latin
+An error occured while spawning into the game. Please report the glitch!=Errātum factum est dum lūsiōnem iungit. Quaesō, errātum nūntiā!
+
+#### 🌱 "Mode of the fear of spiders" (might be something better) https://morcus.net/dicts?q=mode https://en.wiktionary.org/wiki/timor#Latin https://en.wiktionary.org/wiki/aranea#Latin
 Arachnophobia Mode=Modus timōris arāneārum
-Autosaving...=Automatice Servans...
+
+#### 🌱 (Would a verb and adjective be better, of using "ipsa" for auto/itself?) https://en.wiktionary.org/wiki/automatarius#Latin https://en.wiktionary.org/wiki/servans#Participle
+Autosaving...=Servāns automatārium...
+
+#### ✔️https://en.wiktionary.org/wiki/redi#Latin
 Back=Redī
 BACK=Redī
+
+#### ✔️ https://en.wiktionary.org/wiki/nega#Latin
 Cancel=Negā
+
+#### ✔️ https://en.wiktionary.org/wiki/muta#Latin https://en.wiktionary.org/wiki/nexus#Latin  https://en.wiktionary.org/wiki/clavium
 > Change keybinds=> Mūtā nexūs clāvium
-CONFIRM= Cōnfirma
-Confirm=Cōnfirma
-Cosmetics Enabled:=Indumenta Acta: 
-Credits=Crēdita
-Crew Size:=Magnitūdō Operāriōrum:
+
+#### ✔️
+CONFIRM= Cōnfīrmā
+Confirm=Cōnfīrmā
+
+#### ✔️  [medicamina formae](https://latin.cactus2000.de/showverb.en.php?verb=efficere)  https://en.wiktionary.org/wiki/forma#Latin https://en.wiktionary.org/wiki/medicamina
+Cosmetics Enabled:=Medicāmina fōrmae effēcērunt: 
+
+#### ❓ (see above)
+Credits=Crēditōrēs
+
+#### ✔️ https://en.wiktionary.org/wiki/magnitudo#Latin https://en.wiktionary.org/wiki/operariorum
+Crew Size:=Magnitūdō operāriōrum:
+
+#### ✔️ https://latin.cactus2000.de/showverb.en.php?verb=delere
 Delete=Dēlē
-DISABLED=Inactivum
-Discard changes=Abice Mutationēs
+
+#### ❓ (exstinguished) https://latin.cactus2000.de/showverb.en.php?verb=exstinguere
+DISABLED=Exstīnxit
+
+#### ✔️ https://en.wiktionary.org/wiki/abice#Latin
+Discard changes=Abice mūtātiōnēs
 Discard=Abice
-Discard Large axle=Abice axem magnum
 DISCARD=ABICE
-Display mode:=Modus ostendendī: 
-DISPLAY=Mōnstrāre
-ENABLED=ACTIVATUM
-Enter a lobby name!=Scribe nōmen conclāvis！
-Frame rate cap:=Frāmī limitātiō: 
+
+#### ✔️ https://en.wiktionary.org/wiki/ostendens
+Display mode:=Modus ostendentis: 
+
+#### ❓
+DISPLAY=Ostendēns
+
+#### ❓ https://latin.cactus2000.de/showverb.en.php?verb=efficere
+ENABLED=Effēcit
+
+#### 🌱 (using server instead of lobby) https://en.wiktionary.org/wiki/scribe#Latin 
+Enter a lobby name!=Scrībe nōmen servātōris！
+
+#### ❓ (Using finalis as an adjective for limit/cap) https://en.wiktionary.org/wiki/finalis#Latin
+Frame rate cap:=FPS fīnālis: 
+
+####  ✔️ https://en.wiktionary.org/wiki/amicus#Latin
 Friends-only=Cum amīcīs
-Fullscreen=Totus ecranus
-Gamma/Brightness:=Gamma/lucitās: 
+
+#### 🌱 https://morcus.net/dicts?q=full&in=SnH (Going to ignore screen, in context it should still make sense)
+Fullscreen=Plēnus
+
+#### ❓ (gamma is greek) https://en.wiktionary.org/wiki/candor#Latin
+Gamma/Brightness:=Gamma/candor: 
+
+#### ✔️
 Go back=Redī
-Host LAN Server:=<size\=12>Hospitā locālem retem servātōrem:</size>
+
+####  ❓ (Server of local net) https://en.wiktionary.org/wiki/servator#Latin 
+Host LAN Server:=<size\=12>Hospitā servātōrem rētis locālis:</size>
+
+#### ✔️ https://morcus.net/dicts?q=inst%C4%83b%C4%ADl%C4%ADtas&in=LnS
 INSTABILITY:=INSTABILITAS: 
-Invert Y-Axis=Inversio axis Y
+
+#### ✔️ https://latin.cactus2000.de/showverb.en.php?verb=invertere
+Invert Y-Axis=Inverte axem Y
+
+#### ✔️ https://en.wiktionary.org/wiki/iunge#Latin
 Join=Iunge
-LAN= Rete locale
-LAUNCH MODE=MODUS INITII
+
+#### ✔️ https://en.wiktionary.org/wiki/locale#Latin
+LAN=✔️ Rēte locāle
+
+#### ✔️ https://en.wiktionary.org/wiki/modus#Latin
+LAUNCH MODE=MODUS INITIĪ
+
+#### ✔️ (still seems appropriate, used in the same location and spot as friends only)
 Local-only=Cum amīcīs
+
+#### ✔️ (it is starting) https://latin.cactus2000.de/showverb.en.php?verb=incipere&gen=0&voc=1
 Loading...=Incipitur...
-Look sensitivity:=<size\=10>Aspicere sensitivitās:</size>
-Master volume:=Magister magnitūdō: 
-Max players...=Lūdōrēs maximī...
+
+#### ✔️ https://latin.cactus2000.de/noun/shownoun_en.php?n=visus https://en.wiktionary.org/wiki/sensibilitas#Latin
+Look sensitivity:=<size\=12>Vīsus sēnsibilitās:</size>
+
+#### 🌱 https://latin.cactus2000.de/noun/shownoun_en.php?n=sonitus https://en.wiktionary.org/wiki/magnitudo#Latin 
+Master volume:=<size\=12>Magnitūdō sonitūs prīmus: </size>
+
+#### ✔️ https://en.wiktionary.org/wiki/lusores https://en.wiktionary.org/wiki/maximi#Latin
+Max players...=Lūsōrēs maximī...
+
+#### ✔️ https://en.wiktionary.org/wiki/fenestra#Latin https://en.wiktionary.org/wiki/maxima#Latin
 Maximized window=Fenestra maxima
+
+#### ✔️
 MODE: Push to talk=MODUS: Preme loquī
-MODE: Voice activation=MODUS: Vōcis activatio 
 
-#### N-Z
-Name your server...=Nōmina servātōrem tuum...
-Online= Interrete
-Push to talk=Loquere pressa
-r:"BG IG, A System"=     BG IG, Socius Agendi Systematis\n     Ius (C) MMXXXIV-MMCVIII, Halden Elctronicae\n\nGenus CPU                : BORSON CCC CPU ad MMV MHz\nTentamen Memoria          : CDLXXMMMDLXXXV K Recte\n\nApplicatio Distributeris Initium\nIus Litterarum (C) MMCVII Distributor\n     Invenio Aculeus X ROM\n     Invenio Tela LNV Extensor\n     Invenio Pulsus Recte\n\n\nUTGF Instrumentum Audiens...\n\nCORPUS      ID    Neuralis   Genus Instrumenti \n-----------------------------------------------\n\n    II     LII      JoCLII                HDXV   \n    II     LII      SaDXLV                HDXV    \n    II     LII      BolXXV                HDXV      \n    II     LII       EriDX                HDXV    \n     I   XXXVI   EllDLXVII                HDXV  \n     I   XXXVI    JosCMXII                HDXV\n Nulla 
-r:"^Do you want to delete File (.+)\?$"=Visne tabellam $1 dēlēre?
-r:"^Do you want to delete File 1\?$"=Visne tabellam prīmam dēlēre?
-r:"^Do you want to delete File 2\?$"=Visne tabellam secundam dēlēre?
-r:"^Do you want to delete File 3\?$"=Visne tabellam tertiam dēlēre?
+#### ✔️ (Started with/by voice) https://latin.cactus2000.de/showverb.en.php?verb=coepisse https://en.wiktionary.org/wiki/vox#Latin
+MODE: Voice activation=MODUS: Vōce coepit
 
-Save File=Quotam tabellam seligēs?
+#### N-Z 
+
+#### ✔️  (Note, long ā at the end makes nōminā imperative) https://en.wiktionary.org/wiki/nomina#Latin https://en.wiktionary.org/wiki/servatorem 
+Name your server...=Nōminā servātōrem tuum...
+
+#### ✔️
+Online Interrēte
+
+#### ✔️
+Push to talk=Preme loquī
+
+#### ❓ TODO  (blocked), low priority, flashes on screen for 1-2 seconds when the game loads. You'd have to screenshot to read it. Will need to hunt down the full english text to add macrons/review the below.
+r:"BG IG, A System"=     BG IG, Socius Agendi Systematis\n     Ius (C) MMXXXIV-MMCVIII, Halden Electronicae\n\nGenus CPU                : BORSON CCC CPU ad MMV MHz\nTentamen Memoria          : CDLXXMMMDLXXXV K Recte\n\nApplicatio Distributeris Initium\nIus Litterarum (C) MMCVII Distributor\n     Invenio Aculeus X ROM\n     Invenio Tela LNV Extensor\n     Invenio Pulsus Recte\n\n\nUTGF Instrumentum Audiens...\n\nCORPUS      ID    Neuralis   Genus Instrumenti \n-----------------------------------------------\n\n    II     LII      JoCLII                HDXV   \n    II     LII      SaDXLV                HDXV    \n    II     LII      BolXXV                HDXV      \n    II     LII       EriDX                HDXV    \n     I   XXXVI   EllDLXVII                HDXV  \n     I   XXXVI    JosCMXII                HDXV\n Nūlla 
+
+#### 🌱 (I could see velīsne working here as well) # https://latin.cactus2000.de/showverb.en.php?verb=velle
+r:"^Do you want to delete File (.+)\?$"=Vīsne tabellam $1 dēlēre?
+r:"^Do you want to delete File 1\?$"=Vīsne tabellam prīmam dēlēre?
+r:"^Do you want to delete File 2\?$"=Vīsne tabellam secundam dēlēre?
+r:"^Do you want to delete File 3\?$"=Vīsne tabellam tertiam dēlēre?
+
+#### ✔️ (Prompt for selecting a save file, "Which tablet (file) would you like to select?" https://en.wiktionary.org/wiki/quotus#Latin 
+Save File=Quotam tabellam sēligis?
+
+#### ❓ https://en.wiktionary.org/wiki/servator
 Server name:=Nōmen servātōris: 
+
+#### ❓ https://en.wiktionary.org/wiki/servator
 Servers=<size\=22>Servātōrēs</size>
-Sort: far=<size\=11>Ordinā: longē</size>
-Sort: Friends=<size\=11>Ordinā: Amīcī</size>
-Sort: near=<size\=11>Ordinā: propinquē</size>
-Sort: Similar rank=<size\=11>Ordinā: Gradus Similis</size>
-Sort: Top 20=<size\=11>Ordinā: Summī Vīgintī</size>
-Sort: worldwide=<size\=11>Ordinā: tōtum orbem</size>
 
+#### ✔️ https://en.wiktionary.org/wiki/ordina#Latin https://morcus.net/dicts?q=far&in=SnH
+Sort: far=<size\=10>Ōrdinā: procul</size>
 
-Started server, joining...=Servātōrem Coēpī, Iungēns...
-TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=Mōnitiō: Tene [RMB] ad suffrāgium ferendum ut nāvis gubernātor prius relinquat.
-TIP!: Hold [R-Trigger] to vote for the autopilot ship to leave early.=Mōnitiō: Tene [R-Trigger] ad suffrāgium ferendum ut nāvis gubernātor prius relinquat.
-The file will NOT save! Your ship must be in orbit.=Tabella NON servābitur! Nāvis tua debet in orbitā esse.
-Uncapped=Sine limitibus
-Unconfirmed changes!=Mūtātiōnēs Inconfirmātae!
-Use monitor (V-Sync)=Ūtere mon. (V-Sync)
-sr:"^Version (.*) is out!$"=<size\=24>Versio $1 ēdita est!</size>
-r:"^Welcome! Version ([0-9]+) is out now.\nOthers must update their game to play with you on this version.\n\n\nGood luck!$"=Salvē! Versio $1 nunc ēdita est!\nAliī debent suum lūdum renovāre ut tēcum in hāc versiōne ludant.\n\n\nFēlīcem fortūnam!
-Voice Volume=Vōcis Magnitūdō
-Waiting for input=Exspectāns impositiōnem
-Welcome! Version 40 is out now.\nOthers must update their game to play with you on this version.\n\nGood luck!=Salvē! Versio quadrāgēsima nunc dispōnibilis est.\nAliī suum lūdum novum faciant ut tēcum in hac versiōne ludant.\n\nBona fortūna!
-Welcome!\nThis patch includes the replayable\nchallenge moons and new factory hallway\ntypes, as well as some tweaks to\nexisting creatures.\n\nOthers must update their game to play with you on this version.\n\n\nGood luck!=Salvēte!\nIn hāc versiōne, novum gaudium præbetur: certāmina lunāria quæ iterum atque iterum agī possunt, et ambulācrōrum officīnārum genera nova.\nItem, quædam in bēstiīs iam nōtīs immūtāta sunt.\n\nLūsōrēs alīī suōs lūdōs ad hanc versiōnem āctuāre dēbent ut tēcum in hāc ēditiōne ludere possint.\n\n\nBonam fortūnam!
+####  ✔️ (Order: by friends) https://en.wiktionary.org/wiki/amicus#Latin
+Sort: Friends=<size\=10>Ōrdinā: amīcīs</size>
+
+####  ✔️ (Order: by nearby) https://en.wiktionary.org/wiki/propinquus#Latin
+Sort: near=<size\=10>Ōrdinā: propinqō</size>
+
+#### ✔️ https://en.wiktionary.org/wiki/ordo#Latin https://en.wiktionary.org/wiki/similis#Latin
+Sort: Similar rank=<size\=10>Ōrdinā: ōrdine similī</size>
+
+#### 🌱 (By best 20) https://en.wiktionary.org/wiki/optimus#Latin 
+Sort: Top 20=<size\=10>Ōrdinā: optimīs vīgintī</size>
+
+#### 🌱 (By world)
+Sort: worldwide=<size\=10>Ōrdinā: orbe terrārum</size>
+
+#### ✔️ (Server started, joining)  https://en.wiktionary.org/wiki/iungens https://latin.cactus2000.de/showverb.en.php?verb=coepisse 
+Started server, joining...=Servātor coepit, iungēns...
+
+#### 🌱 https://en.wiktionary.org/wiki/suffragium#Latin https://en.wiktionary.org/wiki/tene#Latin 
+TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=MONITUM!: Tenē [RMB] suffrāgium ferās ut gubernātor mox automatārius nāvis relinquat.
+TIP!: Hold [R-Trigger] to vote for the autopilot ship to leave early.=MONITUM!: Tenē [R-Trigger] suffrāgium ferās ut gubernātor mox automatārius nāvis relinquat.
+
+#### ✔️ https://en.wiktionary.org/wiki/servabitur https://en.wiktionary.org/wiki/orbita#Latin
+The file will NOT save! Your ship must be in orbit.=Tabella NŌN servābitur! Nāvis tua dēbet in orbitā esse.
+
+#### ✔️ (Without limits) https://en.wiktionary.org/wiki/limes#Latin
+Uncapped=Sine līmitibus
+
+#### ✔️ (Changes aren't saved!) https://latin.cactus2000.de/showverb.en.php?verb=salvare
+Unconfirmed changes!=Mūtātiōnēs nōn salvāvērunt!
+
+#### ✔️ https://en.wiktionary.org/wiki/monitorem#Latin
+Use monitor (V-Sync)=<size\=11>Ūtere monitōrem. (V-Sync)</size>
+
+####  🌱 (there might be something better than edita, but it is wor produced/published) https://en.wiktionary.org/wiki/versio#Latin https://en.wiktionary.org/wiki/editus#Latin
+sr:"^Version (.*) is out!$"=<size\=24>Versiō $1 ēdita est!</size>
+
+#### 🌱 (Second guessing if debeant should be subjunctive because of ut still) https://en.wiktionary.org/wiki/debeant https://en.wiktionary.org/wiki/renovare#Latin https://en.wiktionary.org/wiki/versio#Latin https://en.wiktionary.org/wiki/ludant
+r:"^Welcome! Version ([0-9]+) is out now.\nOthers must update their game to play with you on this version.\n\n\nGood luck!$"=Salvē! Versiō $1 nunc ēdita est!\nAliī lūdum suum dēbeant renovāre ut tēcum in hāc versiōne lūdant.\n\n\nBonam fortūnam!
+
+#### 🌱 (Most links above) https://en.wiktionary.org/wiki/vocis
+Voice Volume=Magnitūdō sonitūs vōcis
+
+#### ❓ (Used when changing keybindings and waiting for input from mouse/controller/keyboard) https://latin.cactus2000.de/showverb.en.php?verb=manere 
+Waiting for input=Manet 
+
+#### ✔️
 Welcome!=Salvē!
+
+#### ✔️ (Link above)
 Window=Fenestra
-Windowed fullscreen=Fenestra plena
-Would you like to leave the game?=Visne relinquere lūsus?
-You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=In localis retis modo es. CAVE cōnexionēs remōtās (remote connections) per localem retem. Sī cōnexionēs remōtae licent, quaesō utī ignīs mūrum (firewall) et/vēl 'VPN' habeās.
+
+#### ✔️ (links above) (full window)
+Windowed fullscreen=Fenestra plēna
+
+#### ❓ (lusiōnem might make sense for session. Is this the game or the game session? (Like are we exiting to desktop or the main menu?) https://en.wiktionary.org/wiki/relinquere#Latin https://en.wiktionary.org/wiki/ludus#Latin 
+Would you like to leave the game?=Vīsne relinquere lūdum?
+
+#### ❓ (Not being literal here. Trying to get the warning and suggestion to use a firewall or VPN across.) https://en.wiktionary.org/wiki/contextus#Latin https://en.wiktionary.org/wiki/remotus#Latin https://en.wiktionary.org/wiki/localis#Latin https://en.wiktionary.org/wiki/rete#Latin
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=In modō locālī retī es. CAVĒ contextūs remōtōs per rēte locāle. Sī contextūs remōtōs licēs, quaesō ūtere mūrō ignis et/aut VPN.
+
+#### ✔️ https://en.wiktionary.org/wiki/coeptus#Latin
 (Launched in LAN mode)=<size\=12>(In locālī retī coepta est)</size>

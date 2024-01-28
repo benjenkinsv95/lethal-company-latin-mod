@@ -1,4 +1,4 @@
-r:"^Value: \$0$"=Pretium: Nulla AU
+r:"^Value: \$0$"=Pretium: Nūlla AU
 r:"^Value: \$1$"=Pretium: I AU
 r:"^Value: \$2$"=Pretium: II AU
 r:"^Value: \$3$"=Pretium: III AU
