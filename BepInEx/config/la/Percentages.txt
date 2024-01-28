@@ -1,3 +1,4 @@
+# 🌱 I think this is used for the door hydraulics, so should be feminine for ianua.
 r:"^0%$"=Nūlla%
 r:"^1%$"=I%
 r:"^2%$"=II%

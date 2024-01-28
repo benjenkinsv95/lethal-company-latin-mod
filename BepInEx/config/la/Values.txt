@@ -1,4 +1,5 @@
-r:"^Value: \$0$"=Pretium: Nūlla AU
+# ❓ https://en.wiktionary.org/wiki/pretium#Latin
+r:"^Value: \$0$"=Pretium: Nūllus AU
 r:"^Value: \$1$"=Pretium: I AU
 r:"^Value: \$2$"=Pretium: II AU
 r:"^Value: \$3$"=Pretium: III AU

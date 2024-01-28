@@ -1,89 +1,164 @@
 # A-M
 
-> Change keybinds=> Mūtā nexūs clāvium
 A=A
 B=B
-Button East=Buttōn Orientālis
-Button North=Buttōn Septentriōnales
-Button South=Buttōn Merīdiōnālis
-Button West=Buttōn Occidentālis
+# ✅ https://en.wiktionary.org/wiki/orbiculus#Latin https://en.wiktionary.org/wiki/orientalis#Latin
+Button East=Orbiculus orientālis
+# ✅ https://en.wiktionary.org/wiki/septentrionalis#Latin
+Button North=Orbiculus septentriōnāles
+# ✅ https://en.wiktionary.org/wiki/meridionalis#Latin
+Button South=Orbiculus merīdiōnālis
+# ✅ https://en.wiktionary.org/wiki/occidentalis#Latin
+Button West=Orbiculus occidentālis
+
 C=C
+
+# ✅ Just matching what is on most keyboards
 Control=CTRL
+# ✅ https://en.wiktionary.org/wiki/optiones
 CONTROLS=Optiōnēs
-Crouch=Cūrva
-D-Pad/Down=D-Pad/Infra
+# ✅ https://latin.cactus2000.de/showverb.en.php?verb=demittere
+Crouch=Dēmitte
+
+# ✅ https://en.wiktionary.org/wiki/infra#Latin
+D-Pad/Down=D-Pad/Īnfrā
+
+# ✅ https://en.wiktionary.org/wiki/sinistra#Latin
 D-Pad/Left=D-Pad/Sinistra
+
+# ✅ https://en.wiktionary.org/wiki/dextra#Latin
 D-Pad/Right=D-Pad/Dextra
-D-Pad/Up=D-Pad/Supra
+
+# ✅ https://en.wiktionary.org/wiki/supra#Latin
+D-Pad/Up=D-Pad/Suprā
 D=D
+
 Dance=Salta
 E=E
-Enable chat=Licet colloquī
+
+# ❓ (Unsure of the word for enabling) https://latin.cactus2000.de/showverb.en.php?verb=efficere https://latin.cactus2000.de/noun/shownoun_en.php?n=colloquium#:~:text=colloquium%2C%20colloqui%C4%AB%2C%20n,discussion%2C%20meeting%2C%20conference%2C%20parley
+Enable chat=Effice colloquium
+
+# ✅
 Enter=Intrā
 F=F
 G=G
 H=H
 I=I
-Interact=Agere
-Item drop=Relinque rem
+
+# ✅ https://latin.cactus2000.de/showverb.en.php?verb=agere
+Interact=Age
+
+# ✅ (Rephrasing to "Drop item")
+Item drop=Pōne rem
+# ✅ (Rephrasing to "Inspect item")
 Item inspect=Aspice rem
-Item primary use=Utor rē prīmāriā
-Item secondary use=Utor rē secundāriā
-Item Secondary use=Utor rē secundāriā
-Item switch left=Mūta ad sinistram rem
-Item switch right=Mūta ad dextram rem
-Item tertiary use=Utor rē tertiāriā
-Item Tertiary use=Utor rē tertiāriā
+
+# ✅ https://en.wiktionary.org/wiki/res#Latin
+Item primary use=Ūtere rē prīmāriā
+# ✅ https://en.wiktionary.org/wiki/secundaria#Latin
+Item secondary use=Ūtere rē secundāriā
+Item Secondary use=Ūtere rē secundāriā
+
+# (Aiming for "Change item to the left") https://en.wiktionary.org/wiki/sinister#Latin
+Item switch left=Mūtā rem sinistrae 
+# https://en.wiktionary.org/wiki/dextra#Latin
+Item switch right=Mūtā rem dextrae 
+
+# ✅ https://en.wiktionary.org/wiki/tertiarius#Latin
+Item tertiary use=Ūtere rē tertiāriā
+Item Tertiary use=Ūtere rē tertiāriā
 J=J
+
+# ❓ (Need to review if salī is more common) https://en.wiktionary.org/wiki/salta#Latin (https://latin.cactus2000.de/showverb.en.php?verb=salire)
 Jump=Saltā
 K=K
 L=L
-Left Button=Puga Puga sinistra
+
+# ✅ https://en.wiktionary.org/wiki/sinister#Latin
+Left Button=Orbiculus sinister
 Left Shoulder=L1
-Left Stick/Down=Virga Sinistra/Infra
-Left Stick/Left=Virga Sinistra/Sinistra
-Left Stick/Right=Virga Sinistra/Dextra
-Left Stick/Up=Virga Sinistra/Supra
+
+# ✅ Baculum or virga seem like potential options for sticks (that relate to walking)
+Left Stick/Down=Baculum sinister/Infrā
+Left Stick/Left=Baculum sinister/Sinister
+Left Stick/Right=Baculum sinister/Dexter
+Left Stick/Up=Baculum sinister/Suprā
 Left Trigger=L2
 M=M
-Move back=Retro gradere
-Move forward=Progrēdere
-Move left=Ad sinistram gradere
-Move right=Ad dextram gradere
+
+# ✅ Go back
+Move back=Redī
+# ✅
+Move forward=Prōgredere
+
+# ✅
+Move left=Ī ad sinistrum
+# ✅
+Move right=Ī ad dextrum
 
 # N - Z
 N=N
 O=O
 P=P
-Ping scan=Fac taramen
-Point=Monstra
+
+# ✅ https://en.wiktionary.org/wiki/resonantia#Latin https://en.wiktionary.org/wiki/pulsa#Latin
+Ping scan=Pulsā resonantiam
+
+# ✅
+Point=Mōnstrā
 Q=Q
 R=R
+
+# TODO: 🌱 Review if these can be the same
 REBIND CONTROLLERS=Mūtā nexūs clāvium
-REMAP CONTROLS=Ordinā rēgēs iterum
-Replace furniture=Mūta supellectilem
-Right Button=Puga Puga dextra
+REMAP CONTROLS=Mūtā nexūs clāvium
+
+# ✅ https://en.wiktionary.org/wiki/supellex#Latin
+Replace furniture=Mūtā supellēctilem
+# ✅
+Right Button=Orbiculus dexter
+
 Right Shoulder=R1
-Right Stick Press=Puga Virgae Dextrae
+# ✅
+Right Stick Press=Baculum dextrum
 Right Trigger=R2
 S+=S+
 S=S
-Scroll/Down=Volūtā infra
-Scroll/Up=Volūtā suprā
-Shift=Versa
-Space=Spātium
+
+# 🌱 Turn down? (This might be scrolling in the game's computer terminal or a more generic scroll)
+Scroll/Down=Inverte
+# 🌱 Turn up
+Scroll/Up=Verte suprā
+
+# ✅
+Shift=SHIFT
+# ✅ https://morcus.net/dicts?q=space
+Space=Spatium
+
+# ✅
 Sprint=Curre
-Store furniture=Recondō supellectilem
-Submit chat=Trādite colloquium
+
+# ✅ https://latin.cactus2000.de/showverb.en.php?verb=recondere
+Store furniture=Reconde supellēctilem
+
+# ✅ (Send chat)
+Submit chat=Mitte colloquium
 T=T
-Turn furniture=Verte supellectilem
+
+# ✅
+Turn furniture=Verte supellēctilem
+
 U=U
 V=V
 W=W
-Walk back=Retro ambula
-Walk forward=Ante ambula
-Walk left=Ad sinistram ambula
-Walk right=Ad dextram ambula
+
+# 🌱https://en.wiktionary.org/wiki/tergum#Latin
+Walk back=Ambulā tergum
+# ✅
+Walk forward=Ambulā
+Walk left=Ambulā ad sinistrum
+Walk right=Ambulā ad dextrum
 X=X
 Y=Y
 Z=Z

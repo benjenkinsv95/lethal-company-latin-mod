@@ -1,4 +1,5 @@
-r:"^0 EXP$"=Nūlla EXP
+# ❓ I'm unsure what gender EXP would have or if 0 exp is possible.
+r:"^0 EXP$"=Nūllum EXP
 r:"^1 EXP$"=I EXP
 r:"^2 EXP$"=II EXP
 r:"^3 EXP$"=III EXP

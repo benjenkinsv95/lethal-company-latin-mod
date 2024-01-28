@@ -1,5 +1,6 @@
 # Location
 # Reviewed
+## Research https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/46
 
 # A-M
 (Eclipsed)=(Obscūrātum)

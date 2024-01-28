@@ -1,5 +1,6 @@
 ﻿# Interactive
 # Reviewed, overall, using mostly beginner friendly words from LLPSI
+## Research https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/33
 
 [ Not holding items ]=[Rēs nōn habēs]
 [Cannot pull valve]=[Valvam trahere nōn potes]
@@ -186,13 +187,13 @@ r:"^Open gift(.*)"=<size\=10>Aperī dōnum$1</size>
 r:"^Open hatch(.*)"=Aperī iānuam$1
 r:"^Open(.*)"=<size\=10>Aperī$1</size>
 
-# TODO: Need to review usage, I'm unsure what the word for button is.
 r:"^Pet Cat(.*)"=<size\=10>Mulcē fēlem$1</size>
 r:"^Pet cat(.*)"=<size\=10>Mulcē fēlem$1</size>
 r:"^Place on door(.*)"=<size\=10>Pōne in iānuam$1</size>
 r:"^Play record(.*)"=Lūde grammophonum$1
 r:"^Pop up ladder(.*)"=<size\=10>Ascende scālam $1</size>
-r:"^Power button(.*)"=<size\=10>Accende/exstingue potentiam $1</size>
+# TODO: Need to review usage, I'm unsure what the word for button is (orbiculum	for little disk might work).
+r:"^Power button(.*)"=<size\=10>Accende/exstingue orbiculum	potentiae $1</size>
 r:"^Pull cord(.*) \((.*)\)"=Trahe līneam$1 (Tene)
 r:"^Pull pin(.*)"=<size\=10>Trahe clāvem$1</size>
 r:"^Pull valve(.*)"=Trahe valvam$1

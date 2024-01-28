@@ -1,5 +1,6 @@
-r:"^1:\s*00\s*AM"=<size\=20>I:\nNil AM</size>
-r:"^1:\s*00\s*PM"=<size\=20>I:\nNil PM</size>
+# 🌱 (Should this be nil? Nullum seems right) Going for neuter, to match mōmentum https://en.wiktionary.org/wiki/momentum#Latin
+r:"^1:\s*00\s*AM"=<size\=20>I:\nNūllum AM</size>
+r:"^1:\s*00\s*PM"=<size\=20>I:\nNūllum PM</size>
 r:"^1:\s*01\s*AM"=<size\=20>I:\nI AM</size>
 r:"^1:\s*01\s*PM"=<size\=20>I:\nI PM</size>
 r:"^1:\s*02\s*AM"=<size\=20>I:\nII AM</size>
@@ -118,8 +119,8 @@ r:"^1:\s*58\s*AM"=<size\=20>I:\nLVIII AM</size>
 r:"^1:\s*58\s*PM"=<size\=20>I:\nLVIII PM</size>
 r:"^1:\s*59\s*AM"=<size\=20>I:\nLIX AM</size>
 r:"^1:\s*59\s*PM"=<size\=20>I:\nLIX PM</size>
-r:"^2:\s*00\s*AM"=<size\=20>II:\nNil AM</size>
-r:"^2:\s*00\s*PM"=<size\=20>II:\nNil PM</size>
+r:"^2:\s*00\s*AM"=<size\=20>II:\nNūllum AM</size>
+r:"^2:\s*00\s*PM"=<size\=20>II:\nNūllum PM</size>
 r:"^2:\s*01\s*AM"=<size\=20>II:\nI AM</size>
 r:"^2:\s*01\s*PM"=<size\=20>II:\nI PM</size>
 r:"^2:\s*02\s*AM"=<size\=20>II:\nII AM</size>
@@ -238,8 +239,8 @@ r:"^2:\s*58\s*AM"=<size\=20>II:\nLVIII AM</size>
 r:"^2:\s*58\s*PM"=<size\=20>II:\nLVIII PM</size>
 r:"^2:\s*59\s*AM"=<size\=20>II:\nLIX AM</size>
 r:"^2:\s*59\s*PM"=<size\=20>II:\nLIX PM</size>
-r:"^3:\s*00\s*AM"=<size\=20>III:\nNil AM</size>
-r:"^3:\s*00\s*PM"=<size\=20>III:\nNil PM</size>
+r:"^3:\s*00\s*AM"=<size\=20>III:\nNūllum AM</size>
+r:"^3:\s*00\s*PM"=<size\=20>III:\nNūllum PM</size>
 r:"^3:\s*01\s*AM"=<size\=20>III:\nI AM</size>
 r:"^3:\s*01\s*PM"=<size\=20>III:\nI PM</size>
 r:"^3:\s*02\s*AM"=<size\=20>III:\nII AM</size>
@@ -358,8 +359,8 @@ r:"^3:\s*58\s*AM"=<size\=20>III:\nLVIII AM</size>
 r:"^3:\s*58\s*PM"=<size\=20>III:\nLVIII PM</size>
 r:"^3:\s*59\s*AM"=<size\=20>III:\nLIX AM</size>
 r:"^3:\s*59\s*PM"=<size\=20>III:\nLIX PM</size>
-r:"^4:\s*00\s*AM"=<size\=20>IV:\nNil AM</size>
-r:"^4:\s*00\s*PM"=<size\=20>IV:\nNil PM</size>
+r:"^4:\s*00\s*AM"=<size\=20>IV:\nNūllum AM</size>
+r:"^4:\s*00\s*PM"=<size\=20>IV:\nNūllum PM</size>
 r:"^4:\s*01\s*AM"=<size\=20>IV:\nI AM</size>
 r:"^4:\s*01\s*PM"=<size\=20>IV:\nI PM</size>
 r:"^4:\s*02\s*AM"=<size\=20>IV:\nII AM</size>
@@ -478,8 +479,8 @@ r:"^4:\s*58\s*AM"=<size\=20>IV:\nLVIII AM</size>
 r:"^4:\s*58\s*PM"=<size\=20>IV:\nLVIII PM</size>
 r:"^4:\s*59\s*AM"=<size\=20>IV:\nLIX AM</size>
 r:"^4:\s*59\s*PM"=<size\=20>IV:\nLIX PM</size>
-r:"^5:\s*00\s*AM"=<size\=20>V:\nNil AM</size>
-r:"^5:\s*00\s*PM"=<size\=20>V:\nNil PM</size>
+r:"^5:\s*00\s*AM"=<size\=20>V:\nNūllum AM</size>
+r:"^5:\s*00\s*PM"=<size\=20>V:\nNūllum PM</size>
 r:"^5:\s*01\s*AM"=<size\=20>V:\nI AM</size>
 r:"^5:\s*01\s*PM"=<size\=20>V:\nI PM</size>
 r:"^5:\s*02\s*AM"=<size\=20>V:\nII AM</size>
@@ -598,8 +599,8 @@ r:"^5:\s*58\s*AM"=<size\=20>V:\nLVIII AM</size>
 r:"^5:\s*58\s*PM"=<size\=20>V:\nLVIII PM</size>
 r:"^5:\s*59\s*AM"=<size\=20>V:\nLIX AM</size>
 r:"^5:\s*59\s*PM"=<size\=20>V:\nLIX PM</size>
-r:"^6:\s*00\s*AM"=<size\=20>VI:\nNil AM</size>
-r:"^6:\s*00\s*PM"=<size\=20>VI:\nNil PM</size>
+r:"^6:\s*00\s*AM"=<size\=20>VI:\nNūllum AM</size>
+r:"^6:\s*00\s*PM"=<size\=20>VI:\nNūllum PM</size>
 r:"^6:\s*01\s*AM"=<size\=20>VI:\nI AM</size>
 r:"^6:\s*01\s*PM"=<size\=20>VI:\nI PM</size>
 r:"^6:\s*02\s*AM"=<size\=20>VI:\nII AM</size>
@@ -718,8 +719,8 @@ r:"^6:\s*58\s*AM"=<size\=20>VI:\nLVIII AM</size>
 r:"^6:\s*58\s*PM"=<size\=20>VI:\nLVIII PM</size>
 r:"^6:\s*59\s*AM"=<size\=20>VI:\nLIX AM</size>
 r:"^6:\s*59\s*PM"=<size\=20>VI:\nLIX PM</size>
-r:"^7:\s*00\s*AM"=<size\=20>VII:\nNil AM</size>
-r:"^7:\s*00\s*PM"=<size\=20>VII:\nNil PM</size>
+r:"^7:\s*00\s*AM"=<size\=20>VII:\nNūllum AM</size>
+r:"^7:\s*00\s*PM"=<size\=20>VII:\nNūllum PM</size>
 r:"^7:\s*01\s*AM"=<size\=20>VII:\nI AM</size>
 r:"^7:\s*01\s*PM"=<size\=20>VII:\nI PM</size>
 r:"^7:\s*02\s*AM"=<size\=20>VII:\nII AM</size>
@@ -838,8 +839,8 @@ r:"^7:\s*58\s*AM"=<size\=20>VII:\nLVIII AM</size>
 r:"^7:\s*58\s*PM"=<size\=20>VII:\nLVIII PM</size>
 r:"^7:\s*59\s*AM"=<size\=20>VII:\nLIX AM</size>
 r:"^7:\s*59\s*PM"=<size\=20>VII:\nLIX PM</size>
-r:"^8:\s*00\s*AM"=<size\=20>VIII:\nNil AM</size>
-r:"^8:\s*00\s*PM"=<size\=20>VIII:\nNil PM</size>
+r:"^8:\s*00\s*AM"=<size\=20>VIII:\nNūllum AM</size>
+r:"^8:\s*00\s*PM"=<size\=20>VIII:\nNūllum PM</size>
 r:"^8:\s*01\s*AM"=<size\=20>VIII:\nI AM</size>
 r:"^8:\s*01\s*PM"=<size\=20>VIII:\nI PM</size>
 r:"^8:\s*02\s*AM"=<size\=20>VIII:\nII AM</size>
@@ -958,8 +959,8 @@ r:"^8:\s*58\s*AM"=<size\=20>VIII:\nLVIII AM</size>
 r:"^8:\s*58\s*PM"=<size\=20>VIII:\nLVIII PM</size>
 r:"^8:\s*59\s*AM"=<size\=20>VIII:\nLIX AM</size>
 r:"^8:\s*59\s*PM"=<size\=20>VIII:\nLIX PM</size>
-r:"^9:\s*00\s*AM"=<size\=20>IX:\nNil AM</size>
-r:"^9:\s*00\s*PM"=<size\=20>IX:\nNil PM</size>
+r:"^9:\s*00\s*AM"=<size\=20>IX:\nNūllum AM</size>
+r:"^9:\s*00\s*PM"=<size\=20>IX:\nNūllum PM</size>
 r:"^9:\s*01\s*AM"=<size\=20>IX:\nI AM</size>
 r:"^9:\s*01\s*PM"=<size\=20>IX:\nI PM</size>
 r:"^9:\s*02\s*AM"=<size\=20>IX:\nII AM</size>
@@ -1078,8 +1079,8 @@ r:"^9:\s*58\s*AM"=<size\=20>IX:\nLVIII AM</size>
 r:"^9:\s*58\s*PM"=<size\=20>IX:\nLVIII PM</size>
 r:"^9:\s*59\s*AM"=<size\=20>IX:\nLIX AM</size>
 r:"^9:\s*59\s*PM"=<size\=20>IX:\nLIX PM</size>
-r:"^10:\s*00\s*AM"=<size\=20>X:\nNil AM</size>
-r:"^10:\s*00\s*PM"=<size\=20>X:\nNil PM</size>
+r:"^10:\s*00\s*AM"=<size\=20>X:\nNūllum AM</size>
+r:"^10:\s*00\s*PM"=<size\=20>X:\nNūllum PM</size>
 r:"^10:\s*01\s*AM"=<size\=20>X:\nI AM</size>
 r:"^10:\s*01\s*PM"=<size\=20>X:\nI PM</size>
 r:"^10:\s*02\s*AM"=<size\=20>X:\nII AM</size>
@@ -1198,8 +1199,8 @@ r:"^10:\s*58\s*AM"=<size\=20>X:\nLVIII AM</size>
 r:"^10:\s*58\s*PM"=<size\=20>X:\nLVIII PM</size>
 r:"^10:\s*59\s*AM"=<size\=20>X:\nLIX AM</size>
 r:"^10:\s*59\s*PM"=<size\=20>X:\nLIX PM</size>
-r:"^11:\s*00\s*AM"=<size\=20>XI:\nNil AM</size>
-r:"^11:\s*00\s*PM"=<size\=20>XI:\nNil PM</size>
+r:"^11:\s*00\s*AM"=<size\=20>XI:\nNūllum AM</size>
+r:"^11:\s*00\s*PM"=<size\=20>XI:\nNūllum PM</size>
 r:"^11:\s*01\s*AM"=<size\=20>XI:\nI AM</size>
 r:"^11:\s*01\s*PM"=<size\=20>XI:\nI PM</size>
 r:"^11:\s*02\s*AM"=<size\=20>XI:\nII AM</size>
@@ -1318,8 +1319,8 @@ r:"^11:\s*58\s*AM"=<size\=20>XI:\nLVIII AM</size>
 r:"^11:\s*58\s*PM"=<size\=20>XI:\nLVIII PM</size>
 r:"^11:\s*59\s*AM"=<size\=20>XI:\nLIX AM</size>
 r:"^11:\s*59\s*PM"=<size\=20>XI:\nLIX PM</size>
-r:"^12:\s*00\s*AM"=<size\=20>XII:\nNil AM</size>
-r:"^12:\s*00\s*PM"=<size\=20>XII:\nNil PM</size>
+r:"^12:\s*00\s*AM"=<size\=20>XII:\nNūllum AM</size>
+r:"^12:\s*00\s*PM"=<size\=20>XII:\nNūllum PM</size>
 r:"^12:\s*01\s*AM"=<size\=20>XII:\nI AM</size>
 r:"^12:\s*01\s*PM"=<size\=20>XII:\nI PM</size>
 r:"^12:\s*02\s*AM"=<size\=20>XII:\nII AM</size>

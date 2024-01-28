@@ -1,4 +1,5 @@
-r:"^TOTAL: \$0$"=Tōtus: Nūlla AU
+# 🌱 (Would summa make more sense?) Using masculine for `totus` and nullus to match aureus.
+r:"^TOTAL: \$0$"=Tōtus: Nūllus AU
 r:"^TOTAL: \$1$"=Tōtus: I AU
 r:"^TOTAL: \$2$"=Tōtus: II AU
 r:"^TOTAL: \$3$"=Tōtus: III AU

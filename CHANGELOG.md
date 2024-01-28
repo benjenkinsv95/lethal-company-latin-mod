@@ -1,4 +1,10 @@
 # Changelog
+# 2.3.8 Finish replacing Chat GPT outside of the terminal
+Translations outside of the terminal have been replaced and should have 
+accurate macrons in the source files.
+
+I'll need to fix a font bug, before releasing the macron version. But this is a huge step.
+
 # 2.3.7 Heavily reviewed translations of MainMenu.txt
 Research: https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/48#issuecomment-1907295162
 

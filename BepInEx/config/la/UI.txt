@@ -366,7 +366,7 @@ r:"^(.*)Random seed(.*)"=Sēmen fortuītum$2
 r:"^(.+) casualties: (.+)\n\((.+) bodies recovered\)$"=$1 interfectus (-ī): $2\n ($3 corpus salvātus)\n(corpora salvāta) 
 
 #### 🌱 (Mods = res mutatas) https://en.wiktionary.org/wiki/respondit
-r:"^(.+) responded with these mods:\n(.+)"=$1 Rēs mūtātās hās  respondit:\n$2
+r:"^(.+) responded with these mods:\n(.+)"=$1 Rēs mūtātās hās respondit:\n$2
 
 #### ✔️ links above
 r:"^(.+) was left behind"=$1 relictus est

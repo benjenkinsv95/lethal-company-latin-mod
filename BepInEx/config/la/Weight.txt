@@ -1,3 +1,4 @@
+# ❓ (I'm unsure if 21-23 are declined correctly. I'm using feminine, to match libra, but maybe they need unus/duo/tres) https://en.wiktionary.org/wiki/libra#Latin
 r:"^0 lb$"=<size\=18>Nūlla lb</size>
 r:"^1 lb$"=<size\=18>I lb</size>\n<size\=12>Ūna lb</size>
 r:"^2 lb$"=<size\=18>II lb</size>\n<size\=12>Duae lb</size>

@@ -1,4 +1,4 @@
-r:"^0 lb$"=<size\=18>Nulla lb</size>
+r:"^0 lb$"=<size\=18>Nūlla lb</size>
 r:"^1 lb$"=<size\=18>I lb</size>\n\n<size\=13>Nota grammaticae:\n'Ūna' est numerus, cuius ordinalis est 'Prīma'</size>
 r:"^2 lb$"=<size\=18>II lb</size>\n\n<size\=13>Nota grammaticae:\n'Duae' est numerus, cuius ordinalis est 'Secunda'</size>
 r:"^3 lb$"=<size\=18>III lb</size>\n\n<size\=13>Nota grammaticae:\n'Trēs' est numerus, cuius ordinalis est 'Tertia'</size>

@@ -1,5 +1,7 @@
 ﻿# Creatures
 # Reviewed, using the scientific names that were included in the games description for monsters
+## Research https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/31#issuecomment-1891067445
+
 
 Baboon hawk=Papio accipiter
 Bracken=Bracken

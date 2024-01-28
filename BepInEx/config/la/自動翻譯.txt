@@ -1,8 +1,24 @@
-﻿Failed to start server=Incipiendō Servātōrem Dēfēcit
-Go To Moon=I ad Lūnam
-Loading mods = Modī Incipitur
-Show weather of moons=Ostende Tempestātem Lūnārum
-Show Weather=Ostende Tempestātem
-Swap pages\n[Q / E]=Verte Pāginās\n[Q / E]
+﻿
+# ✅ (similar to moons.txt)
 Diverse\n=Dīversum\n
+
+# ✅ (similar to moons.txt, but has \n at end, /shrug)
 Dominated by a few species.\n=Pauca animālia speciālia dominantur.\n
+
+# ❓ (Could not start server) Servātōrem incipere nōn potes
+Failed to start server=Servātōrem incipere nōn potes.
+
+# 🌱 (Maybe "I" for go, but "fac iter" for "make a journey" feels more classical) https://en.wiktionary.org/wiki/lunam#Latin 
+Go To Moon=Fac ad lūnam iter 
+
+# ❓ (Finding mods)
+Loading mods = Rēs mūtātae inveniēns
+
+# ✅ https://en.wiktionary.org/wiki/caelum#Latin https://en.wiktionary.org/wiki/ostende
+Show weather of moons=Ostende caelum lūnārum
+
+# ✅
+Show Weather=Ostende caelum
+
+# ✅
+Swap pages\n[Q / E]=Verte pāginās\n[Q / E]

@@ -1,65 +1,15 @@
-# "Lucrātissimus" specifically means "most lucrative" or "most profitable in terms of financial gain."
+# ✅ "Lucrātīvissimus" specifically means "most lucrative" or "most profitable in terms of financial gain." https://latin.cactus2000.de/adject/showadj_en.php?n=lucrativus
 # "Fructuosissimus" means "most fruitful" or "most profitable" in a broader sense, including not just financial gain but also overall productivity or benefits.
-r:"(.*)Most profitable(.*)"=Notae \nLucrātissimus\n
-r:"(.*)The laziest employee(.*)"=Notae \nOperarius pigrissimus\n
-r:"(.*)The most paranoid employee(.*)"=Notae \nOperarius suspiciosissimus\n
+r:"(.*)Most profitable(.*)"=Nōtae:\nLucrātīvissimus\n
 
-The most paranoid employee.=Operarius suspiciosissimus
+# ✅ https://latin.cactus2000.de/adject/showadj_en.php?n=piger https://en.wiktionary.org/wiki/notae
+r:"(.*)The laziest employee(.*)"=Nōtae:\nOperārius pigerrimus\n
 
-# * The most paranoid employee.=* Operarius suspiciosissimus
-# * The most paranoid employee.\n* Sustained the most injuries.=* Operarius suspiciosissimus\n* Plurima vulnera passus est
-# Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=Notae:\n* Operarius pigrissimus\n* Operarius suspiciosissimus\n* Plurima vulnera passus est
-# Notes:\n* Most lazy employee\n* Most paranoid employee\n* Sustained the most injuries=Примечания:\n* Самый ленивый сотрудник\n* Самый параноидальный сотрудник\n* Получил большинство урона
+# ✅ https://latin.cactus2000.de/adject/showadj_fr.php?n=suspiciosus
+r:"(.*)The most paranoid employee(.*)"=Nōtae:\nOperārius suspīciosissimus\n
+The most paranoid employee.=Operarius suspīciosissimus
 
-r:"(.*)Sustained the most injuries(.*)"=Notae \nSustinet plūrimā vulnera\n
-# * Sustained the most injuries.=* Sustinet plūrimā vulnera.
-
-Notes:=Notae:
-Notes: \n=Notae \n
-
-# r:"^Notes: \n* Most profitable$"=Notae: \n* Operarius lucratissimus
-# r:"^Notes: \n* Most profitable.$"=Notae: \n* Operarius lucratissimus.
-# r:"^Notes: \n* Most profitable\n$"=Notae: \n* Operarius lucratissimus\n
-# r:"^Notes: \n* The laziest employee.$"=Notae: \n* Operarius pigrissimus.
-# r:"^Notes: \n* Most profitable.\n$"=Notae: \n* Operarius lucratissimus.\n
-# r:"^Notes: \n* The laziest employee.\n$"=Notae: \n* Operarius pigrissimus.\n
-# r:"^Notes: \n* Most paranoid employee.$"=Notae: \n* Operarius suspiciosissimus.
-# r:"^Notes: \n* Most paranoid employee.\n$"=Notae: \n* Operarius suspiciosissimus.\n
-# r:"^Notes: \n* Sustained the most injuries.$"=Notae: \n* Plūrimā vulnera sustinuit.
-# r:"^Notes: \n* The most paranoid employee.$"=Notae: \n* Operarius suspiciosissimus.
-# r:"^Notes: \n* Sustained the most injuries.\n$"=Notae: \n* Plūrimā vulnera sustinuit.\n
-# r:"^Notes: \n* The most paranoid employee.\n$"=Notae: \n* Operarius suspiciosissimus.\n
-# r:"^Notes: \n* The laziest employee.\n* Most profitable$"=Notae: \n* Operarius pigrissimus.\n* Operarius lucratissimus
-# r:"^Notes: \n* The laziest employee.\n* Most profitable.$"=Notae: \n* Operarius pigrissimus.\n* Operarius lucratissimus.
-# r:"^Notes: \n* The laziest employee.\n* Most profitable\n$"=Notae: \n* Operarius pigrissimus.\n* Operarius lucratissimus\n
-# r:"^Notes: \n* The laziest employee.\n* Most profitable.\n$"=Notae: \n* Operarius pigrissimus.\n* Operarius lucratissimus.\n
-# r:"^Notes: \n* Sustained the most injuries.\n* Most profitable$"=Notae: \n* Plūrimā vulnera sustinuit.\n* Operarius lucratissimus
-# r:"^Notes: \n* The most paranoid employee.\n* Most profitable$"=Notae: \n* Operarius suspiciosissimus.\n* Operarius lucratissimus
-# r:"^Notes: \n* The laziest employee.\n* Most paranoid employee.$"=Notae: \n* Operarius pigrissimus.\n* Operarius suspiciosissimus.
-# r:"^Notes: \n* Sustained the most injuries.\n* Most profitable.$"=Notae: \n* Plūrimā vulnera sustinuit.\n* Operarius lucratissimus.
-# r:"^Notes: \n* The most paranoid employee.\n* Most profitable.$"=Notae: \n* Operarius suspiciosissimus.\n* Operarius lucratissimus.
-# r:"^Notes: \n* Sustained the most injuries.\n* Most profitable\n$"=Notae: \n* Plūrimā vulnera sustinuit.\n* Operarius lucratissimus\n
-# r:"^Notes: \n* The most paranoid employee.\n* Most profitable\n$"=Notae: \n* Operarius suspiciosissimus.\n* Operarius lucratissimus\n
-# r:"^Notes: \n* The laziest employee.\n* Most paranoid employee.\n$"=Notae: \n* Operarius pigrissimus.\n* Operarius suspiciosissimus.\n
-# r:"^Notes: \n* The laziest employee.\n* Sustained the most injuries.$"=Notae: \n* Operarius pigrissimus.\n* Plūrimā vulnera sustinuit.
-# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.$"=Notae: \n* Operarius pigrissimus.\n* Operarius suspiciosissimus.
-# r:"^Notes: \n* Sustained the most injuries.\n* Most profitable.\n$"=Notae: \n* Plūrimā vulnera sustinuit.\n* Operarius lucratissimus.\n
-# r:"^Notes: \n* The most paranoid employee.\n* Most profitable.\n$"=Notae: \n* Operarius suspiciosissimus.\n* Operarius lucratissimus.\n
-# r:"^Notes: \n* The laziest employee.\n* Sustained the most injuries.\n$"=Notae: \n* Operarius pigrissimus.\n* Plūrimā vulnera sustinuit.\n
-# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n$"=Notae: \n* Operarius pigrissimus.\n* Operarius suspiciosissimus.\n
-# r:"^Notes: \n* Sustained the most injuries.\n* Most paranoid employee.$"=Notae: \n* Plūrimā vulnera sustinuit.\n* Operarius suspiciosissimus.
-# r:"^Notes: \n* Sustained the most injuries.\n* Most paranoid employee.\n$"=Notae: \n* Plūrimā vulnera sustinuit.\n* Operarius suspiciosissimus.\n
-# r:"^Notes: \n* Sustained the most injuries.\n* The most paranoid employee.$"=Notae: \n* Plūrimā vulnera sustinuit.\n* Operarius suspiciosissimus.
-# r:"^Notes: \n* The most paranoid employee.\n* Sustained the most injuries.$"=Notae: \n* Operarius suspiciosissimus.\n* Plūrimā vulnera sustinuit.
-# r:"^Notes: \n* Sustained the most injuries.\n* The most paranoid employee.\n$"=Notae: \n* Plūrimā vulnera sustinuit.\n* Operarius suspiciosissimus.\n
-# r:"^Notes: \n* The most paranoid employee.\n* Sustained the most injuries.\n$"=Notae: \n* Operarius suspiciosissimus.\n* Plūrimā vulnera sustinuit.\n
-# r:"^Notes: \n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable$"=Notae: \n* Operarius suspiciosissimus.\n* Plūrimā vulnera sustinuit.\n* Operarius lucratissimus
-# r:"^Notes: \n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable.$"=Notae: \n* Operarius suspiciosissimus.\n* Plūrimā vulnera sustinuit.\n* Operarius lucratissimus.
-# r:"^Notes: \n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable\n$"=Notae: \n* Operarius suspiciosissimus.\n* Plūrimā vulnera sustinuit.\n* Operarius lucratissimus\n
-# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.$"=Notae: \n* Operarius pigrissimus.\n* Operarius suspiciosissimus.\n* Plūrimā vulnera sustinuit.
-# r:"^Notes: \n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable.\n$"=Notae: \n* Operarius suspiciosissimus.\n* Plūrimā vulnera sustinuit.\n* Operarius lucratissimus.\n
-# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.\n$"=Notae: \n* Operarius pigrissimus.\n* Operarius suspiciosissimus.\n* Plūrimā vulnera sustinuit.\n
-# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable$"=Notae: \n* Operarius pigrissimus.\n* Operarius suspiciosissimus.\n* Plūrimā vulnera sustinuit.\n* Operarius lucratissimus
-# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable.$"=Notae: \n* Operarius pigrissimus.\n* Operarius suspiciosissimus.\n* Plūrimā vulnera sustinuit.\n* Operarius lucratissimus.
-# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable\n$"=Notae: \n* Operarius pigrissimus.\n* Operarius suspiciosissimus.\n* Plūrimā vulnera sustinuit.\n* Operarius lucratissimus\n
-# r:"^Notes: \n* The laziest employee.\n* The most paranoid employee.\n* Sustained the most injuries.\n* Most profitable.\n$"=Notae: \n* Operarius pigrissimus.\n* Operarius suspiciosissimus.\n* Plūrimā vulnera sustinuit.\n* Operarius lucratissimus.\n
+# ✅ https://latin.cactus2000.de/showverb.en.php?verb=sustinere https://en.wiktionary.org/wiki/plurima#Latin https://en.wiktionary.org/wiki/vulnus#Latin
+r:"(.*)Sustained the most injuries(.*)"=Nōtae:\nVulnera plūrima sustinuit\n
+Notes:=Nōtae:
+Notes: \n=Nōtae: \n

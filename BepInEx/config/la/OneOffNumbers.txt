@@ -1,4 +1,5 @@
-r:"^0$"=Nūlla
+# 🌱 Abbreviating nulla as N, (0 would also work) since we can't be sure of the gender here.
+r:"^0$"=N
 r:"^1$"=<size\=10>I</size>
 r:"^2$"=<size\=10>II</size>
 r:"^3$"=<size\=10>III</size>

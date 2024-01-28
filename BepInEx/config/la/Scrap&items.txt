@@ -1,5 +1,6 @@
 ﻿# Scrap & Items
 # Reviewed
+## Research https://github.com/benjenkinsv95/lethal-company-latin-mod/issues/32#issuecomment-1893014092
 
 # A-C
 r:"^Airhorn$"=Cornū āērum
